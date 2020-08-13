@@ -1,0 +1,30 @@
+CFLAGS = /nologo /MT /W3 /EHsc /O3
+LDFLAGS = kernel32.lib gdi32.lib "C:\Program Files\OpenSSL-Win64\lib\libcrypto.lib" /nologo /subsystem:console /machine:X64 /lpthread /lgomp
+# /I "C:\Program Files\OpenSSL-Win64\include"
+CXXFLAGS = /std:c++14 /openmp /I "C:\Program Files\OpenSSL-Win64\include"
+
+all: rtgen rtdump rtsort rcrack hashgen
+
+rtgen:
+	cl $(CFLAGS) $(CXXFLAGS) .\src\PrefixParser.cpp .\src\csv.cpp .\src\Public.cpp .\src\ChainWalkContext.cpp .\src\HashAlgorithm.cpp .\src\HashRoutine.cpp .\src\RainbowTableGenerate.cpp	\
+	/link $(LDFLAGS) /out:bin\rtgen.exe
+
+rtdump:
+	cl $(CFLAGS) $(CXXFLAGS) .\src\PrefixParser.cpp .\src\csv.cpp .\src\Public.cpp .\src\ChainWalkContext.cpp .\src\HashAlgorithm.cpp .\src\HashRoutine.cpp .\src\RainbowTableDump.cpp	\
+	/link $(LDFLAGS) /out:bin\rtdump.exe
+
+rtsort:
+	cl $(CFLAGS) $(CXXFLAGS) .\src\Public.cpp .\src\RainbowTableSort.cpp	\
+	/link $(LDFLAGS) /out:bin\rtsort.exe
+
+rcrack:
+	cl $(CFLAGS) $(CXXFLAGS) .\src\PrefixParser.cpp .\src\csv.cpp .\src\Public.cpp .\src\ChainWalkContext.cpp .\src\HashAlgorithm.cpp .\src\HashRoutine.cpp .\src\HashSet.cpp .\src\MemoryPool.cpp .\src\ChainWalkSet.cpp .\src\CrackEngine.cpp .\src\RainbowCrack.cpp	\
+	/link $(LDFLAGS) /out:bin\rcrack.exe
+	
+hashgen:
+	cl $(CFLAGS) $(CXXFLAGS) .\src\PrefixParser.cpp .\src\csv.cpp .\src\Public.cpp .\src\ChainWalkContext.cpp .\src\HashAlgorithm.cpp .\src\HashRoutine.cpp .\src\HashGenerator.cpp \
+	/link $(LDFLAGS) /out:bin\hashgen.exe
+
+clean:
+	del .\src\*.obj
+	del bin\*.exe

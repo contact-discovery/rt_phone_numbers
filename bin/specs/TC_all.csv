@@ -1,0 +1,49 @@
+﻿Country,Page,Range,Type,Provider
+TC,5,+1649943XXXX,geographic,Cable & Wireless (TCI) Ltd (West Indies)
+TC,4,+1649444XXXX,audiotext,
+TC,5,+1649944XXXX,geographic,Cable & Wireless (TCI) Ltd (West Indies)
+TC,4,+1649445XXXX,audiotext,
+TC,5,+1649945XXXX,geographic,Cable & Wireless (TCI) Ltd (West Indies)
+TC,4,+1649446XXXX,audiotext,
+TC,1,1,proper,
+TC,4,+1649710XXXX,VoIPtelephony,Andrew’s Communication Ltd
+TC,4,+1649711XXXX,VoIPtelephony,Andrew’s Communication Ltd
+TC,5,+1649946XXXX,geographic,Cable & Wireless (TCI) Ltd (West Indies)
+TC,1,+1649XXXXXXX,geographic,
+TC,4,+1649712XXXX,geographic,Andrew’s Communication Ltd
+TC,4,+1649724XXXX,pager,
+TC,5,+1649947XXXX,geographic,Cable & Wireless (TCI) Ltd (West Indies)
+TC,2,+1649266XXXX,internetserviceprovider,
+TC,5,+1649948XXXX,geographic,Cable & Wireless (TCI) Ltd (West Indies)
+TC,1,+1649231XXXX,mobile,Cable & Wireless (TCI) Ltd (TDMA)
+TC,4,+1649940XXXX,geographic,Cable & Wireless (TCI) Ltd (West Indies)
+TC,1,+1649232XXXX,mobile,Cable & Wireless (TCI) Ltd (GSM)
+TC,1,+1649239XXXX,mobile,Cable & Wireless (TCI) Ltd (GSM)
+TC,5,+1649949XXXX,geographic,Cable & Wireless (TCI) Ltd (West Indies)
+TC,4,+1649941XXXX,geographic,Cable & Wireless (TCI) Ltd (West Indies)
+TC,1,+1649241XXXX,mobile,Cable & Wireless (TCI) Ltd (TDMA) (prepaid)
+TC,5,+1649950XXXX,geographic,Cable & Wireless (TCI) Ltd (West Indies)
+TC,1,+1649242XXXX,mobile,Cable & Wireless (TCI) Ltd (TDMA) (prepaid)
+TC,4,+1649942XXXX,geographic,Cable & Wireless (TCI) Ltd (West Indies)
+TC,1,+1649243XXXX,mobile,Cable & Wireless (TCI) Ltd (GSM) (prepaid)
+TC,1,+1649244XXXX,mobile,Cable & Wireless (TCI) Ltd (GSM) (prepaid)
+TC,1,+1649245XXXX,mobile,Cable & Wireless (TCI) Ltd (GSM) (prepaid)
+TC,2,+1649249XXXX,mobile,Cable & Wireless (TCI) Ltd (TDMA)
+TC,2,+1649331XXXX,mobile,Digicel (TCI) Ltd
+TC,2,+1649332XXXX,mobile,Digicel (TCI) Ltd
+TC,2,+1649338XXXX,wirelessgeographic,Digicel (TCI) Ltd
+TC,2,+1649333XXXX,mobile,Digicel (TCI) Ltd
+TC,2,+1649341XXXX,mobile,Digicel (TCI) Ltd (prepaid)
+TC,2,+1649342XXXX,mobile,Digicel (TCI) Ltd (prepaid)
+TC,2,+1649343XXXX,mobile,Digicel (TCI) Ltd (prepaid)
+TC,2,+1649339XXXX,wirelessgeographic,Digicel (TCI) Ltd
+TC,3,+1649344XXXX,mobile,Digicel (TCI) Ltd (prepaid)
+TC,3,+1649345XXXX,mobile,Digicel (TCI) Ltd (prepaid)
+TC,3,+1649347XXXX,mobile,Digicel (TCI) Ltd
+TC,3,+1649348XXXX,mobile,Digicel (TCI) Ltd (prepaid)
+TC,3,+1649431XXXX,mobile,IslandCom Communication Ltd
+TC,3,+1649432XXXX,mobile,IslandCom Communication Ltd
+TC,3,+1649433XXXX,mobile,IslandCom Communication Ltd
+TC,3,+1649441XXXX,mobile,IslandCom Communication Ltd (prepaid)
+TC,3,+1649442XXXX,mobile,IslandCom Communication Ltd (prepaid)
+TC,3,+1649443XXXX,mobile,IslandCom Communication Ltd (prepaid)

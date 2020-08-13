@@ -1,0 +1,57 @@
+﻿Country,Page,Range,Type,Provider
+GL,1,299,proper,
+GL,5,+29968XXXX,geographic,
+GL,2,+29931XXXX,geographic,
+GL,5,+299691XXX,geographic,
+GL,1,+2991991XX,satellite,
+GL,2,+29932XXXX,geographic,
+GL,5,+29981XXXX,geographic,
+GL,2,+29933XXXX,geographic,
+GL,5,+29984XXXX,geographic,
+GL,1,+2991992XX,satellite,
+GL,1,+29922XXXX,mobile,Tele Greenland A/S
+GL,1,+29923XXXX,mobile,Tele Greenland A/S
+GL,1,+29924XXXX,mobile,Tele Greenland A/S
+GL,2,+29934XXXX,geographic,
+GL,1,+29925XXXX,mobile,Tele Greenland A/S
+GL,5,+29985XXXX,geographic,
+GL,1,+29926XXXX,mobile,Tele Greenland A/S
+GL,6,+29994XXXX,geographic,
+GL,1,+29927XXXX,mobile,Tele Greenland A/S
+GL,1,+29928XXXX,mobile,Tele Greenland A/S
+GL,2,+29935XXXX,geographic,
+GL,2,+29929XXXX,mobile,Tele Greenland A/S
+GL,5,+29986XXXX,geographic,
+GL,2,+29942XXXX,mobile,Tele Greenland A/S
+GL,3,+29943XXXX,mobile,Tele Greenland A/S
+GL,3,+29944XXXX,mobile,Tele Greenland A/S
+GL,3,+29945XXXX,mobile,Tele Greenland A/S
+GL,6,+29995XXXX,geographic,
+GL,3,+29946XXXX,mobile,Tele Greenland A/S
+GL,3,+29947XXXX,mobile,Tele Greenland A/S
+GL,5,+29987XXXX,geographic,
+GL,3,+29948XXXX,mobile,Tele Greenland A/S
+GL,3,+29949XXXX,mobile,Tele Greenland A/S
+GL,3,+29951XXXX,mobile,Tele Greenland A/S
+GL,3,+29952XXXX,mobile,Tele Greenland A/S
+GL,4,+29953XXXX,mobile,Tele Greenland A/S
+GL,4,+29954XXXX,mobile,Tele Greenland A/S
+GL,6,+29996XXXX,geographic,
+GL,4,+29955XXXX,mobile,Tele Greenland A/S
+GL,2,+29936XXXX,geographic,
+GL,4,+29956XXXX,mobile,Tele Greenland A/S
+GL,4,+29957XXXX,mobile,Tele Greenland A/S
+GL,4,+29958XXXX,mobile,Tele Greenland A/S
+GL,4,+29959XXXX,mobile,Tele Greenland A/S
+GL,2,+29938XXXX,VoIPtelephony,
+GL,6,+29997XXXX,geographic,
+GL,5,+29989XXXX,geographic,
+GL,6,+29998XXXX,geographic,
+GL,5,+29991XXXX,geographic,
+GL,2,+29939XXXX,VoIPtelephony,
+GL,6,+29999XXXX,geographic,
+GL,5,+29992XXXX,geographic,
+GL,4,+29961XXXX,geographic,
+GL,3,+29950XXXX(XX),voicemail(mobile),Tele Greenland A/S
+GL,4,+29964XXXX,geographic,
+GL,4,+29966XXXX,geographic,

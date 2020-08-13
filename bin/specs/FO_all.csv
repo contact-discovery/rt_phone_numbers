@@ -1,0 +1,106 @@
+﻿Country,Page,Range,Type,Provider
+FO,4,+29831XXXX,geographic,Føroya Tele
+FO,2,+29820XXXX,geographic,Kall
+FO,11,+2989051XX,premiumrate,Føroya Tele
+FO,10,+2989026XX,premiumrate,Føroya Tele
+FO,4,+29832XXXX,geographic,Føroya Tele
+FO,11,+2989055XX,premiumrate,Kall
+FO,4,+29833XXXX,geographic,Føroya Tele
+FO,10,+2989027XX,premiumrate,Kall
+FO,4,+29834XXXX,geographic,Føroya Tele
+FO,11,+2989056XX,premiumrate,Føroya Tele
+FO,11,+2989057XX,premiumrate,Kall
+FO,10,+2989031XX,premiumrate,Føroya Tele
+FO,5,+29841XXXX,geographic,Føroya Tele
+FO,11,+298909XXX,payphone,Føroya Tele
+FO,10,+2989035XX,premiumrate,Kall
+FO,5,+29842XXXX,geographic,Føroya Tele
+FO,7,+29861XXXX,VoIPtelephony,Føroya Tele
+FO,4,+29835XXXX,geographic,Føroya Tele
+FO,5,+29843XXXX,geographic,Føroya Tele
+FO,4,+29836XXXX,geographic,Føroya Tele
+FO,1,298,proper,
+FO,7,+29862XXXX,VoIPtelephony,Føroya Tele
+FO,10,+2989036XX,premiumrate,Føroya Tele
+FO,7,+29863XXXX,VoIPtelephony,Føroya Tele
+FO,8,+298802XXX,freephone,Føroya Tele
+FO,1,+298155X,internetserviceprovider,Kall
+FO,4,+29837XXXX,geographic,Føroya Tele
+FO,9,+29888XXXX,VoIPtelephony,Teletech
+FO,7,+29866XXXX,VoIPtelephony,Føroya Tele
+FO,8,+298805XXX,freephone,Kall
+FO,5,+29844XXXX,geographic,Føroya Tele
+FO,9,+29889XXXX,VoIPtelephony,Kall
+FO,7,+29870XXXX,sharedcost,
+FO,4,+29838XXXX,geographic,Føroya Tele
+FO,8,+298807XXX,freephone,Kall
+FO,1,+298156X,internetserviceprovider,Kall
+FO,10,+2989037XX,premiumrate,Kall
+FO,1,+298161X,internetserviceprovider,Føroya Tele
+FO,10,+2989041XX,premiumrate,Føroya Tele
+FO,5,+29845XXXX,geographic,Føroya Tele
+FO,2,+29821XXXX,mobile,Føroya Tele
+FO,1,+298162X,internetserviceprovider,Føroya Tele
+FO,2,+29822XXXX,mobile,Føroya Tele
+FO,2,+29823XXXX,mobile,Føroya Tele
+FO,9,+2989XXXXX,mobile,
+FO,2,+29824XXXX,mobile,Føroya Tele
+FO,4,+29839XXXX,geographic,Føroya Tele
+FO,1,+298163X,internetserviceprovider,Føroya Tele
+FO,2,+29825XXXX,mobile,Føroya Tele (prepaid)
+FO,2,+29826XXXX,mobile,Føroya Tele (prepaid)
+FO,5,+29846XXXX,geographic,Føroya Tele
+FO,10,+2989045XX,premiumrate,Kall
+FO,9,+2989011XX,premiumrate,Føroya Tele
+FO,2,+29827XXXX,mobile,Føroya Tele (prepaid)
+FO,8,+298808XXX,freephone,Føroya Tele
+FO,2,+298280XXX,mobile,Føroya Tele (prepaid)
+FO,2,+298281XXX,mobile,Føroya Tele (prepaid)
+FO,3,+298282XXX,mobile,Føroya Tele (prepaid)
+FO,3,+298283XXX,mobile,Føroya Tele (prepaid)
+FO,3,+298284XXX,mobile,Føroya Tele (prepaid)
+FO,5,+29847XXXX,geographic,Føroya Tele
+FO,9,+2989015XX,premiumrate,Kall
+FO,3,+298285XXX,mobile,Føroya Tele (prepaid)
+FO,3,+298286XXX,mobile,Føroya Tele (prepaid)
+FO,3,+298287XXX,mobile,Føroya Tele (prepaid)
+FO,3,+298288XXX,mobile,Føroya Tele (prepaid)
+FO,3,+298289XXX,mobile,Føroya Tele (prepaid)
+FO,5,+29848XXXX,geographic,Føroya Tele
+FO,4,+29840XXXX,geographic,Føroya Tele
+FO,9,+2989016XX,premiumrate,Føroya Tele
+FO,1,+298167X,internetserviceprovider,Kall
+FO,3,+29829XXXX,mobile,Føroya Tele (prepaid)
+FO,5,+29850XXXX,mobile,Kall
+FO,6,+29851XXXX,mobile,Kall
+FO,5,+29849XXXX,geographic,Føroya Tele
+FO,8,+298809XXX,freephone,Føroya Tele
+FO,10,+2989046XX,premiumrate,Føroya Tele
+FO,6,+29852XXXX,mobile,Kall
+FO,6,+29853XXXX,mobile,Kall
+FO,6,+29854XXXX,mobile,Kall
+FO,6,+29855XXXX,mobile,Kall
+FO,8,+29881XXXX,VoIPtelephony,Kall
+FO,6,+29856XXXX,mobile,Kall
+FO,1,+298187X,universalaccess,Føroya Tele
+FO,6,+29857XXXX,mobile,Kall
+FO,9,+2989017XX,premiumrate,Kall
+FO,3,+29830XXXX,geographic,Føroya Tele
+FO,6,+29858XXXX,mobile,Kall
+FO,6,+29859XXXX,mobile,Kall
+FO,7,+29871XXXX,mobile,Kall
+FO,10,+2989047XX,premiumrate,Kall
+FO,9,+2989021XX,premiumrate,Føroya Tele
+FO,7,+29872XXXX,mobile,Kall
+FO,7,+29873XXXX,mobile,Kall
+FO,1,+298188X,universalaccess,Føroya Tele
+FO,7,+29874XXXX,mobile,Kall
+FO,7,+29875XXXX,mobile,Kall
+FO,9,+2989022XX,premiumrate,Føroya Tele
+FO,8,+29876XXXX,mobile,Kall
+FO,8,+29877XXXX,mobile,Kall
+FO,8,+29879XXXX,mobile,Føroya Tele
+FO,1,+298189X,universalaccess,Føroya Tele
+FO,8,+29879XXXX,mobile,Føroya Tele
+FO,9,+2989025XX,premiumrate,Kall
+FO,6,+29860XXXX,VoIPtelephony,Føroya Tele

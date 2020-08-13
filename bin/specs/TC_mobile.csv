@@ -1,0 +1,25 @@
+Country,Page,Range,Type,Provider
+TC,1,1649231XXXX,mobile,Cable & Wireless (TCI) Ltd (TDMA)
+TC,1,1649232XXXX,mobile,Cable & Wireless (TCI) Ltd (GSM)
+TC,1,1649239XXXX,mobile,Cable & Wireless (TCI) Ltd (GSM)
+TC,1,1649242XXXX,mobile,Cable & Wireless (TCI) Ltd (TDMA) (prepaid)
+TC,1,1649241XXXX,mobile,Cable & Wireless (TCI) Ltd (TDMA) (prepaid)
+TC,1,1649244XXXX,mobile,Cable & Wireless (TCI) Ltd (GSM) (prepaid)
+TC,1,1649243XXXX,mobile,Cable & Wireless (TCI) Ltd (GSM) (prepaid)
+TC,1,1649245XXXX,mobile,Cable & Wireless (TCI) Ltd (GSM) (prepaid)
+TC,2,1649332XXXX,mobile,Digicel (TCI) Ltd
+TC,2,1649331XXXX,mobile,Digicel (TCI) Ltd
+TC,2,1649333XXXX,mobile,Digicel (TCI) Ltd
+TC,2,1649341XXXX,mobile,Digicel (TCI) Ltd (prepaid)
+TC,2,1649343XXXX,mobile,Digicel (TCI) Ltd (prepaid)
+TC,2,1649342XXXX,mobile,Digicel (TCI) Ltd (prepaid)
+TC,3,1649345XXXX,mobile,Digicel (TCI) Ltd (prepaid)
+TC,3,1649344XXXX,mobile,Digicel (TCI) Ltd (prepaid)
+TC,3,1649347XXXX,mobile,Digicel (TCI) Ltd
+TC,3,1649348XXXX,mobile,Digicel (TCI) Ltd (prepaid)
+TC,3,1649431XXXX,mobile,IslandCom Communication Ltd
+TC,3,1649433XXXX,mobile,IslandCom Communication Ltd
+TC,3,1649432XXXX,mobile,IslandCom Communication Ltd
+TC,3,1649442XXXX,mobile,IslandCom Communication Ltd (prepaid)
+TC,3,1649441XXXX,mobile,IslandCom Communication Ltd (prepaid)
+TC,3,1649443XXXX,mobile,IslandCom Communication Ltd (prepaid)

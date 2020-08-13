@@ -1,0 +1,761 @@
+﻿Country,Page,Range,Type,Provider
+AU,1143,+6139895XXXX,geographic,Telstra Corporation Ltd
+AU,1126,+6139725XXXX,geographic,Telstra Corporation Ltd
+AU,1184,+6173322XXXX,geographic,Singtel Optus Ltd
+AU,1172,+6173211XXXX,geographic,Telstra Corporation Ltd
+AU,1184,+6173323XXXX,geographic,Telstra Corporation Ltd
+AU,1184,+6173324XXXX,geographic,Telstra Corporation Ltd
+AU,1184,+6173325XXXX,geographic,Telstra Corporation Ltd
+AU,1172,+6173212XXXX,geographic,Telstra Corporation Ltd
+AU,1126,+6139726XXXX,geographic,Telstra Corporation Ltd
+AU,1167,+6173031XXXX,geographic,Telstra Corporation Ltd
+AU,1179,+6173281XXXX,geographic,Telstra Corporation Ltd
+AU,1143,+6139896XXXX,geographic,Telstra Corporation Ltd
+AU,1126,+6139727XXXX,geographic,Telstra Corporation Ltd
+AU,1179,+6173282XXXX,geographic,Telstra Corporation Ltd
+AU,1184,+6173326XXXX,geographic,Telstra Corporation Ltd
+AU,1167,+6173032XXXX,geographic,Telstra Corporation Ltd
+AU,1143,+6139897XXXX,geographic,Telstra Corporation Ltd
+AU,1171,+6173201XXXX,geographic,Telstra Corporation Ltd
+AU,1182,+6173302XXXX,geographic,Singtel Optus Ltd
+AU,1126,+6139728XXXX,geographic,Telstra Corporation Ltd
+AU,1135,+6139815XXXX,geographic,Telstra Corporation Ltd
+AU,1167,+6173033XXXX,geographic,Telstra Corporation Ltd
+AU,1176,+6173251XXXX,geographic,Telstra Corporation Ltd
+AU,1143,+6139898XXXX,geographic,Telstra Corporation Ltd
+AU,1184,+6173327XXXX,geographic,Telstra Corporation Ltd
+AU,1184,+6173328XXXX,geographic,Telstra Corporation Ltd
+AU,1129,+6139755XXXX,geographic,Telstra Corporation Ltd
+AU,1184,+6173329XXXX,geographic,Telstra Corporation Ltd
+AU,1184,+6173330XXXX,geographic,Singtel Optus Ltd
+AU,1177,+6173261XXXX,geographic,Telstra Corporation Ltd
+AU,1191,+6173392XXXX,geographic,Telstra Corporation Ltd
+AU,1173,+6173221XXXX,geographic,Telstra Corporation Ltd
+AU,1191,+6173393XXXX,geographic,Telstra Corporation Ltd
+AU,1191,+6173394XXXX,geographic,Telstra Corporation Ltd
+AU,1171,+6173202XXXX,geographic,Telstra Corporation Ltd
+AU,1171,+6173203XXXX,geographic,Telstra Corporation Ltd
+AU,1148,+614000XXXXX,mobile,Telstra Corporation Ltd
+AU,1148,+614001XXXXX,mobile,Telstra Corporation Ltd
+AU,1148,+614002XXXXX,mobile,Telstra Corporation Ltd
+AU,1149,+614003XXXXX,mobile,Telstra Corporation Ltd
+AU,1180,+6173291XXXX,geographic,Telstra Corporation Ltd
+AU,1149,+614004XXXXX,mobile,Telstra Corporation Ltd
+AU,1138,+6139845XXXX,geographic,Telstra Corporation Ltd
+AU,1180,+6173292XXXX,geographic,Telstra Corporation Ltd
+AU,1149,+614005XXXXX,mobile,Telstra Corporation Ltd
+AU,1131,+6139775XXXX,geographic,Telstra Corporation Ltd
+AU,1149,+614006XXXXX,mobile,Telstra Corporation Ltd
+AU,1149,+614007XXXXX,mobile,Telstra Corporation Ltd
+AU,1180,+6173293XXXX,geographic,Telstra Corporation Ltd
+AU,1149,+614008XXXXX,mobile,Telstra Corporation Ltd
+AU,1149,+614009XXXXX,mobile,Telstra Corporation Ltd
+AU,1149,+614010XXXXX,mobile,Optus Mobile Pty Ltd
+AU,1149,+614011XXXXX,mobile,Optus Mobile Pty Ltd
+AU,1168,+6173106XXXX,geographic,Rsl Com Australia Pty Ltd
+AU,1131,+6139776XXXX,geographic,Telstra Corporation Ltd
+AU,1175,+6173241XXXX,geographic,Telstra Corporation Ltd
+AU,1149,+614012XXXXX,mobile,Optus Mobile Pty Ltd
+AU,1175,+6173242XXXX,geographic,Telstra Corporation Ltd
+AU,1126,+6139729XXXX,geographic,Telstra Corporation Ltd
+AU,1146,+6139927XXXX,geographic,Telstra Corporation Ltd
+AU,1150,+614013XXXXX,mobile,Optus Mobile Pty Ltd
+AU,1150,+614014XXXXX,mobile,Optus Mobile Pty Ltd
+AU,1150,+614015XXXXX,mobile,Optus Mobile Pty Ltd
+AU,1168,+6173107XXXX,geographic,Edge Internet Services Australia Pty Ltd
+AU,1200,+6173446XXXX,geographic,Aapt Wireless Pty Ltd
+AU,1141,+6139875XXXX,geographic,Telstra Corporation Ltd
+AU,1150,+614016XXXXX,mobile,Optus Mobile Pty Ltd
+AU,1150,+614017XXXXX,mobile,Optus Mobile Pty Ltd
+AU,1172,+6173213XXXX,geographic,Telstra Corporation Ltd
+AU,1176,+6173252XXXX,geographic,Telstra Corporation Ltd
+AU,1175,+6173243XXXX,geographic,Telstra Corporation Ltd
+AU,1150,+614018XXXXX,mobile,Optus Mobile Pty Ltd
+AU,1150,+614019XXXXX,mobile,Optus Mobile Pty Ltd
+AU,1175,+6173244XXXX,geographic,Telstra Corporation Ltd
+AU,1167,+6173034XXXX,geographic,Telstra Corporation Ltd
+AU,1174,+6173231XXXX,geographic,Telstra Corporation Ltd
+AU,1150,+614020XXXXX,mobile,Optus Mobile Pty Ltd
+AU,1179,+6173283XXXX,geographic,Telstra Corporation Ltd
+AU,1169,+6173117XXXX,geographic,Singtel Optus Ltd
+AU,1200,+6173447XXXX,geographic,Aapt Wireless Pty Ltd
+AU,1150,+614021XXXXX,mobile,Optus Mobile Pty Ltd
+AU,1135,+6139816XXXX,geographic,Telstra Corporation Ltd
+AU,1174,+6173232XXXX,geographic,Telstra Corporation Ltd
+AU,1146,+6139928XXXX,geographic,Telstra Corporation Ltd
+AU,1135,+6139817XXXX,geographic,Telstra Corporation Ltd
+AU,1200,+6173448XXXX,geographic,Aapt Wireless Pty Ltd
+AU,1174,+6173233XXXX,geographic,Telstra Corporation Ltd
+AU,1150,+614022XXXXX,mobile,Optus Mobile Pty Ltd
+AU,1168,+6173108XXXX,geographic,Edge Internet Services Australia Pty Ltd
+AU,1135,+6139818XXXX,geographic,Telstra Corporation Ltd
+AU,1169,+6173118XXXX,geographic,Singtel Optus Ltd
+AU,1151,+614023XXXXX,mobile,Optus Mobile Pty Ltd
+AU,1151,+614024XXXXX,mobile,Optus Mobile Pty Ltd
+AU,1129,+6139756XXXX,geographic,Telstra Corporation Ltd
+AU,1168,+6173109XXXX,geographic,Telstra Corporation Ltd
+AU,1135,+6139819XXXX,geographic,Telstra Corporation Ltd
+AU,1185,+6173332XXXX,geographic,Telstra Corporation Ltd
+AU,1141,+6139876XXXX,geographic,Telstra Corporation Ltd
+AU,1127,+6139735XXXX,geographic,Telstra Corporation Ltd
+AU,1169,+6173119XXXX,geographic,Singtel Optus Ltd
+AU,1129,+6139757XXXX,geographic,Telstra Corporation Ltd
+AU,1151,+614025XXXXX,mobile,Optus Mobile Pty Ltd
+AU,1184,+6173331XXXX,geographic,Telstra Corporation Ltd
+AU,1143,+6139899XXXX,geographic,Telstra Corporation Ltd
+AU,1151,+614026XXXXX,mobile,Optus Mobile Pty Ltd
+AU,1168,+6173110XXXX,geographic,Davnet Telecommunications Pty Ltd
+AU,1141,+6139877XXXX,geographic,Telstra Corporation Ltd
+AU,1146,+6139929XXXX,geographic,Telstra Corporation Ltd
+AU,1151,+614027XXXXX,mobile,Optus Mobile Pty Ltd
+AU,1170,+6173160XXXX,geographic,The Internet Group Ltd
+AU,1148,+6139953XXXX,geographic,Telstra Corporation Ltd
+AU,1173,+6173222XXXX,geographic,Telstra Corporation Ltd
+AU,1167,+6173100XXXX,geographic,Singtel Optus Ltd
+AU,1148,+6139954XXXX,geographic,Telstra Corporation Ltd
+AU,1173,+6173223XXXX,geographic,Telstra Corporation Ltd
+AU,1177,+6173262XXXX,geographic,Telstra Corporation Ltd
+AU,1170,+6173170XXXX,geographic,Worldxchange Pty Ltd
+AU,1191,+6173395XXXX,geographic,Telstra Corporation Ltd
+AU,1175,+6173245XXXX,geographic,Telstra Corporation Ltd
+AU,1167,+6173101XXXX,geographic,Singtel Optus Ltd
+AU,1171,+6173204XXXX,geographic,Telstra Corporation Ltd
+AU,1167,+6173102XXXX,geographic,Mci Worldcom Australia Pty Ltd
+AU,1138,+6139846XXXX,geographic,Telstra Corporation Ltd
+AU,1151,+614028XXXXX,mobile,Optus Mobile Pty Ltd
+AU,1151,+614029XXXXX,mobile,Optus Mobile Pty Ltd
+AU,1147,+6139937XXXX,geographic,Singtel Optus Ltd
+AU,1151,+614030XXXXX,mobile,Optus Mobile Pty Ltd
+AU,1151,+614031XXXXX,mobile,Optus Mobile Pty Ltd
+AU,1151,+614032XXXXX,mobile,Optus Mobile Pty Ltd
+AU,1152,+614033XXXXX,mobile,Optus Mobile Pty Ltd
+AU,1195,+61734153XXX,geographic,Telstra Corporation Ltd
+AU,1173,+6173224XXXX,geographic,Telstra Corporation Ltd
+AU,1145,+6139916XXXX,geographic,Singtel Optus Ltd
+AU,1138,+6139847XXXX,geographic,Telstra Corporation Ltd
+AU,1131,+6139777XXXX,geographic,Singtel Optus Ltd
+AU,1133,+6139795XXXX,geographic,Telstra Corporation Ltd
+AU,1152,+614034XXXXX,mobile,Optus Mobile Pty Ltd
+AU,1180,+61732940XXX,geographic,Telstra Corporation Ltd
+AU,1152,+614035XXXXX,mobile,Optus Mobile Pty Ltd
+AU,1128,+6139745XXXX,geographic,Telstra Corporation Ltd
+AU,1191,+6173396XXXX,geographic,Telstra Corporation Ltd
+AU,1177,+6173263XXXX,geographic,Telstra Corporation Ltd
+AU,1197,+6173429XXXX,geographic,Singtel Optus Ltd
+AU,1152,+614036XXXXX,mobile,Optus Mobile Pty Ltd
+AU,1152,+614037XXXXX,mobile,Optus Mobile Pty Ltd
+AU,1175,+6173246XXXX,geographic,Telstra Corporation Ltd
+AU,1126,+6139730XXXX,geographic,Telstra Corporation Ltd
+AU,1152,+614038XXXXX,mobile,Optus Mobile Pty Ltd
+AU,1152,+614039XXXXX,mobile,Optus Mobile Pty Ltd
+AU,1152,+61404XXXXXX,mobile,Vodafone Network Pty Ltd
+AU,1170,+6173198XXXX,geographic,Optus Networks Pty Ltd
+AU,1152,+614050XXXXX,mobile,Vodafone Network Pty Ltd
+AU,1175,+6173247XXXX,geographic,Telstra Corporation Ltd
+AU,1126,+6139731XXXX,geographic,Telstra Corporation Ltd
+AU,1152,+614051XXXXX,mobile,Vodafone Network Pty Ltd
+AU,1136,+6139825XXXX,geographic,Telstra Corporation Ltd
+AU,1153,+614052XXXXX,mobile,Vodafone Network Pty Ltd
+AU,1153,+614053XXXXX,mobile,Vodafone Network Pty Ltd
+AU,1153,+614054XXXXX,mobile,Vodafone Network Pty Ltd
+AU,1153,+614055XXXXX,mobile,Vodafone Network Pty Ltd
+AU,1177,+6173264XXXX,geographic,Telstra Corporation Ltd
+AU,1153,+614056XXXXX,mobile,Vodafone Network Pty Ltd
+AU,1153,+614057XXXXX,mobile,Vodafone Network Pty Ltd
+AU,1179,+6173284XXXX,geographic,Telstra Corporation Ltd
+AU,1135,+6139820XXXX,geographic,Telstra Corporation Ltd
+AU,1177,+6173265XXXX,geographic,Telstra Corporation Ltd
+AU,1153,+614058XXXXX,mobile,Vodafone Network Pty Ltd
+AU,1153,+614059XXXXX,mobile,Vodafone Network Pty Ltd
+AU,1153,+61406XXXXXX,mobile,Vodafone Network Pty Ltd
+AU,1179,+6173285XXXX,geographic,Telstra Corporation Ltd
+AU,1127,+6139736XXXX,geographic,Telstra Corporation Ltd
+AU,1153,+61406XXXXXX,mobile,Vodafone Network Pty Ltd
+AU,1154,+614060XXXXX,mobile,Vodafone Network Pty Ltd
+AU,1154,+614061XXXXX,mobile,Vodafone Network Pty Ltd
+AU,1127,+6139737XXXX,geographic,Telstra Corporation Ltd
+AU,1154,+614062XXXXX,mobile,Vodafone Network Pty Ltd
+AU,1169,+6173120XXXX,geographic,Singtel Optus Ltd
+AU,1166,+6173021XXXX,geographic,Telstra Corporation Ltd
+AU,1154,+614063XXXXX,mobile,Vodafone Network Pty Ltd
+AU,1154,+614064XXXXX,mobile,Vodafone Network Pty Ltd
+AU,1154,+614065XXXXX,mobile,Vodafone Network Pty Ltd
+AU,1143,+6139901XXXX,geographic,Vodafone Network Pty Ltd
+AU,1154,+61407XXXXXX,mobile,Telstra Corporation Ltd
+AU,1141,+6139878XXXX,geographic,Telstra Corporation Ltd
+AU,1199,+61734392XXX,geographic,Iptel Pty Ltd
+AU,1154,+61408XXXXXX,mobile,Telstra Corporation Ltd
+AU,1143,+6139902XXXX,geographic,Telstra Corporation Ltd
+AU,1185,+6173333XXXX,geographic,Singtel Optus Ltd
+AU,1154,+61409XXXXXX,mobile,Telstra Corporation Ltd
+AU,1146,+6139930XXXX,geographic,Telstra Corporation Ltd
+AU,1141,+6139879XXXX,geographic,Telstra Corporation Ltd
+AU,1132,+6139785XXXX,geographic,Telstra Corporation Ltd
+AU,1140,+6139865XXXX,geographic,Telstra Corporation Ltd
+AU,1199,+61734393XXX,geographic,Iptel Pty Ltd
+AU,1134,+6139805XXXX,geographic,Telstra Corporation Ltd
+AU,1182,+6173303XXXX,geographic,Singtel Optus Ltd
+AU,1154,+614100XXXXX,mobile,Vodafone Network Pty Ltd
+AU,1131,+6139778XXXX,geographic,Singtel Optus Ltd
+AU,1133,+6139796XXXX,geographic,Telstra Corporation Ltd
+AU,1132,+6139786XXXX,geographic,Telstra Corporation Ltd
+AU,1146,+6139931XXXX,geographic,Telstra Corporation Ltd
+AU,1140,+6139866XXXX,geographic,Telstra Corporation Ltd
+AU,1155,+614101XXXXX,mobile,Vodafone Network Pty Ltd
+AU,1173,+6173225XXXX,geographic,Telstra Corporation Ltd
+AU,1134,+6139806XXXX,geographic,Singtel Optus Ltd
+AU,1141,+6139880XXXX,geographic,Telstra Corporation Ltd
+AU,1148,+6139963XXXX,geographic,Telstra Corporation Ltd
+AU,1171,+6173205XXXX,geographic,Telstra Corporation Ltd
+AU,1185,+6173334XXXX,geographic,Telstra Corporation Ltd
+AU,1132,+6139787XXXX,geographic,Telstra Corporation Ltd
+AU,1146,+6139932XXXX,geographic,Telstra Corporation Ltd
+AU,1176,+6173253XXXX,geographic,Telstra Corporation Ltd
+AU,1141,+6139881XXXX,geographic,Telstra Corporation Ltd
+AU,1148,+6139971XXXX,geographic,Telstra Corporation Ltd
+AU,1131,+6139779XXXX,geographic,Singtel Optus Ltd
+AU,1146,+6139933XXXX,geographic,Telstra Corporation Ltd
+AU,1176,+6173254XXXX,geographic,Telstra Corporation Ltd
+AU,1167,+6173103XXXX,geographic,Mci Worldcom Australia Pty Ltd
+AU,1185,+6173335XXXX,geographic,Telstra Corporation Ltd
+AU,1198,+61734381XXX,geographic,Iptel Pty Ltd
+AU,1198,+61734382XXX,geographic,Iptel Pty Ltd
+AU,1148,+6139974XXXX,geographic,Telstra Corporation Ltd
+AU,1185,+6173336XXXX,geographic,Telstra Corporation Ltd
+AU,1194,+61734098XXX,geographic,Telstra Corporation Ltd
+AU,1141,+6139882XXXX,geographic,Telstra Corporation Ltd
+AU,1148,+6139993XXXX,geographic,Powertel Ltd
+AU,1155,+614102XXXXX,mobile,Vodafone Network Pty Ltd
+AU,1200,+6173449XXXX,geographic,Aapt Wireless Pty Ltd
+AU,1155,+614103XXXXX,mobile,Vodafone Network Pty Ltd
+AU,1194,+61734099XXX,geographic,Telstra Corporation Ltd
+AU,1185,+6173337XXXX,geographic,Singtel Optus Ltd
+AU,1138,+6139848XXXX,geographic,Telstra Corporation Ltd
+AU,1141,+6139883XXXX,geographic,Telstra Corporation Ltd
+AU,1128,+6139746XXXX,geographic,Telstra Corporation Ltd
+AU,1155,+614104XXXXX,mobile,Vodafone Network Pty Ltd
+AU,1148,+614XXXXXXXX,mobile,
+AU,1155,+614105XXXXX,mobile,Vodafone Network Pty Ltd
+AU,1131,+6139780XXXX,geographic,Singtel Optus Ltd
+AU,1141,+6139884XXXX,geographic,Singtel Optus Ltd
+AU,1194,+6173410XXXX,geographic,Telstra Corporation Ltd
+AU,1155,+614106XXXXX,mobile,Vodafone Network Pty Ltd
+AU,1165,+6173011XXXX,geographic,Telstra Corporation Ltd
+AU,1185,+6173338XXXX,geographic,Singtel Optus Ltd
+AU,1128,+6139747XXXX,geographic,Telstra Corporation Ltd
+AU,1155,+614107XXXXX,mobile,Vodafone Network Pty Ltd
+AU,1200,+61734500XXX,geographic,Aapt Wireless Pty Ltd
+AU,1138,+6139849XXXX,geographic,Singtel Optus Ltd
+AU,1155,+614108XXXXX,mobile,Vodafone Network Pty Ltd
+AU,1155,+614109XXXXX,mobile,Vodafone Network Pty Ltd
+AU,1132,+6139788XXXX,geographic,Telstra Corporation Ltd
+AU,1131,+6139781XXXX,geographic,Telstra Corporation Ltd
+AU,1155,+61411XXXXXX,mobile,Optus Mobile Pty Ltd
+AU,1128,+6139748XXXX,geographic,Telstra Corporation Ltd
+AU,1170,+6173199XXXX,geographic,Singtel Optus Ltd
+AU,1156,+61412XXXXXX,mobile,Optus Mobile Pty Ltd
+AU,1156,+61413XXXXXX,mobile,Optus Mobile Pty Ltd
+AU,1156,+61414XXXXXX,mobile,Vodafone Network Pty Ltd
+AU,1128,+6139749XXXX,geographic,Telstra Corporation Ltd
+AU,1125,+6139715XXXX,geographic,Telstra Corporation Ltd
+AU,1197,+6173430XXXX,geographic,Telstra Corporation Ltd
+AU,1156,+61415XXXXXX,mobile,Vodafone Network Pty Ltd
+AU,1156,+61416XXXXXX,mobile,Vodafone Network Pty Ltd
+AU,1156,+61417XXXXXX,mobile,Telstra Corporation Ltd
+AU,1167,+6173104XXXX,geographic,Mci Worldcom Australia Pty Ltd
+AU,1189,+6173372XXXX,geographic,Telstra Corporation Ltd
+AU,1191,+6173397XXXX,geographic,Telstra Corporation Ltd
+AU,1147,+6139938XXXX,geographic,Singtel Optus Ltd
+AU,1167,+6173105XXXX,geographic,Powertel Ltd
+AU,1183,+6173312XXXX,geographic,Singtel Optus Ltd
+AU,1125,+6139716XXXX,geographic,Telstra Corporation Ltd
+AU,1147,+6139940XXXX,geographic,Singtel Optus Ltd
+AU,1128,+6139750XXXX,geographic,Singtel Optus Ltd
+AU,1156,+61418XXXXXX,mobile,Telstra Corporation Ltd
+AU,1146,+6139934XXXX,geographic,Telstra Corporation Ltd
+AU,1128,+6139751XXXX,geographic,Telstra Corporation Ltd
+AU,1175,+6173248XXXX,geographic,Telstra Corporation Ltd
+AU,1156,+61419XXXXXX,mobile,Telstra Corporation Ltd
+AU,1156,+6142010XXXX,mobile,Globalstar Australia Pty Ltd
+AU,1183,+6173313XXXX,geographic,Singtel Optus Ltd
+AU,1156,+61420XXXXXX,mobile,Vodafone Network Pty Ltd
+AU,1126,+6139732XXXX,geographic,Singtel Optus Ltd
+AU,1147,+6139941XXXX,geographic,Singtel Optus Ltd
+AU,1125,+6139717XXXX,geographic,Telstra Corporation Ltd
+AU,1180,+61732941XXX,geographic,Telstra Corporation Ltd
+AU,1175,+6173249XXXX,geographic,Telstra Corporation Ltd
+AU,1146,+6139935XXXX,geographic,Singtel Optus Ltd
+AU,1157,+61421XXXXXX,mobile,Optus Mobile Pty Ltd
+AU,1189,+6173373XXXX,geographic,Telstra Corporation Ltd
+AU,1163,+615XXXXXXXX,universalaccess,
+AU,1180,+61732942XXX,geographic,Telstra Corporation Ltd
+AU,1157,+61422XXXXXX,mobile,Optus Mobile Pty Ltd
+AU,1146,+6139936XXXX,geographic,Singtel Optus Ltd
+AU,1128,+6139752XXXX,geographic,Telstra Corporation Ltd
+AU,1175,+6173250XXXX,geographic,Telstra Corporation Ltd
+AU,1147,+6139944XXXX,geographic,Aapt Ltd
+AU,1145,+6139918XXXX,geographic,Singtel Optus Ltd
+AU,1126,+6139733XXXX,geographic,Singtel Optus Ltd
+AU,1125,+6139718XXXX,geographic,Telstra Corporation Ltd
+AU,1164,+6173001XXXX,geographic,Telstra Corporation Ltd
+AU,1157,+61423XXXXXX,mobile,Optus Mobile Pty Ltd
+AU,1157,+614240XXXXX,mobile,Vodafone Network Pty Ltd
+AU,1128,+6139753XXXX,geographic,Telstra Corporation Ltd
+AU,1147,+6139945XXXX,geographic,Singtel Optus Ltd
+AU,1172,+6173214XXXX,geographic,Telstra Corporation Ltd
+AU,1125,+6139719XXXX,geographic,Telstra Corporation Ltd
+AU,1157,+614241XXXXX,mobile,Vodafone Network Pty Ltd
+AU,1157,+614242XXXXX,mobile,Vodafone Network Pty Ltd
+AU,1157,+614243XXXXX,mobile,Vodafone Network Pty Ltd
+AU,1164,+6173002XXXX,geographic,Telstra Corporation Ltd
+AU,1157,+614244XXXXX,mobile,Vodafone Network Pty Ltd
+AU,1180,+61732943XXX,geographic,Telstra Corporation Ltd
+AU,1157,+614245XXXXX,mobile,Vodafone Network Pty Ltd
+AU,1163,+615005XXXXX,universalaccess,Telstra Corporation Ltd
+AU,1136,+6139826XXXX,geographic,Telstra Corporation Ltd
+AU,1174,+6173234XXXX,geographic,Telstra Corporation Ltd
+AU,1192,+61734XXXXXX,geographic,
+AU,1193,+6173407XXXX,geographic,Telstra Corporation Ltd
+AU,1157,+614246XXXXX,mobile,Vodafone Network Pty Ltd
+AU,1158,+614247XXXXX,mobile,Vodafone Network Pty Ltd
+AU,1158,+614248XXXXX,mobile,Vodafone Network Pty Ltd
+AU,1192,+61734XXXXXX,geographic,
+AU,1179,+6173286XXXX,geographic,Telstra Corporation Ltd
+AU,1135,+6139821XXXX,geographic,Telstra Corporation Ltd
+AU,1158,+614249XXXXX,mobile,Vodafone Network Pty Ltd
+AU,1193,+6173408XXXX,geographic,Telstra Corporation Ltd
+AU,1158,+614251XXXXX,mobile,Hutchison 3G Australia Pty Ltd
+AU,1158,+614252XXXXX,mobile,Hutchison 3G Australia Pty Ltd
+AU,1129,+6139758XXXX,geographic,Telstra Corporation Ltd
+AU,1179,+6173287XXXX,geographic,Telstra Corporation Ltd
+AU,1147,+6139946XXXX,geographic,Singtel Optus Ltd
+AU,1158,+614253XXXXX,mobile,Hutchison 3G Australia Pty Ltd
+AU,1158,+614256XXXXX,mobile,Hutchison 3G Australia Pty Ltd
+AU,1158,+614257XXXXX,mobile,Hutchison 3G Australia Pty Ltd
+AU,1127,+6139738XXXX,geographic,Telstra Corporation Ltd
+AU,1129,+6139759XXXX,geographic,Telstra Corporation Ltd
+AU,1158,+614258XXXXX,mobile,Hutchison 3G Australia Pty Ltd
+AU,1128,+6139754XXXX,geographic,Telstra Corporation Ltd
+AU,1158,+61427XXXXXX,mobile,Telstra Corporation Ltd (CDMA)
+AU,1147,+6139947XXXX,geographic,Singtel Optus Ltd
+AU,1179,+6173288XXXX,geographic,Telstra Corporation Ltd
+AU,1159,+61428XXXXXX,mobile,Telstra Corporation Ltd (CDMA)
+AU,1192,+61734XXXXXX,geographic,
+AU,1129,+6139760XXXX,geographic,Telstra Corporation Ltd
+AU,1168,+6173111XXXX,geographic,Caveo Communications Pty Ltd
+AU,1159,+61429XXXXXX,mobile,Telstra Corporation Ltd (CDMA)
+AU,1159,+614300XXXXX,mobile,Hutchison 3G Australia Pty Ltd
+AU,1127,+6139739XXXX,geographic,Telstra Corporation Ltd
+AU,1159,+61430XXXXXX,mobile,Hutchison 3G Australia Pty Ltd
+AU,1181,+61732947XXX,geographic,Telstra Corporation Ltd
+AU,1159,+61431XXXXXX,mobile,Optus Mobile Pty Ltd
+AU,1143,+6139903XXXX,geographic,Telstra Corporation Ltd
+AU,1159,+61432XXXXXX,mobile,Optus Mobile Pty Ltd
+AU,1169,+6173121XXXX,geographic,Singtel Optus Ltd
+AU,1192,+6173400XXXX,geographic,Telstra Corporation Ltd
+AU,1159,+614330XXXXX,mobile,Hutchison 3G Australia Pty Ltd
+AU,1159,+614331XXXXX,mobile,Hutchison 3G Australia Pty Ltd
+AU,1159,+614332XXXXX,mobile,Hutchison 3G Australia Pty Ltd
+AU,1179,+6173289XXXX,geographic,Telstra Corporation Ltd
+AU,1139,+6139855XXXX,geographic,Telstra Corporation Ltd
+AU,1159,+61433XXXXXX,mobile,Hutchison 3G Australia Pty Ltd
+AU,1195,+61734154XXX,geographic,Telstra Corporation Ltd
+AU,1160,+614333XXXXX,mobile,Hutchison 3G Australia Pty Ltd
+AU,1160,+614336XXXXX,mobile,Hutchison 3G Australia Pty Ltd
+AU,1182,+6173304XXXX,geographic,Singtel Optus Ltd
+AU,1127,+6139740XXXX,geographic,Telstra Corporation Ltd
+AU,1160,+614337XXXXX,mobile,Hutchison 3G Australia Pty Ltd
+AU,1129,+6139761XXXX,geographic,Telstra Corporation Ltd
+AU,1160,+614338XXXXX,mobile,Hutchison 3G Australia Pty Ltd
+AU,1188,+6173362XXXX,geographic,Telstra Corporation Ltd
+AU,1160,+614339XXXXX,mobile,Hutchison 3G Australia Pty Ltd
+AU,1164,+6173003XXXX,geographic,Telstra Corporation Ltd
+AU,1142,+6139885XXXX,geographic,Telstra Corporation Ltd
+AU,1169,+6173122XXXX,geographic,Chime Communications Pty Ltd
+AU,1199,+61734394XXX,geographic,Iptel Pty Ltd
+AU,1133,+6139797XXXX,geographic,Telstra Corporation Ltd
+AU,1135,+6139822XXXX,geographic,Telstra Corporation Ltd
+AU,1180,+61732944XXX,geographic,Telstra Corporation Ltd
+AU,1160,+61434XXXXXX,mobile,Optus Mobile Pty Ltd
+AU,1160,+614350XXXXX,mobile,Optus Mobile Pty Ltd
+AU,1163,+615006XXXXX,universalaccess,Telstra Corporation Ltd
+AU,1136,+6139827XXXX,geographic,Telstra Corporation Ltd
+AU,1171,+6173206XXXX,geographic,Telstra Corporation Ltd
+AU,1173,+6173226XXXX,geographic,Telstra Corporation Ltd
+AU,1144,+6139906XXXX,geographic,Telstra Corporation Ltd
+AU,1160,+61435XXXXXX,mobile,Optus Mobile Pty Ltd
+AU,1180,+61732945XXX,geographic,Telstra Corporation Ltd
+AU,1127,+6139741XXXX,geographic,Telstra Corporation Ltd
+AU,1136,+6139828XXXX,geographic,Telstra Corporation Ltd
+AU,1171,+6173207XXXX,geographic,Telstra Corporation Ltd
+AU,1160,+61437XXXXXX,mobile,Telstra Corporation Ltd
+AU,1199,+61734395XXX,geographic,Iptel Pty Ltd
+AU,1163,+615008XXXXX,universalaccess,Telstra Corporation Ltd
+AU,1160,+61437XXXXXX,mobile,Telstra Corporation Ltd (CDMA)
+AU,1186,+6173342XXXX,geographic,Singtel Optus Ltd
+AU,1127,+6139742XXXX,geographic,Telstra Corporation Ltd
+AU,1173,+6173227XXXX,geographic,Telstra Corporation Ltd
+AU,1192,+6173401XXXX,geographic,Singtel Optus Ltd
+AU,1144,+6139907XXXX,geographic,Singtel Optus Ltd
+AU,1134,+6139807XXXX,geographic,Telstra Corporation Ltd
+AU,1163,+617XXXXXXXX,geographic,
+AU,1176,+6173255XXXX,geographic,Telstra Corporation Ltd
+AU,1173,+6173228XXXX,geographic,Telstra Corporation Ltd
+AU,1127,+6139743XXXX,geographic,Telstra Corporation Ltd
+AU,1194,+6173411XXXX,geographic,Singtel Optus Ltd
+AU,1192,+6173402XXXX,geographic,Singtel Optus Ltd
+AU,1165,+6173012XXXX,geographic,Telstra Corporation Ltd
+AU,1136,+6139829XXXX,geographic,Telstra Corporation Ltd
+AU,1200,+61734501XXX,geographic,Aapt Wireless Pty Ltd
+AU,1163,+61730XXXXXX,geographic,
+AU,1182,+6173305XXXX,geographic,Singtel Optus Ltd
+AU,1144,+6139908XXXX,geographic,Singtel Optus Ltd
+AU,1185,+6173339XXXX,geographic,Singtel Optus Ltd
+AU,1161,+61438XXXXXX,mobile,Telstra Corporation Ltd
+AU,1161,+61439XXXXXX,mobile,Telstra Corporation Ltd
+AU,1132,+6139789XXXX,geographic,Telstra Corporation Ltd
+AU,1196,+6173419XXXX,geographic,Iptel Pty Ltd
+AU,1161,+61447XXXXXX,mobile,Telstra Corporation Ltd
+AU,1132,+6139790XXXX,geographic,Telstra Corporation Ltd
+AU,1161,+61448XXXXXX,mobile,Telstra Corporation Ltd
+AU,1177,+6173266XXXX,geographic,Telstra Corporation Ltd
+AU,1164,+6173004XXXX,geographic,Telstra Corporation Ltd
+AU,1161,+61449XXXXXX,mobile,Vodafone Network Pty Ltd
+AU,1185,+6173340XXXX,geographic,Telstra Corporation Ltd
+AU,1161,+61450XXXXXX,mobile,Vodafone Network Pty Ltd
+AU,1136,+6139830XXXX,geographic,Telstra Corporation Ltd
+AU,1161,+61457XXXXXX,mobile,Telstra Corporation Ltd
+AU,1194,+6173412XXXX,geographic,Singtel Optus Ltd
+AU,1191,+6173398XXXX,geographic,Telstra Corporation Ltd
+AU,1161,+61458XXXXXX,mobile,Telstra Corporation Ltd
+AU,1161,+61459XXXXXX,mobile,Telstra Corporation Ltd
+AU,1132,+6139791XXXX,geographic,Telstra Corporation Ltd
+AU,1177,+6173267XXXX,geographic,Telstra Corporation Ltd
+AU,1173,+6173229XXXX,geographic,Telstra Corporation Ltd
+AU,1161,+61466XXXXXX,mobile,Optus Mobile Pty Ltd
+AU,1127,+6139744XXXX,geographic,Telstra Corporation Ltd
+AU,1139,+6139856XXXX,geographic,Telstra Corporation Ltd
+AU,1197,+6173431XXXX,geographic,Iptel Pty Ltd
+AU,1164,+6173005XXXX,geographic,Telstra Corporation Ltd
+AU,1176,+6173256XXXX,geographic,Telstra Corporation Ltd
+AU,1131,+6139782XXXX,geographic,Telstra Corporation Ltd
+AU,1185,+6173341XXXX,geographic,Telstra Corporation Ltd
+AU,1162,+614690XXXXX,mobile,Lycamobile Pty Ltd
+AU,1142,+6139886XXXX,geographic,Telstra Corporation Ltd
+AU,1192,+6173403XXXX,geographic,Telstra Corporation Ltd
+AU,1138,+6139850XXXX,geographic,Telstra Corporation Ltd
+AU,1187,+6173352XXXX,geographic,Telstra Corporation Ltd
+AU,1196,+6173420XXXX,geographic,Telstra Corporation Ltd
+AU,1162,+614691XXXXX,mobile,Lycamobile Pty Ltd
+AU,1126,+6139734XXXX,geographic,Singtel Optus Ltd
+AU,1162,+614692XXXXX,mobile,Lycamobile Pty Ltd
+AU,1182,+6173306XXXX,geographic,Singtel Optus Ltd
+AU,1145,+6139919XXXX,geographic,Singtel Optus Ltd
+AU,1130,+6139765XXXX,geographic,Telstra Corporation Ltd
+AU,1189,+6173374XXXX,geographic,Telstra Corporation Ltd
+AU,1162,+614693XXXXX,mobile,Lycamobile Pty Ltd
+AU,1195,+61734155XXX,geographic,Telstra Corporation Ltd
+AU,1183,+6173314XXXX,geographic,Singtel Optus Ltd
+AU,1162,+614694XXXXX,mobile,Lycamobile Pty Ltd
+AU,1125,+6139720XXXX,geographic,Telstra Corporation Ltd
+AU,1171,+6173208XXXX,geographic,Telstra Corporation Ltd
+AU,1162,+614695XXXXX,mobile,Lycamobile Pty Ltd
+AU,1197,+6173432XXXX,geographic,Telstra Corporation Ltd
+AU,1172,+6173215XXXX,geographic,Telstra Corporation Ltd
+AU,1130,+6139766XXXX,geographic,Singtel Optus Ltd
+AU,1193,+61734090XXX,geographic,Telstra Corporation Ltd
+AU,1162,+614696XXXXX,mobile,Lycamobile Pty Ltd
+AU,1162,+614697XXXXX,mobile,Lycamobile Pty Ltd
+AU,1195,+61734156XXX,geographic,Telstra Corporation Ltd
+AU,1162,+614698XXXXX,mobile,Lycamobile Pty Ltd
+AU,1166,+6173022XXXX,geographic,Telstra Corporation Ltd
+AU,1162,+614699XXXXX,mobile,Lycamobile Pty Ltd
+AU,1163,+61470XXXXXX,mobile,Lycamobile Pty Ltd
+AU,1191,+6173399XXXX,geographic,Telstra Corporation Ltd
+AU,1163,+614889XXXXX,mobile,Telstra Corporation Ltd
+AU,1143,+6139904XXXX,geographic,Telstra Corporation Ltd
+AU,1142,+6139887XXXX,geographic,Telstra Corporation Ltd
+AU,1166,+6173023XXXX,geographic,Telstra Corporation Ltd
+AU,1136,+6139831XXXX,geographic,Telstra Corporation Ltd
+AU,1163,+61488XXXXXX,mobile,Telstra Corporation Ltd
+AU,1186,+6173343XXXX,geographic,Telstra Corporation Ltd
+AU,1182,+6173307XXXX,geographic,Telstra Corporation Ltd
+AU,1132,+6139792XXXX,geographic,Telstra Corporation Ltd
+AU,1181,+61732948XXX,geographic,Telstra Corporation Ltd
+AU,1143,+6139905XXXX,geographic,Telstra Corporation Ltd
+AU,1192,+6173404XXXX,geographic,Telstra Corporation Ltd
+AU,1200,+61734502XXX,geographic,Aapt Wireless Pty Ltd
+AU,1163,+6173000XXXX,geographic,Telstra Corporation Ltd
+AU,1170,+61732XXXXXX,geographic,
+AU,1191,+61734XXXXXX,geographic,
+AU,1169,+6173123XXXX,geographic,Flow Communications Pty Ltd
+AU,1139,+6139857XXXX,geographic,Telstra Corporation Ltd
+AU,1168,+6173112XXXX,geographic,Primus Telecommunications Pty Ltd
+AU,1192,+6173405XXXX,geographic,Telstra Corporation Ltd
+AU,1200,+61734503XXX,geographic,Aapt Wireless Pty Ltd
+AU,1187,+6173353XXXX,geographic,Telstra Corporation Ltd
+AU,1140,+6139867XXXX,geographic,Telstra Corporation Ltd
+AU,1179,+6173290XXXX,geographic,Telstra Corporation Ltd
+AU,1196,+6173421XXXX,geographic,Telstra Corporation Ltd
+AU,1135,+6139823XXXX,geographic,Telstra Corporation Ltd
+AU,1180,+61732946XXX,geographic,Telstra Corporation Ltd
+AU,1165,+6173013XXXX,geographic,Telstra Corporation Ltd
+AU,1191,+61734XXXXXX,geographic,
+AU,1132,+6139793XXXX,geographic,Telstra Corporation Ltd
+AU,1136,+6139832XXXX,geographic,Telstra Corporation Ltd
+AU,1138,+6139851XXXX,geographic,Telstra Corporation Ltd
+AU,1133,+6139798XXXX,geographic,Telstra Corporation Ltd
+AU,1189,+6173375XXXX,geographic,Telstra Corporation Ltd
+AU,1139,+6139858XXXX,geographic,Singtel Optus Ltd
+AU,1200,+6173451XXXX,geographic,Telstra Corporation Ltd
+AU,1187,+6173354XXXX,geographic,Telstra Corporation Ltd
+AU,1188,+6173363XXXX,geographic,Telstra Corporation Ltd
+AU,1125,+6139721XXXX,geographic,Telstra Corporation Ltd
+AU,1188,+6173364XXXX,geographic,Telstra Corporation Ltd
+AU,1131,+6139783XXXX,geographic,Telstra Corporation Ltd
+AU,1125,+6139722XXXX,geographic,Telstra Corporation Ltd
+AU,1188,+6173365XXXX,geographic,Telstra Corporation Ltd
+AU,1145,+6139920XXXX,geographic,Telstra Corporation Ltd
+AU,1131,+6139784XXXX,geographic,Telstra Corporation Ltd
+AU,1125,+6139723XXXX,geographic,Telstra Corporation Ltd
+AU,1181,+61732949XXX,geographic,Telstra Corporation Ltd
+AU,1178,+6173271XXXX,geographic,Telstra Corporation Ltd
+AU,1188,+6173366XXXX,geographic,Telstra Corporation Ltd
+AU,1145,+6139921XXXX,geographic,Telstra Corporation Ltd
+AU,1147,+6139948XXXX,geographic,Singtel Optus Ltd
+AU,1125,+6139724XXXX,geographic,Telstra Corporation Ltd
+AU,1194,+6173413XXXX,geographic,Singtel Optus Ltd
+AU,1171,+6173209XXXX,geographic,Telstra Corporation Ltd
+AU,1200,+6173452XXXX,geographic,Telstra Corporation Ltd
+AU,1181,+6173295XXXX,geographic,Singtel Optus Ltd
+AU,1178,+6173272XXXX,geographic,Telstra Corporation Ltd
+AU,1190,+6173382XXXX,geographic,Telstra Corporation Ltd
+AU,1181,+6173296XXXX,geographic,Singtel Optus Ltd
+AU,1178,+6173273XXXX,geographic,Telstra Corporation Ltd
+AU,1134,+6139808XXXX,geographic,Telstra Corporation Ltd
+AU,1181,+6173297XXXX,geographic,Telstra Corporation Ltd
+AU,1147,+6139949XXXX,geographic,Singtel Optus Ltd
+AU,1173,+6173230XXXX,geographic,Telstra Corporation Ltd
+AU,1134,+6139809XXXX,geographic,Telstra Corporation Ltd
+AU,1144,+6139909XXXX,geographic,Aapt Ltd
+AU,1181,+6173298XXXX,geographic,Telstra Corporation Ltd
+AU,1135,+6139824XXXX,geographic,Telstra Corporation Ltd
+AU,1195,+61734157XXX,geographic,Telstra Corporation Ltd
+AU,1195,+61734158XXX,geographic,Telstra Corporation Ltd
+AU,1187,+6173355XXXX,geographic,Telstra Corporation Ltd
+AU,1177,+6173268XXXX,geographic,Telstra Corporation Ltd
+AU,1195,+61734159XXX,geographic,Telstra Corporation Ltd
+AU,1187,+6173356XXXX,geographic,Telstra Corporation Ltd
+AU,1166,+6173024XXXX,geographic,Telstra Corporation Ltd
+AU,1177,+6173269XXXX,geographic,Telstra Corporation Ltd
+AU,1195,+6173416XXXX,geographic,Iptel Pty Ltd
+AU,1187,+6173357XXXX,geographic,Telstra Corporation Ltd
+AU,1195,+6173417XXXX,geographic,Iptel Pty Ltd
+AU,1177,+6173270XXXX,geographic,Telstra Corporation Ltd
+AU,1197,+6173433XXXX,geographic,Aapt Ltd
+AU,1197,+6173434XXXX,geographic,Telstra Corporation Ltd
+AU,1170,+61732XXXXXX,geographic,
+AU,1197,+6173435XXXX,geographic,Telstra Corporation Ltd
+AU,1170,+61732XXXXXX,geographic,
+AU,1198,+61734383XXX,geographic,Iptel Pty Ltd
+AU,1188,+6173367XXXX,geographic,Telstra Corporation Ltd
+AU,1197,+6173436XXXX,geographic,Telstra Corporation Ltd
+AU,1170,+61732XXXXXX,geographic,
+AU,1129,+6139762XXXX,geographic,Telstra Corporation Ltd
+AU,1198,+61734384XXX,geographic,Iptel Pty Ltd
+AU,1145,+6139922XXXX,geographic,Telstra Corporation Ltd
+AU,1186,+6173344XXXX,geographic,Telstra Corporation Ltd
+AU,1197,+6173437XXXX,geographic,Telstra Corporation Ltd
+AU,1170,+61732XXXXXX,geographic,
+AU,1196,+6173422XXXX,geographic,Telstra Corporation Ltd
+AU,1186,+6173345XXXX,geographic,Telstra Corporation Ltd
+AU,1188,+6173368XXXX,geographic,Telstra Corporation Ltd
+AU,1170,+6173200XXXX,geographic,Telstra Corporation Ltd
+AU,1197,+61734380XXX,geographic,Iptel Pty Ltd
+AU,1198,+61734385XXX,geographic,Iptel Pty Ltd
+AU,1188,+6173369XXXX,geographic,Telstra Corporation Ltd
+AU,1190,+6173383XXXX,geographic,Telstra Corporation Ltd
+AU,1196,+6173423XXXX,geographic,Telstra Corporation Ltd
+AU,1188,+6173370XXXX,geographic,Telstra Corporation Ltd
+AU,1172,+6173216XXXX,geographic,Telstra Corporation Ltd
+AU,1174,+6173235XXXX,geographic,Telstra Corporation Ltd
+AU,1192,+6173406XXXX,geographic,Telstra Corporation Ltd
+AU,1178,+6173274XXXX,geographic,Telstra Corporation Ltd
+AU,1183,+6173315XXXX,geographic,Singtel Optus Ltd
+AU,1130,+6139767XXXX,geographic,Telstra Corporation Ltd
+AU,1194,+6173414XXXX,geographic,Aapt Ltd
+AU,1129,+6139763XXXX,geographic,Telstra Corporation Ltd
+AU,1176,+6173257XXXX,geographic,Telstra Corporation Ltd
+AU,1194,+61734150XXX,geographic,Telstra Corporation Ltd
+AU,1171,+6173210XXXX,geographic,Telstra Corporation Ltd
+AU,1196,+6173424XXXX,geographic,Singtel Optus Ltd
+AU,1181,+6173299XXXX,geographic,Telstra Corporation Ltd
+AU,1181,+6173300XXXX,geographic,Telstra Corporation Ltd
+AU,1144,+6139910XXXX,geographic,Telstra Corporation Ltd
+AU,1134,+6139810XXXX,geographic,Telstra Corporation Ltd
+AU,1187,+6173358XXXX,geographic,Telstra Corporation Ltd
+AU,1190,+6173384XXXX,geographic,Telstra Corporation Ltd
+AU,1195,+6173418XXXX,geographic,Iptel Pty Ltd
+AU,1194,+61734151XXX,geographic,Telstra Corporation Ltd
+AU,1193,+61734091XXX,geographic,Telstra Corporation Ltd
+AU,1129,+6139764XXXX,geographic,Telstra Corporation Ltd
+AU,1168,+6173114XXXX,geographic,Singtel Optus Ltd
+AU,1130,+6139768XXXX,geographic,Telstra Corporation Ltd
+AU,1172,+6173217XXXX,geographic,Telstra Corporation Ltd
+AU,1130,+6139769XXXX,geographic,Telstra Corporation Ltd
+AU,1186,+6173346XXXX,geographic,Telstra Corporation Ltd
+AU,1182,+6173308XXXX,geographic,Telstra Corporation Ltd
+AU,1130,+6139770XXXX,geographic,Telstra Corporation Ltd
+AU,1199,+6173440XXXX,geographic,Telstra Corporation Ltd
+AU,1186,+6173347XXXX,geographic,Telstra Corporation Ltd
+AU,1140,+6139868XXXX,geographic,Telstra Corporation Ltd
+AU,1132,+6139794XXXX,geographic,Telstra Corporation Ltd
+AU,1193,+61734092XXX,geographic,Telstra Corporation Ltd
+AU,1186,+6173348XXXX,geographic,Telstra Corporation Ltd
+AU,1181,+6173301XXXX,geographic,Singtel Optus Ltd
+AU,1198,+61734386XXX,geographic,Iptel Pty Ltd
+AU,1164,+6173006XXXX,geographic,Telstra Corporation Ltd
+AU,1186,+6173349XXXX,geographic,Telstra Corporation Ltd
+AU,1172,+6173218XXXX,geographic,Telstra Corporation Ltd
+AU,1144,+6139911XXXX,geographic,Telstra Corporation Ltd
+AU,1140,+6139869XXXX,geographic,Telstra Corporation Ltd
+AU,1183,+6173316XXXX,geographic,Telstra Corporation Ltd
+AU,1174,+6173236XXXX,geographic,Telstra Corporation Ltd
+AU,1138,+6139852XXXX,geographic,Telstra Corporation Ltd
+AU,1188,+6173371XXXX,geographic,Telstra Corporation Ltd
+AU,1138,+6139853XXXX,geographic,Telstra Corporation Ltd
+AU,1183,+6173317XXXX,geographic,Singtel Optus Ltd
+AU,1133,+6139799XXXX,geographic,Telstra Corporation Ltd
+AU,1189,+6173376XXXX,geographic,Telstra Corporation Ltd
+AU,1178,+6173275XXXX,geographic,Telstra Corporation Ltd
+AU,1136,+6139833XXXX,geographic,Singtel Optus Ltd
+AU,1174,+6173237XXXX,geographic,Telstra Corporation Ltd
+AU,1165,+6173014XXXX,geographic,Aapt Ltd
+AU,1130,+6139771XXXX,geographic,Singtel Optus Ltd
+AU,1139,+6139859XXXX,geographic,Telstra Corporation Ltd
+AU,1199,+6173441XXXX,geographic,Telstra Corporation Ltd
+AU,1196,+6173425XXXX,geographic,Telstra Corporation Ltd
+AU,1142,+6139888XXXX,geographic,Telstra Corporation Ltd
+AU,1182,+6173309XXXX,geographic,Telstra Corporation Ltd
+AU,1189,+6173377XXXX,geographic,Telstra Corporation Ltd
+AU,1169,+6173131XXXX,geographic,Telstra Corporation Ltd
+AU,1139,+6139860XXXX,geographic,Telstra Corporation Ltd
+AU,1130,+6139772XXXX,geographic,Telstra Corporation Ltd
+AU,1165,+6173015XXXX,geographic,Aapt Ltd
+AU,1142,+6139889XXXX,geographic,Telstra Corporation Ltd
+AU,1196,+6173426XXXX,geographic,Telstra Corporation Ltd
+AU,1199,+6173442XXXX,geographic,Telstra Corporation Ltd
+AU,1166,+6173025XXXX,geographic,Telstra Corporation Ltd
+AU,1137,+6139835XXXX,geographic,Telstra Corporation Ltd
+AU,1174,+6173238XXXX,geographic,Telstra Corporation Ltd
+AU,1176,+6173258XXXX,geographic,Telstra Corporation Ltd
+AU,1136,+6139834XXXX,geographic,Telstra Corporation Ltd
+AU,1130,+6139773XXXX,geographic,Telstra Corporation Ltd
+AU,1198,+61734387XXX,geographic,Iptel Pty Ltd
+AU,1166,+6173026XXXX,geographic,Telstra Corporation Ltd
+AU,1130,+6139774XXXX,geographic,Singtel Optus Ltd
+AU,1193,+61734093XXX,geographic,Telstra Corporation Ltd
+AU,1164,+6173007XXXX,geographic,Telstra Corporation Ltd
+AU,1193,+61734094XXX,geographic,Telstra Corporation Ltd
+AU,1182,+6173310XXXX,geographic,Singtel Optus Ltd
+AU,1144,+6139912XXXX,geographic,Edge Internet Services Australia Pty Ltd
+AU,1145,+6139923XXXX,geographic,Primus Telecommunications Pty Ltd
+AU,1145,+6139924XXXX,geographic,Telstra Corporation Ltd
+AU,1140,+6139870XXXX,geographic,Telstra Corporation Ltd
+AU,1145,+6139925XXXX,geographic,Telstra Corporation Ltd
+AU,1187,+6173359XXXX,geographic,Telstra Corporation Ltd
+AU,1134,+6139811XXXX,geographic,Telstra Corporation Ltd
+AU,1166,+6173027XXXX,geographic,Telstra Corporation Ltd
+AU,1133,+6139800XXXX,geographic,Telstra Corporation Ltd
+AU,1186,+6173350XXXX,geographic,Telstra Corporation Ltd
+AU,1165,+6173016XXXX,geographic,Telstra Corporation Ltd
+AU,1138,+6139854XXXX,geographic,Telstra Corporation Ltd
+AU,1194,+61734152XXX,geographic,Telstra Corporation Ltd
+AU,1186,+6173351XXXX,geographic,Telstra Corporation Ltd
+AU,1174,+6173239XXXX,geographic,Telstra Corporation Ltd
+AU,1183,+6173318XXXX,geographic,Singtel Optus Ltd
+AU,1189,+6173378XXXX,geographic,Telstra Corporation Ltd
+AU,1187,+6173360XXXX,geographic,Telstra Corporation Ltd
+AU,1178,+6173276XXXX,geographic,Telstra Corporation Ltd
+AU,1187,+6173361XXXX,geographic,Telstra Corporation Ltd
+AU,1169,+6173144XXXX,geographic,Aapt Ltd
+AU,1178,+6173277XXXX,geographic,Telstra Corporation Ltd
+AU,1169,+6173145XXXX,geographic,Aapt Ltd
+AU,1196,+6173427XXXX,geographic,Singtel Optus Ltd
+AU,1134,+6139812XXXX,geographic,Singtel Optus Ltd
+AU,1178,+6173278XXXX,geographic,Telstra Corporation Ltd
+AU,1178,+6173279XXXX,geographic,Telstra Corporation Ltd
+AU,1134,+6139813XXXX,geographic,Telstra Corporation Ltd
+AU,1134,+6139814XXXX,geographic,Telstra Corporation Ltd
+AU,1196,+6173428XXXX,geographic,Singtel Optus Ltd
+AU,1178,+6173280XXXX,geographic,Telstra Corporation Ltd
+AU,1133,+6139801XXXX,geographic,Telstra Corporation Ltd
+AU,1133,+6139802XXXX,geographic,Telstra Corporation Ltd
+AU,1164,+6173008XXXX,geographic,Telstra Corporation Ltd
+AU,1139,+6139861XXXX,geographic,Telstra Corporation Ltd
+AU,1183,+6173319XXXX,geographic,Primus Telecommunications Pty Ltd
+AU,1174,+6173240XXXX,geographic,Telstra Corporation Ltd
+AU,1133,+6139803XXXX,geographic,Telstra Corporation Ltd
+AU,1183,+6173320XXXX,geographic,Telstra Corporation Ltd
+AU,1176,+6173259XXXX,geographic,Telstra Corporation Ltd
+AU,1183,+6173321XXXX,geographic,Telstra Corporation Ltd
+AU,1164,+6173009XXXX,geographic,Telstra Corporation Ltd
+AU,1139,+6139862XXXX,geographic,Telstra Corporation Ltd
+AU,1133,+6139804XXXX,geographic,Telstra Corporation Ltd
+AU,1165,+6173017XXXX,geographic,Telstra Corporation Ltd
+AU,1164,+6173010XXXX,geographic,Telstra Corporation Ltd
+AU,1176,+6173260XXXX,geographic,Telstra Corporation Ltd
+AU,1199,+6173443XXXX,geographic,Aapt Wireless Pty Ltd
+AU,1182,+6173311XXXX,geographic,Singtel Optus Ltd
+AU,1140,+6139871XXXX,geographic,Telstra Corporation Ltd
+AU,1172,+6173219XXXX,geographic,Telstra Corporation Ltd
+AU,1199,+6173444XXXX,geographic,Aapt Wireless Pty Ltd
+AU,1145,+6139926XXXX,geographic,Telstra Corporation Ltd
+AU,1137,+6139836XXXX,geographic,Telstra Corporation Ltd
+AU,1199,+6173445XXXX,geographic,Aapt Ltd
+AU,1137,+6139837XXXX,geographic,Telstra Corporation Ltd
+AU,1193,+61734095XXX,geographic,Telstra Corporation Ltd
+AU,1193,+61734096XXX,geographic,Telstra Corporation Ltd
+AU,1193,+61734097XXX,geographic,Telstra Corporation Ltd
+AU,1166,+6173028XXXX,geographic,Telstra Corporation Ltd
+AU,1168,+6173115XXXX,geographic,Singtel Optus Ltd
+AU,1166,+6173029XXXX,geographic,Telstra Corporation Ltd
+AU,1198,+61734388XXX,geographic,Iptel Pty Ltd
+AU,1165,+6173018XXXX,geographic,Powertel Ltd
+AU,1165,+6173019XXXX,geographic,Aapt Wireless Pty Ltd
+AU,1198,+61734390XXX,geographic,Iptel Pty Ltd
+AU,1139,+6139863XXXX,geographic,Telstra Corporation Ltd
+AU,1198,+61734391XXX,geographic,Iptel Pty Ltd
+AU,1144,+6139913XXXX,geographic,Edge Internet Services Australia Pty Ltd
+AU,1168,+6173116XXXX,geographic,Vodafone Network Pty Ltd
+AU,1190,+6173385XXXX,geographic,Telstra Corporation Ltd
+AU,1172,+6173220XXXX,geographic,Telstra Corporation Ltd
+AU,1140,+6139872XXXX,geographic,Telstra Corporation Ltd
+AU,1190,+6173386XXXX,geographic,Telstra Corporation Ltd
+AU,1190,+6173387XXXX,geographic,Telstra Corporation Ltd
+AU,1140,+6139873XXXX,geographic,Telstra Corporation Ltd
+AU,1144,+6139914XXXX,geographic,Singtel Optus Ltd
+AU,1142,+6139890XXXX,geographic,Telstra Corporation Ltd
+AU,1140,+6139874XXXX,geographic,Telstra Corporation Ltd
+AU,1144,+6139915XXXX,geographic,Singtel Optus Ltd
+AU,1137,+6139838XXXX,geographic,Singtel Optus Ltd
+AU,1142,+6139891XXXX,geographic,Singtel Optus Ltd
+AU,1189,+6173379XXXX,geographic,Telstra Corporation Ltd
+AU,1189,+6173380XXXX,geographic,Telstra Corporation Ltd
+AU,1142,+6139892XXXX,geographic,Telstra Corporation Ltd
+AU,1137,+6139839XXXX,geographic,Telstra Corporation Ltd
+AU,1189,+6173381XXXX,geographic,Telstra Corporation Ltd
+AU,1142,+6139893XXXX,geographic,Singtel Optus Ltd
+AU,1139,+6139864XXXX,geographic,Telstra Corporation Ltd
+AU,1165,+6173020XXXX,geographic,Telstra Corporation Ltd
+AU,1137,+6139840XXXX,geographic,Telstra Corporation Ltd
+AU,1166,+6173030XXXX,geographic,Telstra Corporation Ltd
+AU,1142,+6139894XXXX,geographic,Telstra Corporation Ltd
+AU,1190,+6173388XXXX,geographic,Singtel Optus Ltd
+AU,1190,+6173389XXXX,geographic,Singtel Optus Ltd
+AU,1190,+6173390XXXX,geographic,Telstra Corporation Ltd
+AU,1137,+6139841XXXX,geographic,Telstra Corporation Ltd
+AU,1190,+6173391XXXX,geographic,Telstra Corporation Ltd
+AU,1137,+6139842XXXX,geographic,Telstra Corporation Ltd
+AU,1137,+6139843XXXX,geographic,Telstra Corporation Ltd
+AU,1137,+6139844XXXX,geographic,Telstra Corporation Ltd
