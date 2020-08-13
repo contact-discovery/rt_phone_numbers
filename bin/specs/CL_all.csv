@@ -1,0 +1,1285 @@
+﻿Country,Page,Range,Type,Provider
+CL,100,+5671XXXXXX(X),geographic,
+CL,105,+567238XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,115,+567544XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,100,+5671197XXX(X),geographic,CTR
+CL,105,+567239XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,110,+567321XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,105,+567241XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,100,+5671198XXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,117,+569284XXXX,pager,TelefÃ³nica
+CL,110,+567322XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,103,+5672XXXXXX(X),geographic,
+CL,106,+567251XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,107,+567265XXXX(X),geographic,CMET
+CL,100,+567120XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,105,+567244XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,112,+567364XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,110,+567327XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,117,+569380XXXX,pager,TelefÃ³nica
+CL,103,+5672XXXXXX(X),geographic,
+CL,105,+567245XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,106,+567252XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,102,+567172XXXX(X),geographic,CMET
+CL,106,+567254XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,114,+567530XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,115,+567545XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,117,+569381XXXX,pager,TelefÃ³nica
+CL,10,+562358XXXX,geographic,Vtr TelefÃ³nica
+CL,112,+567373XXXX(X),geographic,CMET
+CL,110,+567330XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,105,+567246XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,100,+567121XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,107,+567266XXXX(X),geographic,CMET
+CL,10,+562359XXXX,geographic,Vtr TelefÃ³nica
+CL,105,+567247XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,112,+567374XXXX(X),geographic,CMET
+CL,114,+567531XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,107,+567267XXXX(X),geographic,CMET
+CL,105,+567248XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,112,+567375XXXX(X),geographic,CMET
+CL,103,+5672XXXXXX(X),geographic,
+CL,117,+56944XXXXXX,mobile,
+CL,10,+56236XXXXX,geographic,Entelphone
+CL,107,+567268XXXX(X),geographic,CMET
+CL,114,+567532XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,112,+567376XXXX(X),geographic,CMET
+CL,105,+567249XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,106,+567255XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,103,+5672XXXXXX(X),geographic,
+CL,111,+567339XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,117,+569480XXXX,pager,TelefÃ³nica
+CL,10,+56237XXXXX,geographic,Entelphone
+CL,115,+567546XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,114,+567533XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,102,+567188XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,11,+562431XXXX,geographic,Entelphone
+CL,101,+567128XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,116,+567556XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,117,+569481XXXX,pager,TelefÃ³nica
+CL,115,+567547XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,103,+5672XXXXXXX,geographic,
+CL,102,+5672XXXXXX(X),geographic,
+CL,107,+567271XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,10,+56238XXXXX,geographic,Telesat
+CL,112,+567377XXXX(X),geographic,CMET
+CL,110,+567332XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,101,+567129XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,108,+567284XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,111,+567341XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,11,+562432XXXX,geographic,Entelphone
+CL,109,+5673XXXXXX(X),geographic,
+CL,105,+567250XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,100,+567122XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,103,+5672XXXXXXX,geographic,
+CL,101,+567130XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,111,+567342XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,115,+567548XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,10,+56239XXXXX,geographic,Telesat
+CL,112,+5675XXXXXX(X),geographic,
+CL,109,+5673XXXXXXX,geographic,
+CL,100,+567123XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,113,+5675XXXXXX(X),geographic,
+CL,116,+567566XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,102,+5672XXXXXX(X),geographic,
+CL,10,+562400XXXX,geographic,TelefÃ³nica Chile S.A.
+CL,106,+567256XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,111,+567343XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,115,+567549XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,114,+567535XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,101,+567137XXXX(X),geographic,CTR
+CL,103,+5672XXXXXX(X),geographic,
+CL,11,+562433XXXX,geographic,Entelphone
+CL,102,+5672XXXXXX(X),geographic,
+CL,10,+562410XXXX,geographic,TelefÃ³nica Chile S.A.
+CL,109,+5673XXXXXXX,geographic,
+CL,113,+5675XXXXXX(X),geographic,
+CL,106,+567257XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,117,+569580XXXX,pager,TelefÃ³nica
+CL,100,+567124XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,11,+562434XXXX,geographic,Entelphone
+CL,115,+567550XXXX(X),geographic,CMET
+CL,110,+567334XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,107,+567272XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,103,+5672XXXXXX(X),geographic,
+CL,108,+567285XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,118,+569781XXXX,pager,TelefÃ³nica
+CL,112,+5675XXXXXX(X),geographic,
+CL,109,+5673XXXXXX(X),geographic,
+CL,113,+5675XXXXXX(X),geographic,
+CL,104,+5672XXXXXX(X),geographic,
+CL,11,+56244XXXXX,geographic,Entelphone
+CL,115,+567551XXXX(X),geographic,CMET
+CL,100,+567125XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,111,+567346XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,112,+5675XXXXXXX,geographic,
+CL,107,+567278XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,109,+5673XXXXXX(X),geographic,
+CL,117,+569581XXXX,pager,TelefÃ³nica
+CL,114,+567537XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,115,+567552XXXX(X),geographic,CMET
+CL,11,+562450XXXX,geographic,Entelphone
+CL,113,+5675XXXXXX(X),geographic,
+CL,118,+569782XXXX,pager,TelefÃ³nica
+CL,116,+567569XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,106,+567259XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,102,+5672XXXXXX(X),geographic,
+CL,118,+569922XXXXX,mobile,TelefÃ³nica
+CL,108,+567286XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,104,+5672XXXXXX(X),geographic,
+CL,110,+567335XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,100,+567126XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,103,+5672XXXXXX(X),geographic,
+CL,117,+569681XXXX,pager,TelefÃ³nica
+CL,101,+567141XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,27,+5632XXXXXX(X),geographic,
+CL,115,+567553XXXX(X),geographic,CMET
+CL,111,+567349XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,118,+569923XXXXX,mobile,Bellsouth
+CL,118,+569924XXXXX,mobile,TelefÃ³nica
+CL,10,+56242XXXXX,geographic,Entelphone
+CL,118,+569783XXXX,pager,TelefÃ³nica
+CL,107,+567281XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,11,+562451XXXX,geographic,CMET
+CL,118,+569925XXXXX,mobile,Bellsouth
+CL,114,+567538XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,109,+5673XXXXXX(X),geographic,
+CL,108,+567288XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,104,+5672XXXXXX(X),geographic,
+CL,118,+569926XXXXX,mobile,TelefÃ³nica
+CL,113,+5675XXXXXX(X),geographic,
+CL,106,+567262XXXX(X),geographic,CMET
+CL,102,+5672XXXXXX(X),geographic,
+CL,119,+569927XXXXX,mobile,Bellsouth
+CL,119,+569929XXXXX,mobile,Entel TelefonÃ­a
+CL,112,+5675XXXXXXX,geographic,
+CL,119,+569931XXXXX,mobile,Entel PCS
+CL,119,+569932XXXXX,mobile,TelefÃ³nica
+CL,116,+567589XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,110,+567336XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,119,+569933XXXXX,mobile,Bellsouth
+CL,108,+567289XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,119,+569934XXXXX,mobile,TelefÃ³nica
+CL,27,+5632XXXXXX(X),geographic,
+CL,119,+569935XXXXX,mobile,Entel PCS
+CL,119,+569936XXXXX,mobile,TelefÃ³nica
+CL,109,+5673XXXXXX(X),geographic,
+CL,1,56,proper,
+CL,119,+569937XXXXX,mobile,TelefÃ³nica
+CL,102,+5672XXXXXX(X),geographic,
+CL,118,+5698XXXXXXX,mobile,
+CL,106,+567263XXXX(X),geographic,CMET
+CL,119,+569939XXXXX,mobile,SmartCom
+CL,10,+562430XXXX,geographic,Entelphone
+CL,113,+5675XXXXXX(X),geographic,
+CL,120,+569941XXXXX,mobile,Entel TelefonÃ­a
+CL,107,+567282XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,2,+562XXXXXXX,geographic,
+CL,116,+5680XXXXX,freephone,
+CL,120,+569942XXXXX,mobile,TelefÃ³nica
+CL,11,+562452XXXX,geographic,CMET
+CL,117,+569780XXXX,pager,TelefÃ³nica
+CL,104,+5672198XXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,20,+562790XXXX,geographic,TelefÃ³nica Chile S.A.
+CL,14,+562564XXXX,geographic,TelefÃ³nica Chile S.A.
+CL,103,+5672XXXXXX(X),geographic,
+CL,120,+569943XXXXX,mobile,Bellsouth
+CL,27,+5632XXXXXXX,geographic,
+CL,109,+5673XXXXXX(X),geographic,
+CL,113,+5675XXXXXX(X),geographic,
+CL,120,+569944XXXXX,mobile,TelefÃ³nica
+CL,120,+569945XXXXX,mobile,Bellsouth
+CL,1,+562XXXXXXXX,geographic,
+CL,120,+569946XXXXX,mobile,TelefÃ³nica
+CL,118,+5699XXXXXXX,mobile,
+CL,101,+567162XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,110,+567337XXXX(X),geographic,CTR
+CL,120,+569947XXXXX,mobile,Entel PCS
+CL,107,+567283XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,106,+567264XXXX(X),geographic,CMET
+CL,102,+5672XXXXXX(X),geographic,
+CL,120,+5699485XXXX,mobile,Entel TelefonÃ­a
+CL,120,+5699486XXXX,mobile,Entel TelefonÃ­a
+CL,108,+567291XXXX(X),geographic,CMET
+CL,2,+562XXXXXXX,geographic,
+CL,111,+567351XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,27,+5632XXXXXXX,geographic,
+CL,120,+5699487XXXX,mobile,Entel TelefonÃ­a
+CL,121,+5699488XXXX,mobile,Entel TelefonÃ­a
+CL,121,+5699489XXXX,mobile,Entel TelefonÃ­a
+CL,121,+569949XXXXX,mobile,Entel TelefonÃ­a
+CL,11,+562454XXXX,geographic,Vtr TelefÃ³nica
+CL,12,+562460XXXX,geographic,Entelphone
+CL,19,+562776XXXX,geographic,TelefÃ³nica Chile S.A.
+CL,114,+567540XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,113,+5675197XXX(X),geographic,CTR
+CL,1,+562XXXXXXX,geographic,
+CL,121,+569951XXXXX,mobile,Entel PCS
+CL,121,+569952XXXXX,mobile,TelefÃ³nica
+CL,116,+569XXXXXXXX,mobile,
+CL,121,+569953XXXXX,mobile,Bellsouth
+CL,121,+569954XXXXX,mobile,TelefÃ³nica
+CL,102,+5672XXXXXX(X),geographic,
+CL,2,+562XXXXXXX,geographic,
+CL,27,+56322100XXX,geographic,Entelphone
+CL,121,+569955XXXXX,mobile,Bellsouth
+CL,121,+569956XXXXX,mobile,TelefÃ³nica
+CL,121,+569957XXXXX,mobile,Entel TelefonÃ­a
+CL,122,+5699585XXXX,mobile,SmartCom
+CL,122,+5699586XXXX,mobile,SmartCom
+CL,122,+5699587XXXX,mobile,SmartCom
+CL,122,+5699588XXXX,mobile,SmartCom
+CL,122,+5699589XXXX,mobile,SmartCom
+CL,2,+562XXXXXXX,geographic,
+CL,14,+562565XXXX,geographic,TelefÃ³nica Chile S.A.
+CL,110,+567338XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,101,+567163XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,15,+562603XXXX,geographic,TelefÃ³nica Chile S.A.
+CL,122,+569959XXXXX,mobile,Entel PCS
+CL,22,+562841XXXX,geographic,TelefÃ³nica Chile S.A.
+CL,109,+5673197XXX(X),geographic,CTR
+CL,108,+567292XXXX(X),geographic,CMET
+CL,18,+562764XXXX,geographic,TelefÃ³nica Chile S.A.
+CL,122,+5699602XXXX,mobile,TelefÃ³nica
+CL,20,+562810XXXX,geographic,TelefÃ³nica Chile S.A.
+CL,21,+562822XXXX,geographic,TelefÃ³nica Chile S.A.
+CL,26,+5632XXXXXX(X),geographic,
+CL,122,+5699603XXXX,mobile,TelefÃ³nica
+CL,122,+5699604XXXX,mobile,TelefÃ³nica
+CL,104,+56722XXXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,111,+567354XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,122,+5699605XXXX,mobile,Bellsouth
+CL,15,+562607XXXX,geographic,TelefÃ³nica Chile S.A.
+CL,27,+56322198XXX,geographic,TelefÃ³nica Chile S.A.
+CL,14,+562566XXXX,geographic,TelefÃ³nica Chile S.A.
+CL,123,+5699606XXXX,mobile,Bellsouth
+CL,113,+5675198XXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,24,+562873XXXX,geographic,TelefÃ³nica Chile S.A.
+CL,123,+5699607XXXX,mobile,Entel PCS
+CL,123,+56996080XXX,mobile,Entel TelefonÃ­a
+CL,109,+5673198XXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,123,+56996081XXX,mobile,Entel TelefonÃ­a
+CL,123,+56996082XXX,mobile,Entel TelefonÃ­a
+CL,11,+562455XXXX,geographic,Vtr TelefÃ³nica
+CL,123,+56996083XXX,mobile,Entel TelefonÃ­a
+CL,123,+56996084XXX,mobile,Entel TelefonÃ­a
+CL,23,+562861XXXX,geographic,TelefÃ³nica Chile S.A.
+CL,104,+567230XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,19,+562777XXXX,geographic,TelefÃ³nica Chile S.A.
+CL,12,+562461XXXX,geographic,Entelphone
+CL,14,+562568XXXX,geographic,TelefÃ³nica Chile S.A.
+CL,123,+56996085XXX,mobile,Bellsouth
+CL,101,+567165XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,123,+56996086XXX,mobile,Bellsouth
+CL,20,+562811XXXX,geographic,TelefÃ³nica Chile S.A.
+CL,108,+567293XXXX(X),geographic,CMET
+CL,15,+56262XXXXX,geographic,TelefÃ³nica Chile S.A.
+CL,22,+562842XXXX,geographic,TelefÃ³nica Chile S.A.
+CL,114,+567541XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,24,+562874XXXX,geographic,TelefÃ³nica Chile S.A.
+CL,26,+5632XXXXXX(X),geographic,
+CL,1,+562XXXXXXX,geographic,
+CL,123,+56996087XXX,mobile,Bellsouth
+CL,101,+567167XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,27,+563222XXXXX,geographic,TelefÃ³nica Chile S.A.
+CL,124,+56996088XXX,mobile,Bellsouth
+CL,124,+56996089XXX,mobile,Bellsouth
+CL,2,+562XXXXXXX,geographic,
+CL,111,+567355XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,124,+5699609XXXX,mobile,SmartCom
+CL,21,+562824XXXX,geographic,TelefÃ³nica Chile S.A.
+CL,15,+56263XXXXX,geographic,TelefÃ³nica Chile S.A.
+CL,124,+569962XXXXX,mobile,TelefÃ³nica
+CL,18,+562765XXXX,geographic,TelefÃ³nica Chile S.A.
+CL,116,+569280XXXX,pager,TelefÃ³nica
+CL,124,+569963XXXXX,mobile,Bellsouth
+CL,124,+569964XXXXX,mobile,TelefÃ³nica
+CL,23,+562863XXXX,geographic,TelefÃ³nica Chile S.A.
+CL,25,+562953XXXX,geographic,Manquehue Net
+CL,113,+567520XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,22,+562843XXXX,geographic,TelefÃ³nica Chile S.A.
+CL,114,+567543XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,20,+562812XXXX,geographic,TelefÃ³nica Chile S.A.
+CL,26,+5632XXXXXX(X),geographic,
+CL,101,+567171XXXX(X),geographic,CMET
+CL,31,+5632267XXXX,geographic,TelefÃ³nica Chile S.A.
+CL,108,+567294XXXX(X),geographic,CMET
+CL,27,+5632230XXXX,geographic,TelefÃ³nica Chile S.A.
+CL,124,+569965XXXXX,mobile,Bellsouth
+CL,19,+562778XXXX,geographic,TelefÃ³nica Chile S.A.
+CL,124,+569966XXXXX,mobile,TelefÃ³nica
+CL,124,+569967XXXXX,mobile,Entel TelefonÃ­a
+CL,124,+5699685XXXX,mobile,SmartCom
+CL,125,+5699686XXXX,mobile,SmartCom
+CL,1,+562XXXXXXX,geographic,
+CL,36,+563330XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,125,+5699687XXXX,mobile,SmartCom
+CL,116,+569281XXXX,pager,TelefÃ³nica
+CL,2,+562XXXXXXX,geographic,
+CL,17,+562707XXXX,geographic,TelefÃ³nica Chile S.A.
+CL,125,+5699688XXXX,mobile,SmartCom
+CL,13,+562500XXXX,geographic,TelefÃ³nica Chile S.A.
+CL,24,+562875XXXX,geographic,TelefÃ³nica Chile S.A.
+CL,14,+562569XXXX,geographic,TelefÃ³nica Chile S.A.
+CL,104,+567231XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,15,+56264XXXXX,geographic,TelefÃ³nica Chile S.A.
+CL,125,+5699689XXXX,mobile,SmartCom
+CL,18,+562766XXXX,geographic,TelefÃ³nica Chile S.A.
+CL,23,+5628650XXX,geographic,Netel S.A.
+CL,125,+569969XXXXX,mobile,Entel TelefonÃ­a
+CL,22,+562844XXXX,geographic,TelefÃ³nica Chile S.A.
+CL,125,+569971XXXXX,mobile,Entel PCS
+CL,125,+569972XXXXX,mobile,TelefÃ³nica
+CL,125,+569973XXXXX,mobile,Bellsouth
+CL,1,+562XXXXXXX,geographic,
+CL,36,+563331XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,125,+569974XXXXX,mobile,TelefÃ³nica
+CL,116,+569282XXXX,pager,TelefÃ³nica
+CL,29,+5632245XXXX,geographic,Entelphone
+CL,30,+5632256XXXX,geographic,TelefÃ³nica Chile S.A.
+CL,21,+562825XXXX,geographic,TelefÃ³nica Chile S.A.
+CL,125,+569975XXXXX,mobile,Bellsouth
+CL,126,+569976XXXXX,mobile,TelefÃ³nica
+CL,13,+56251XXXXX,geographic,TelefÃ³nica Chile S.A.
+CL,12,+562462XXXX,geographic,Entelphone
+CL,27,+5632231XXXX,geographic,TelefÃ³nica Chile S.A.
+CL,111,+567356XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,26,+5632XXXXXX(X),geographic,
+CL,104,+567233XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,126,+569977XXXXX,mobile,Entel PCS
+CL,126,+5699785XXXX,mobile,Entel PCS
+CL,33,+5632291XXXX,geographic,TelefÃ³nica Chile S.A.
+CL,19,+562779XXXX,geographic,TelefÃ³nica Chile S.A.
+CL,18,+562767XXXX,geographic,TelefÃ³nica Chile S.A.
+CL,25,+562954XXXX,geographic,Manquehue Net
+CL,126,+5699786XXXX,mobile,Entel PCS
+CL,31,+5632268XXXX,geographic,TelefÃ³nica Chile S.A.
+CL,23,+5628651XXX,geographic,Netel S.A.
+CL,126,+5699787XXXX,mobile,Entel PCS
+CL,21,+562831XXXX,geographic,TelefÃ³nica Chile S.A.
+CL,126,+5699788XXXX,mobile,Entel PCS
+CL,126,+5699789XXXX,mobile,Entel PCS
+CL,126,+569979XXXXX,mobile,Entel PCS
+CL,24,+562876XXXX,geographic,TelefÃ³nica Chile S.A.
+CL,33,+5632292XXXX,geographic,TelefÃ³nica Chile S.A.
+CL,14,+562578XXXX,geographic,TelefÃ³nica Chile S.A.
+CL,13,+56252XXXXX,geographic,TelefÃ³nica Chile S.A.
+CL,32,+5632281XXXX,geographic,TelefÃ³nica Chile S.A.
+CL,16,+562662XXXX,geographic,TelefÃ³nica Chile S.A.
+CL,20,+562814XXXX,geographic,TelefÃ³nica Chile S.A.
+CL,27,+5632234XXXX,geographic,TelefÃ³nica Chile S.A.
+CL,29,+5632246XXXX,geographic,Entelphone
+CL,126,+569981XXXXX,mobile,Entel TelefonÃ­a
+CL,26,+5632XXXXXX(X),geographic,
+CL,126,+569982XXXXX,mobile,Entel TelefonÃ­a
+CL,127,+569983XXXXX,mobile,Entel TelefonÃ­a
+CL,127,+569984XXXXX,mobile,SmartCom
+CL,17,+562720XXXX,geographic,TelefÃ³nica Chile S.A.
+CL,2,+562XXXXXXX,geographic,
+CL,37,+563377XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,1,+562XXXXXXX,geographic,
+CL,127,+569985XXXXX,mobile,SmartCom
+CL,19,+562780XXXX,geographic,TelefÃ³nica Chile S.A.
+CL,108,+5673XXXXXX(X),geographic,
+CL,23,+5628652XXX,geographic,Netel S.A.
+CL,34,+5633XXXXXX(X),geographic,
+CL,15,+562650XXXX,geographic,Entelphone
+CL,25,+562955XXXX,geographic,Manquehue Net
+CL,116,+569283XXXX,pager,TelefÃ³nica
+CL,18,+562768XXXX,geographic,TelefÃ³nica Chile S.A.
+CL,127,+569986XXXXX,mobile,SmartCom
+CL,36,+563335XXXX(X),geographic,CMET
+CL,13,+56253XXXXX,geographic,TelefÃ³nica Chile S.A.
+CL,43,+5641XXXXXX(X),geographic,
+CL,14,+562579XXXX,geographic,TelefÃ³nica Chile S.A.
+CL,21,+562832XXXX,geographic,TelefÃ³nica Chile S.A.
+CL,29,+5632247XXXX,geographic,Vtr TelefÃ³nica
+CL,22,+562845XXXX,geographic,TelefÃ³nica Chile S.A.
+CL,31,+5632269XXXX,geographic,TelefÃ³nica Chile S.A.
+CL,30,+5632257XXXX,geographic,TelefÃ³nica Chile S.A.
+CL,127,+569987XXXXX,mobile,Entel PCS
+CL,2,+562XXXXXXX,geographic,
+CL,127,+569988XXXXX,mobile,Entel PCS
+CL,26,+5632XXXXXX(X),geographic,
+CL,12,+562463XXXX,geographic,Entelphone
+CL,33,+5632293XXXX,geographic,TelefÃ³nica Chile S.A.
+CL,32,+5632282XXXX,geographic,TelefÃ³nica Chile S.A.
+CL,1,+562XXXXXXX,geographic,
+CL,20,+562815XXXX,geographic,TelefÃ³nica Chile S.A.
+CL,16,+562663XXXX,geographic,TelefÃ³nica Chile S.A.
+CL,14,+562600XXXX,geographic,TelefÃ³nica Chile S.A.
+CL,127,+569989XXXXX,mobile,Entel PCS
+CL,37,+563378XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,45,+564122XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,15,+562651XXXX,geographic,Entelphone
+CL,43,+5641XXXXXX(X),geographic,
+CL,40,+563468XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,36,+563336XXXX(X),geographic,CMET
+CL,21,+562834XXXX,geographic,TelefÃ³nica Chile S.A.
+CL,19,+562781XXXX,geographic,TelefÃ³nica Chile S.A.
+CL,127,+5699915XXXX,mobile,Entel TelefonÃ­a
+CL,25,+562960XXXX,geographic,GVT Chile
+CL,35,+5633XXXXXXX,geographic,
+CL,127,+5699916XXXX,mobile,Entel TelefonÃ­a
+CL,26,+5632XXXXXX(X),geographic,
+CL,127,+5699917XXXX,mobile,Entel TelefonÃ­a
+CL,23,+5628653XXX,geographic,Netel S.A.
+CL,1,+562XXXXXXX,geographic,
+CL,18,+562771XXXX,geographic,TelefÃ³nica Chile S.A.
+CL,128,+5699918XXXX,mobile,Entel TelefonÃ­a
+CL,16,+562664XXXX,geographic,TelefÃ³nica Chile S.A.
+CL,128,+5699919XXXX,mobile,Entel TelefonÃ­a
+CL,13,+56254XXXXX,geographic,TelefÃ³nica Chile S.A.
+CL,2,+562XXXXXXX,geographic,
+CL,17,+562721XXXX,geographic,TelefÃ³nica Chile S.A.
+CL,24,+562879XXXX,geographic,TelefÃ³nica Chile S.A.
+CL,104,+567234XXXX(X),geographic,Bellsouth Chile
+CL,128,+569992XXXXX,mobile,SmartCom
+CL,20,+562817XXXX,geographic,TelefÃ³nica Chile S.A.
+CL,21,+562835XXXX,geographic,TelefÃ³nica Chile S.A.
+CL,32,+5632283XXXX,geographic,TelefÃ³nica Chile S.A.
+CL,30,+5632258XXXX,geographic,TelefÃ³nica Chile S.A.
+CL,34,+5633XXXXXX(X),geographic,
+CL,128,+569993XXXXX,mobile,Entel PCS
+CL,26,+5632XXXXXX(X),geographic,
+CL,35,+5633XXXXXXX,geographic,
+CL,14,+562601XXXX,geographic,TelefÃ³nica Chile S.A.
+CL,19,+562782XXXX,geographic,TelefÃ³nica Chile S.A.
+CL,12,+562464XXXX,geographic,Entelphone
+CL,25,+5630XXXXX,voicemail(mobile),
+CL,37,+563379XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,128,+569994XXXXX,mobile,Entel TelefonÃ­a
+CL,45,+564123XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,41,+5635XXXXXXX,geographic,
+CL,39,+563446XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,18,+562772XXXX,geographic,TelefÃ³nica Chile S.A.
+CL,3,+562XXXXXXX,geographic,
+CL,43,+5641XXXXXX(X),geographic,
+CL,29,+5632248XXXX,geographic,Vtr TelefÃ³nica
+CL,17,+562728XXXX,geographic,TelefÃ³nica Chile S.A.
+CL,32,+5632284XXXX,geographic,TelefÃ³nica Chile S.A.
+CL,40,+563490XXXX(X),geographic,CMET
+CL,33,+5632294XXXX,geographic,TelefÃ³nica Chile S.A.
+CL,22,+562846XXXX,geographic,TelefÃ³nica Chile S.A.
+CL,104,+567235XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,1,+562XXXXXXX,geographic,
+CL,21,+562836XXXX,geographic,TelefÃ³nica Chile S.A.
+CL,19,+562783XXXX,geographic,TelefÃ³nica Chile S.A.
+CL,31,+5632271XXXX,geographic,TelefÃ³nica Chile S.A.
+CL,4,+562XXXXXXX,geographic,
+CL,128,+569995XXXXX,mobile,TelefÃ³nica
+CL,2,+562XXXXXXX,geographic,
+CL,36,+563337XXXX(X),geographic,CMET
+CL,20,+562818XXXX,geographic,TelefÃ³nica Chile S.A.
+CL,37,+5634XXXXXX(X),geographic,
+CL,26,+5632XXXXXXX,geographic,
+CL,128,+5699960XXXX,mobile,TelefÃ³nica
+CL,30,+5632259XXXX,geographic,TelefÃ³nica Chile S.A.
+CL,17,+562729XXXX,geographic,TelefÃ³nica Chile S.A.
+CL,16,+562665XXXX,geographic,TelefÃ³nica Chile S.A.
+CL,14,+562602XXXX,geographic,TelefÃ³nica Chile S.A.
+CL,22,+562847XXXX,geographic,TelefÃ³nica Chile S.A.
+CL,13,+56255XXXXX,geographic,TelefÃ³nica Chile S.A.
+CL,49,+564187XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,25,+56300XXXX,voicemail(mobile),
+CL,35,+5633XXXXXX(X),geographic,
+CL,12,+562465XXXX,geographic,Entelphone
+CL,34,+5633XXXXXX(X),geographic,
+CL,39,+563448XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,4,+562XXXXXXX,geographic,
+CL,36,+563341XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,19,+562786XXXX,geographic,TelefÃ³nica Chile S.A.
+CL,21,+562837XXXX,geographic,TelefÃ³nica Chile S.A.
+CL,29,+5632249XXXX,geographic,Vtr TelefÃ³nica
+CL,41,+5635XXXXXXX,geographic,
+CL,33,+5632295XXXX,geographic,TelefÃ³nica Chile S.A.
+CL,37,+5634XXXXXX(X),geographic,
+CL,40,+563491XXXX(X),geographic,CMET
+CL,15,+562655XXXX,geographic,Entelphone
+CL,43,+5641XXXXXX(X),geographic,
+CL,38,+5634XXXXXX(X),geographic,
+CL,128,+5699961XXXX,mobile,TelefÃ³nica
+CL,12,+562466XXXX,geographic,Entelphone
+CL,31,+5632272XXXX,geographic,Vtr TelefÃ³nica
+CL,128,+5699962XXXX,mobile,TelefÃ³nica
+CL,23,+5628654XXX,geographic,Netel S.A.
+CL,45,+564124XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,25,+5632XXXXXX(X),geographic,
+CL,24,+562889XXXX,geographic,TelefÃ³nica Chile S.A.
+CL,30,+5632261XXXX,geographic,TelefÃ³nica Chile S.A.
+CL,38,+5634XXXXXX(X),geographic,
+CL,49,+564188XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,12,+562467XXXX,geographic,Entelphone
+CL,13,+562560XXXX,geographic,TelefÃ³nica Chile S.A.
+CL,19,+562787XXXX,geographic,TelefÃ³nica Chile S.A.
+CL,36,+563344XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,15,+562660XXXX,geographic,TelefÃ³nica Chile S.A.
+CL,32,+5632285XXXX,geographic,TelefÃ³nica Chile S.A.
+CL,20,+562819XXXX,geographic,TelefÃ³nica Chile S.A.
+CL,25,+5632XXXXXX(X),geographic,
+CL,51,+5642XXXXXX(X),geographic,
+CL,24,+56294XXXXX,geographic,Manquehue Net
+CL,26,+5632XXXXXXX,geographic,
+CL,35,+5633XXXXXX(X),geographic,
+CL,49,+564189XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,17,+56273XXXXX,geographic,TelefÃ³nica Chile S.A.
+CL,34,+5633XXXXXX(X),geographic,
+CL,30,+5632262XXXX,geographic,TelefÃ³nica Chile S.A.
+CL,128,+5699963XXXX,mobile,TelefÃ³nica
+CL,4,+562XXXXXXX,geographic,
+CL,129,+5699964XXXX,mobile,TelefÃ³nica
+CL,129,+569997XXXXX,mobile,SmartCom
+CL,33,+5632297XXXX,geographic,TelefÃ³nica Chile S.A.
+CL,28,+5632235XXXX,geographic,Telesat
+CL,47,+564161XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,22,+562849XXXX,geographic,TelefÃ³nica Chile S.A.
+CL,16,+562667XXXX,geographic,TelefÃ³nica Chile S.A.
+CL,39,+563449XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,31,+5632274XXXX,geographic,TelefÃ³nica Chile S.A.
+CL,20,+562821XXXX,geographic,TelefÃ³nica Chile S.A.
+CL,3,+562XXXXXXX,geographic,
+CL,12,+562470XXXX,geographic,Entelphone
+CL,38,+5634XXXXXX(X),geographic,
+CL,41,+5635XXXXXX(X),geographic,
+CL,15,+562661XXXX,geographic,TelefÃ³nica Chile S.A.
+CL,17,+56274XXXXX,geographic,TelefÃ³nica Chile S.A.
+CL,129,+569998XXXXX,mobile,SmartCom
+CL,36,+563371XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,29,+5632250XXXX,geographic,TelefÃ³nica Chile S.A.
+CL,45,+564125XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,30,+5632263XXXX,geographic,TelefÃ³nica Chile S.A.
+CL,23,+562870XXXX,geographic,TelefÃ³nica Chile S.A.
+CL,49,+564191XXXX(X),geographic,Entelphone
+CL,25,+5632XXXXXX(X),geographic,
+CL,21,+562838XXXX,geographic,TelefÃ³nica Chile S.A.
+CL,42,+563542XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,24,+562950XXXX,geographic,Manquehue Net
+CL,12,+562471XXXX,geographic,Entelphone
+CL,22,+56285XXXXX,geographic,TelefÃ³nica Chile S.A.
+CL,40,+5635XXXXXX(X),geographic,
+CL,18,+562773XXXX,geographic,TelefÃ³nica Chile S.A.
+CL,16,+562668XXXX,geographic,TelefÃ³nica Chile S.A.
+CL,47,+564162XXXX(X),geographic,Telesat
+CL,3,+562XXXXXXX,geographic,
+CL,25,+5632XXXXXX(X),geographic,
+CL,44,+5641XXXXXX(X),geographic,
+CL,54,+564258XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,35,+5633198XXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,17,+56275XXXXX,geographic,Manquehue Net
+CL,33,+5632298XXXX,geographic,TelefÃ³nica Chile S.A.
+CL,39,+563450XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,24,+562951XXXX,geographic,Manquehue Net
+CL,13,+562561XXXX,geographic,TelefÃ³nica Chile S.A.
+CL,43,+5641XXXXXXX,geographic,
+CL,32,+5632286XXXX,geographic,TelefÃ³nica Chile S.A.
+CL,28,+5632236XXXX,geographic,TelefÃ³nica Chile S.A.
+CL,40,+5635XXXXXX(X),geographic,
+CL,4,+562XXXXXXXX,geographic,
+CL,51,+5642XXXXXX(X),geographic,
+CL,36,+563374XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,41,+5635XXXXXX(X),geographic,
+CL,47,+564163XXXX(X),geographic,Telesat
+CL,34,+5633XXXXXX(X),geographic,
+CL,42,+563543XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,29,+5632251XXXX,geographic,TelefÃ³nica Chile S.A.
+CL,31,+5632275XXXX,geographic,TelefÃ³nica Chile S.A.
+CL,49,+564192XXXX(X),geographic,Entelphone
+CL,35,+563322XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,129,+5699990XXXX,mobile,GlobalStar
+CL,3,+562XXXXXXX,geographic,
+CL,38,+5634XXXXXX(X),geographic,
+CL,33,+5632299XXXX,geographic,TelefÃ³nica Chile S.A.
+CL,39,+563451XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,22,+562860XXXX,geographic,TelefÃ³nica Chile S.A.
+CL,13,+562562XXXX,geographic,TelefÃ³nica Chile S.A.
+CL,17,+562762XXXX,geographic,TelefÃ³nica Chile S.A.
+CL,24,+562952XXXX,geographic,Manquehue Net
+CL,50,+5642XXXXXX(X),geographic,
+CL,48,+564172XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,30,+5632264XXXX,geographic,TelefÃ³nica Chile S.A.
+CL,16,+562669XXXX,geographic,TelefÃ³nica Chile S.A.
+CL,44,+5641XXXXXX(X),geographic,
+CL,45,+564126XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,23,+562871XXXX,geographic,TelefÃ³nica Chile S.A.
+CL,37,+5634XXXXXX(X),geographic,
+CL,51,+5642XXXXXX(X),geographic,
+CL,32,+5632287XXXX,geographic,TelefÃ³nica Chile S.A.
+CL,49,+564193XXXX(X),geographic,Vtr TelefÃ³nica
+CL,40,+5635XXXXXX(X),geographic,
+CL,54,+564263XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,47,+564164XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,28,+5632237XXXX,geographic,TelefÃ³nica Chile S.A.
+CL,4,+562XXXXXXX,geographic,
+CL,18,+562774XXXX,geographic,TelefÃ³nica Chile S.A.
+CL,29,+5632252XXXX,geographic,CMET
+CL,33,+5633XXXXXX(X),geographic,
+CL,31,+5632277XXXX,geographic,TelefÃ³nica Chile S.A.
+CL,35,+563326XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,42,+563544XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,43,+5641XXXXXXX,geographic,
+CL,34,+5633XXXXXX(X),geographic,
+CL,48,+564173XXXX(X),geographic,TelefÃ³nica del Sur (CNT)
+CL,30,+5632265XXXX,geographic,TelefÃ³nica Chile S.A.
+CL,41,+5635198XXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,13,+562563XXXX,geographic,TelefÃ³nica Chile S.A.
+CL,44,+5641XXXXXX(X),geographic,
+CL,38,+5634XXXXXX(X),geographic,
+CL,46,+564150XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,3,+562XXXXXXX,geographic,
+CL,17,+562763XXXX,geographic,TelefÃ³nica Chile S.A.
+CL,35,+563327XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,32,+5632288XXXX,geographic,TelefÃ³nica Chile S.A.
+CL,16,+56267XXXXX,geographic,TelefÃ³nica Chile S.A.
+CL,45,+564127XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,58,+564369XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,30,+5632266XXXX,geographic,TelefÃ³nica Chile S.A.
+CL,46,+564151XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,29,+5632253XXXX,geographic,TelefÃ³nica Chile S.A.
+CL,28,+5632238XXXX,geographic,Telesat
+CL,18,+562775XXXX,geographic,TelefÃ³nica Chile S.A.
+CL,33,+5633XXXXXX(X),geographic,
+CL,31,+5632278XXXX,geographic,TelefÃ³nica Chile S.A.
+CL,38,+5634XXXXXX(X),geographic,
+CL,32,+5632289XXXX,geographic,TelefÃ³nica Chile S.A.
+CL,39,+563453XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,50,+5642XXXXXXX,geographic,
+CL,57,+564341XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,47,+564165XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,51,+5642XXXXXX(X),geographic,
+CL,49,+564194XXXX(X),geographic,Vtr TelefÃ³nica
+CL,40,+5635XXXXXX(X),geographic,
+CL,37,+5634XXXXXX(X),geographic,
+CL,44,+5641XXXXXX(X),geographic,
+CL,23,+562872XXXX,geographic,TelefÃ³nica Chile S.A.
+CL,41,+563520XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,34,+5633XXXXXX(X),geographic,
+CL,35,+563328XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,59,+5645XXXXXX(X),geographic,
+CL,36,+563376XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,3,+562XXXXXXX,geographic,
+CL,54,+564264XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,43,+5641XXXXXX(X),geographic,
+CL,58,+56442XXXXXX,VoIPtelephony,
+CL,57,+564343XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,32,+5632290XXXX,geographic,CMET
+CL,16,+56268XXXXX,geographic,TelefÃ³nica Chile S.A.
+CL,29,+5632255XXXX,geographic,Entelphone
+CL,42,+563545XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,40,+5635XXXXXX(X),geographic,
+CL,4,+562XXXXXXX,geographic,
+CL,31,+5632279XXXX,geographic,TelefÃ³nica Chile S.A.
+CL,3,+562XXXXXXX,geographic,
+CL,50,+5642XXXXXXX,geographic,
+CL,46,+564152XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,37,+5634XXXXXXX,geographic,
+CL,28,+5632239XXXX,geographic,Bellsouth Chile
+CL,43,+5641XXXXXX(X),geographic,
+CL,47,+564166XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,54,+564265XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,45,+564128XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,51,+5642XXXXXX(X),geographic,
+CL,50,+5642XXXXXX(X),geographic,
+CL,56,+5643198XXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,48,+564174XXXX(X),geographic,TelefÃ³nica del Sur (CNT)
+CL,54,+564266XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,41,+563521XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,59,+5645XXXXXX(X),geographic,
+CL,62,+564547XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,4,+562198XXXX,geographic,TelefÃ³nica Chile S.A.
+CL,46,+564153XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,43,+5641XXXXXX(X),geographic,
+CL,16,+56269XXXXX,geographic,TelefÃ³nica Chile S.A.
+CL,28,+5632240XXXX,geographic,CMET
+CL,37,+5634XXXXXXX,geographic,
+CL,3,+562XXXXXXX,geographic,
+CL,47,+564167XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,57,+564346XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,39,+563458XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,50,+5642XXXXXX(X),geographic,
+CL,49,+564195XXXX(X),geographic,Vtr TelefÃ³nica
+CL,44,+5641XXXXXXX,geographic,
+CL,38,+5634198XXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,45,+564129XXXX(X),geographic,Bellsouth Chile
+CL,63,+564565XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,58,+56443XXXXXX,VoIPtelephony,
+CL,56,+564330XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,51,+5642XXXXXX(X),geographic,
+CL,54,+564268XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,40,+5635XXXXXX(X),geographic,
+CL,4,+5622XXXXXXX,geographic,
+CL,60,+5645XXXXXX(X),geographic,
+CL,42,+563546XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,43,+5641XXXXXX(X),geographic,
+CL,3,+562XXXXXXX,geographic,
+CL,41,+563523XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,35,+563329XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,52,+5642198XXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,38,+563430XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,34,+5633XXXXXX(X),geographic,
+CL,59,+5645XXXXXX(X),geographic,
+CL,48,+564175XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,62,+564549XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,57,+564351XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,46,+564154XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,47,+564168XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,53,+564235XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,61,+564535XXXX(X),geographic,CTR
+CL,58,+56444XXXXXX,VoIPtelephony,
+CL,28,+5632241XXXX,geographic,CMET
+CL,4,+56220XXXXX,geographic,TelefÃ³nica Chile S.A.
+CL,3,+562XXXXXXX,geographic,
+CL,34,+5633XXXXXX(X),geographic,
+CL,46,+564155XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,39,+563459XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,58,+56445XXXXXX,VoIPtelephony,
+CL,38,+563440XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,63,+564566XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,61,+564536XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,45,+56413XXXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,57,+564355XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,52,+564220XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,64,+564578XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,28,+5632242XXXX,geographic,CMET
+CL,42,+563547XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,39,+563461XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,5,+56222XXXXX,geographic,TelefÃ³nica Chile S.A.
+CL,44,+5641XXXXXXX,geographic,
+CL,60,+5645XXXXXX(X),geographic,
+CL,51,+5642XXXXXX(X),geographic,
+CL,62,+564551XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,37,+5634XXXXXX(X),geographic,
+CL,58,+56446XXXXXX,VoIPtelephony,
+CL,73,+565373XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,40,+5635XXXXXX(X),geographic,
+CL,46,+564156XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,53,+564237XXXX(X),geographic,CTR
+CL,61,+564537XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,49,+564197XXXX(X),geographic,Vtr TelefÃ³nica
+CL,56,+564331XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,39,+563463XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,41,+563528XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,54,+564285XXXX(X),geographic,CMET
+CL,48,+564177XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,28,+5632243XXXX,geographic,CMET
+CL,47,+564169XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,63,+564567XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,4,+56221XXXXX,geographic,TelefÃ³nica Chile S.A.
+CL,50,+5642XXXXXX(X),geographic,
+CL,59,+5645XXXXXX(X),geographic,
+CL,64,+564579XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,51,+5642XXXXXX(X),geographic,
+CL,38,+563442XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,58,+56447XXXXXX,VoIPtelephony,
+CL,6,+562266XXXX,geographic,TelefÃ³nica Chile S.A.
+CL,5,+56223XXXXX,geographic,TelefÃ³nica Chile S.A.
+CL,71,+5653XXXXXXX,geographic,
+CL,34,+5633XXXXXX(X),geographic,
+CL,49,+5642XXXXXX(X),geographic,
+CL,61,+564538XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,70,+565247XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,54,+5643XXXXXX(X),geographic,
+CL,52,+564221XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,47,+564171XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,44,+5641XXXXXX(X),geographic,
+CL,60,+5645197XXX(X),geographic,CTR
+CL,55,+5643XXXXXXX,geographic,
+CL,73,+565374XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,62,+564553XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,65,+5651XXXXXX(X),geographic,
+CL,71,+5653XXXXXXX,geographic,
+CL,59,+5645XXXXXX(X),geographic,
+CL,78,+565730XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,5,+56224XXXXX,geographic,Manquehue Net
+CL,68,+5652XXXXXX(X),geographic,
+CL,51,+5642XXXXXX(X),geographic,
+CL,28,+5632244XXXX,geographic,CMET
+CL,52,+564222XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,53,+564241XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,41,+563530XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,58,+56448XXXXXX,VoIPtelephony,
+CL,63,+564568XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,54,+5643XXXXXX(X),geographic,
+CL,50,+5642XXXXXX(X),geographic,
+CL,6,+562267XXXX,geographic,TelefÃ³nica Chile S.A.
+CL,70,+565248XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,61,+564539XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,48,+564178XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,64,+564581XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,59,+5645XXXXXX(X),geographic,
+CL,45,+56414XXXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,55,+5643XXXXXXX,geographic,
+CL,71,+5653XXXXXX(X),geographic,
+CL,51,+5642197XXX(X),geographic,CTR
+CL,75,+565535XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,65,+5651XXXXXX(X),geographic,
+CL,56,+564332XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,57,+564356XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,52,+564223XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,5,+56225XXXXX,geographic,CMET
+CL,60,+5645198XXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,44,+5641XXXXXX(X),geographic,
+CL,78,+565731XXXX(X),geographic,Vtr TelefÃ³nica
+CL,46,+564157XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,58,+56449XXXXXX,VoIPtelephony,
+CL,6,+562268XXXX,geographic,TelefÃ³nica Chile S.A.
+CL,73,+5655XXXXXX(X),geographic,
+CL,63,+564569XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,54,+5643XXXXXX(X),geographic,
+CL,50,+5642XXXXXX(X),geographic,
+CL,42,+563548XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,74,+5655XXXXXX(X),geographic,
+CL,67,+565141XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,70,+565268XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,68,+5652XXXXXX(X),geographic,
+CL,59,+5645XXXXXX(X),geographic,
+CL,52,+564224XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,56,+564333XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,58,+5645XXXXXX(X),geographic,
+CL,48,+564181XXXX(X),geographic,CMET
+CL,57,+564358XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,74,+5655XXXXXX(X),geographic,
+CL,55,+5643XXXXXX(X),geographic,
+CL,64,+564584XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,5,+562260XXXX,geographic,TelefÃ³nica Chile S.A.
+CL,6,+562269XXXX,geographic,TelefÃ³nica Chile S.A.
+CL,65,+5651XXXXXX(X),geographic,
+CL,73,+5655XXXXXXX,geographic,
+CL,52,+564226XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,71,+5653XXXXXX(X),geographic,
+CL,75,+565536XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,59,+5645XXXXXXX,geographic,
+CL,50,+5642XXXXXX(X),geographic,
+CL,63,+564571XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,44,+564120XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,53,+564247XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,46,+564158XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,77,+565581XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,60,+56452XXXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,70,+5653XXXXXX(X),geographic,
+CL,79,+565745XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,56,+564334XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,59,+5645XXXXXXX,geographic,
+CL,72,+565354XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,67,+565143XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,66,+5651XXXXXX(X),geographic,
+CL,61,+564540XXXX(X),geographic,TelefÃ³nica del Sur (CNT)
+CL,42,+563558XXXX(X),geographic,CMET
+CL,75,+565537XXXX(X),geographic,Vtr TelefÃ³nica
+CL,68,+5652XXXXXX(X),geographic,
+CL,52,+564227XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,78,+565732XXXX(X),geographic,Vtr TelefÃ³nica
+CL,53,+564248XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,46,+564159XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,57,+564359XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,48,+564182XXXX(X),geographic,CMET
+CL,84,+566169XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,63,+564573XXXX(X),geographic,TelefÃ³nica del Sur (CNT)
+CL,70,+5653XXXXXX(X),geographic,
+CL,74,+5655XXXXXX(X),geographic,
+CL,66,+5651XXXXXX(X),geographic,
+CL,65,+5651XXXXXX(X),geographic,
+CL,59,+5645XXXXXX(X),geographic,
+CL,79,+565747XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,53,+564249XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,6,+56227XXXXX,geographic,TelefÃ³nica Chile S.A.
+CL,61,+564541XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,57,+564361XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,75,+565538XXXX(X),geographic,Vtr TelefÃ³nica
+CL,68,+5652XXXXXXX,geographic,
+CL,67,+565145XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,52,+564230XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,44,+564121XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,42,+563588XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,73,+5655XXXXXXX,geographic,
+CL,48,+564183XXXX(X),geographic,CMET
+CL,84,+5663XXXXXX(X),geographic,
+CL,64,+564585XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,70,+5653XXXXXX(X),geographic,
+CL,63,+564575XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,72,+565355XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,74,+5655198XXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,66,+5651198XXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,79,+565748XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,56,+564336XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,76,+565547XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,75,+565539XXXX(X),geographic,Telesat
+CL,68,+5652XXXXXXX,geographic,
+CL,69,+565221XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,73,+5655XXXXXX(X),geographic,
+CL,65,+5651XXXXXX(X),geographic,
+CL,84,+5663XXXXXX(X),geographic,
+CL,77,+565585XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,78,+565738XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,63,+564576XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,61,+564543XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,83,+566128XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,48,+564184XXXX(X),geographic,CMET
+CL,60,+564530XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,67,+565151XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,66,+56512XXXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,72,+565359XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,57,+564362XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,64,+564586XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,56,+564337XXXX(X),geographic,CTR
+CL,74,+56552XXXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,5,+562261XXXX,geographic,Bellsouth Chile
+CL,42,+5641XXXXXX(X),geographic,
+CL,70,+5653XXXXXX(X),geographic,
+CL,79,+565749XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,73,+5655XXXXXX(X),geographic,
+CL,68,+5652XXXXXX(X),geographic,
+CL,52,+564231XXXX(X),geographic,Bellsouth Chile
+CL,55,+5643XXXXXX(X),geographic,
+CL,62,+564556XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,71,+5653XXXXXX(X),geographic,
+CL,50,+5642XXXXXX(X),geographic,
+CL,6,+56228XXXXX,geographic,TelefÃ³nica Chile S.A.
+CL,83,+566129XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,84,+5663XXXXXX(X),geographic,
+CL,77,+5657XXXXXX(X),geographic,
+CL,67,+565153XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,53,+564251XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,7,+562305XXXX,geographic,Vtr TelefÃ³nica
+CL,82,+5661XXXXXX(X),geographic,
+CL,72,+565362XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,79,+565751XXXX(X),geographic,Entelphone
+CL,78,+565739XXXX(X),geographic,Telesat
+CL,82,+5661198XXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,83,+566130XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,70,+5653XXXXXX(X),geographic,
+CL,80,+5658XXXXXX(X),geographic,
+CL,81,+565838XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,6,+56229XXXXX,geographic,TelefÃ³nica Chile S.A.
+CL,78,+565740XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,79,+565773XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,63,+564577XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,69,+565222XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,53,+564253XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,77,+5657XXXXXX(X),geographic,
+CL,61,+564544XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,84,+5663XXXXXX(X),geographic,
+CL,85,+5663XXXXXXX,geographic,
+CL,83,+566131XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,60,+564531XXXX(X),geographic,TelefÃ³nica del Sur (CNT)
+CL,76,+565548XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,72,+565363XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,68,+5652XXXXXX(X),geographic,
+CL,78,+565741XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,70,+5653XXXXXX(X),geographic,
+CL,86,+566327XXXX(X),geographic,TelefÃ³nica del Sur (CNT)
+CL,81,+565889XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,75,+565540XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,74,+565530XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,64,+564587XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,65,+5651XXXXXX(X),geographic,
+CL,7,+5623093XXX,geographic,Entelphone
+CL,5,+562262XXXX,geographic,TelefÃ³nica Chile S.A.
+CL,78,+565742XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,66,+565130XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,79,+565774XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,83,+566133XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,77,+5657XXXXXXX,geographic,
+CL,73,+5655XXXXXX(X),geographic,
+CL,56,+564339XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,81,+56600XXXX,universalaccess,
+CL,6,+562300XXXX,geographic,TelefÃ³nica Chile S.A.
+CL,76,+565549XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,86,+566328XXXX(X),geographic,TelefÃ³nica del Sur (CNT)
+CL,74,+565531XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,55,+5643XXXXXX(X),geographic,
+CL,80,+5658XXXXXXX,geographic,
+CL,85,+5663XXXXXXX,geographic,
+CL,53,+564256XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,60,+564532XXXX(X),geographic,TelefÃ³nica del Sur (CNT)
+CL,70,+5653XXXXXX(X),geographic,
+CL,75,+565541XXXX(X),geographic,Entelphone
+CL,65,+5651XXXXXXX,geographic,
+CL,64,+564588XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,86,+566329XXXX(X),geographic,TelefÃ³nica del Sur (CNT)
+CL,72,+565366XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,62,+564557XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,61,+564545XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,82,+566120XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,55,+5643XXXXXX(X),geographic,
+CL,66,+565131XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,81,+5661XXXXXX(X),geographic,
+CL,69,+565223XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,73,+5655XXXXXX(X),geographic,
+CL,79,+565775XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,67,+565161XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,56,+564340XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,76,+565561XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,71,+5653XXXXXX(X),geographic,
+CL,7,+5623099XXX,geographic,Telesat
+CL,66,+565132XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,80,+565820XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,53,+564257XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,78,+565743XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,85,+5663197XXX(X),geographic,CTR
+CL,87,+566337XXXX(X),geographic,CTR
+CL,83,+566134XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,72,+565368XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,65,+5651XXXXXXX,geographic,
+CL,68,+5652XXXXXX(X),geographic,
+CL,77,+5657XXXXXXX,geographic,
+CL,79,+565779XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,73,+5655XXXXXX(X),geographic,
+CL,75,+565543XXXX(X),geographic,Entelphone
+CL,84,+5663XXXXXX(X),geographic,
+CL,66,+565133XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,77,+5657XXXXXX(X),geographic,
+CL,60,+564533XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,64,+564589XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,78,+565744XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,74,+565532XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,71,+5653198XXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,76,+565562XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,83,+566141XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,5,+562263XXXX,geographic,TelefÃ³nica Chile S.A.
+CL,6,+562301XXXX,geographic,TelefÃ³nica Chile S.A.
+CL,93,+5665198XXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,68,+5652198XXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,67,+565169XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,86,+5663300XXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,69,+565224XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,81,+5661XXXXXX(X),geographic,
+CL,65,+5651XXXXXX(X),geographic,
+CL,87,+566341XXXX(X),geographic,TelefÃ³nica del Sur (CNT)
+CL,62,+564558XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,82,+566121XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,84,+5663XXXXXX(X),geographic,
+CL,83,+566142XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,85,+566320XXXX(X),geographic,TelefÃ³nica del Sur (CNT)
+CL,74,+565533XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,7,+56231XXXXX,geographic,Vtr TelefÃ³nica
+CL,5,+562264XXXX,geographic,TelefÃ³nica Chile S.A.
+CL,64,+564595XXXX(X),geographic,Telesat
+CL,8,+562326XXXX,geographic,Vtr TelefÃ³nica
+CL,66,+565134XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,98,+566732XXXX(X),geographic,Telcoy
+CL,75,+565544XXXX(X),geographic,Entelphone
+CL,68,+565220XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,82,+566122XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,72,+565369XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,7,+562320XXXX,geographic,TelefÃ³nica Chile S.A.
+CL,80,+565821XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,77,+5657XXXXXX(X),geographic,
+CL,6,+562302XXXX,geographic,TelefÃ³nica Chile S.A.
+CL,94,+566533XXXX(X),geographic,Crell
+CL,87,+566342XXXX(X),geographic,TelefÃ³nica del Sur (CNT)
+CL,71,+565330XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,79,+5658XXXXXXX,geographic,
+CL,93,+56652XXXXX(X),geographic,TelefÃ³nica del Sur (CNT)
+CL,84,+5663XXXXXX(X),geographic,
+CL,60,+564534XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,74,+565534XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,55,+5643XXXXXX(X),geographic,
+CL,86,+5663301XXX(X),geographic,TelefÃ³nica del Sur (CNT)
+CL,85,+566321XXXX(X),geographic,TelefÃ³nica del Sur (CNT)
+CL,89,+566421XXXX(X),geographic,TelefÃ³nica del Sur (CNT)
+CL,66,+565139XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,98,+566733XXXX(X),geographic,Telcoy
+CL,83,+566158XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,62,+564561XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,71,+565352XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,7,+562321XXXX,geographic,TelefÃ³nica Chile S.A.
+CL,87,+566344XXXX(X),geographic,TelefÃ³nica del Sur (CNT)
+CL,80,+565822XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,94,+566534XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,75,+565545XXXX(X),geographic,Telesat
+CL,8,+562329XXXX,geographic,TelefÃ³nica Chile S.A.
+CL,81,+5661XXXXXX(X),geographic,
+CL,84,+5663XXXXXX(X),geographic,
+CL,69,+565228XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,76,+565563XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,88,+5664XXXXXX(X),geographic,
+CL,5,+562265XXXX,geographic,TelefÃ³nica Chile S.A.
+CL,65,+5651XXXXXX(X),geographic,
+CL,80,+565823XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,95,+566561XXXX(X),geographic,TelefÃ³nica del Sur (CNT)
+CL,67,+565177XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,89,+566422XXXX(X),geographic,TelefÃ³nica del Sur (CNT)
+CL,97,+5667XXXXXX(X),geographic,
+CL,7,+562322XXXX,geographic,TelefÃ³nica Chile S.A.
+CL,85,+566322XXXX(X),geographic,TelefÃ³nica del Sur (CNT)
+CL,86,+5663302XXX(X),geographic,TelefÃ³nica del Sur (CNT)
+CL,72,+565371XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,99,+5668XXXXXX(X),geographic,
+CL,93,+5665300XXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,62,+564563XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,98,+566734XXXX(X),geographic,Telcoy
+CL,82,+566123XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,95,+566562XXXX(X),geographic,TelefÃ³nica del Sur (CNT)
+CL,77,+5657XXXXXX(X),geographic,
+CL,67,+5652XXXXXX(X),geographic,
+CL,7,+562323XXXX,geographic,Vtr TelefÃ³nica
+CL,89,+566423XXXX(X),geographic,TelefÃ³nica del Sur (CNT)
+CL,91,+566439XXXX(X),geographic,TelefÃ³nica del Sur (CNT)
+CL,87,+566345XXXX(X),geographic,TelefÃ³nica del Sur (CNT)
+CL,80,+565824XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,71,+565353XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,84,+5663XXXXXX(X),geographic,
+CL,8,+56233XXXXX,geographic,TelefÃ³nica Chile S.A.
+CL,82,+566124XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,86,+5663303XXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,97,+5667198XXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,85,+566323XXXX(X),geographic,TelefÃ³nica del Sur (CNT)
+CL,94,+566542XXXX(X),geographic,TelefÃ³nica del Sur (CNT)
+CL,55,+5643XXXXXX(X),geographic,
+CL,72,+565372XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,83,+566162XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,80,+565825XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,81,+5661XXXXXX(X),geographic,
+CL,67,+5652XXXXXX(X),geographic,
+CL,89,+566424XXXX(X),geographic,TelefÃ³nica del Sur (CNT)
+CL,87,+566346XXXX(X),geographic,TelefÃ³nica del Sur (CNT)
+CL,98,+566735XXXX(X),geographic,Telcoy
+CL,62,+564564XXXX(X),geographic,TelefÃ³nica del Sur (CNT)
+CL,99,+5670XXXXX,premiumrate,
+CL,77,+5657XXXXXX(X),geographic,
+CL,95,+566563XXXX(X),geographic,TelefÃ³nica del Sur (CNT)
+CL,82,+566125XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,97,+566721XXXX(X),geographic,Telcoy
+CL,93,+5665301XXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,91,+566442XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,8,+562340XXXX,geographic,TelefÃ³nica Chile S.A.
+CL,89,+566425XXXX(X),geographic,TelefÃ³nica del Sur (CNT)
+CL,94,+566543XXXX(X),geographic,TelefÃ³nica del Sur (CNT)
+CL,69,+565230XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,86,+5663304XXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,95,+566564XXXX(X),geographic,TelefÃ³nica del Sur (CNT)
+CL,80,+565826XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,82,+566126XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,90,+5664305XXX(X),geographic,TelefÃ³nica del Sur (CNT)
+CL,97,+566723XXXX(X),geographic,Telcoy
+CL,93,+5665303XXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,91,+566447XXXX(X),geographic,TelefÃ³nica del Sur (CNT)
+CL,8,+562341XXXX,geographic,TelefÃ³nica Chile S.A.
+CL,99,+56700XXXX,premiumrate,
+CL,97,+566724XXXX(X),geographic,Telcoy
+CL,87,+566347XXXX(X),geographic,TelefÃ³nica del Sur (CNT)
+CL,98,+566736XXXX(X),geographic,Telcoy
+CL,85,+566324XXXX(X),geographic,TelefÃ³nica del Sur (CNT)
+CL,91,+5665XXXXXX(X),geographic,
+CL,88,+5664XXXXXX(X),geographic,
+CL,86,+566331XXXX(X),geographic,TelefÃ³nica del Sur (CNT)
+CL,93,+5665307XXX(X),geographic,TelefÃ³nica del Sur (CNT)
+CL,55,+5643XXXXXX(X),geographic,
+CL,82,+566127XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,94,+566544XXXX(X),geographic,TelefÃ³nica del Sur (CNT)
+CL,76,+565564XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,85,+566325XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,93,+5665308XXX(X),geographic,TelefÃ³nica del Sur (CNT)
+CL,8,+562342XXXX,geographic,TelefÃ³nica Chile S.A.
+CL,7,+562324XXXX,geographic,Vtr TelefÃ³nica
+CL,98,+566741XXXX(X),geographic,Telcoy
+CL,87,+566348XXXX(X),geographic,TelefÃ³nica del Sur (CNT)
+CL,99,+5671XXXXXX(X),geographic,
+CL,81,+5661XXXXXX(X),geographic,
+CL,95,+566566XXXX(X),geographic,TelefÃ³nica del Sur (CNT)
+CL,89,+566426XXXX(X),geographic,TelefÃ³nica del Sur (CNT)
+CL,69,+565231XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,91,+5665XXXXXX(X),geographic,
+CL,55,+5643197XXX(X),geographic,CTR
+CL,88,+5664XXXXXXX,geographic,
+CL,92,+5665XXXXXX(X),geographic,
+CL,99,+5671XXXXXX(X),geographic,
+CL,94,+566545XXXX(X),geographic,TelefÃ³nica del Sur (CNT)
+CL,7,+562325XXXX,geographic,Vtr TelefÃ³nica
+CL,69,+565232XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,90,+5664306XXX(X),geographic,TelefÃ³nica del Sur (CNT)
+CL,87,+566349XXXX(X),geographic,TelefÃ³nica del Sur (CNT)
+CL,89,+5664300XXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,80,+565830XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,98,+566742XXXX(X),geographic,Telcoy
+CL,8,+562343XXXX,geographic,TelefÃ³nica Chile S.A.
+CL,95,+566567XXXX(X),geographic,TelefÃ³nica del Sur (CNT)
+CL,91,+5665XXXXXX(X),geographic,
+CL,76,+565569XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,88,+5664XXXXXXX,geographic,
+CL,90,+566431XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,86,+566334XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,9,+562348XXXX,geographic,TelefÃ³nica Chile S.A.
+CL,69,+565244XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,91,+5665XXXXXX(X),geographic,
+CL,87,+5664XXXXXX(X),geographic,
+CL,89,+5664301XXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,8,+562344XXXX,geographic,TelefÃ³nica Chile S.A.
+CL,95,+566568XXXX(X),geographic,TelefÃ³nica del Sur (CNT)
+CL,93,+5665309XXX(X),geographic,TelefÃ³nica del Sur (CNT)
+CL,85,+566326XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,92,+5665XXXXXX(X),geographic,
+CL,99,+5671XXXXXX(X),geographic,
+CL,91,+5665XXXXXX(X),geographic,
+CL,76,+565577XXXX(X),geographic,Vtr TelefÃ³nica
+CL,98,+566743XXXX(X),geographic,Telcoy
+CL,89,+5664303XXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,9,+562349XXXX,geographic,TelefÃ³nica Chile S.A.
+CL,95,+566569XXXX(X),geographic,TelefÃ³nica del Sur (CNT)
+CL,99,+5671XXXXXX(X),geographic,
+CL,92,+5665XXXXXX(X),geographic,
+CL,8,+562346XXXX,geographic,TelefÃ³nica Chile S.A.
+CL,93,+566531XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,91,+5665XXXXXX(X),geographic,
+CL,97,+566725XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,94,+566546XXXX(X),geographic,TelefÃ³nica del Sur (CNT)
+CL,88,+5664XXXXXX(X),geographic,
+CL,95,+566572XXXX(X),geographic,TelefÃ³nica del Sur (CNT)
+CL,9,+562350XXXX,geographic,TelefÃ³nica Chile S.A.
+CL,76,+565578XXXX(X),geographic,Vtr TelefÃ³nica
+CL,89,+5664304XXX(X),geographic,TelefÃ³nica del Sur (CNT)
+CL,99,+5671XXXXXX(X),geographic,
+CL,92,+5665XXXXXX(X),geographic,
+CL,69,+565246XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,81,+5661XXXXXXX,geographic,
+CL,91,+5665XXXXXX(X),geographic,
+CL,90,+566432XXXX(X),geographic,TelefÃ³nica del Sur (CNT)
+CL,93,+566532XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,97,+566726XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,9,+562351XXXX,geographic,TelefÃ³nica Chile S.A.
+CL,88,+5664XXXXXX(X),geographic,
+CL,98,+566752XXXX(X),geographic,Telcoy
+CL,94,+566547XXXX(X),geographic,TelefÃ³nica del Sur (CNT)
+CL,8,+562347XXXX,geographic,TelefÃ³nica Chile S.A.
+CL,92,+5665XXXXXX(X),geographic,
+CL,99,+5671XXXXXXX,geographic,
+CL,95,+566573XXXX(X),geographic,TelefÃ³nica del Sur (CNT)
+CL,98,+5667670XXX(X),geographic,Entelphone
+CL,94,+566548XXXX(X),geographic,TelefÃ³nica del Sur (CNT)
+CL,90,+566433XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,9,+562352XXXX,geographic,TelefÃ³nica Chile S.A.
+CL,88,+5664XXXXXX(X),geographic,
+CL,97,+566727XXXX(X),geographic,Telcoy
+CL,96,+566574XXXX(X),geographic,TelefÃ³nica del Sur (CNT)
+CL,81,+5661XXXXXXX,geographic,
+CL,94,+566553XXXX(X),geographic,TelefÃ³nica del Sur (CNT)
+CL,9,+562353XXXX,geographic,TelefÃ³nica Chile S.A.
+CL,99,+5671XXXXXXX,geographic,
+CL,92,+5665XXXXXX(X),geographic,
+CL,90,+566434XXXX(X),geographic,TelefÃ³nica del Sur (CNT)
+CL,97,+566730XXXX(X),geographic,TelefÃ³nica Chile S.A.
+CL,96,+5667XXXXXX(X),geographic,
+CL,88,+5664XXXXXX(X),geographic,
+CL,9,+562354XXXX,geographic,TelefÃ³nica Chile S.A.
+CL,92,+5665XXXXXX(X),geographic,
+CL,88,+5664XXXXXX(X),geographic,
+CL,90,+566435XXXX(X),geographic,TelefÃ³nica del Sur (CNT)
+CL,97,+566731XXXX(X),geographic,Telcoy
+CL,92,+5665XXXXXXX,geographic,
+CL,88,+566420XXXX(X),geographic,TelefÃ³nica del Sur (CNT)
+CL,96,+5667XXXXXX(X),geographic,
+CL,90,+566436XXXX(X),geographic,TelefÃ³nica del Sur (CNT)
+CL,9,+562355XXXX,geographic,TelefÃ³nica Chile S.A.
+CL,9,+562356XXXX,geographic,Vtr TelefÃ³nica
+CL,96,+5667XXXXXXX,geographic,
+CL,92,+5665XXXXXX(X),geographic,
+CL,96,+5667XXXXXX(X),geographic,
+CL,9,+562357XXXX,geographic,Vtr TelefÃ³nica
+CL,90,+566437XXXX(X),geographic,TelefÃ³nica del Sur (CNT)
+CL,92,+5665XXXXXX(X),geographic,
+CL,90,+566438XXXX(X),geographic,TelefÃ³nica del Sur (CNT)
+CL,96,+5667XXXXXXX,geographic,
+CL,96,+5667XXXXXX(X),geographic,
+CL,96,+5667XXXXXX(X),geographic,
+CL,96,+5667XXXXXX(X),geographic,
+CL,96,+5667XXXXXX(X),geographic,

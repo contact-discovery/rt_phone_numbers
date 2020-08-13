@@ -1,0 +1,132 @@
+﻿Country,Page,Range,Type,Provider
+PG,13,+675973XXXX,geographic,Telikom PNG Ltd
+PG,11,+675770XXXXX,wirelessgeographic,
+PG,3,+675202XXXX,VoIPtelephony,Digicel (PNG) Ltd
+PG,13,+675975XXXX,geographic,Telikom PNG Ltd
+PG,11,+675771XXXXX,wirelessgeographic,
+PG,7,+675459XXXX,geographic,Telikom PNG Ltd
+PG,6,+675327XXXX,geographic,Telikom PNG Ltd
+PG,13,+675976XXXX,geographic,Telikom PNG Ltd
+PG,14,+675989XXXX,geographic,Telikom PNG Ltd
+PG,2,+675180XXXX,freephone,
+PG,3,+675203XXXX,VoIPtelephony,Oceanic Broadband
+PG,11,+675772XXXXX,wirelessgeographic,
+PG,8,+675542XXXX,geographic,Telikom PNG Ltd
+PG,7,+67547XXXXX,geographic,Telikom PNG Ltd
+PG,6,+675328XXXX,geographic,Telikom PNG Ltd
+PG,13,+675980XXXX,geographic,Telikom PNG Ltd
+PG,7,+6755XXXXXX,geographic,
+PG,11,+6757730XXXX,wirelessgeographic,
+PG,3,+675204XXXX,VoIPtelephony,Digitec PNG Ltd
+PG,8,+675545XXXX,geographic,Telikom PNG Ltd
+PG,6,+675329XXXX,geographic,Telikom PNG Ltd
+PG,2,+675181XXXX,freephone,
+PG,11,+675774XXXXX,wirelessgeographic,
+PG,3,+675207XXXX,VoIPtelephony,Digivoip Communications Ltd
+PG,4,+67528XXXXX,pager,
+PG,13,+675981XXXX,geographic,Telikom PNG Ltd
+PG,6,+675422XXXX,geographic,Telikom PNG Ltd
+PG,2,+675182XXXX,freephone,
+PG,8,+675546XXXX,geographic,Telikom PNG Ltd
+PG,5,+675310XXXX,geographic,Telikom PNG Ltd
+PG,7,+675530XXXX,geographic,Telikom PNG Ltd
+PG,3,+675270XXXX,pager,Telikom PNG Ltd
+PG,8,+675547XXXX,geographic,Telikom PNG Ltd
+PG,4,+67529XXXXX,pager,
+PG,12,+6758XXXXXX,geographic,
+PG,2,+675183XXXX,freephone,
+PG,13,+675982XXXX,geographic,Telikom PNG Ltd
+PG,1,+675170XX,mobile,Telikom PNG Ltd (Smart Trunk)
+PG,5,+675311XXXX,geographic,Telikom PNG Ltd
+PG,9,+675642XXXX,geographic,Telikom PNG Ltd
+PG,2,+675189X,mobile,Telikom PNG Ltd (HF interconnect)
+PG,1,675,proper,
+PG,7,+675531XXXX,geographic,Telikom PNG Ltd
+PG,9,+67570XXXXXX,mobile,Digicel (PNG) Ltd
+PG,9,+67571XXXXXX,mobile,Digicel (PNG) Ltd
+PG,9,+67572XXXXXX,mobile,Digicel (PNG) Ltd
+PG,6,+675423XXXX,geographic,Telikom PNG Ltd
+PG,9,+675643XXXX,geographic,Telikom PNG Ltd
+PG,10,+675731XXXXX,mobile,Digicel (PNG) Ltd
+PG,4,+6753XXXXXX,geographic,
+PG,10,+675732XXXXX,mobile,Digicel (PNG) Ltd
+PG,13,+675983XXXX,geographic,Telikom PNG Ltd
+PG,3,+675271XXXX,pager,Telikom PNG Ltd
+PG,7,+675532XXXX,geographic,Telikom PNG Ltd
+PG,8,+675549XXXX,geographic,Telikom PNG Ltd
+PG,5,+675312XXXX,geographic,Telikom PNG Ltd
+PG,10,+675733XXXXX,mobile,Digicel (PNG) Ltd
+PG,12,+67580XXXXXX,freephone,
+PG,1,+675115XXXXXXXX,voicemail(mobile),Telikom PNG Ltd
+PG,10,+675734XXXXX,mobile,Digicel (PNG) Ltd
+PG,13,+675984XXXX,geographic,Telikom PNG Ltd
+PG,2,+675184XXXXXXXX,internetserviceprovider,PSDN X.28
+PG,9,+675645XXXX,geographic,Telikom PNG Ltd
+PG,1,+6751151680XXXX,voicemail(mobile),Telikom PNG Ltd
+PG,10,+675735XXXXX,mobile,Digicel (PNG) Ltd
+PG,10,+675736XXXXX,mobile,Digicel (PNG) Ltd
+PG,3,+675275XXXX,satellite,Telikom PNG Ltd (VSAT)
+PG,6,+675424XXXX,geographic,Telikom PNG Ltd
+PG,10,+675737XXXXX,mobile,Digicel (PNG) Ltd
+PG,10,+675738XXXXX,mobile,Digicel (PNG) Ltd
+PG,4,+675300XXXX,geographic,Telikom PNG Ltd
+PG,10,+675739XXXXX,mobile,Digicel (PNG) Ltd
+PG,13,+675985XXXX,geographic,Telikom PNG Ltd
+PG,8,+6756XXXXXX,geographic,
+PG,2,+675185XXXX,pager,
+PG,7,+675535XXXX,geographic,Telikom PNG Ltd
+PG,6,+675450XXXX,geographic,Telikom PNG Ltd
+PG,9,+675646XXXX,geographic,Telikom PNG Ltd
+PG,1,+6751151681XXXX,voicemail(mobile),Telikom PNG Ltd
+PG,4,+675301XXXX,geographic,Telikom PNG Ltd
+PG,10,+67574XXXXXX,mobile,Digicel (PNG) Ltd
+PG,3,+675276XXXX,satellite,TeliSat
+PG,11,+67575XXXXXX,mobile,BeMobile (PNG) Ltd
+PG,5,+675320XXXX,geographic,Telikom PNG Ltd
+PG,2,+675188XXXX,internetserviceprovider,Telikom PNG Ltd
+PG,13,+675987XXXX,geographic,Telikom PNG Ltd
+PG,8,+675629XXXX,geographic,Telikom PNG Ltd
+PG,6,+675456XXXX,geographic,Telikom PNG Ltd
+PG,1,+6751151682XXXX,voicemail(mobile),Telikom PNG Ltd
+PG,4,+675302XXXX,geographic,Telikom PNG Ltd
+PG,3,+675278XXXX,satellite,Palapa (DAMA)
+PG,7,+675537XXXX,geographic,Telikom PNG Ltd
+PG,12,+67586XXXXX,geographic,Telikom PNG Ltd
+PG,11,+67576XXXXXX,mobile,BeMobile (PNG) Ltd
+PG,9,+675648XXXX,geographic,Telikom PNG Ltd
+PG,5,+675321XXXX,geographic,Telikom PNG Ltd
+PG,11,+675775XXXXX,mobile,Telikom PNG Ltd (Citifon)
+PG,8,+675629XXXX,geographic,Telikom PNG Ltd
+PG,2,+675200XXXX,VoIPtelephony,Telikom PNG Ltd
+PG,3,+675279XXXX,satellite,Intelsat (DAMA)
+PG,4,+675303XXXX,geographic,Telikom PNG Ltd
+PG,2,+675201XXXX,VoIPtelephony,BeMobile (PNG) Ltd
+PG,1,+6751151683XXXX,voicemail(mobile),Telikom PNG Ltd
+PG,6,+675457XXXX,geographic,Telikom PNG Ltd
+PG,9,+675649XXXX,geographic,Telikom PNG Ltd
+PG,4,+675306XXXX,geographic,Telikom PNG Ltd
+PG,12,+67586XXXXX,geographic,Telikom PNG Ltd
+PG,1,+6751151684XXXX,voicemail(mobile),Telikom PNG Ltd
+PG,7,+675540XXXX,geographic,Telikom PNG Ltd
+PG,5,+675322XXXX,geographic,Telikom PNG Ltd
+PG,8,+675641XXXX,geographic,Telikom PNG Ltd
+PG,6,+675458XXXX,geographic,Telikom PNG Ltd
+PG,9,+6757XXXXXX,geographic,
+PG,12,+67587XXXXX,geographic,Telikom PNG Ltd
+PG,11,+67578XXXXXX,mobile,Telikom PNG Ltd (Citifon)
+PG,7,+675541XXXX,geographic,Telikom PNG Ltd
+PG,1,+67516XXXXX,internetserviceprovider,
+PG,5,+675323XXXX,geographic,Telikom PNG Ltd
+PG,8,+675642XXXX,geographic,Telikom PNG Ltd
+PG,11,+67579XXXXXX,mobile,Digicel (PNG) Ltd
+PG,4,+675308XXXX,geographic,Telikom PNG Ltd
+PG,12,+67587XXXXX,geographic,Telikom PNG Ltd
+PG,4,+675309XXXX,geographic,Telikom PNG Ltd
+PG,12,+67579XXXXXX,mobile,Digicel (PNG) Ltd
+PG,12,+67581XXXXXX,mobile,Digivoip Communications Ltd
+PG,5,+675324XXXX,geographic,Telikom PNG Ltd
+PG,12,+6759XXXXXX,geographic,
+PG,5,+675325XXXX,geographic,Telikom PNG Ltd
+PG,1,+67518XXXXX,internetserviceprovider,
+PG,5,+675326XXXX,geographic,Telikom PNG Ltd
+PG,12,+675970XXXX,geographic,Telikom PNG Ltd

@@ -1,0 +1,199 @@
+﻿Country,Page,Range,Type,Provider
+KG,10,+9963535XXXXX,geographic,
+KG,15,+9963941XXXXX,geographic,
+KG,10,+9963536XXXXX,geographic,
+KG,10,+9963537XXXXX,geographic,
+KG,11,+9963565XXXXX,wirelessgeographic,KyrgyzTelecom
+KG,12,+9963663XXXXX,wirelessgeographic,KyrgyzTelecom
+KG,11,+9963622XXXXX,geographic,
+KG,15,+9963942XXXXX,geographic,
+KG,16,+9963962XXXXX,wirelessgeographic,KyrgyzTelecom
+KG,10,+9963559XXXXX,geographic,
+KG,12,+9963722XXXXX,geographic,
+KG,13,+9963746XXXXX,geographic,
+KG,11,+9963653XXXXX,geographic,
+KG,15,+9963943XXXXX,geographic,
+KG,10,+996356XXXXXX,wirelessgeographic,
+KG,11,+9963655XXXXX,geographic,
+KG,13,+9963747XXXXX,geographic,
+KG,12,+9963734XXXXX,geographic,
+KG,10,+99635602XXXX,wirelessgeographic,KyrgyzTelecom
+KG,11,+9963656XXXXX,geographic,
+KG,16,+9963963XXXXX,wirelessgeographic,KyrgyzTelecom
+KG,13,+9963748XXXXX,geographic,
+KG,19,+996623XXXXXX,geographic,Asiainfo
+KG,10,+9963561XXXXX,wirelessgeographic,KyrgyzTelecom
+KG,12,+9963736XXXXX,geographic,
+KG,17,+9965227XXXXX,satellite,Ay Sat Systems
+KG,14,+9963765XXXXX,wirelessgeographic,KyrgyzTelecom
+KG,11,+9963657XXXXX,geographic,
+KG,16,+9963964XXXXX,wirelessgeographic,KyrgyzTelecom
+KG,13,+9963759XXXXX,geographic,
+KG,12,+9963738XXXXX,geographic,
+KG,15,+9963944XXXXX,geographic,
+KG,10,+9963562XXXXX,wirelessgeographic,KyrgyzTelecom
+KG,14,+9963766XXXXX,wirelessgeographic,KyrgyzTelecom
+KG,19,+996624XXXXXX,geographic,KiterraCom
+KG,11,+996366XXXXXX,wirelessgeographic,
+KG,16,+9963965XXXXX,wirelessgeographic,KyrgyzTelecom
+KG,17,+9965228XXXXX,satellite,Ay Sat Systems
+KG,13,+996376XXXXXX,wirelessgeographic,
+KG,14,+9963767XXXXX,wirelessgeographic,KyrgyzTelecom
+KG,1,996,proper,
+KG,15,+9963945XXXXX,geographic,
+KG,6,+9963152XXXXX,wirelessgeographic,KyrgyzTelecom
+KG,13,+99637602XXXX,wirelessgeographic,KyrgyzTelecom
+KG,15,+9963946XXXXX,geographic,
+KG,14,+9963768XXXXX,wirelessgeographic,KyrgyzTelecom
+KG,1,+996200XXXXXX,mobile,AkTel (Fonex)
+KG,1,+996201XXXXXX,mobile,AkTel (Fonex)
+KG,4,+99631269XXXX,geographic,WinLine
+KG,6,+996316XXXXXX,wirelessgeographic,
+KG,1,+996202XXXXXX,mobile,AkTel (Fonex)
+KG,1,+996203XXXXXX,mobile,AkTel (Fonex)
+KG,13,+9963761XXXXX,wirelessgeographic,KyrgyzTelecom
+KG,12,+9963741XXXXX,geographic,
+KG,1,+996205XXXXXX,mobile,AkTel (Fonex)
+KG,1,+99620XXXXXXX,mobile,AkTel (Fonex)
+KG,1,+99622XXXXXXX,mobile,Sky Mobile
+KG,4,+99631290XXXX,geographic,Saima-Telecom
+KG,16,+9963966XXXXX,wirelessgeographic,KyrgyzTelecom
+KG,14,+9963769XXXXX,wirelessgeographic,KyrgyzTelecom
+KG,15,+9963947XXXXX,geographic,
+KG,16,+99650XXXXXXX,mobile,Bitel
+KG,6,+9963161XXXXX,wirelessgeographic,KyrgyzTelecom
+KG,16,+99651XXXXXXX,mobile,Katel
+KG,11,+99636602XXXX,wirelessgeographic,KyrgyzTelecom
+KG,4,+99631291XXXX,geographic,Saima-Telecom
+KG,17,+996543XXXXXX,mobile,AkTel (Fonex)
+KG,10,+9963563XXXXX,wirelessgeographic,KyrgyzTelecom
+KG,14,+996377XXXXXX,wirelessgeographic,
+KG,17,+99654595XXXX,mobile,AkTel (Fonex)
+KG,13,+9963762XXXXX,wirelessgeographic,KyrgyzTelecom
+KG,17,+99654596XXXX,mobile,AkTel (Fonex)
+KG,6,+9963162XXXXX,wirelessgeographic,KyrgyzTelecom
+KG,17,+99654XXXXXXX,mobile,AkTel (Fonex)
+KG,4,+99631292XXXX,geographic,Saima-Telecom
+KG,15,+996396XXXXXX,wirelessgeographic,
+KG,17,+99655XXXXXXX,mobile,BiMoCom (Megacom)
+KG,17,+99656550XXXX,mobile,Winline
+KG,17,+99656647XXXX,mobile,Winline
+KG,10,+9963564XXXXX,wirelessgeographic,KyrgyzTelecom
+KG,11,+9963661XXXXX,wirelessgeographic,KyrgyzTelecom
+KG,12,+9963742XXXXX,geographic,
+KG,17,+99656XXXXXXX,mobile,Winline
+KG,16,+9963967XXXXX,wirelessgeographic,KyrgyzTelecom
+KG,18,+99656669XXXX,mobile,Winline
+KG,14,+9963775XXXXX,wirelessgeographic,KyrgyzTelecom
+KG,12,+9963743XXXXX,geographic,
+KG,2,+9963124XXXXX,geographic,KyrgyzTelecom
+KG,13,+9963763XXXXX,wirelessgeographic,KyrgyzTelecom
+KG,6,+9963163XXXXX,wirelessgeographic,KyrgyzTelecom
+KG,18,+99656687XXXX,mobile,Winline
+KG,20,+996800XXXXXX,freephone,
+KG,18,+996609XXXXXX,geographic,Winline
+KG,14,+9963776XXXXX,wirelessgeographic,KyrgyzTelecom
+KG,16,+9963968XXXXX,wirelessgeographic,KyrgyzTelecom
+KG,18,+99656688XXXX,mobile,Winline
+KG,18,+99656689XXXX,mobile,Winline
+KG,6,+9963164XXXXX,wirelessgeographic,KyrgyzTelecom
+KG,12,+9963744XXXXX,geographic,
+KG,18,+9965669XXXXX,mobile,Winline
+KG,18,+99657XXXXXXX,mobile,Sotel
+KG,13,+9963764XXXXX,wirelessgeographic,KyrgyzTelecom
+KG,18,+996612XXXXXX,geographic,Saima-Telecom
+KG,18,+99658XXXXXXX,mobile,Global Telecom
+KG,3,+99631259XXXX,geographic,KyrgyzTelecom
+KG,4,+99631293XXXX,geographic,WinLine
+KG,2,+99631250XXXX,geographic,KyrgyzTelecom
+KG,19,+99670XXXXXXX,mobile,NUR Telecom LLC (O!)
+KG,19,+996770XXXXXX,mobile,Sky Mobile
+KG,19,+996771XXXXXX,mobile,Sky Mobile
+KG,15,+99639602XXXX,wirelessgeographic,KyrgyzTelecom
+KG,19,+996772XXXXXX,mobile,Sky Mobile
+KG,12,+9963745XXXXX,geographic,
+KG,7,+9963222XXXXX,geographic,
+KG,6,+9963165XXXXX,wirelessgeographic,KyrgyzTelecom
+KG,19,+996773XXXXXX,mobile,Sky Mobile
+KG,19,+99677558XXXX,mobile,Sky Mobile
+KG,19,+99677597XXXX,mobile,Sky Mobile
+KG,14,+9963777XXXXX,wirelessgeographic,KyrgyzTelecom
+KG,18,+996622XXXXXX,geographic,Elcat
+KG,19,+99677XXXXXXX,mobile,Sky Mobile
+KG,20,+99677598XXXX,mobile,Sky Mobile
+KG,11,+9963662XXXXX,wirelessgeographic,KyrgyzTelecom
+KG,15,+9963961XXXXX,wirelessgeographic,KyrgyzTelecom
+KG,4,+99631294XXXX,geographic,Mintel
+KG,2,+99631251XXXX,geographic,KyrgyzTelecom
+KG,20,+99677599XXXX,mobile,Sky Mobile
+KG,20,+996777XXXXXX,mobile,Sky Mobile
+KG,20,+996778XXXXXX,mobile,Sky Mobile
+KG,3,+99631260XXXX,geographic,KyrgyzTelecom
+KG,7,+9963230XXXXX,geographic,
+KG,20,+996779XXXXXX,mobile,Sky Mobile
+KG,20,+996996XXXXXX,mobile,Sky Mobile
+KG,14,+9963922XXXXX,geographic,
+KG,20,+996999XXXXXX,mobile,Sky Mobile
+KG,4,+996312970XXX,geographic,Totel
+KG,7,+9963231XXXXX,geographic,
+KG,3,+99631261XXXX,geographic,KyrgyzTelecom
+KG,6,+9963166XXXXX,wirelessgeographic,
+KG,2,+99631252XXXX,geographic,KyrgyzTelecom
+KG,9,+9963458XXXXX,geographic,
+KG,16,+99652XXXXXXX,satellite,Ay Sat Systems
+KG,3,+99631262XXXX,geographic,KyrgyzTelecom
+KG,9,+9963459XXXXX,geographic,
+KG,4,+996312975XXX,geographic,Megaline
+KG,6,+9963167XXXXX,wirelessgeographic,
+KG,7,+9963232XXXXX,geographic,
+KG,9,+996346XXXXXX,wirelessgeographic,
+KG,3,+99631263XXXX,geographic,KyrgyzTelecom
+KG,2,+99631253XXXX,geographic,KyrgyzTelecom
+KG,6,+9963168XXXXX,wirelessgeographic,
+KG,5,+996313XXXXXX,wirelessgeographic,
+KG,7,+9963233XXXXX,geographic,
+KG,9,+99634602XXXX,wirelessgeographic,KyrgyzTelecom
+KG,7,+9963234XXXXX,geographic,
+KG,2,+99631254XXXX,geographic,KyrgyzTelecom
+KG,3,+99631264XXXX,geographic,KyrgyzTelecom
+KG,4,+996312976XXX,geographic,Megaline
+KG,9,+9963461XXXXX,wirelessgeographic,KyrgyzTelecom
+KG,3,+99631265XXXX,geographic,KyrgyzTelecom
+KG,1,+996312XXXXXX,geographic,
+KG,4,+99631299XXXX,geographic,Tun-Sun
+KG,5,+9963131XXXXX,geographic,KyrgyzTelecom
+KG,3,+99631266XXXX,geographic,KyrgyzTelecom
+KG,1,+9963122XXXXX,geographic,KyrgyzTelecom
+KG,2,+99631255XXXX,geographic,KyrgyzTelecom
+KG,8,+9963261XXXXX,wirelessgeographic,KyrgyzTelecom
+KG,7,+9963237XXXXX,geographic,
+KG,5,+9963132XXXXX,geographic,KyrgyzTelecom
+KG,2,+99631256XXXX,geographic,KyrgyzTelecom
+KG,8,+9963262XXXXX,wirelessgeographic,KyrgyzTelecom
+KG,2,+99631257XXXX,geographic,KyrgyzTelecom
+KG,3,+99631267XXXX,geographic,KyrgyzTelecom
+KG,7,+9963239XXXXX,geographic,
+KG,9,+9963462XXXXX,wirelessgeographic,KyrgyzTelecom
+KG,5,+9963133XXXXX,geographic,KyrgyzTelecom
+KG,8,+9963263XXXXX,wirelessgeographic,KyrgyzTelecom
+KG,2,+99631258XXXX,geographic,Sky Mobile
+KG,3,+99631268XXXX,geographic,KyrgyzTelecom
+KG,8,+9963264XXXXX,wirelessgeographic,KyrgyzTelecom
+KG,9,+9963463XXXXX,wirelessgeographic,KyrgyzTelecom
+KG,7,+996326XXXXXX,wirelessgeographic,
+KG,5,+9963134XXXXX,geographic,KyrgyzTelecom
+KG,7,+99632602XXXX,wirelessgeographic,KyrgyzTelecom
+KG,5,+9963135XXXXX,geographic,KyrgyzTelecom
+KG,8,+9963265XXXXX,wirelessgeographic,KyrgyzTelecom
+KG,9,+9963464XXXXX,wirelessgeographic,KyrgyzTelecom
+KG,9,+9963522XXXXX,geographic,
+KG,8,+9963266XXXXX,wirelessgeographic,KyrgyzTelecom
+KG,9,+9963534XXXXX,geographic,
+KG,5,+9963137XXXXX,geographic,KyrgyzTelecom
+KG,8,+9963267XXXXX,wirelessgeographic,KyrgyzTelecom
+KG,8,+9963422XXXXX,geographic,
+KG,5,+9963138XXXXX,geographic,KyrgyzTelecom
+KG,8,+9963456XXXXX,geographic,
+KG,5,+9963147XXXXX,geographic,
+KG,8,+9963457XXXXX,geographic,
+KG,5,+996315XXXXXX,wirelessgeographic,

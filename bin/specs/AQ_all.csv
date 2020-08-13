@@ -1,0 +1,48 @@
+﻿Country,Page,Range,Type,Provider
+AQ,1,672,proper,
+AQ,1,+67210XXXX,geographic,
+AQ,1,+6721066XX,geographic,
+AQ,1,+67211XXXX,geographic,
+AQ,1,+6721177XX,geographic,
+AQ,1,+67212XXXX,geographic,
+AQ,1,+6721288XX,geographic,
+AQ,5,+67234864XXXXXX,voicemail(mobile),UM Carrier
+AQ,5,+67234865XXXXXX,voicemail(mobile),Maiden Technologies
+AQ,5,+67234866XXXXXX,voicemail(mobile),Mango Telecom
+AQ,5,+67234867XXXXXX,voicemail(mobile),CPP
+AQ,1,+67213XXXX,geographic,
+AQ,4,+67234852XXXXXX,voicemail(geographic),Fink Consulting
+AQ,1,+67234XXXXXXXXX,mobile,BebbiCell AG
+AQ,2,+67234700XXXXXX,mobile,BebbiCell AG
+AQ,2,+67234701XXXXXX,mobile,Telecom Technologies Ventures
+AQ,3,+67234702XXXXXX,mobile,Fink Consulting
+AQ,3,+67234703XXXXXX,mobile,GTX-SO
+AQ,3,+67234704XXXXXX,mobile,UM Carrier
+AQ,3,+67234705XXXXXX,mobile,Maiden Technologies
+AQ,3,+67234706XXXXXX,mobile,Mango Telecom
+AQ,3,+67234707XXXXXX,mobile,CPP
+AQ,4,+67234853XXXXXX,voicemail(geographic),GTX-SO
+AQ,4,+67234854XXXXXX,voicemail(geographic),UM Carrier
+AQ,5,+67234900XXXXXX,premiumrate,BebbiCell AG
+AQ,4,+67234855XXXXXX,voicemail(geographic),Maiden Technologies
+AQ,1,+6721399XX,geographic,
+AQ,5,+67234903XXXXXX,premiumrate,BebbiCell AG
+AQ,5,+67234906XXXXXX,premiumrate,BebbiCell AG
+AQ,4,+67234856XXXXXX,voicemail(geographic),Mango Telecom
+AQ,4,+67234857XXXXXX,voicemail(geographic),CPP
+AQ,2,+67234500XXXXXX,VoIPtelephony,BebbiCell AG
+AQ,4,+67234860XXXXXX,voicemail(mobile),BebbiCell AG
+AQ,2,+67234501XXXXXX,VoIPtelephony,Telecom Technologies Ventures
+AQ,2,+67234502XXXXXX,VoIPtelephony,Fink Consulting
+AQ,2,+67234503XXXXXX,VoIPtelephony,GTX-SO
+AQ,2,+67234504XXXXXX,VoIPtelephony,UM Carrier
+AQ,2,+67234505XXXXXX,VoIPtelephony,Maiden Technologies
+AQ,4,+67234861XXXXXX,voicemail(mobile),Telecom Technologies Ventures
+AQ,4,+67234862XXXXXX,voicemail(mobile),Fink Consulting
+AQ,4,+67234863XXXXXX,voicemail(mobile),GTX-SO
+AQ,2,+67234506XXXXXX,VoIPtelephony,Mango Telecom
+AQ,2,+67234507XXXXXX,VoIPtelephony,CPP
+AQ,3,+67234800XXXXXX,freephone,BebbiCell AG
+AQ,3,+67234840XXXXXX,sharedcost,BebbiCell AG
+AQ,3,+67234850XXXXXX,voicemail(geographic),BebbiCell AG
+AQ,3,+67234851XXXXXX,voicemail(geographic),Telecom Technologies Ventures

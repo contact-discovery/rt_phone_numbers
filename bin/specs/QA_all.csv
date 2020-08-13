@@ -1,0 +1,127 @@
+﻿Country,Page,Range,Type,Provider
+QA,1,974,proper,
+QA,1,+9741245XXXXXX,voicemail(mobile),Qtel
+QA,1,+9741744XXXXXX,voicemail(geographic),Qtel
+QA,3,+974443XXXXX,geographic,Qtel
+QA,1,+97420XXXXX,pager,Qtel
+QA,1,+97421XXXXX,pager,Qtel
+QA,3,+9744430XXXX,geographic,Qtel
+QA,1,+97422XXXXX,pager,Qtel
+QA,1,+97433XXXXXX,mobile,Qtel
+QA,9,+9744485XXXX,geographic,Qtel
+QA,2,97433032561,mobile,Qtel
+QA,1,+97423XXXXXX,geographic,Ministry of Interior
+QA,2,97433132561,mobile,Qtel
+QA,2,97433232561,mobile,Qtel
+QA,2,+974330XXXXX,mobile,Qtel
+QA,2,+974331XXXXX,mobile,Qtel
+QA,2,+974332XXXXX,mobile,Qtel
+QA,4,+9744438XXXX,geographic,Qtel
+QA,9,+9744486XXXX,geographic,Qtel
+QA,9,+974550XXXXX,mobile,Qtel
+QA,9,+974551XXXXX,mobile,Qtel
+QA,1,+974261XXXX,pager,Qtel
+QA,9,+97455XXXXXX,mobile,Qtel
+QA,3,+9744431XXXX,geographic,Qtel
+QA,13,+974800XXXX,freephone,
+QA,10,+974552XXXXX,mobile,Qtel
+QA,5,+9744447XXXX,geographic,Qtel
+QA,9,+9744487XXXX,geographic,Qtel
+QA,10,+974553XXXXX,mobile,Qtel
+QA,10,+9746XXXXXXX,mobile,
+QA,10,+974554XXXXX,mobile,Qtel
+QA,4,+974444XXXXX,geographic,Qtel
+QA,10,+974555XXXXX,mobile,Qtel
+QA,3,+9744432XXXX,geographic,Qtel
+QA,1,+9743XXXXXXX,mobile,
+QA,9,+9744488XXXX,geographic,Qtel
+QA,3,+9744433XXXX,geographic,Qtel
+QA,6,+9744463XXXX,geographic,Qtel
+QA,13,+974900XXXX,audiotext,Qtel
+QA,7,+9744473XXXX,geographic,Qtel
+QA,10,+974556XXXXX,mobile,Qtel
+QA,10,+974557XXXXX,mobile,Qtel
+QA,10,+974558XXXXX,mobile,Qtel
+QA,10,+974559XXXXX,mobile,Qtel
+QA,5,+9744447XXXX,geographic,Qtel
+QA,10,+97466XXXXXX,mobile,Qtel
+QA,4,+9744440XXXX,geographic,Qtel
+QA,12,+9747XXXXXXX,mobile,
+QA,11,+974660XXXXX,mobile,Qtel
+QA,8,+9744475XXXX,geographic,Qtel
+QA,9,+9744489XXXX,geographic,Qtel
+QA,11,+974661XXXXX,mobile,Qtel
+QA,3,+9744434XXXX,geographic,Qtel
+QA,2,+9744XXXXXXX,geographic,
+QA,5,+9744449XXXX,geographic,Qtel
+QA,6,+9744464XXXX,geographic,Qtel
+QA,4,+9744440XXXX,geographic,Qtel
+QA,9,+974449XXXXX,geographic,Qtel
+QA,11,+974662XXXXX,mobile,Qtel
+QA,11,+974663XXXXX,mobile,Qtel
+QA,8,+9744477XXXX,geographic,Qtel
+QA,11,+974664XXXXX,mobile,Qtel
+QA,7,+9744473XXXX,geographic,Qtel
+QA,11,+974665XXXXX,mobile,Qtel
+QA,2,+97444XXXXXX,geographic,Qtel
+QA,11,+974666XXXXX,mobile,Qtel
+QA,5,+974445XXXXX,geographic,Qtel
+QA,6,+9744465XXXX,geographic,Qtel
+QA,3,+9744435XXXX,geographic,Qtel
+QA,11,+974667XXXXX,mobile,Qtel
+QA,11,+974668XXXXX,mobile,Qtel
+QA,7,+9744474XXXX,geographic,Qtel
+QA,4,+9744441XXXX,geographic,Qtel
+QA,11,+974669XXXXX,mobile,Qtel
+QA,5,+974446XXXXX,geographic,Qtel
+QA,6,+9744466XXXX,geographic,Qtel
+QA,9,+9745XXXXXXX,mobile,
+QA,2,+974441XXXXX,geographic,Qtel
+QA,7,+9744475XXXX,geographic,Qtel
+QA,12,+974770XXXXX,mobile,Vodafone Qatar
+QA,3,+9744435XXXX,geographic,Qtel
+QA,8,+9744478XXXX,geographic,Qtel
+QA,5,+9744460XXXX,geographic,Qtel
+QA,12,+974771XXXXX,mobile,Vodafone Qatar
+QA,12,+974772XXXXX,mobile,Vodafone Qatar
+QA,7,+9744475XXXX,geographic,Qtel
+QA,6,+9744467XXXX,geographic,Qtel
+QA,2,+974442XXXXX,geographic,Qtel
+QA,8,+9744479XXXX,geographic,Qtel
+QA,4,+9744442XXXX,geographic,Qtel
+QA,6,+9744468XXXX,geographic,Qtel
+QA,3,+9744436XXXX,geographic,Qtel
+QA,12,+974773XXXXX,mobile,Vodafone Qatar
+QA,12,+974774XXXXX,mobile,Vodafone Qatar
+QA,5,+9744461XXXX,geographic,Qtel
+QA,8,+974448XXXXX,geographic,Qtel
+QA,4,+9744443XXXX,geographic,Qtel
+QA,6,+9744469XXXX,geographic,Qtel
+QA,5,+9744461XXXX,geographic,Qtel
+QA,3,+9744437XXXX,geographic,Qtel
+QA,7,+9744475XXXX,geographic,Qtel
+QA,8,+9744480XXXX,geographic,Qtel
+QA,4,+9744444XXXX,geographic,Qtel
+QA,12,+974775XXXXX,mobile,Vodafone Qatar
+QA,6,+974447XXXXX,geographic,Qtel
+QA,5,+9744461XXXX,geographic,Qtel
+QA,7,+9744475XXXX,geographic,Qtel
+QA,12,+974776XXXXX,mobile,Vodafone Qatar
+QA,12,+974777XXXXX,mobile,Vodafone Qatar
+QA,12,+97477XXXXXX,mobile,Vodafone Qatar
+QA,8,+9744481XXXX,geographic,Qtel
+QA,13,+974778XXXXX,mobile,Vodafone Qatar
+QA,6,+9744471XXXX,geographic,Qtel
+QA,4,+9744445XXXX,geographic,Qtel
+QA,13,+974779XXXXX,mobile,Vodafone Qatar
+QA,13,+97492XXX,mobile,Qtel
+QA,6,+9744472XXXX,geographic,Qtel
+QA,8,+9744482XXXX,geographic,Qtel
+QA,4,+9744446XXXX,geographic,Qtel
+QA,13,+97497XXX,mobile,Vodafone Qatar
+QA,7,+9744475XXXX,geographic,Qtel
+QA,8,+9744483XXXX,geographic,Qtel
+QA,5,+9744462XXXX,geographic,Qtel
+QA,7,+9744475XXXX,geographic,Qtel
+QA,8,+9744485XXXX,geographic,Qtel
+QA,7,+9744475XXXX,geographic,Qtel

@@ -1,0 +1,186 @@
+﻿Country,Page,Range,Type,Provider
+LB,11,+9617XXXXXX,geographic,
+LB,10,+9616XXXXXX,geographic,
+LB,10,+9616XXXXXX,geographic,
+LB,11,+9617XXXXXX,geographic,
+LB,10,+9616XXXXXX,geographic,
+LB,11,+9617XXXXXX,geographic,
+LB,10,+9616XXXXXX,geographic,
+LB,2,+9611XXXXXX,geographic,
+LB,7,+9615XXXXXX,geographic,
+LB,11,+9617XXXXXX,geographic,
+LB,4,+9614XXXXXX,geographic,
+LB,16,+96180XXXXXX,sharedcost,
+LB,10,+9617XXXXXX,geographic,
+LB,11,+9617XXXXXX,geographic,
+LB,15,+9618XXXXXX,geographic,
+LB,2,+9611XXXXXX,geographic,
+LB,7,+9615XXXXXX,geographic,
+LB,10,+9617XXXXXX,geographic,
+LB,15,+9618XXXXXX,geographic,
+LB,7,+9615XXXXXX,geographic,
+LB,6,+9615XXXXXX,geographic,
+LB,9,+9616XXXXXX,geographic,
+LB,19,+9619XXXXXX,geographic,
+LB,2,+9611XXXXXX,geographic,
+LB,17,+9619XXXXXX,geographic,
+LB,5,+9614XXXXXX,geographic,
+LB,4,+9614XXXXXX,geographic,
+LB,10,+9617XXXXXX,geographic,
+LB,6,+9615XXXXXX,geographic,
+LB,15,+9618XXXXXX,geographic,
+LB,19,+9619XXXXXX,geographic,
+LB,17,+9619XXXXXX,geographic,
+LB,2,+96130XXXXX,mobile,MTC Touch
+LB,2,+96131XXXXX,mobile,Alfa
+LB,2,+9611XXXXXX,geographic,
+LB,2,+96132XXXXX,mobile,Alfa
+LB,7,+9615XXXXXX,geographic,
+LB,2,+96133XXXXX,mobile,Alfa
+LB,14,+9618XXXXXX,geographic,
+LB,5,+9614XXXXXX,geographic,
+LB,3,+96134XXXXX,mobile,Alfa
+LB,6,+9615XXXXXX,geographic,
+LB,9,+9616XXXXXX,geographic,
+LB,10,+9617XXXXXX,geographic,
+LB,3,+96135XXXXX,mobile,Alfa
+LB,15,+9618XXXXXX,geographic,
+LB,3,+96136XXXXX,mobile,MTC Touch
+LB,2,+9611XXXXXX,geographic,
+LB,3,+96137XXXXX,mobile,MTC Touch
+LB,4,+9614XXXXXX,geographic,
+LB,3,+96138XXXXX,mobile,MTC Touch
+LB,3,+96139XXXXX,mobile,MTC Touch
+LB,11,+961700XXXXX,mobile,MTC Touch
+LB,17,+9619XXXXXX,geographic,
+LB,11,+961701XXXXX,mobile,Alfa
+LB,19,+9619XXXXXX,geographic,
+LB,11,+961702XXXXX,mobile,Alfa
+LB,11,+961703XXXXX,mobile,Alfa
+LB,6,+9615XXXXXX,geographic,
+LB,11,+961703XXXXX,mobile,Alfa
+LB,7,+9615XXXXXX,geographic,
+LB,14,+9618XXXXXX,geographic,
+LB,12,+961705XXXXX,mobile,Alfa
+LB,5,+9615XXXXXX,geographic,
+LB,12,+961706XXXXX,mobile,MTC Touch
+LB,12,+961707XXXXX,mobile,MTC Touch
+LB,4,+9614XXXXXX,geographic,
+LB,9,+9616XXXXXX,geographic,
+LB,12,+961708XXXXX,mobile,MTC Touch
+LB,6,+9615XXXXXX,geographic,
+LB,12,+961709XXXXX,mobile,MTC Touch
+LB,12,+961710XXXXX,mobile,Alfa
+LB,8,+9616XXXXXX,geographic,
+LB,12,+961711XXXXX,mobile,MTC Touch
+LB,17,+9619XXXXXX,geographic,
+LB,12,+961712XXXXX,mobile,MTC Touch
+LB,18,+9619XXXXXX,geographic,
+LB,12,+961713XXXXX,mobile,MTC Touch
+LB,12,+961714XXXXX,mobile,MTC Touch
+LB,2,+9613XXXXXX,mobile,
+LB,19,+96190XXXXXX,premiumrate,
+LB,15,+9618XXXXXX,geographic,
+LB,13,+961715XXXXX,mobile,MTC Touch
+LB,13,+961760XXXXX,mobile,MTC Touch
+LB,7,+9615XXXXXX,geographic,
+LB,1,961,proper,
+LB,13,+961761XXXXX,mobile,Alfa
+LB,9,+9616XXXXXX,geographic,
+LB,13,+961762XXXXX,mobile,Alfa
+LB,13,+961763XXXXX,mobile,Alfa
+LB,13,+961764XXXXX,mobile,Alfa
+LB,15,+9618XXXXXX,geographic,
+LB,6,+9615XXXXXX,geographic,
+LB,5,+9615XXXXXX,geographic,
+LB,13,+961765XXXXX,mobile,Alfa
+LB,14,+9618XXXXXX,geographic,
+LB,4,+9614XXXXXX,geographic,
+LB,13,+961766XXXXX,mobile,MTC Touch
+LB,13,+961767XXXXX,mobile,MTC Touch
+LB,7,+9615XXXXXX,geographic,
+LB,13,+961768XXXXX,mobile,Alfa
+LB,14,+961769XXXXX,mobile,Alfa
+LB,17,+9619XXXXXX,geographic,
+LB,1,+9611XXXXXX,geographic,
+LB,14,+961788XXXXX,mobile,MTC Touch
+LB,18,+9619XXXXXX,geographic,
+LB,14,+961789XXXXX,mobile,MTC Touch
+LB,7,+9615XXXXXX,geographic,
+LB,14,+961791XXXXX,mobile,Alfa
+LB,14,+961793XXXXX,mobile,Alfa
+LB,16,+961810XXXXX,mobile,MTC Touch
+LB,19,+96191XXXXXX,premiumrate,
+LB,16,+961811XXXXX,mobile,Alfa
+LB,9,+9616XXXXXX,geographic,
+LB,4,+9614XXXXXX,geographic,
+LB,15,+9618XXXXXX,geographic,
+LB,8,+9616XXXXXX,geographic,
+LB,17,+9619XXXXXX,geographic,
+LB,10,+9617XXXXXX,geographic,
+LB,16,+961812XXXXX,mobile,Alfa
+LB,16,+961813XXXXX,mobile,Alfa
+LB,16,+961814XXXXX,mobile,Alfa
+LB,6,+9615XXXXXX,geographic,
+LB,7,+9616XXXXXX,geographic,
+LB,5,+9615XXXXXX,geographic,
+LB,16,+961815XXXXX,mobile,Alfa
+LB,14,+9618XXXXXX,geographic,
+LB,16,+961816XXXXX,mobile,MTC Touch
+LB,16,+961817XXXXX,mobile,MTC Touch
+LB,1,+9611XXXXXX,geographic,
+LB,18,+9619XXXXXX,geographic,
+LB,16,+961818XXXXX,mobile,MTC Touch
+LB,17,+9619XXXXXX,geographic,
+LB,17,+961819XXXXX,mobile,MTC Touch
+LB,10,+9617XXXXXX,geographic,
+LB,4,+9614XXXXXX,geographic,
+LB,14,+9618XXXXXX,geographic,
+LB,8,+9616XXXXXX,geographic,
+LB,9,+9616XXXXXX,geographic,
+LB,4,+9614XXXXXX,geographic,
+LB,15,+9618XXXXXX,geographic,
+LB,18,+9619XXXXXX,geographic,
+LB,5,+9615XXXXXX,geographic,
+LB,9,+9616XXXXXX,geographic,
+LB,6,+9615XXXXXX,geographic,
+LB,8,+9616XXXXXX,geographic,
+LB,15,+9618XXXXXX,geographic,
+LB,7,+9616XXXXXX,geographic,
+LB,9,+9616XXXXXX,geographic,
+LB,4,+9614XXXXXX,geographic,
+LB,1,+9611XXXXXX,geographic,
+LB,5,+9615XXXXXX,geographic,
+LB,17,+9619XXXXXX,geographic,
+LB,9,+9616XXXXXX,geographic,
+LB,15,+9618XXXXXX,geographic,
+LB,3,+9614XXXXXX,geographic,
+LB,6,+9615XXXXXX,geographic,
+LB,4,+9614XXXXXX,geographic,
+LB,1,+9611XXXXXX,geographic,
+LB,9,+9616XXXXXX,geographic,
+LB,3,+9614XXXXXX,geographic,
+LB,17,+9619XXXXXX,geographic,
+LB,18,+9619XXXXXX,geographic,
+LB,5,+9615XXXXXX,geographic,
+LB,18,+9619XXXXXX,geographic,
+LB,1,+9611XXXXXX,geographic,
+LB,5,+9615XXXXXX,geographic,
+LB,3,+9614XXXXXX,geographic,
+LB,8,+9616XXXXXX,geographic,
+LB,6,+9615XXXXXX,geographic,
+LB,1,+9611XXXXXX,geographic,
+LB,3,+9614XXXXXX,geographic,
+LB,8,+9616XXXXXX,geographic,
+LB,1,+9611XXXXXX,geographic,
+LB,1,+9611XXXXXX,geographic,
+LB,1,+9611XXXXXX,geographic,
+LB,8,+9616XXXXXX,geographic,
+LB,18,+9619XXXXXX,geographic,
+LB,8,+9616XXXXXX,geographic,
+LB,5,+9615XXXXXX,geographic,
+LB,8,+9616XXXXXX,geographic,
+LB,18,+9619XXXXXX,geographic,
+LB,8,+9616XXXXXX,geographic,
+LB,18,+9619XXXXXX,geographic,
+LB,18,+9619XXXXXX,geographic,

@@ -1,0 +1,155 @@
+﻿Country,Page,Range,Type,Provider
+BY,7,+375212XXXXXX,geographic,Beltelecom
+BY,8,+375214XXXXXX,geographic,Beltelecom
+BY,8,+3752151XXXXX,geographic,Beltelecom
+BY,4,+3751646XXXXX,geographic,Beltelecom
+BY,3,+375162XXXXXX,geographic,Beltelecom
+BY,8,+3752152XXXXX,geographic,Beltelecom
+BY,1,375,proper,
+BY,12,+3752337XXXXX,geographic,Beltelecom
+BY,7,+3752130XXXXX,geographic,Beltelecom
+BY,4,+3751647XXXXX,geographic,Beltelecom
+BY,16,+375805XXXXXXX,universalaccess,
+BY,11,+3752247XXXXX,geographic,Beltelecom
+BY,3,+375163XXXXXX,geographic,Beltelecom
+BY,9,+375216XXXXXX,geographic,Beltelecom
+BY,7,+3752131XXXXX,geographic,Beltelecom
+BY,4,+375165XXXXXX,geographic,Beltelecom
+BY,8,+3752153XXXXX,geographic,Beltelecom
+BY,1,+37515XXXXXXX,geographic,
+BY,9,+37522XXXXXXX,geographic,
+BY,16,+375810XXXXXXX,sharedcost,
+BY,7,+3752132XXXXX,geographic,Beltelecom
+BY,8,+3752154XXXXX,geographic,Beltelecom
+BY,3,+3751631XXXXX,geographic,Beltelecom
+BY,1,+3751511XXXXX,geographic,Beltelecom
+BY,13,+3752354XXXXX,geographic,Beltelecom
+BY,7,+3752133XXXXX,geographic,Beltelecom
+BY,16,+375820XXXXXXXX,freephone,International freephone service
+BY,4,+3751651XXXXX,geographic,Beltelecom
+BY,13,+3752355XXXXX,geographic,Beltelecom
+BY,11,+3752248XXXXX,geographic,Beltelecom
+BY,3,+3751632XXXXX,geographic,Beltelecom
+BY,9,+375222XXXXXX,geographic,Beltelecom
+BY,7,+3752135XXXXX,geographic,Beltelecom
+BY,4,+3751652XXXXX,geographic,Beltelecom
+BY,1,+3751512XXXXX,geographic,Beltelecom
+BY,6,+3751774XXXXX,geographic,Beltelecom
+BY,12,+3752339XXXXX,geographic,Beltelecom
+BY,1,+3751513XXXXX,geographic,Beltelecom
+BY,16,+375902XXXXXXX,premiumrate,
+BY,13,+3752356XXXXX,geographic,Beltelecom
+BY,6,+3751775XXXXX,geographic,Beltelecom
+BY,3,+3751633XXXXX,geographic,Beltelecom
+BY,8,+3752155XXXXX,geographic,Beltelecom
+BY,13,+3752357XXXXX,geographic,Beltelecom
+BY,12,+3752340XXXXX,geographic,Beltelecom
+BY,11,+375225XXXXXX,geographic,Beltelecom
+BY,7,+3752136XXXXX,geographic,Beltelecom
+BY,9,+3752230XXXXX,geographic,Beltelecom
+BY,4,+3751655XXXXX,geographic,Beltelecom
+BY,6,+3751776XXXXX,geographic,Beltelecom
+BY,1,+3751514XXXXX,geographic,Beltelecom
+BY,13,+375236XXXXXX,geographic,Beltelecom
+BY,9,+3752231XXXXX,geographic,Beltelecom
+BY,11,+37523XXXXXXX,geographic,
+BY,15,+375600XXX,internetserviceprovider,
+BY,12,+3752342XXXXX,geographic,Beltelecom
+BY,1,+3751515XXXXX,geographic,Beltelecom
+BY,8,+3752156XXXXX,geographic,Beltelecom
+BY,3,+3751641XXXXX,geographic,Beltelecom
+BY,5,+3751716XXXXX,geographic,Beltelecom
+BY,11,+375232XXXXXX,geographic,Beltelecom
+BY,9,+3752232XXXXX,geographic,Beltelecom
+BY,6,+3751792XXXXX,geographic,Beltelecom
+BY,1,+375152XXXXXX,geographic,Beltelecom
+BY,15,3#comma75601E+12,pager,
+BY,11,+3752330XXXXX,geographic,Beltelecom
+BY,10,+3752237XXXXX,geographic,Beltelecom
+BY,4,+37517XXXXXXX,geographic,
+BY,8,+3752157XXXXX,geographic,Beltelecom
+BY,12,+3752344XXXXX,geographic,Beltelecom
+BY,1,+375154XXXXXX,geographic,Beltelecom
+BY,9,+3752233XXXXX,geographic,Beltelecom
+BY,13,+375255XXXXXX,mobile,Belarusian Telecommunications Network CJSC (BeST)
+BY,13,+375256XXXXXX,mobile,Belarusian Telecommunications Network CJSC (BeST)
+BY,3,+3751642XXXXX,geographic,Beltelecom
+BY,6,+3751793XXXXX,geographic,Beltelecom
+BY,13,+375257XXXXXX,mobile,Belarusian Telecommunications Network CJSC (BeST)
+BY,13,+375259XXXXXX,mobile,Belarusian Telecommunications Network CJSC (BeST)
+BY,2,+3751563XXXXX,geographic,Beltelecom
+BY,13,+375291XXXXXX,mobile,JV Mobile Digital Communications Ltd (Velcom)
+BY,14,3#comma75295E+11,mobile,BelCel JV (CDMA2000)
+BY,14,+375292XXXXXX,mobile,Mobile TeleSystems LLC (MTS)
+BY,15,+375602XXXXXX,audiotext,
+BY,7,+3752137XXXXX,geographic,Beltelecom
+BY,14,+375293XXXXXX,mobile,JV Mobile Digital Communications Ltd (Velcom)
+BY,10,+3752238XXXXX,geographic,Beltelecom
+BY,5,+3751717XXXXX,geographic,Beltelecom
+BY,11,+3752332XXXXX,geographic,Beltelecom
+BY,14,+375294XXXXXX,mobile,BelCel JV (CDMA2000)
+BY,14,+375295XXXXXX,mobile,Mobile TeleSystems LLC (MTS)
+BY,10,+3752239XXXXX,geographic,Beltelecom
+BY,14,+375296XXXXXX,mobile,JV Mobile Digital Communications Ltd (Velcom)
+BY,14,+375297XXXXXX,mobile,Mobile TeleSystems LLC (MTS)
+BY,1,+3751562XXXXX,geographic,Beltelecom
+BY,11,+3752333XXXXX,geographic,Beltelecom
+BY,14,+375298XXXXXX,mobile,Mobile TeleSystems LLC (MTS)
+BY,2,+3751564XXXXX,geographic,Beltelecom
+BY,14,+375299XXXXXX,mobile,JV Mobile Digital Communications Ltd (Velcom)
+BY,14,+37533XXXXXXX,mobile,Mobile TeleSystems LLC (MTS)
+BY,11,+3752334XXXXX,geographic,Beltelecom
+BY,5,+3751718XXXXX,geographic,Beltelecom
+BY,2,+3751591XXXXX,geographic,Beltelecom
+BY,8,+3752158XXXXX,geographic,Beltelecom
+BY,3,+3751643XXXXX,geographic,Beltelecom
+BY,15,+37544XXXXXXX,mobile,JV Mobile Digital Communications Ltd (Velcom)
+BY,4,+3751713XXXXX,geographic,Beltelecom
+BY,10,+3752240XXXXX,geographic,Beltelecom
+BY,8,+3752159XXXXX,geographic,Beltelecom
+BY,12,+3752345XXXXX,geographic,Beltelecom
+BY,6,+3751794XXXXX,geographic,Beltelecom
+BY,9,+3752234XXXXX,geographic,Beltelecom
+BY,11,+3752336XXXXX,geographic,Beltelecom
+BY,9,+3752235XXXXX,geographic,Beltelecom
+BY,12,+3752346XXXXX,geographic,Beltelecom
+BY,5,+3751719XXXXX,geographic,Beltelecom
+BY,9,+3752236XXXXX,geographic,Beltelecom
+BY,7,+3752138XXXXX,geographic,Beltelecom
+BY,15,3#comma75606E+12,internetserviceprovider,
+BY,5,+375174XXXXXX,geographic,Beltelecom
+BY,3,+3751644XXXXX,geographic,Beltelecom
+BY,12,+3752347XXXXX,geographic,Beltelecom
+BY,2,+3751592XXXXX,geographic,Beltelecom
+BY,15,+375777XXXXXXX,universalaccess,
+BY,12,+3752350XXXXX,geographic,Beltelecom
+BY,3,+3751645XXXXX,geographic,Beltelecom
+BY,5,+375176XXXXXX,geographic,Beltelecom
+BY,6,+3751795XXXXX,geographic,Beltelecom
+BY,10,+3752241XXXXX,geographic,Beltelecom
+BY,15,+375800XXXXXXX,freephone,Home country direct
+BY,2,+3751593XXXXX,geographic,Beltelecom
+BY,5,+375177XXXXXX,geographic,Beltelecom
+BY,4,+3751714XXXXX,geographic,Beltelecom
+BY,12,+3752353XXXXX,geographic,Beltelecom
+BY,15,+375800XXX(X),freephone,Home country direct
+BY,6,+3751796XXXXX,geographic,Beltelecom
+BY,10,+3752242XXXXX,geographic,Beltelecom
+BY,5,+3751770XXXXX,geographic,Beltelecom
+BY,6,+3751797XXXXX,geographic,Beltelecom
+BY,10,+3752243XXXXX,geographic,Beltelecom
+BY,10,+3752244XXXXX,geographic,Beltelecom
+BY,4,+3751715XXXXX,geographic,Beltelecom
+BY,5,+3751771XXXXX,geographic,Beltelecom
+BY,6,+37521XXXXXXX,geographic,
+BY,7,+3752139XXXXX,geographic,Beltelecom
+BY,5,+3751772XXXXX,geographic,Beltelecom
+BY,2,+3751594XXXXX,geographic,Beltelecom
+BY,15,+375801XXXXXXX,freephone,
+BY,10,+3752245XXXXX,geographic,Beltelecom
+BY,15,+375803XXXXXXX,freephone,
+BY,2,+3751595XXXXX,geographic,Beltelecom
+BY,10,+3752246XXXXX,geographic,Beltelecom
+BY,2,+3751596XXXXX,geographic,Beltelecom
+BY,2,+3751597XXXXX,geographic,Beltelecom
+BY,2,+37516XXXXXXX,geographic,
