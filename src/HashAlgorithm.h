@@ -17,6 +17,7 @@ void HashMD4(unsigned char* pPlain, int nPlainLen, unsigned char* pHash);
 void HashMD5(unsigned char* pPlain, int nPlainLen, unsigned char* pHash);
 
 void HashSHA1(unsigned char* pPlain, int nPlainLen, unsigned char* pHash);
+void HashSHA256(unsigned char* pPlain, int nPlainLen, unsigned char* pHash);
 void HashRIPEMD160(unsigned char* pPlain, int nPlainLen, unsigned char* pHash);
 void HashAudible(unsigned char* pPlain, int nPlainLen, unsigned char* pHash);
 

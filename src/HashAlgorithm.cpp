@@ -91,6 +91,11 @@ void HashSHA1(unsigned char* pPlain, int nPlainLen, unsigned char* pHash)
 	SHA1(pPlain, nPlainLen, pHash);
 }
 
+void HashSHA256(unsigned char* pPlain, int nPlainLen, unsigned char* pHash)
+{
+	SHA256(pPlain, nPlainLen, pHash);
+}
+
 void HashRIPEMD160(unsigned char* pPlain, int nPlainLen, unsigned char* pHash)
 {
 	RIPEMD160(pPlain, nPlainLen, pHash);
