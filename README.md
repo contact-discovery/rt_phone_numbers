@@ -42,7 +42,7 @@ itself.
 
 A typical call might look like this:
 ````bash
-./rtgen sha 1 1 1000 1000000 DE_mobile out
+./rtgen sha1 1 1000 1000000 DE_mobile out
 ````
 ### rtsort
 This program simply sorts a generated rainbow table. rcrack will reject unordered tables.
