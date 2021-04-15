@@ -7,8 +7,13 @@ https://github.com/inAudible-NG/RainbowCrack-NG/tree/3b0af1628d79fdb65f3a4a6940a
 ## Compiling
 RainbowPhones depends on openMP and openSSL. We have seen signifcant performance uplifts with newer versions of openMP, so we recommend running the latest version of the library.
 
-### Linux & MacOS
+### Linux
 Simply run "make"
+The binaries will be in the ./bin/ folder afterwards
+
+### macOS
+Install OpenMP via `brew install libomp`.
+Run `make -f Makefile.macOS`.
 The binaries will be in the ./bin/ folder afterwards
 
 ### Windows
