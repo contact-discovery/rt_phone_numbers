@@ -26,7 +26,7 @@ This is the application for generating rainbow tables. It takes the following ar
 they are listed in below:
 1.  Hash Algorithm:
 The hash algorithm to be used in the rainbow table.
-Available algorithms are: lm, ntlm, md4, md5, sha1, ripemd160 and audible.
+Available algorithms are: lm, ntlm, md4, md5, sha1, sha256, ripemd160 and audible.
 2.  Rainbow Table Index:
 For generating a table that spans multiple files, this index assigns a number to each file. It will
 also influence the index offset as described in Section 2.2.
