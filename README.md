@@ -79,15 +79,18 @@ A typical call might look like this:
 ````
 ### hashgen
 This is a small utility for testing purposes. It generates hashes of random phone numbers in a given
-number specification and prints them to the console. It takes two arguments:
-1.  Number of Hashes:
+number specification and prints them to the console. It takes three arguments:
+1.  Hash Algorithm:
+The hash algorithm to be used.
+Available algorithms are: lm, ntlm, md4, md5, sha1, sha256, ripemd160 and audible.
+2.  Number of Hashes:
 The number of hashes to generate.
-2.  Number Spec Name:
+3.  Number Spec Name:
 Name of the phone number specification.
 
 A typical call might look like this:
 ````bash
-./hashgen 1000 DE_mobile > hashes_DE
+./hashgen sha1 1000 DE_mobile > hashes_DE
 ````
 ### rtdump
 This is also a utility program. It prints the contents of a specific chain in a given rainbow table.
