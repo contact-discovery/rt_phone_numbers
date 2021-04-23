@@ -1,54 +1,54 @@
 ﻿Country,Page,Range,Type,Provider
-MT,3,+35621XXXXXX,geographic,GO
-MT,2,+3562019XXXX,geographic,Ozone
+MT,3,35621XXXXXX,geographic,GO
+MT,2,3562019XXXX,geographic,Ozone
 MT,1,356,proper,
-MT,3,+356217XXXXX,voicemail(mobile),GO
-MT,3,+35622XXXXXX,geographic,GO
-MT,1,+3562010XXXX,geographic,Ozone
-MT,2,+3562031XXXX,geographic,Vanilla Telecoms Ltd
-MT,3,+35623XXXXXX,geographic,GO
-MT,1,+3562011XXXX,geographic,Ozone
-MT,2,+3562032XXXX,geographic,Vanilla Telecoms Ltd
-MT,3,+35625XXXXXX,geographic,GO
-MT,2,+3562033XXXX,geographic,Vanilla Telecoms Ltd
-MT,3,+35627XXXXXX,geographic,Melita
-MT,1,+3562012XXXX,geographic,Ozone
-MT,5,+35688XXXXXX,sharedcost,
-MT,2,+3562034XXXX,geographic,Vanilla Telecoms Ltd
-MT,3,+35634XXXXXX,geographic,Maltacom
-MT,5,+35689XXXXXX,sharedcost,
-MT,1,+3562013XXXX,geographic,Ozone
-MT,2,+356206XXXXX,geographic,SIS
-MT,3,+35650XXXXXX,premiumrate,
-MT,1,+3562014XXXX,geographic,Ozone
-MT,3,+3567210XXXX,mobile,GO Mobile
-MT,2,+3562060XXXX,geographic,Ozone
-MT,3,+3567117XXXX,pager,Skytel
-MT,2,+3562065XXXX,geographic,Ozone
-MT,1,+3562015XXXX,geographic,Ozone
-MT,4,+35677XXXXXX,mobile,Melita Mobile
-MT,4,+35679XXXXXX,mobile,GO Mobile
-MT,5,+3569210XXXX,mobile,Vodafone Malta
-MT,5,+3569211XXXX,mobile,Vodafone Malta
-MT,4,+356800XXXXX,freephone,
-MT,5,+3569231XXXX,mobile,Vodafone Malta
-MT,5,+3569696XXXX,mobile,YOM
-MT,2,+3562069XXXX,geographic,Ozone
-MT,5,+3569697XXXX,mobile,YOM
-MT,4,+35681XXXXXX,sharedcost,
-MT,5,+3569811XXXX,mobile,Redtouch Fone
-MT,5,+3569812XXXX,mobile,Redtouch Fone
-MT,2,+356209XXXXX,geographic,Vodafone Malta
-MT,4,+35682XXXXXX,sharedcost,
-MT,5,+3569813XXXX,mobile,Redtouch Fone
-MT,6,+3569889XXXX,mobile,GO Mobile
-MT,6,+3569897XXXX,mobile,Vodafone Malta
-MT,6,+35699XXXXXX,mobile,Vodafone Malta
-MT,1,+3562016XXXX,geographic,Ozone
-MT,1,+3562017XXXX,geographic,Ozone
-MT,4,+35683XXXXXX,sharedcost,
-MT,4,+35684XXXXXX,sharedcost,
-MT,1,+3562018XXXX,geographic,Ozone
-MT,4,+35685XXXXXX,sharedcost,
-MT,4,+35686XXXXXX,sharedcost,
-MT,4,+35687XXXXXX,sharedcost,
+MT,3,356217XXXXX,voicemail(mobile),GO
+MT,3,35622XXXXXX,geographic,GO
+MT,1,3562010XXXX,geographic,Ozone
+MT,2,3562031XXXX,geographic,Vanilla Telecoms Ltd
+MT,3,35623XXXXXX,geographic,GO
+MT,1,3562011XXXX,geographic,Ozone
+MT,2,3562032XXXX,geographic,Vanilla Telecoms Ltd
+MT,3,35625XXXXXX,geographic,GO
+MT,2,3562033XXXX,geographic,Vanilla Telecoms Ltd
+MT,3,35627XXXXXX,geographic,Melita
+MT,1,3562012XXXX,geographic,Ozone
+MT,5,35688XXXXXX,sharedcost,
+MT,2,3562034XXXX,geographic,Vanilla Telecoms Ltd
+MT,3,35634XXXXXX,geographic,Maltacom
+MT,5,35689XXXXXX,sharedcost,
+MT,1,3562013XXXX,geographic,Ozone
+MT,2,356206XXXXX,geographic,SIS
+MT,3,35650XXXXXX,premiumrate,
+MT,1,3562014XXXX,geographic,Ozone
+MT,3,3567210XXXX,mobile,GO Mobile
+MT,2,3562060XXXX,geographic,Ozone
+MT,3,3567117XXXX,pager,Skytel
+MT,2,3562065XXXX,geographic,Ozone
+MT,1,3562015XXXX,geographic,Ozone
+MT,4,35677XXXXXX,mobile,Melita Mobile
+MT,4,35679XXXXXX,mobile,GO Mobile
+MT,5,3569210XXXX,mobile,Vodafone Malta
+MT,5,3569211XXXX,mobile,Vodafone Malta
+MT,4,356800XXXXX,freephone,
+MT,5,3569231XXXX,mobile,Vodafone Malta
+MT,5,3569696XXXX,mobile,YOM
+MT,2,3562069XXXX,geographic,Ozone
+MT,5,3569697XXXX,mobile,YOM
+MT,4,35681XXXXXX,sharedcost,
+MT,5,3569811XXXX,mobile,Redtouch Fone
+MT,5,3569812XXXX,mobile,Redtouch Fone
+MT,2,356209XXXXX,geographic,Vodafone Malta
+MT,4,35682XXXXXX,sharedcost,
+MT,5,3569813XXXX,mobile,Redtouch Fone
+MT,6,3569889XXXX,mobile,GO Mobile
+MT,6,3569897XXXX,mobile,Vodafone Malta
+MT,6,35699XXXXXX,mobile,Vodafone Malta
+MT,1,3562016XXXX,geographic,Ozone
+MT,1,3562017XXXX,geographic,Ozone
+MT,4,35683XXXXXX,sharedcost,
+MT,4,35684XXXXXX,sharedcost,
+MT,1,3562018XXXX,geographic,Ozone
+MT,4,35685XXXXXX,sharedcost,
+MT,4,35686XXXXXX,sharedcost,
+MT,4,35687XXXXXX,sharedcost,

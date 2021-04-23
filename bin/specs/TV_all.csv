@@ -1,20 +1,20 @@
 ﻿Country,Page,Range,Type,Provider
-TV,2,+68829XXX,geographic,Tuvalu Telecommunications Corporation
-TV,2,+68850XXX,geographic,OPS
+TV,2,68829XXX,geographic,Tuvalu Telecommunications Corporation
+TV,2,68850XXX,geographic,OPS
 TV,1,688,proper,
-TV,1,+68820XXX,geographic,Tuvalu Telecommunications Corporation
-TV,1,+68821XXX,geographic,Tuvalu Telecommunications Corporation
-TV,1,+68822XXX,geographic,Tuvalu Telecommunications Corporation
-TV,2,+6886XXXXX,premiumrate,
-TV,1,+68823XXX,geographic,Tuvalu Telecommunications Corporation
-TV,2,+688688XXX,premiumrate,
-TV,2,+6887XX,VoIPtelephony,Tuvalu Telecommunications Corporation
-TV,1,+68824XXX,geographic,Tuvalu Telecommunications Corporation
-TV,1,+68825XXX,geographic,Tuvalu Telecommunications Corporation
-TV,1,+68826XXX,geographic,Tuvalu Telecommunications Corporation
-TV,1,+68827XXX,geographic,Tuvalu Telecommunications Corporation
-TV,1,+68828XXX,geographic,Tuvalu Telecommunications Corporation
-TV,2,+68870XXXXX,mobile,Tuvalu Telecommunications Corporation 3G
-TV,2,+68871XXXXX,mobile,Tuvalu Telecommunications Corporation 4G
-TV,2,+68890XXXX,mobile,Tuvalu Telecommunications Corporation 2G (prepaid)
-TV,2,+6889XXXXX,mobile,Tuvalu Telecommunications Corporation
+TV,1,68820XXX,geographic,Tuvalu Telecommunications Corporation
+TV,1,68821XXX,geographic,Tuvalu Telecommunications Corporation
+TV,1,68822XXX,geographic,Tuvalu Telecommunications Corporation
+TV,2,6886XXXXX,premiumrate,
+TV,1,68823XXX,geographic,Tuvalu Telecommunications Corporation
+TV,2,688688XXX,premiumrate,
+TV,2,6887XX,VoIPtelephony,Tuvalu Telecommunications Corporation
+TV,1,68824XXX,geographic,Tuvalu Telecommunications Corporation
+TV,1,68825XXX,geographic,Tuvalu Telecommunications Corporation
+TV,1,68826XXX,geographic,Tuvalu Telecommunications Corporation
+TV,1,68827XXX,geographic,Tuvalu Telecommunications Corporation
+TV,1,68828XXX,geographic,Tuvalu Telecommunications Corporation
+TV,2,68870XXXXX,mobile,Tuvalu Telecommunications Corporation 3G
+TV,2,68871XXXXX,mobile,Tuvalu Telecommunications Corporation 4G
+TV,2,68890XXXX,mobile,Tuvalu Telecommunications Corporation 2G (prepaid)
+TV,2,6889XXXXX,mobile,Tuvalu Telecommunications Corporation

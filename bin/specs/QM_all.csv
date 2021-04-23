@@ -1,6 +1,6 @@
 ﻿Country,Page,Range,Type,Provider
 QM,1,881,proper,
-QM,1,+8816XXXXXXXX,satellite,Iridium Communications Inc
-QM,1,+8817XXXXXXXX,satellite,Iridium Communications Inc
-QM,1,+8818XXXXXXXX,satellite,Globalstar
-QM,1,+8819XXXXXXXX,satellite,Globalstar
+QM,1,8816XXXXXXXX,satellite,Iridium Communications Inc
+QM,1,8817XXXXXXXX,satellite,Iridium Communications Inc
+QM,1,8818XXXXXXXX,satellite,Globalstar
+QM,1,8819XXXXXXXX,satellite,Globalstar

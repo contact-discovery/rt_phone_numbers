@@ -1,116 +1,116 @@
 ﻿Country,Page,Range,Type,Provider
-SA,2,+96611510XXXX,geographic,Etihad Atheeb Telecom Company (Go)
-SA,2,+96611511XXXX,geographic,Etihad Atheeb Telecom Company (Go)
-SA,2,+966116XXXXXX,geographic,Saudi Telecom Company (STC)
+SA,2,96611510XXXX,geographic,Etihad Atheeb Telecom Company (Go)
+SA,2,96611511XXXX,geographic,Etihad Atheeb Telecom Company (Go)
+SA,2,966116XXXXXX,geographic,Saudi Telecom Company (STC)
 SA,1,966,proper,
-SA,2,+966117XXXXXX,geographic,Saudi Telecom Company (STC)
-SA,12,+966811XXXXXXXX,universalaccess,
-SA,1,+96611XXXXXXX,geographic,
-SA,2,+96612XXXXXXX,geographic,
-SA,3,+966125XXXXXX,geographic,Saudi Telecom Company (STC)
-SA,1,+96611XXXXXXX,geographic,
-SA,2,+96612XXXXXXX,geographic,
-SA,1,+96611XXXXXXX,geographic,
-SA,5,+96613510XXXX,geographic,Etihad Atheeb Telecom Company (Go)
-SA,2,+96612XXXXXXX,geographic,
-SA,1,+96611XXXXXXX,geographic,
-SA,3,+96612510XXXX,geographic,Etihad Atheeb Telecom Company (Go)
-SA,1,+96611XXXXXXX,geographic,
-SA,3,+96612511XXXX,geographic,Etihad Atheeb Telecom Company (Go)
-SA,2,+96612XXXXXXX,geographic,
-SA,10,9#comma66504E+11,voicemail(mobile),Saudi Telecom Company (STC)
-SA,1,+96611XXXXXXX,geographic,
-SA,12,+966891XXXXXXXX,universalaccess,
-SA,9,+96617XXXXXXX,geographic,
-SA,5,+966136XXXXXX,geographic,Saudi Telecom Company (STC)
-SA,3,+966126XXXXXX,geographic,Saudi Telecom Company (STC)
-SA,4,+96613XXXXXXX,geographic,
-SA,9,+96617XXXXXXX,geographic,
-SA,2,+966122XXXXXX,geographic,Saudi Telecom Company (STC)
-SA,12,+966920XXXXXX,sharedcost,
-SA,7,+96616XXXXXXX,geographic,
-SA,3,+966127XXXXXX,geographic,Saudi Telecom Company (STC)
-SA,5,+966137XXXXXX,geographic,Saudi Telecom Company (STC)
-SA,4,+96613XXXXXXX,geographic,
-SA,2,+966124XXXXXX,geographic,Saudi Telecom Company (STC)
-SA,5,+966138XXXXXX,geographic,Saudi Telecom Company (STC)
-SA,4,+96613XXXXXXX,geographic,
-SA,9,+96617XXXXXXX,geographic,
-SA,4,+96613XXXXXXX,geographic,
-SA,3,+966128XXXXXX,geographic,Saudi Telecom Company (STC)
-SA,5,+96614XXXXXXX,geographic,
-SA,9,+966172XXXXXX,geographic,Saudi Telecom Company (STC)
-SA,6,+96614XXXXXXX,geographic,
-SA,12,+966925XXXXXX,premiumrate,
-SA,10,+96650XXXXXXX,mobile,Saudi Telecom Company (STC)
-SA,10,+96651XXXXXXX,mobile,PTC (iDEN)
-SA,3,+96613XXXXXXX,geographic,
-SA,10,+96653XXXXXXX,mobile,Saudi Telecom Company (STC)
-SA,10,+96654XXXXXXX,mobile,Etihad Etisalat Company (Mobily)
-SA,7,+96616XXXXXXX,geographic,
-SA,6,+96614XXXXXXX,geographic,
-SA,10,+96655XXXXXXX,mobile,Saudi Telecom Company (STC)
-SA,9,+966173XXXXXX,geographic,Saudi Telecom Company (STC)
-SA,10,+96656XXXXXXX,mobile,Etihad Etisalat Company (Mobily)
-SA,10,+966570XXXXXX,mobile,Virgin Mobile Saudi consortium LLC
-SA,10,+966571XXXXXX,mobile,Virgin Mobile Saudi consortium LLC
-SA,4,+96613XXXXXXX,geographic,
-SA,5,+96614XXXXXXX,geographic,
-SA,11,+966572XXXXXX,mobile,Virgin Mobile Saudi consortium LLC
-SA,11,+966576XXXXXX,mobile,Etihad Etisalat Company (Mobily)
-SA,11,+966577XXXXXX,mobile,Etihad Etisalat Company (Mobily)
-SA,11,+966578XXXXXX,mobile,Etihad Etisalat Company (Mobily)
-SA,11,+96658XXXXXXX,mobile,ZAIN
-SA,11,+96659XXXXXXX,mobile,ZAIN
-SA,12,+9668111XXXXXX,mobile,Etihad Atheeb Telecom Company (Go)
-SA,9,+966175XXXXXX,geographic,Saudi Telecom Company (STC)
-SA,1,+966112XXXXXX,geographic,Saudi Telecom Company (STC)
-SA,6,+96614XXXXXXX,geographic,
-SA,5,+96614XXXXXXX,geographic,
-SA,3,+96613XXXXXXX,geographic,
-SA,11,+9666XXXXXXXX,mobile,
-SA,4,+96613XXXXXXX,geographic,
-SA,6,+96614XXXXXXX,geographic,
-SA,3,+96613XXXXXXX,geographic,
-SA,7,+96616XXXXXXX,geographic,
-SA,5,+96614XXXXXXX,geographic,
-SA,8,+966164XXXXXX,geographic,Saudi Telecom Company (STC)
-SA,1,+966114XXXXXX,geographic,Saudi Telecom Company (STC)
-SA,11,+966700XXXXX,premiumrate,
-SA,3,+96613XXXXXXX,geographic,
-SA,6,+96614XXXXXXX,geographic,
-SA,8,+966165XXXXXX,geographic,Saudi Telecom Company (STC)
-SA,4,+96613XXXXXXX,geographic,
-SA,7,+96616XXXXXXX,geographic,
-SA,5,+96614XXXXXXX,geographic,
-SA,1,+966115XXXXXX,geographic,Saudi Telecom Company (STC)
-SA,11,+9668XXXXXXXX,mobile,
-SA,10,+96657XXXXXXX,mobile,
-SA,6,+966143XXXXXX,geographic,Saudi Telecom Company (STC)
-SA,4,+96613XXXXXXX,geographic,
-SA,7,+96616XXXXXXX,geographic,
-SA,8,+96616510XXXX,geographic,Etihad Atheeb Telecom Company (Go)
-SA,9,+96617510XXXX,geographic,Etihad Atheeb Telecom Company (Go)
-SA,6,+966144XXXXXX,geographic,Saudi Telecom Company (STC)
-SA,11,+966800XXXXX,freephone,
-SA,8,+96617XXXXXXX,geographic,
-SA,7,+96616XXXXXXX,geographic,
-SA,9,+966176XXXXXX,geographic,Saudi Telecom Company (STC)
-SA,4,+966133XXXXXX,geographic,Saudi Telecom Company (STC)
-SA,5,+96614XXXXXXX,geographic,
-SA,6,+96614510XXXX,geographic,Etihad Atheeb Telecom Company (Go)
-SA,7,+96616XXXXXXX,geographic,
-SA,4,+966135XXXXXX,geographic,Saudi Telecom Company (STC)
-SA,9,+966177XXXXXX,geographic,Saudi Telecom Company (STC)
-SA,6,+966146XXXXXX,geographic,Saudi Telecom Company (STC)
-SA,8,+96617XXXXXXX,geographic,
-SA,7,+96616XXXXXXX,geographic,
-SA,9,+9665XXXXXXXX,mobile,
-SA,6,+966148XXXXXX,geographic,Saudi Telecom Company (STC)
-SA,8,+96617XXXXXXX,geographic,
-SA,8,+96617XXXXXXX,geographic,
-SA,7,+966162XXXXXX,geographic,Saudi Telecom Company (STC)
-SA,8,+96617XXXXXXX,geographic,
-SA,7,+966163XXXXXX,geographic,Saudi Telecom Company (STC)
-SA,8,+96617XXXXXXX,geographic,
-SA,8,+96617XXXXXXX,geographic,
+SA,2,966117XXXXXX,geographic,Saudi Telecom Company (STC)
+SA,12,966811XXXXXXXX,universalaccess,
+SA,1,96611XXXXXXX,geographic,
+SA,2,96612XXXXXXX,geographic,
+SA,3,966125XXXXXX,geographic,Saudi Telecom Company (STC)
+SA,1,96611XXXXXXX,geographic,
+SA,2,96612XXXXXXX,geographic,
+SA,1,96611XXXXXXX,geographic,
+SA,5,96613510XXXX,geographic,Etihad Atheeb Telecom Company (Go)
+SA,2,96612XXXXXXX,geographic,
+SA,1,96611XXXXXXX,geographic,
+SA,3,96612510XXXX,geographic,Etihad Atheeb Telecom Company (Go)
+SA,1,96611XXXXXXX,geographic,
+SA,3,96612511XXXX,geographic,Etihad Atheeb Telecom Company (Go)
+SA,2,96612XXXXXXX,geographic,
+SA,10,9#comma66504E11,voicemail(mobile),Saudi Telecom Company (STC)
+SA,1,96611XXXXXXX,geographic,
+SA,12,966891XXXXXXXX,universalaccess,
+SA,9,96617XXXXXXX,geographic,
+SA,5,966136XXXXXX,geographic,Saudi Telecom Company (STC)
+SA,3,966126XXXXXX,geographic,Saudi Telecom Company (STC)
+SA,4,96613XXXXXXX,geographic,
+SA,9,96617XXXXXXX,geographic,
+SA,2,966122XXXXXX,geographic,Saudi Telecom Company (STC)
+SA,12,966920XXXXXX,sharedcost,
+SA,7,96616XXXXXXX,geographic,
+SA,3,966127XXXXXX,geographic,Saudi Telecom Company (STC)
+SA,5,966137XXXXXX,geographic,Saudi Telecom Company (STC)
+SA,4,96613XXXXXXX,geographic,
+SA,2,966124XXXXXX,geographic,Saudi Telecom Company (STC)
+SA,5,966138XXXXXX,geographic,Saudi Telecom Company (STC)
+SA,4,96613XXXXXXX,geographic,
+SA,9,96617XXXXXXX,geographic,
+SA,4,96613XXXXXXX,geographic,
+SA,3,966128XXXXXX,geographic,Saudi Telecom Company (STC)
+SA,5,96614XXXXXXX,geographic,
+SA,9,966172XXXXXX,geographic,Saudi Telecom Company (STC)
+SA,6,96614XXXXXXX,geographic,
+SA,12,966925XXXXXX,premiumrate,
+SA,10,96650XXXXXXX,mobile,Saudi Telecom Company (STC)
+SA,10,96651XXXXXXX,mobile,PTC (iDEN)
+SA,3,96613XXXXXXX,geographic,
+SA,10,96653XXXXXXX,mobile,Saudi Telecom Company (STC)
+SA,10,96654XXXXXXX,mobile,Etihad Etisalat Company (Mobily)
+SA,7,96616XXXXXXX,geographic,
+SA,6,96614XXXXXXX,geographic,
+SA,10,96655XXXXXXX,mobile,Saudi Telecom Company (STC)
+SA,9,966173XXXXXX,geographic,Saudi Telecom Company (STC)
+SA,10,96656XXXXXXX,mobile,Etihad Etisalat Company (Mobily)
+SA,10,966570XXXXXX,mobile,Virgin Mobile Saudi consortium LLC
+SA,10,966571XXXXXX,mobile,Virgin Mobile Saudi consortium LLC
+SA,4,96613XXXXXXX,geographic,
+SA,5,96614XXXXXXX,geographic,
+SA,11,966572XXXXXX,mobile,Virgin Mobile Saudi consortium LLC
+SA,11,966576XXXXXX,mobile,Etihad Etisalat Company (Mobily)
+SA,11,966577XXXXXX,mobile,Etihad Etisalat Company (Mobily)
+SA,11,966578XXXXXX,mobile,Etihad Etisalat Company (Mobily)
+SA,11,96658XXXXXXX,mobile,ZAIN
+SA,11,96659XXXXXXX,mobile,ZAIN
+SA,12,9668111XXXXXX,mobile,Etihad Atheeb Telecom Company (Go)
+SA,9,966175XXXXXX,geographic,Saudi Telecom Company (STC)
+SA,1,966112XXXXXX,geographic,Saudi Telecom Company (STC)
+SA,6,96614XXXXXXX,geographic,
+SA,5,96614XXXXXXX,geographic,
+SA,3,96613XXXXXXX,geographic,
+SA,11,9666XXXXXXXX,mobile,
+SA,4,96613XXXXXXX,geographic,
+SA,6,96614XXXXXXX,geographic,
+SA,3,96613XXXXXXX,geographic,
+SA,7,96616XXXXXXX,geographic,
+SA,5,96614XXXXXXX,geographic,
+SA,8,966164XXXXXX,geographic,Saudi Telecom Company (STC)
+SA,1,966114XXXXXX,geographic,Saudi Telecom Company (STC)
+SA,11,966700XXXXX,premiumrate,
+SA,3,96613XXXXXXX,geographic,
+SA,6,96614XXXXXXX,geographic,
+SA,8,966165XXXXXX,geographic,Saudi Telecom Company (STC)
+SA,4,96613XXXXXXX,geographic,
+SA,7,96616XXXXXXX,geographic,
+SA,5,96614XXXXXXX,geographic,
+SA,1,966115XXXXXX,geographic,Saudi Telecom Company (STC)
+SA,11,9668XXXXXXXX,mobile,
+SA,10,96657XXXXXXX,mobile,
+SA,6,966143XXXXXX,geographic,Saudi Telecom Company (STC)
+SA,4,96613XXXXXXX,geographic,
+SA,7,96616XXXXXXX,geographic,
+SA,8,96616510XXXX,geographic,Etihad Atheeb Telecom Company (Go)
+SA,9,96617510XXXX,geographic,Etihad Atheeb Telecom Company (Go)
+SA,6,966144XXXXXX,geographic,Saudi Telecom Company (STC)
+SA,11,966800XXXXX,freephone,
+SA,8,96617XXXXXXX,geographic,
+SA,7,96616XXXXXXX,geographic,
+SA,9,966176XXXXXX,geographic,Saudi Telecom Company (STC)
+SA,4,966133XXXXXX,geographic,Saudi Telecom Company (STC)
+SA,5,96614XXXXXXX,geographic,
+SA,6,96614510XXXX,geographic,Etihad Atheeb Telecom Company (Go)
+SA,7,96616XXXXXXX,geographic,
+SA,4,966135XXXXXX,geographic,Saudi Telecom Company (STC)
+SA,9,966177XXXXXX,geographic,Saudi Telecom Company (STC)
+SA,6,966146XXXXXX,geographic,Saudi Telecom Company (STC)
+SA,8,96617XXXXXXX,geographic,
+SA,7,96616XXXXXXX,geographic,
+SA,9,9665XXXXXXXX,mobile,
+SA,6,966148XXXXXX,geographic,Saudi Telecom Company (STC)
+SA,8,96617XXXXXXX,geographic,
+SA,8,96617XXXXXXX,geographic,
+SA,7,966162XXXXXX,geographic,Saudi Telecom Company (STC)
+SA,8,96617XXXXXXX,geographic,
+SA,7,966163XXXXXX,geographic,Saudi Telecom Company (STC)
+SA,8,96617XXXXXXX,geographic,
+SA,8,96617XXXXXXX,geographic,

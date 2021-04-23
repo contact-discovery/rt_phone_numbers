@@ -1,50 +1,50 @@
 ﻿Country,Page,Range,Type,Provider
 SM,1,378,proper,
-SM,1,+3780XXXXXXXXX,geographic,
-SM,3,+3785XXXXX(XXXX),VoIPtelephony,
-SM,1,+3780549XX(XXXX),geographic,
-SM,2,+378054990(XXXX),geographic,Telecom Italia San Marino S.p.A.
-SM,5,+37891XXXX(XXXX),geographic,Telecom Italia San Marino S.p.A.
-SM,1,+37805498X(XXXX),geographic,
-SM,3,+37851XXXX(XXXX),VoIPtelephony,Telenet S.r.l.
-SM,1,+378054980(XXXX),geographic,San Marino Telecom S.p.A.
-SM,5,+37892XXXX(XXXX),geographic,Telecom Italia San Marino S.p.A.
-SM,5,+37893XXXX(XXXX),geographic,Telecom Italia San Marino S.p.A.
-SM,1,+378054981(XXXX),geographic,Telenet S.r.l.
-SM,5,+37894XXXX(XXXX),geographic,Telecom Italia San Marino S.p.A.
-SM,2,+378054991(XXXX),geographic,Telecom Italia San Marino S.p.A.
-SM,3,+37855XXXX(XXXX),VoIPtelephony,San Marino Telecom S.p.A.
-SM,1,+378054985(XXXX),geographic,Telenet S.r.l.
-SM,5,+37895XXXX(XXXX),geographic,Telecom Italia San Marino S.p.A.
-SM,3,+37858XXXX(XXXX),VoIPtelephony,Telecom Italia San Marino S.p.A.
-SM,2,+378054992(XXXX),geographic,Telecom Italia San Marino S.p.A.
-SM,1,+378054987(XXXX),geographic,Telecom Italia San Marino S.p.A.
-SM,5,+37896XXXX(XXXX),geographic,Telecom Italia San Marino S.p.A.
-SM,4,+37878XXXX(XXXX),premiumrate,Telecom Italia San Marino S.p.A.
-SM,5,+37897XXXX(XXXX),geographic,Telecom Italia San Marino S.p.A.
-SM,1,+378054988(XXXX),geographic,Telecom Italia San Marino S.p.A.
-SM,3,+37861XXXX(XXXX),mobile,Telenet S.r.l.
-SM,3,+37866XXXX(XXXX),mobile,San Marino Telecom S.p.A.
-SM,3,+3786XXXXX(XXXX),mobile,
-SM,1,+378054989(XXXX),geographic,Telecom Italia San Marino S.p.A.
-SM,2,+378054993(XXXX),geographic,Telecom Italia San Marino S.p.A.
-SM,4,+3788XXXXX(XXXX),geographic,
-SM,2,+378054994(XXXX),geographic,Telecom Italia San Marino S.p.A.
-SM,4,+37880XXXX(XXXX),geographic,San Marino Telecom S.p.A.
-SM,5,+37898XXXX(XXXX),geographic,Telecom Italia San Marino S.p.A.
-SM,2,+378054995(XXXX),geographic,Telecom Italia San Marino S.p.A.
-SM,5,+37899XXXX(XXXX),geographic,Telecom Italia San Marino S.p.A.
-SM,4,+378800XXX(XXXX),freephone,
-SM,2,+378054996(XXXX),geographic,Telecom Italia San Marino S.p.A.
-SM,3,+3787XXXXX(XXXX),premiumrate,
-SM,2,+378054997(XXXX),geographic,Telecom Italia San Marino S.p.A.
-SM,4,+37881XXXX(XXXX),geographic,Telenet S.r.l.
-SM,4,+37885XXXX(XXXX),geographic,Telenet S.r.l.
-SM,3,+37871XXXX(XXXX),premiumrate,Telenet S.r.l.
-SM,2,+378054998(XXXX),geographic,Telecom Italia San Marino S.p.A.
-SM,4,+37887XXXX(XXXX),geographic,Telecom Italia San Marino S.p.A.
-SM,3,+37877XXXX(XXXX),premiumrate,San Marino Telecom S.p.A.
-SM,4,+37888XXXX(XXXX),geographic,Telecom Italia San Marino S.p.A.
-SM,2,+378054999(XXXX),geographic,Telecom Italia San Marino S.p.A.
-SM,4,+37889XXXX(XXXX),geographic,Telecom Italia San Marino S.p.A.
-SM,4,+37890XXXX(XXXX),geographic,Telecom Italia San Marino S.p.A.
+SM,1,3780XXXXXXXXX,geographic,
+SM,3,3785XXXXX(XXXX),VoIPtelephony,
+SM,1,3780549XX(XXXX),geographic,
+SM,2,378054990(XXXX),geographic,Telecom Italia San Marino S.p.A.
+SM,5,37891XXXX(XXXX),geographic,Telecom Italia San Marino S.p.A.
+SM,1,37805498X(XXXX),geographic,
+SM,3,37851XXXX(XXXX),VoIPtelephony,Telenet S.r.l.
+SM,1,378054980(XXXX),geographic,San Marino Telecom S.p.A.
+SM,5,37892XXXX(XXXX),geographic,Telecom Italia San Marino S.p.A.
+SM,5,37893XXXX(XXXX),geographic,Telecom Italia San Marino S.p.A.
+SM,1,378054981(XXXX),geographic,Telenet S.r.l.
+SM,5,37894XXXX(XXXX),geographic,Telecom Italia San Marino S.p.A.
+SM,2,378054991(XXXX),geographic,Telecom Italia San Marino S.p.A.
+SM,3,37855XXXX(XXXX),VoIPtelephony,San Marino Telecom S.p.A.
+SM,1,378054985(XXXX),geographic,Telenet S.r.l.
+SM,5,37895XXXX(XXXX),geographic,Telecom Italia San Marino S.p.A.
+SM,3,37858XXXX(XXXX),VoIPtelephony,Telecom Italia San Marino S.p.A.
+SM,2,378054992(XXXX),geographic,Telecom Italia San Marino S.p.A.
+SM,1,378054987(XXXX),geographic,Telecom Italia San Marino S.p.A.
+SM,5,37896XXXX(XXXX),geographic,Telecom Italia San Marino S.p.A.
+SM,4,37878XXXX(XXXX),premiumrate,Telecom Italia San Marino S.p.A.
+SM,5,37897XXXX(XXXX),geographic,Telecom Italia San Marino S.p.A.
+SM,1,378054988(XXXX),geographic,Telecom Italia San Marino S.p.A.
+SM,3,37861XXXX(XXXX),mobile,Telenet S.r.l.
+SM,3,37866XXXX(XXXX),mobile,San Marino Telecom S.p.A.
+SM,3,3786XXXXX(XXXX),mobile,
+SM,1,378054989(XXXX),geographic,Telecom Italia San Marino S.p.A.
+SM,2,378054993(XXXX),geographic,Telecom Italia San Marino S.p.A.
+SM,4,3788XXXXX(XXXX),geographic,
+SM,2,378054994(XXXX),geographic,Telecom Italia San Marino S.p.A.
+SM,4,37880XXXX(XXXX),geographic,San Marino Telecom S.p.A.
+SM,5,37898XXXX(XXXX),geographic,Telecom Italia San Marino S.p.A.
+SM,2,378054995(XXXX),geographic,Telecom Italia San Marino S.p.A.
+SM,5,37899XXXX(XXXX),geographic,Telecom Italia San Marino S.p.A.
+SM,4,378800XXX(XXXX),freephone,
+SM,2,378054996(XXXX),geographic,Telecom Italia San Marino S.p.A.
+SM,3,3787XXXXX(XXXX),premiumrate,
+SM,2,378054997(XXXX),geographic,Telecom Italia San Marino S.p.A.
+SM,4,37881XXXX(XXXX),geographic,Telenet S.r.l.
+SM,4,37885XXXX(XXXX),geographic,Telenet S.r.l.
+SM,3,37871XXXX(XXXX),premiumrate,Telenet S.r.l.
+SM,2,378054998(XXXX),geographic,Telecom Italia San Marino S.p.A.
+SM,4,37887XXXX(XXXX),geographic,Telecom Italia San Marino S.p.A.
+SM,3,37877XXXX(XXXX),premiumrate,San Marino Telecom S.p.A.
+SM,4,37888XXXX(XXXX),geographic,Telecom Italia San Marino S.p.A.
+SM,2,378054999(XXXX),geographic,Telecom Italia San Marino S.p.A.
+SM,4,37889XXXX(XXXX),geographic,Telecom Italia San Marino S.p.A.
+SM,4,37890XXXX(XXXX),geographic,Telecom Italia San Marino S.p.A.

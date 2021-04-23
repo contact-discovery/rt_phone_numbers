@@ -1,146 +1,146 @@
 ﻿Country,Page,Range,Type,Provider
-NE,10,+2272188XXXX,wirelessgeographic,Sonitel S.A. (CDMA)
-NE,8,+22720755XXX,geographic,Sonitel S.A.
-NE,8,+2272076XXXX,geographic,Sonitel S.A.
-NE,4,+22720514XXX,geographic,Sonitel S.A.
-NE,2,+2272032XXXX,geographic,Sonitel S.A.
-NE,2,+2272033XXXX,geographic,Sonitel S.A.
-NE,4,+22720515XXX,geographic,Sonitel S.A.
-NE,10,+2279321XXXX,mobile,Sahelcom
-NE,10,+2279322XXXX,mobile,Sahelcom
-NE,10,+2279323XXXX,mobile,Sahelcom
-NE,6,+22720725XXX,geographic,Sonitel S.A.
-NE,2,+2272034XXXX,geographic,Sonitel S.A.
-NE,8,+2272077XXXX,geographic,Sonitel S.A.
-NE,10,+2279380XXXX,mobile,Sahelcom
-NE,4,+22720516XXX,geographic,Sonitel S.A.
-NE,2,+2272035XXXX,geographic,Sonitel S.A.
-NE,5,+22720650XXX,geographic,Sonitel S.A.
-NE,10,+2279381XXXX,mobile,Sahelcom
-NE,10,+2279382XXXX,mobile,Sahelcom
-NE,10,+2279383XXXX,mobile,Sahelcom
-NE,6,+2272073XXXX,geographic,Sonitel S.A.
-NE,10,+2279390XXXX,mobile,Sahelcom
-NE,10,+22793XXXXXX,mobile,Sahelcom
-NE,7,+2272074XXXX,geographic,Sonitel S.A.
-NE,8,+2272078XXXX,geographic,Sonitel S.A.
-NE,11,+2279391XXXX,mobile,Sahelcom
-NE,11,+2279392XXXX,mobile,Sahelcom
-NE,4,+22720517XXX,geographic,Sonitel S.A.
-NE,11,+2279393XXXX,mobile,Sahelcom
-NE,11,+2279424XXXX,mobile,Telecel-Niger
-NE,11,+2279425XXXX,mobile,Telecel-Niger
-NE,5,+2272067XXXX,geographic,Sonitel S.A.
-NE,11,+2279462XXXX,mobile,Telecel-Niger
+NE,10,2272188XXXX,wirelessgeographic,Sonitel S.A. (CDMA)
+NE,8,22720755XXX,geographic,Sonitel S.A.
+NE,8,2272076XXXX,geographic,Sonitel S.A.
+NE,4,22720514XXX,geographic,Sonitel S.A.
+NE,2,2272032XXXX,geographic,Sonitel S.A.
+NE,2,2272033XXXX,geographic,Sonitel S.A.
+NE,4,22720515XXX,geographic,Sonitel S.A.
+NE,10,2279321XXXX,mobile,Sahelcom
+NE,10,2279322XXXX,mobile,Sahelcom
+NE,10,2279323XXXX,mobile,Sahelcom
+NE,6,22720725XXX,geographic,Sonitel S.A.
+NE,2,2272034XXXX,geographic,Sonitel S.A.
+NE,8,2272077XXXX,geographic,Sonitel S.A.
+NE,10,2279380XXXX,mobile,Sahelcom
+NE,4,22720516XXX,geographic,Sonitel S.A.
+NE,2,2272035XXXX,geographic,Sonitel S.A.
+NE,5,22720650XXX,geographic,Sonitel S.A.
+NE,10,2279381XXXX,mobile,Sahelcom
+NE,10,2279382XXXX,mobile,Sahelcom
+NE,10,2279383XXXX,mobile,Sahelcom
+NE,6,2272073XXXX,geographic,Sonitel S.A.
+NE,10,2279390XXXX,mobile,Sahelcom
+NE,10,22793XXXXXX,mobile,Sahelcom
+NE,7,2272074XXXX,geographic,Sonitel S.A.
+NE,8,2272078XXXX,geographic,Sonitel S.A.
+NE,11,2279391XXXX,mobile,Sahelcom
+NE,11,2279392XXXX,mobile,Sahelcom
+NE,4,22720517XXX,geographic,Sonitel S.A.
+NE,11,2279393XXXX,mobile,Sahelcom
+NE,11,2279424XXXX,mobile,Telecel-Niger
+NE,11,2279425XXXX,mobile,Telecel-Niger
+NE,5,2272067XXXX,geographic,Sonitel S.A.
+NE,11,2279462XXXX,mobile,Telecel-Niger
 NE,1,227,proper,
-NE,11,+2279463XXXX,mobile,Telecel-Niger
-NE,11,+2279484XXXX,mobile,Telecel-Niger
-NE,11,+2279485XXXX,mobile,Telecel-Niger
-NE,11,+22794XXXXXX,mobile,Telecel-Niger
-NE,12,+2279494XXXX,mobile,Telecel-Niger
-NE,5,+2272068XXXX,geographic,Sonitel S.A.
-NE,12,+2279495XXXX,mobile,Telecel-Niger
-NE,6,+22720732XXX,geographic,Sonitel S.A.
-NE,7,+22720740XXX,geographic,Sonitel S.A.
-NE,2,+2272036XXXX,geographic,Sonitel S.A.
-NE,1,+227080XX(XXX),freephone,Sonitel S.A.
-NE,12,+2279605XXXX,mobile,Celtel-Niger
-NE,12,+2279606XXXX,mobile,Celtel-Niger
-NE,12,+2279607XXXX,mobile,Celtel-Niger
-NE,12,+2279608XXXX,mobile,Celtel-Niger
-NE,5,+22720680XXX,geographic,Sonitel S.A.
-NE,12,+2279626XXXX,mobile,Celtel-Niger
-NE,12,+2279627XXXX,mobile,Celtel-Niger
-NE,12,+2279628XXXX,mobile,Celtel-Niger
-NE,12,+22796XXXXXX,mobile,Celtel-Niger
-NE,2,+2272037XXXX,geographic,Sonitel S.A.
-NE,4,+2272054XXXX,geographic,Sonitel S.A.
-NE,13,+2279629XXXX,mobile,Celtel-Niger
-NE,13,+2279640XXXX,mobile,Celtel-Niger
-NE,13,+2279642XXXX,mobile,Celtel-Niger
-NE,6,+22720733XXX,geographic,Sonitel S.A.
-NE,8,+22720784XXX,geographic,Sonitel S.A.
-NE,13,+2279643XXXX,mobile,Celtel-Niger
-NE,7,+22720741XXX,geographic,Sonitel S.A.
-NE,13,+2279646XXXX,mobile,Celtel-Niger
-NE,1,+22708300XXX,universalaccess,Sonitel S.A.
-NE,13,+2279647XXXX,mobile,Celtel-Niger
-NE,13,+2279648XXXX,mobile,Celtel-Niger
-NE,13,+2279649XXXX,mobile,Celtel-Niger
-NE,13,+2279650XXXX,mobile,Celtel-Niger
-NE,13,+2279652XXXX,mobile,Celtel-Niger
-NE,2,+2272038XXXX,geographic,Sonitel S.A.
-NE,14,+2279653XXXX,mobile,Celtel-Niger
-NE,14,+2279655XXXX,mobile,Celtel-Niger
-NE,14,+2279656XXXX,mobile,Celtel-Niger
-NE,14,+2279657XXXX,mobile,Celtel-Niger
-NE,14,+2279658XXXX,mobile,Celtel-Niger
-NE,8,+2272079XXXX,geographic,Sonitel S.A.
-NE,5,+2272071XXXX,geographic,Sonitel S.A.
-NE,1,+22708700XXX,universalaccess,Sonitel S.A.
-NE,3,+2272044XXXX,geographic,Sonitel S.A.
-NE,14,+2279659XXXX,mobile,Celtel-Niger
-NE,4,+22720540XXX,geographic,Sonitel S.A.
-NE,14,+2279666XXXX,mobile,Celtel-Niger
-NE,7,+22720742XXX,geographic,Sonitel S.A.
-NE,14,+2279667XXXX,mobile,Celtel-Niger
-NE,14,+2279687XXXX,mobile,Celtel-Niger
-NE,14,+2279688XXXX,mobile,Celtel-Niger
-NE,15,+2279689XXXX,mobile,Celtel-Niger
-NE,15,+2279696XXXX,mobile,Celtel-Niger
-NE,15,+2279697XXXX,mobile,Celtel-Niger
-NE,15,+2279698XXXX,mobile,Celtel-Niger
-NE,2,+2272041XXXX,geographic,Sonitel S.A.
-NE,6,+22720734XXX,geographic,Sonitel S.A.
-NE,15,+2279699XXXX,mobile,Celtel-Niger
-NE,5,+22720711XXX,geographic,Sonitel S.A.
-NE,2,+22720410XXX,geographic,Sonitel S.A.
-NE,6,+22720735XXX,geographic,Sonitel S.A.
-NE,1,+2270986(XXXX),electronic/faxservices,
-NE,7,+22720743XXX,geographic,Sonitel S.A.
-NE,9,+2272151XXXX,wirelessgeographic,Sonitel S.A. (CDMA)
-NE,3,+22720440XXX,geographic,Sonitel S.A.
-NE,4,+22720610XXX,geographic,Sonitel S.A.
-NE,8,+22721XXXXXX,wirelessgeographic,
-NE,7,+22720744XXX,geographic,Sonitel S.A.
-NE,1,+227098612XX,electronic/faxservices,Sahelcom S.A.
-NE,5,+2272072XXXX,geographic,Sonitel S.A.
-NE,7,+2272075XXXX,geographic,Sonitel S.A.
-NE,6,+22720736XXX,geographic,Sonitel S.A.
-NE,8,+2272141XXXX,wirelessgeographic,Sonitel S.A. (CDMA)
-NE,9,+2272154XXXX,wirelessgeographic,Sonitel S.A. (CDMA)
-NE,3,+22720441XXX,geographic,Sonitel S.A.
-NE,2,+22720411XXX,geographic,Sonitel S.A.
-NE,4,+2272064XXXX,geographic,Sonitel S.A.
-NE,5,+22720722XXX,geographic,Sonitel S.A.
-NE,1,+227098620XX,voicemail(geographic),Afreetel
-NE,7,+22720752XXX,geographic,Sonitel S.A.
-NE,6,+22720737XXX,geographic,Sonitel S.A.
-NE,8,+2272144XXXX,wirelessgeographic,Sonitel S.A. (CDMA)
-NE,9,+2272161XXXX,wirelessgeographic,Sonitel S.A. (CDMA)
-NE,7,+22720753XXX,geographic,Sonitel S.A.
-NE,3,+2272045XXXX,geographic,Sonitel S.A.
-NE,9,+2272164XXXX,wirelessgeographic,Sonitel S.A. (CDMA)
-NE,6,+22720738XXX,geographic,Sonitel S.A.
-NE,1,+22720XXXXXX,geographic,Sonitel S.A.
-NE,5,+22720723XXX,geographic,Sonitel S.A.
-NE,4,+22720640XXX,geographic,Sonitel S.A.
-NE,8,+2272145XXXX,wirelessgeographic,Sonitel S.A. (CDMA)
-NE,7,+22720754XXX,geographic,Sonitel S.A.
-NE,6,+22720739XXX,geographic,Sonitel S.A.
-NE,9,+2272165XXXX,wirelessgeographic,Sonitel S.A. (CDMA)
-NE,3,+22720452XXX,geographic,Sonitel S.A.
-NE,4,+2272065XXXX,geographic,Sonitel S.A.
-NE,1,+2272020XXXX,geographic,Sonitel S.A.
-NE,3,+2272051XXXX,geographic,Sonitel S.A.
-NE,9,+2272166XXXX,wirelessgeographic,Sonitel S.A. (CDMA)
-NE,5,+22720724XXX,geographic,Sonitel S.A.
-NE,1,+2272031XXXX,geographic,Sonitel S.A.
-NE,9,+2272168XXXX,wirelessgeographic,Sonitel S.A. (CDMA)
-NE,3,+22720510XXX,geographic,Sonitel S.A.
-NE,9,+2272171XXXX,wirelessgeographic,Sonitel S.A. (CDMA)
-NE,9,+2272176XXXX,wirelessgeographic,Sonitel S.A. (CDMA)
-NE,9,+2272179XXXX,wirelessgeographic,Sonitel S.A. (CDMA)
-NE,3,+22720511XXX,geographic,Sonitel S.A.
-NE,3,+22720512XXX,geographic,Sonitel S.A.
-NE,3,+22720513XXX,geographic,Sonitel S.A.
+NE,11,2279463XXXX,mobile,Telecel-Niger
+NE,11,2279484XXXX,mobile,Telecel-Niger
+NE,11,2279485XXXX,mobile,Telecel-Niger
+NE,11,22794XXXXXX,mobile,Telecel-Niger
+NE,12,2279494XXXX,mobile,Telecel-Niger
+NE,5,2272068XXXX,geographic,Sonitel S.A.
+NE,12,2279495XXXX,mobile,Telecel-Niger
+NE,6,22720732XXX,geographic,Sonitel S.A.
+NE,7,22720740XXX,geographic,Sonitel S.A.
+NE,2,2272036XXXX,geographic,Sonitel S.A.
+NE,1,227080XX(XXX),freephone,Sonitel S.A.
+NE,12,2279605XXXX,mobile,Celtel-Niger
+NE,12,2279606XXXX,mobile,Celtel-Niger
+NE,12,2279607XXXX,mobile,Celtel-Niger
+NE,12,2279608XXXX,mobile,Celtel-Niger
+NE,5,22720680XXX,geographic,Sonitel S.A.
+NE,12,2279626XXXX,mobile,Celtel-Niger
+NE,12,2279627XXXX,mobile,Celtel-Niger
+NE,12,2279628XXXX,mobile,Celtel-Niger
+NE,12,22796XXXXXX,mobile,Celtel-Niger
+NE,2,2272037XXXX,geographic,Sonitel S.A.
+NE,4,2272054XXXX,geographic,Sonitel S.A.
+NE,13,2279629XXXX,mobile,Celtel-Niger
+NE,13,2279640XXXX,mobile,Celtel-Niger
+NE,13,2279642XXXX,mobile,Celtel-Niger
+NE,6,22720733XXX,geographic,Sonitel S.A.
+NE,8,22720784XXX,geographic,Sonitel S.A.
+NE,13,2279643XXXX,mobile,Celtel-Niger
+NE,7,22720741XXX,geographic,Sonitel S.A.
+NE,13,2279646XXXX,mobile,Celtel-Niger
+NE,1,22708300XXX,universalaccess,Sonitel S.A.
+NE,13,2279647XXXX,mobile,Celtel-Niger
+NE,13,2279648XXXX,mobile,Celtel-Niger
+NE,13,2279649XXXX,mobile,Celtel-Niger
+NE,13,2279650XXXX,mobile,Celtel-Niger
+NE,13,2279652XXXX,mobile,Celtel-Niger
+NE,2,2272038XXXX,geographic,Sonitel S.A.
+NE,14,2279653XXXX,mobile,Celtel-Niger
+NE,14,2279655XXXX,mobile,Celtel-Niger
+NE,14,2279656XXXX,mobile,Celtel-Niger
+NE,14,2279657XXXX,mobile,Celtel-Niger
+NE,14,2279658XXXX,mobile,Celtel-Niger
+NE,8,2272079XXXX,geographic,Sonitel S.A.
+NE,5,2272071XXXX,geographic,Sonitel S.A.
+NE,1,22708700XXX,universalaccess,Sonitel S.A.
+NE,3,2272044XXXX,geographic,Sonitel S.A.
+NE,14,2279659XXXX,mobile,Celtel-Niger
+NE,4,22720540XXX,geographic,Sonitel S.A.
+NE,14,2279666XXXX,mobile,Celtel-Niger
+NE,7,22720742XXX,geographic,Sonitel S.A.
+NE,14,2279667XXXX,mobile,Celtel-Niger
+NE,14,2279687XXXX,mobile,Celtel-Niger
+NE,14,2279688XXXX,mobile,Celtel-Niger
+NE,15,2279689XXXX,mobile,Celtel-Niger
+NE,15,2279696XXXX,mobile,Celtel-Niger
+NE,15,2279697XXXX,mobile,Celtel-Niger
+NE,15,2279698XXXX,mobile,Celtel-Niger
+NE,2,2272041XXXX,geographic,Sonitel S.A.
+NE,6,22720734XXX,geographic,Sonitel S.A.
+NE,15,2279699XXXX,mobile,Celtel-Niger
+NE,5,22720711XXX,geographic,Sonitel S.A.
+NE,2,22720410XXX,geographic,Sonitel S.A.
+NE,6,22720735XXX,geographic,Sonitel S.A.
+NE,1,2270986(XXXX),electronic/faxservices,
+NE,7,22720743XXX,geographic,Sonitel S.A.
+NE,9,2272151XXXX,wirelessgeographic,Sonitel S.A. (CDMA)
+NE,3,22720440XXX,geographic,Sonitel S.A.
+NE,4,22720610XXX,geographic,Sonitel S.A.
+NE,8,22721XXXXXX,wirelessgeographic,
+NE,7,22720744XXX,geographic,Sonitel S.A.
+NE,1,227098612XX,electronic/faxservices,Sahelcom S.A.
+NE,5,2272072XXXX,geographic,Sonitel S.A.
+NE,7,2272075XXXX,geographic,Sonitel S.A.
+NE,6,22720736XXX,geographic,Sonitel S.A.
+NE,8,2272141XXXX,wirelessgeographic,Sonitel S.A. (CDMA)
+NE,9,2272154XXXX,wirelessgeographic,Sonitel S.A. (CDMA)
+NE,3,22720441XXX,geographic,Sonitel S.A.
+NE,2,22720411XXX,geographic,Sonitel S.A.
+NE,4,2272064XXXX,geographic,Sonitel S.A.
+NE,5,22720722XXX,geographic,Sonitel S.A.
+NE,1,227098620XX,voicemail(geographic),Afreetel
+NE,7,22720752XXX,geographic,Sonitel S.A.
+NE,6,22720737XXX,geographic,Sonitel S.A.
+NE,8,2272144XXXX,wirelessgeographic,Sonitel S.A. (CDMA)
+NE,9,2272161XXXX,wirelessgeographic,Sonitel S.A. (CDMA)
+NE,7,22720753XXX,geographic,Sonitel S.A.
+NE,3,2272045XXXX,geographic,Sonitel S.A.
+NE,9,2272164XXXX,wirelessgeographic,Sonitel S.A. (CDMA)
+NE,6,22720738XXX,geographic,Sonitel S.A.
+NE,1,22720XXXXXX,geographic,Sonitel S.A.
+NE,5,22720723XXX,geographic,Sonitel S.A.
+NE,4,22720640XXX,geographic,Sonitel S.A.
+NE,8,2272145XXXX,wirelessgeographic,Sonitel S.A. (CDMA)
+NE,7,22720754XXX,geographic,Sonitel S.A.
+NE,6,22720739XXX,geographic,Sonitel S.A.
+NE,9,2272165XXXX,wirelessgeographic,Sonitel S.A. (CDMA)
+NE,3,22720452XXX,geographic,Sonitel S.A.
+NE,4,2272065XXXX,geographic,Sonitel S.A.
+NE,1,2272020XXXX,geographic,Sonitel S.A.
+NE,3,2272051XXXX,geographic,Sonitel S.A.
+NE,9,2272166XXXX,wirelessgeographic,Sonitel S.A. (CDMA)
+NE,5,22720724XXX,geographic,Sonitel S.A.
+NE,1,2272031XXXX,geographic,Sonitel S.A.
+NE,9,2272168XXXX,wirelessgeographic,Sonitel S.A. (CDMA)
+NE,3,22720510XXX,geographic,Sonitel S.A.
+NE,9,2272171XXXX,wirelessgeographic,Sonitel S.A. (CDMA)
+NE,9,2272176XXXX,wirelessgeographic,Sonitel S.A. (CDMA)
+NE,9,2272179XXXX,wirelessgeographic,Sonitel S.A. (CDMA)
+NE,3,22720511XXX,geographic,Sonitel S.A.
+NE,3,22720512XXX,geographic,Sonitel S.A.
+NE,3,22720513XXX,geographic,Sonitel S.A.

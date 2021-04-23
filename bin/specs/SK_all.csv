@@ -1,201 +1,201 @@
 ﻿Country,Page,Range,Type,Provider
-SK,10,+42143XXXXXXX,geographic,
-SK,10,+42143XXXXXXX,geographic,
-SK,13,+42153XXXXXXX,geographic,
-SK,10,+42143XXXXXXX,geographic,
-SK,13,+42154XXXXXXX,geographic,
-SK,10,+42143XXXXXXX,geographic,
-SK,12,+42148XXXXXXX,geographic,
-SK,13,+42154XXXXXXX,geographic,
-SK,12,+42151XXXXXXX,geographic,
-SK,10,+42144XXXXXXX,geographic,
-SK,17,+42186XXXXXXX,sharedcost,
-SK,13,+42154XXXXXXX,geographic,
-SK,10,+42144XXXXXXX,geographic,
-SK,16,+421695XXXXXX,VoIPtelephony,
-SK,11,+42145XXXXXXX,geographic,
-SK,12,+42151XXXXXXX,geographic,
-SK,17,+42187XXXXXXX,sharedcost,
-SK,13,+42154XXXXXXX,geographic,
-SK,17,+421901XXXXXX,mobile,T-Mobile
-SK,11,+42145XXXXXXX,geographic,
-SK,10,+42144XXXXXXX,geographic,
-SK,16,+421696XXXXXX,VoIPtelephony,
+SK,10,42143XXXXXXX,geographic,
+SK,10,42143XXXXXXX,geographic,
+SK,13,42153XXXXXXX,geographic,
+SK,10,42143XXXXXXX,geographic,
+SK,13,42154XXXXXXX,geographic,
+SK,10,42143XXXXXXX,geographic,
+SK,12,42148XXXXXXX,geographic,
+SK,13,42154XXXXXXX,geographic,
+SK,12,42151XXXXXXX,geographic,
+SK,10,42144XXXXXXX,geographic,
+SK,17,42186XXXXXXX,sharedcost,
+SK,13,42154XXXXXXX,geographic,
+SK,10,42144XXXXXXX,geographic,
+SK,16,421695XXXXXX,VoIPtelephony,
+SK,11,42145XXXXXXX,geographic,
+SK,12,42151XXXXXXX,geographic,
+SK,17,42187XXXXXXX,sharedcost,
+SK,13,42154XXXXXXX,geographic,
+SK,17,421901XXXXXX,mobile,T-Mobile
+SK,11,42145XXXXXXX,geographic,
+SK,10,42144XXXXXXX,geographic,
+SK,16,421696XXXXXX,VoIPtelephony,
 SK,1,421,proper,
-SK,10,+42145XXXXXXX,geographic,
-SK,17,+42188XXXXXXX,sharedcost,
-SK,14,+42156XXXXXXX,geographic,
-SK,12,+42152XXXXXXX,geographic,
-SK,13,+42155XXXXXXX,geographic,
-SK,11,+42146XXXXXXX,geographic,
-SK,17,+42189XXXXXXX,sharedcost,
-SK,17,+421902XXXXXX,mobile,T-Mobile
-SK,17,+421903XXXXXX,mobile,T-Mobile
-SK,1,+42119XX,internetserviceprovider,
-SK,12,+42152XXXXXXX,geographic,
+SK,10,42145XXXXXXX,geographic,
+SK,17,42188XXXXXXX,sharedcost,
+SK,14,42156XXXXXXX,geographic,
+SK,12,42152XXXXXXX,geographic,
+SK,13,42155XXXXXXX,geographic,
+SK,11,42146XXXXXXX,geographic,
+SK,17,42189XXXXXXX,sharedcost,
+SK,17,421902XXXXXX,mobile,T-Mobile
+SK,17,421903XXXXXX,mobile,T-Mobile
+SK,1,42119XX,internetserviceprovider,
+SK,12,42152XXXXXXX,geographic,
 SK,5,4211975,internetserviceprovider,Spišnet Computers      
 SK,3,4211940,internetserviceprovider,Globaltel           
-SK,13,+42155XXXXXXX,geographic,
-SK,14,+42157XXXXXXX,geographic,
-SK,17,+421904XXXXXX,mobile,T-Mobile
-SK,18,+421905XXXXXX,mobile,Orange
-SK,17,+4219XXXXXXXX,mobile,
-SK,15,+421651XXXXXX,VoIPtelephony,
+SK,13,42155XXXXXXX,geographic,
+SK,14,42157XXXXXXX,geographic,
+SK,17,421904XXXXXX,mobile,T-Mobile
+SK,18,421905XXXXXX,mobile,Orange
+SK,17,4219XXXXXXXX,mobile,
+SK,15,421651XXXXXX,VoIPtelephony,
 SK,1,4211900,internetserviceprovider,Usware
-SK,16,+421700XXXXXX,universalaccess,
-SK,20,+42196XXXXXXX,virtualprivatenetwork,
-SK,12,+42152XXXXXXX,geographic,
-SK,10,+42145XXXXXXX,geographic,
+SK,16,421700XXXXXX,universalaccess,
+SK,20,42196XXXXXXX,virtualprivatenetwork,
+SK,12,42152XXXXXXX,geographic,
+SK,10,42145XXXXXXX,geographic,
 SK,3,4211942,internetserviceprovider,Etel Slovensko                 
-SK,17,+421900XXXXXX,premiumrate,
-SK,11,+42147XXXXXXX,geographic,
-SK,8,+42135XXXXXXX,geographic,
+SK,17,421900XXXXXX,premiumrate,
+SK,11,42147XXXXXXX,geographic,
+SK,8,42135XXXXXXX,geographic,
 SK,2,4211916,internetserviceprovider,Nextra 
-SK,18,+421906XXXXXX,mobile,Orange
-SK,16,+421800XXXXXX,freephone,
-SK,8,+42135XXXXXXX,geographic,
-SK,20,+42197XXXXXXX,audiotext,
-SK,14,+42157XXXXXXX,geographic,
+SK,18,421906XXXXXX,mobile,Orange
+SK,16,421800XXXXXX,freephone,
+SK,8,42135XXXXXXX,geographic,
+SK,20,42197XXXXXXX,audiotext,
+SK,14,42157XXXXXXX,geographic,
 SK,5,4211977,internetserviceprovider,Gratex International
-SK,11,+42147XXXXXXX,geographic,
-SK,15,+421652XXXXXX,VoIPtelephony,
-SK,18,+4219090XXX,pager,Slovak Telekom#comma a.s.
-SK,18,+421907XXXXXX,mobile,Orange
-SK,18,+421908XXXXXX,mobile,Orange
-SK,13,+42156XXXXXXX,geographic,
-SK,16,+421806XXXXXX,premiumrate,
-SK,12,+42152XXXXXXX,geographic,
-SK,10,+42145XXXXXXX,geographic,
+SK,11,42147XXXXXXX,geographic,
+SK,15,421652XXXXXX,VoIPtelephony,
+SK,18,4219090XXX,pager,Slovak Telekom#comma a.s.
+SK,18,421907XXXXXX,mobile,Orange
+SK,18,421908XXXXXX,mobile,Orange
+SK,13,42156XXXXXXX,geographic,
+SK,16,421806XXXXXX,premiumrate,
+SK,12,42152XXXXXXX,geographic,
+SK,10,42145XXXXXXX,geographic,
 SK,1,4211901,internetserviceprovider,Orange Slovensko
 SK,2,4211918,internetserviceprovider,Bentel
 SK,3,4211943,internetserviceprovider,Pantel Slovensko             
-SK,11,+42147XXXXXXX,geographic,
-SK,18,+421910XXXXXX,mobile,T-Mobile
-SK,18,+421911XXXXXX,mobile,T-Mobile
-SK,18,+421912XXXXXX,mobile,T-Mobile
+SK,11,42147XXXXXXX,geographic,
+SK,18,421910XXXXXX,mobile,T-Mobile
+SK,18,421911XXXXXX,mobile,T-Mobile
+SK,18,421912XXXXXX,mobile,T-Mobile
 SK,1,4211910,internetserviceprovider,Euroweb   
 SK,6,4211989,internetserviceprovider,Cdicon  
 SK,5,4211978,internetserviceprovider,Kochman Info Systems 
 SK,2,4211919,internetserviceprovider,St
-SK,16,+421807XXXXXX,premiumrate,
-SK,8,+42135XXXXXXX,geographic,
-SK,15,+421653XXXXXX,VoIPtelephony,
-SK,18,+421914XXXXXX,mobile,T-Mobile UMTS
-SK,18,+421915XXXXXX,mobile,Orange
-SK,13,+42156XXXXXXX,geographic,
+SK,16,421807XXXXXX,premiumrate,
+SK,8,42135XXXXXXX,geographic,
+SK,15,421653XXXXXX,VoIPtelephony,
+SK,18,421914XXXXXX,mobile,T-Mobile UMTS
+SK,18,421915XXXXXX,mobile,Orange
+SK,13,42156XXXXXXX,geographic,
 SK,5,4211979,internetserviceprovider,Pronet Servis#comma S.R.O.
 SK,3,4211944,internetserviceprovider,Globaltel           
-SK,9,+42138XXXXXXX,geographic,
-SK,11,+42147XXXXXXX,geographic,
-SK,19,+421916XXXXXX,mobile,Orange
-SK,19,+421917XXXXXX,mobile,Orange (UMTS)
+SK,9,42138XXXXXXX,geographic,
+SK,11,42147XXXXXXX,geographic,
+SK,19,421916XXXXXX,mobile,Orange
+SK,19,421917XXXXXX,mobile,Orange (UMTS)
 SK,2,4211923,internetserviceprovider,Slovanet Bratislava   
-SK,12,+42152XXXXXXX,geographic,
+SK,12,42152XXXXXXX,geographic,
 SK,5,4211980,internetserviceprovider,Napri
 SK,1,4211911,internetserviceprovider,(Viapvt) - Slovanet         
-SK,20,+421972XXXXXX,audiotext,Almea Com#comma s.r.o.
-SK,19,+421918XXXXXX,mobile,Orange
+SK,20,421972XXXXXX,audiotext,Almea Com#comma s.r.o.
+SK,19,421918XXXXXX,mobile,Orange
 SK,2,4211924,internetserviceprovider,(Viapvt) - Slovanet
 SK,3,4211945,internetserviceprovider,Inaros
-SK,15,+421654XXXXXX,VoIPtelephony,
-SK,9,+42141XXXXXXX,geographic,
-SK,11,+42147XXXXXXX,geographic,
+SK,15,421654XXXXXX,VoIPtelephony,
+SK,9,42141XXXXXXX,geographic,
+SK,11,42147XXXXXXX,geographic,
 SK,6,4211991,internetserviceprovider,Eurotel Prenos Dát                
-SK,8,+42136XXXXXXX,geographic,
-SK,14,+42157XXXXXXX,geographic,
-SK,16,+421808XXXXXX,premiumrate,
+SK,8,42136XXXXXXX,geographic,
+SK,14,42157XXXXXXX,geographic,
+SK,16,421808XXXXXX,premiumrate,
 SK,5,4211982,internetserviceprovider,Kochman Infosyst     
-SK,19,+421919XXXXXX,mobile,Orange
+SK,19,421919XXXXXX,mobile,Orange
 SK,6,4211992,internetserviceprovider,Eurotel Prenos Dát                
-SK,13,+42156XXXXXXX,geographic,
-SK,14,+42157XXXXXXX,geographic,
+SK,13,42156XXXXXXX,geographic,
+SK,14,42157XXXXXXX,geographic,
 SK,4,4211957,internetserviceprovider,Axon         
-SK,11,+42147XXXXXXX,geographic,
-SK,12,+42153XXXXXXX,geographic,
-SK,15,+421680XXXXXX,globaltitleaddress,
+SK,11,42147XXXXXXX,geographic,
+SK,12,42153XXXXXXX,geographic,
+SK,15,421680XXXXXX,globaltitleaddress,
 SK,1,4211912,internetserviceprovider,Euroweb      
 SK,2,4211926,internetserviceprovider,Orange   
 SK,5,4211983,internetserviceprovider,Ses Kredit                   
-SK,19,+421940XXXXXX,mobile,Telefónica O2
-SK,19,+421944XXXXXX,mobile,Telefónica O2
-SK,8,+42136XXXXXXX,geographic,
+SK,19,421940XXXXXX,mobile,Telefónica O2
+SK,19,421944XXXXXX,mobile,Telefónica O2
+SK,8,42136XXXXXXX,geographic,
 SK,3,4211946,internetserviceprovider,Uta Telekom                     
-SK,20,+421976XXXXXX,audiotext,PHONOTEX#comma s r.o.
-SK,14,+42158XXXXXXX,geographic,
-SK,8,+42136XXXXXXX,geographic,
-SK,9,+42141XXXXXXX,geographic,
+SK,20,421976XXXXXX,audiotext,PHONOTEX#comma s r.o.
+SK,14,42158XXXXXXX,geographic,
+SK,8,42136XXXXXXX,geographic,
+SK,9,42141XXXXXXX,geographic,
 SK,5,4211985,internetserviceprovider,Spišnet      
-SK,19,+421948XXXXXX,mobile,Telefónica O2
-SK,19,+421949XXXXXX,mobile,Telefónica O2
-SK,16,+421809XXXXXX,premiumrate,
-SK,12,+42153XXXXXXX,geographic,
-SK,15,+421690XXXXXX,VoIPtelephony,
-SK,20,+421977XXXXXX,audiotext,Slov. TV spol.#comma s r.o.
-SK,14,+42158XXXXXXX,geographic,
-SK,8,+42136XXXXXXX,geographic,
-SK,19,+421950XXXXXX,mobile,SWAN#comma a.s.
+SK,19,421948XXXXXX,mobile,Telefónica O2
+SK,19,421949XXXXXX,mobile,Telefónica O2
+SK,16,421809XXXXXX,premiumrate,
+SK,12,42153XXXXXXX,geographic,
+SK,15,421690XXXXXX,VoIPtelephony,
+SK,20,421977XXXXXX,audiotext,Slov. TV spol.#comma s r.o.
+SK,14,42158XXXXXXX,geographic,
+SK,8,42136XXXXXXX,geographic,
+SK,19,421950XXXXXX,mobile,SWAN#comma a.s.
 SK,1,4211913,internetserviceprovider,Slovanet Bratislava  
 SK,5,4211987,internetserviceprovider,Salamon       
 SK,4,4211963,internetserviceprovider,Kios   
 SK,3,4211947,internetserviceprovider,Peem  
 SK,2,4211929,internetserviceprovider,Swan  (Callino)  
-SK,11,+42148XXXXXXX,geographic,
+SK,11,42148XXXXXXX,geographic,
 SK,6,4211993,internetserviceprovider,Eurotel Prenos Dát                
-SK,16,+4218190000XX,internetserviceprovider,
-SK,19,+421959XXXXXX,mobile,Železnice Slovenskej republiky (GSM-R)
+SK,16,4218190000XX,internetserviceprovider,
+SK,19,421959XXXXXX,mobile,Železnice Slovenskej republiky (GSM-R)
 SK,1,4211914,internetserviceprovider,Sirius 
 SK,5,4211988,internetserviceprovider,Profinet 
-SK,8,+42137XXXXXXX,geographic,
-SK,15,+421691XXXXXX,VoIPtelephony,
+SK,8,42137XXXXXXX,geographic,
+SK,15,421691XXXXXX,VoIPtelephony,
 SK,3,4211952,internetserviceprovider,Cora Holding         
-SK,20,+42198XXXXXXX,audiotext,
+SK,20,42198XXXXXXX,audiotext,
 SK,2,4211932,internetserviceprovider,Softitus  
-SK,16,+42185XXXXXXX,sharedcost,
-SK,14,+421601XXXXXX,internetserviceprovider,
+SK,16,42185XXXXXXX,sharedcost,
+SK,14,421601XXXXXX,internetserviceprovider,
 SK,6,4211999,internetserviceprovider,St#commaAs
 SK,4,4211965,internetserviceprovider,Zutom  
-SK,7,+42132XXXXXXX,geographic,
+SK,7,42132XXXXXXX,geographic,
 SK,1,4211915,internetserviceprovider,Nextra 
 SK,2,4211933,internetserviceprovider,Softitus  
-SK,15,+421692XXXXXX,VoIPtelephony,
-SK,20,+421984XXXXXX,audiotext,HPT TELECOM#comma s r.o.
-SK,8,+42137XXXXXXX,geographic,
+SK,15,421692XXXXXX,VoIPtelephony,
+SK,20,421984XXXXXX,audiotext,HPT TELECOM#comma s r.o.
+SK,8,42137XXXXXXX,geographic,
 SK,2,4211936,internetserviceprovider,AT&T
-SK,14,+421602XXXXXX,VoIPtelephony,
+SK,14,421602XXXXXX,VoIPtelephony,
 SK,4,4211966,internetserviceprovider,Gts  
-SK,9,+42141XXXXXXX,geographic,
-SK,8,+42138XXXXXXX,geographic,
-SK,6,+4212XXXXXXXX,geographic,
-SK,20,+421986XXXXXX,audiotext,Various networks
-SK,7,+42132XXXXXXX,geographic,
+SK,9,42141XXXXXXX,geographic,
+SK,8,42138XXXXXXX,geographic,
+SK,6,4212XXXXXXXX,geographic,
+SK,20,421986XXXXXX,audiotext,Various networks
+SK,7,42132XXXXXXX,geographic,
 SK,3,4211954,internetserviceprovider,Amtel 
-SK,14,+421650XXXXXX,VoIPtelephony,
-SK,15,+421693XXXXXX,VoIPtelephony,
+SK,14,421650XXXXXX,VoIPtelephony,
+SK,15,421693XXXXXX,VoIPtelephony,
 SK,4,4211967,internetserviceprovider,Datalock Rainside        
-SK,6,+42131XXXXXXX,geographic,
+SK,6,42131XXXXXXX,geographic,
 SK,3,4211955,internetserviceprovider,S.A.                              
-SK,20,+421988XXXXXX,audiotext,TELTEX#comma s.r.o.
-SK,6,+42131XXXXXXX,geographic,
-SK,15,+421694XXXXXX,VoIPtelephony,
+SK,20,421988XXXXXX,audiotext,TELTEX#comma s.r.o.
+SK,6,42131XXXXXXX,geographic,
+SK,15,421694XXXXXX,VoIPtelephony,
 SK,4,4211968,internetserviceprovider,Vádium
-SK,9,+42141XXXXXXX,geographic,
-SK,20,+42199XX,routingcode,
-SK,7,+42133XXXXXXX,geographic,
-SK,6,+42131XXXXXXX,geographic,
-SK,9,+42141XXXXXXX,geographic,
-SK,7,+42133XXXXXXX,geographic,
+SK,9,42141XXXXXXX,geographic,
+SK,20,42199XX,routingcode,
+SK,7,42133XXXXXXX,geographic,
+SK,6,42131XXXXXXX,geographic,
+SK,9,42141XXXXXXX,geographic,
+SK,7,42133XXXXXXX,geographic,
 SK,4,4211970,internetserviceprovider,Rdt  
-SK,6,+42131XXXXXXX,geographic,
-SK,7,+42133XXXXXXX,geographic,
-SK,9,+42142XXXXXXX,geographic,
+SK,6,42131XXXXXXX,geographic,
+SK,7,42133XXXXXXX,geographic,
+SK,9,42142XXXXXXX,geographic,
 SK,4,4211972,internetserviceprovider,Cdicon 
-SK,7,+42133XXXXXXX,geographic,
-SK,9,+42142XXXXXXX,geographic,
+SK,7,42133XXXXXXX,geographic,
+SK,9,42142XXXXXXX,geographic,
 SK,4,4211973,internetserviceprovider,Datalock Rainside        
-SK,9,+42142XXXXXXX,geographic,
-SK,7,+42134XXXXXXX,geographic,
-SK,9,+42143XXXXXXX,geographic,
-SK,7,+42134XXXXXXX,geographic,
+SK,9,42142XXXXXXX,geographic,
+SK,7,42134XXXXXXX,geographic,
+SK,9,42143XXXXXXX,geographic,
+SK,7,42134XXXXXXX,geographic,
 SK,4,4211974,internetserviceprovider,Prvá Bánovská Info    
-SK,7,+42134XXXXXXX,geographic,
-SK,7,+42135XXXXXXX,geographic,
+SK,7,42134XXXXXXX,geographic,
+SK,7,42135XXXXXXX,geographic,

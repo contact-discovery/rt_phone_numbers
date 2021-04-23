@@ -1,9 +1,9 @@
 ﻿Country,Page,Range,Type,Provider
 LS,1,266,proper,
-LS,1,+2662XXXXXXX,geographic,Telecom Lesotho
-LS,1,+2668002XXXX,freephone,Telecom Lesotho
-LS,1,+2668005XXXX,freephone,Vodacom
-LS,1,+2668006XXXX,freephone,Econet Ezi-Cel
-LS,1,+2669XXXXXXX,premiumrate,
-LS,1,+2665XXXXXXX,mobile,Vodacom
-LS,1,+2666XXXXXXX,mobile,Econet Ezi-Cel
+LS,1,2662XXXXXXX,geographic,Telecom Lesotho
+LS,1,2668002XXXX,freephone,Telecom Lesotho
+LS,1,2668005XXXX,freephone,Vodacom
+LS,1,2668006XXXX,freephone,Econet Ezi-Cel
+LS,1,2669XXXXXXX,premiumrate,
+LS,1,2665XXXXXXX,mobile,Vodacom
+LS,1,2666XXXXXXX,mobile,Econet Ezi-Cel

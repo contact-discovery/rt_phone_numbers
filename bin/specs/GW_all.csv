@@ -1,76 +1,76 @@
 ﻿Country,Page,Range,Type,Provider
-GW,2,+24544331XXXX,geographic,Guiné Telecom S.A.
-GW,2,+24544332XXXX,geographic,Guiné Telecom S.A.
-GW,2,+24544334XXXX,geographic,Guiné Telecom S.A.
-GW,4,+24544394XXXX,geographic,Guiné Telecom S.A.
+GW,2,24544331XXXX,geographic,Guiné Telecom S.A.
+GW,2,24544332XXXX,geographic,Guiné Telecom S.A.
+GW,2,24544334XXXX,geographic,Guiné Telecom S.A.
+GW,4,24544394XXXX,geographic,Guiné Telecom S.A.
 GW,1,245,proper,
-GW,2,+24544335XXXX,geographic,Guiné Telecom S.A.
-GW,4,+24544396XXXX,geographic,Guiné Telecom S.A.
-GW,1,+24540XXXXX,VoIPtelephony,Harry Group SARL
-GW,3,+24544353XXXX,geographic,Guiné Telecom S.A.
-GW,1,+2454430XXXXX,geographic,Guiné Telecom S.A.
-GW,1,+2454431XXXXX,geographic,Guiné Telecom S.A.
-GW,2,+2454434XXXXX,geographic,Guiné Telecom S.A.
-GW,3,+24544354XXXX,geographic,Guiné Telecom S.A.
-GW,3,+2454436XXXXX,geographic,Guiné Telecom S.A.
-GW,4,+24544397XXXX,geographic,Guiné Telecom S.A.
-GW,1,+2454432XXXXX,geographic,Guiné Telecom S.A.
-GW,2,+24544341XXXX,geographic,Guiné Telecom S.A.
-GW,4,+2459550XXXXX,mobile,Orange Bissau S.A.
-GW,4,+2459551XXXXX,mobile,Orange Bissau S.A.
-GW,4,+2459552XXXXX,mobile,Orange Bissau S.A.
-GW,2,+24544342XXXX,geographic,Guiné Telecom S.A.
-GW,4,+2459553XXXXX,mobile,Orange Bissau S.A.
-GW,4,+2459554XXXXX,mobile,Orange Bissau S.A.
-GW,3,+2454437XXXXX,geographic,Guiné Telecom S.A.
-GW,4,+2459555XXXXX,mobile,Orange Bissau S.A.
-GW,4,+24595XXXXXXX,mobile,Orange Bissau S.A.
-GW,2,+2454435XXXXX,geographic,Guiné Telecom S.A.
-GW,3,+24544370XXXX,geographic,Guiné Telecom S.A.
-GW,1,+24544320XXXX,geographic,Guiné Telecom S.A.
-GW,5,+2459556XXXXX,mobile,Orange Bissau S.A.
-GW,5,+2459557XXXXX,mobile,Orange Bissau S.A.
-GW,5,+2459558XXXXX,mobile,Orange Bissau S.A.
-GW,2,+24544351XXXX,geographic,Guiné Telecom S.A.
-GW,3,+2454438XXXXX,geographic,Guiné Telecom S.A.
-GW,5,+2459559XXXXX,mobile,Orange Bissau S.A.
-GW,5,+2459560XXXXX,mobile,Orange Bissau S.A.
-GW,5,+2459561XXXXX,mobile,Orange Bissau S.A.
-GW,5,+2459562XXXXX,mobile,Orange Bissau S.A.
-GW,5,+2459650XXXXX,mobile,Spacetel Guiné-Bissau S.A. (MTN)
-GW,1,+24544321XXXX,geographic,Guiné Telecom S.A.
-GW,5,+2459651XXXXX,mobile,Spacetel Guiné-Bissau S.A. (MTN)
-GW,5,+24596XXXXXXX,mobile,Spacetel Guiné-Bissau S.A. (MTN)
-GW,6,+2459652XXXXX,mobile,Spacetel Guiné-Bissau S.A. (MTN)
-GW,6,+2459660XXXXX,mobile,Spacetel Guiné-Bissau S.A. (MTN)
-GW,2,+24544352XXXX,geographic,Guiné Telecom S.A.
-GW,3,+2454439XXXXX,geographic,Guiné Telecom S.A.
-GW,6,+2459661XXXXX,mobile,Spacetel Guiné-Bissau S.A. (MTN)
-GW,6,+2459662XXXXX,mobile,Spacetel Guiné-Bissau S.A. (MTN)
-GW,6,+2459663XXXXX,mobile,Spacetel Guiné-Bissau S.A. (MTN)
-GW,1,+24544322XXXX,geographic,Guiné Telecom S.A.
-GW,6,+2459664XXXXX,mobile,Spacetel Guiné-Bissau S.A. (MTN)
-GW,6,+2459665XXXXX,mobile,Spacetel Guiné-Bissau S.A. (MTN)
-GW,3,+24544391XXXX,geographic,Guiné Telecom S.A.
-GW,6,+2459666XXXXX,mobile,Spacetel Guiné-Bissau S.A. (MTN)
-GW,6,+2459667XXXXX,mobile,Spacetel Guiné-Bissau S.A. (MTN)
-GW,6,+2459668XXXXX,mobile,Spacetel Guiné-Bissau S.A. (MTN)
-GW,7,+2459669XXXXX,mobile,Spacetel Guiné-Bissau S.A. (MTN)
-GW,1,+24544325XXXX,geographic,Guiné Telecom S.A.
-GW,7,+2459690XXXXX,mobile,Spacetel Guiné-Bissau S.A. (MTN)
-GW,7,+2459691XXXXX,mobile,Spacetel Guiné-Bissau S.A. (MTN)
-GW,7,+2459692XXXXX,mobile,Spacetel Guiné-Bissau S.A. (MTN)
-GW,7,+2459770XXXXX,mobile,Guinétel S.A.
-GW,3,+24544392XXXX,geographic,Guiné Telecom S.A.
-GW,7,+2459771XXXXX,mobile,Guinétel S.A.
-GW,7,+2459772XXXXX,mobile,Guinétel S.A.
-GW,1,+2454433XXXXX,geographic,Guiné Telecom S.A.
-GW,3,+24544393XXXX,geographic,Guiné Telecom S.A.
-GW,7,+2459773XXXXX,mobile,Guinétel S.A.
-GW,7,+2459774XXXXX,mobile,Guinétel S.A.
-GW,7,+24597XXXXXXX,mobile,Guinétel S.A.
-GW,8,+2459775XXXXX,mobile,Guinétel S.A.
-GW,8,+2459776XXXXX,mobile,Guinétel S.A.
-GW,8,+2459777XXXXX,mobile,Guinétel S.A.
-GW,8,+2459778XXXXX,mobile,Guinétel S.A.
-GW,8,+2459779XXXXX,mobile,Guinétel S.A.
+GW,2,24544335XXXX,geographic,Guiné Telecom S.A.
+GW,4,24544396XXXX,geographic,Guiné Telecom S.A.
+GW,1,24540XXXXX,VoIPtelephony,Harry Group SARL
+GW,3,24544353XXXX,geographic,Guiné Telecom S.A.
+GW,1,2454430XXXXX,geographic,Guiné Telecom S.A.
+GW,1,2454431XXXXX,geographic,Guiné Telecom S.A.
+GW,2,2454434XXXXX,geographic,Guiné Telecom S.A.
+GW,3,24544354XXXX,geographic,Guiné Telecom S.A.
+GW,3,2454436XXXXX,geographic,Guiné Telecom S.A.
+GW,4,24544397XXXX,geographic,Guiné Telecom S.A.
+GW,1,2454432XXXXX,geographic,Guiné Telecom S.A.
+GW,2,24544341XXXX,geographic,Guiné Telecom S.A.
+GW,4,2459550XXXXX,mobile,Orange Bissau S.A.
+GW,4,2459551XXXXX,mobile,Orange Bissau S.A.
+GW,4,2459552XXXXX,mobile,Orange Bissau S.A.
+GW,2,24544342XXXX,geographic,Guiné Telecom S.A.
+GW,4,2459553XXXXX,mobile,Orange Bissau S.A.
+GW,4,2459554XXXXX,mobile,Orange Bissau S.A.
+GW,3,2454437XXXXX,geographic,Guiné Telecom S.A.
+GW,4,2459555XXXXX,mobile,Orange Bissau S.A.
+GW,4,24595XXXXXXX,mobile,Orange Bissau S.A.
+GW,2,2454435XXXXX,geographic,Guiné Telecom S.A.
+GW,3,24544370XXXX,geographic,Guiné Telecom S.A.
+GW,1,24544320XXXX,geographic,Guiné Telecom S.A.
+GW,5,2459556XXXXX,mobile,Orange Bissau S.A.
+GW,5,2459557XXXXX,mobile,Orange Bissau S.A.
+GW,5,2459558XXXXX,mobile,Orange Bissau S.A.
+GW,2,24544351XXXX,geographic,Guiné Telecom S.A.
+GW,3,2454438XXXXX,geographic,Guiné Telecom S.A.
+GW,5,2459559XXXXX,mobile,Orange Bissau S.A.
+GW,5,2459560XXXXX,mobile,Orange Bissau S.A.
+GW,5,2459561XXXXX,mobile,Orange Bissau S.A.
+GW,5,2459562XXXXX,mobile,Orange Bissau S.A.
+GW,5,2459650XXXXX,mobile,Spacetel Guiné-Bissau S.A. (MTN)
+GW,1,24544321XXXX,geographic,Guiné Telecom S.A.
+GW,5,2459651XXXXX,mobile,Spacetel Guiné-Bissau S.A. (MTN)
+GW,5,24596XXXXXXX,mobile,Spacetel Guiné-Bissau S.A. (MTN)
+GW,6,2459652XXXXX,mobile,Spacetel Guiné-Bissau S.A. (MTN)
+GW,6,2459660XXXXX,mobile,Spacetel Guiné-Bissau S.A. (MTN)
+GW,2,24544352XXXX,geographic,Guiné Telecom S.A.
+GW,3,2454439XXXXX,geographic,Guiné Telecom S.A.
+GW,6,2459661XXXXX,mobile,Spacetel Guiné-Bissau S.A. (MTN)
+GW,6,2459662XXXXX,mobile,Spacetel Guiné-Bissau S.A. (MTN)
+GW,6,2459663XXXXX,mobile,Spacetel Guiné-Bissau S.A. (MTN)
+GW,1,24544322XXXX,geographic,Guiné Telecom S.A.
+GW,6,2459664XXXXX,mobile,Spacetel Guiné-Bissau S.A. (MTN)
+GW,6,2459665XXXXX,mobile,Spacetel Guiné-Bissau S.A. (MTN)
+GW,3,24544391XXXX,geographic,Guiné Telecom S.A.
+GW,6,2459666XXXXX,mobile,Spacetel Guiné-Bissau S.A. (MTN)
+GW,6,2459667XXXXX,mobile,Spacetel Guiné-Bissau S.A. (MTN)
+GW,6,2459668XXXXX,mobile,Spacetel Guiné-Bissau S.A. (MTN)
+GW,7,2459669XXXXX,mobile,Spacetel Guiné-Bissau S.A. (MTN)
+GW,1,24544325XXXX,geographic,Guiné Telecom S.A.
+GW,7,2459690XXXXX,mobile,Spacetel Guiné-Bissau S.A. (MTN)
+GW,7,2459691XXXXX,mobile,Spacetel Guiné-Bissau S.A. (MTN)
+GW,7,2459692XXXXX,mobile,Spacetel Guiné-Bissau S.A. (MTN)
+GW,7,2459770XXXXX,mobile,Guinétel S.A.
+GW,3,24544392XXXX,geographic,Guiné Telecom S.A.
+GW,7,2459771XXXXX,mobile,Guinétel S.A.
+GW,7,2459772XXXXX,mobile,Guinétel S.A.
+GW,1,2454433XXXXX,geographic,Guiné Telecom S.A.
+GW,3,24544393XXXX,geographic,Guiné Telecom S.A.
+GW,7,2459773XXXXX,mobile,Guinétel S.A.
+GW,7,2459774XXXXX,mobile,Guinétel S.A.
+GW,7,24597XXXXXXX,mobile,Guinétel S.A.
+GW,8,2459775XXXXX,mobile,Guinétel S.A.
+GW,8,2459776XXXXX,mobile,Guinétel S.A.
+GW,8,2459777XXXXX,mobile,Guinétel S.A.
+GW,8,2459778XXXXX,mobile,Guinétel S.A.
+GW,8,2459779XXXXX,mobile,Guinétel S.A.

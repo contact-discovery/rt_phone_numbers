@@ -1,50 +1,50 @@
 ﻿Country,Page,Range,Type,Provider
-VG,4,+12844965XXX,geographic,Cable & Wireless (West Indies) Ltd
-VG,3,+1284446XXXX,geographic,Caribbean Cellular Telephone Ltd (CCT)
-VG,1,+1284245XXXX,mobile,Cable & Wireless (West Indies) Ltd
-VG,1,+1284300XXXX,mobile,Digicel (BVI) Ltd
+VG,4,12844965XXX,geographic,Cable & Wireless (West Indies) Ltd
+VG,3,1284446XXXX,geographic,Caribbean Cellular Telephone Ltd (CCT)
+VG,1,1284245XXXX,mobile,Cable & Wireless (West Indies) Ltd
+VG,1,1284300XXXX,mobile,Digicel (BVI) Ltd
 VG,1,1,proper,
-VG,1,+1284340XXXX,mobile,Digicel (BVI) Ltd
-VG,1,+1284341XXXX,mobile,Digicel (BVI) Ltd
-VG,1,+1284342XXXX,mobile,Digicel (BVI) Ltd
-VG,1,+1284343XXXX,mobile,Digicel (BVI) Ltd
-VG,1,+1284XXXXXXX,geographic,
-VG,1,+1284344XXXX,mobile,Digicel (BVI) Ltd
-VG,1,+1284229XXXX,geographic,Cable & Wireless (West Indies) Ltd
-VG,3,+1284493XXXX,geographic,Cable & Wireless (West Indies) Ltd
-VG,2,+1284346XXXX,mobile,Digicel (BVI) Ltd
-VG,2,+1284347XXXX,mobile,Digicel (BVI) Ltd
-VG,2,+1284393XXXX,mobile,Digicel (BVI) Ltd
-VG,2,+1284394XXXX,mobile,Digicel (BVI) Ltd
-VG,2,+1284440XXXX,mobile,Caribbean Cellular Telephone Ltd (CCT)
-VG,2,+1284441XXXX,mobile,Caribbean Cellular Telephone Ltd (CCT)
-VG,3,+1284494XXXX,geographic,Cable & Wireless (West Indies) Ltd
-VG,2,+1284442XXXX,mobile,Caribbean Cellular Telephone Ltd (CCT)
-VG,2,+1284443XXXX,mobile,Caribbean Cellular Telephone Ltd (CCT)
-VG,2,+1284444XXXX,mobile,Caribbean Cellular Telephone Ltd (CCT)
-VG,2,+1284445XXXX,mobile,Caribbean Cellular Telephone Ltd (CCT)
-VG,3,+1284468XXXX,mobile,Caribbean Cellular Telephone Ltd (CCT)
-VG,4,+12844966XXX,mobile,Caribbean Cellular Telephone Ltd (CCT)
-VG,3,+1284495XXXX,geographic,Cable & Wireless (West Indies) Ltd
-VG,4,+12844967XXX,mobile,Caribbean Cellular Telephone Ltd (CCT)
-VG,4,+12844968XXX,mobile,Caribbean Cellular Telephone Ltd (CCT)
-VG,4,+12844969XXX,mobile,Caribbean Cellular Telephone Ltd (CCT)
-VG,4,+1284499XXXX,mobile,Caribbean Cellular Telephone Ltd (CCT)
-VG,4,+1284540XXXX,mobile,Cable & Wireless (West Indies) Ltd
-VG,4,+1284541XXXX,mobile,Cable & Wireless (West Indies) Ltd
-VG,4,+1284542XXXX,mobile,Cable & Wireless (West Indies) Ltd
-VG,4,+1284543XXXX,mobile,Cable & Wireless (West Indies) Ltd (prepaid)
-VG,5,+1284544XXXX,mobile,Cable & Wireless (West Indies) Ltd
-VG,3,+12844960XXX,geographic,Cable & Wireless (West Indies) Ltd
-VG,5,+1284545XXXX,mobile,Cable & Wireless (West Indies) Ltd
-VG,5,+1284547XXXX,mobile,Cable & Wireless (West Indies) Ltd
-VG,5,+1284596XXXX,mobile,Cable & Wireless (West Indies) Ltd
-VG,5,+1284599XXXX,mobile,Cable & Wireless (West Indies) Ltd
-VG,3,+12844961XXX,geographic,Cable & Wireless (West Indies) Ltd
-VG,3,+12844962XXX,geographic,Cable & Wireless (West Indies) Ltd
-VG,5,+1284852XXXX,VoIPtelephony,Cable & Wireless (West Indies) Ltd
-VG,5,+1284864XXXX,geographic,Cable & Wireless (West Indies) Ltd
-VG,3,+12844963XXX,geographic,Cable & Wireless (West Indies) Ltd
-VG,3,+12844964XXX,geographic,Cable & Wireless (West Indies) Ltd
-VG,5,+1284865XXXX,geographic,Cable & Wireless (West Indies) Ltd
-VG,5,+1284869XXXX,geographic,Cable & Wireless (West Indies) Ltd
+VG,1,1284340XXXX,mobile,Digicel (BVI) Ltd
+VG,1,1284341XXXX,mobile,Digicel (BVI) Ltd
+VG,1,1284342XXXX,mobile,Digicel (BVI) Ltd
+VG,1,1284343XXXX,mobile,Digicel (BVI) Ltd
+VG,1,1284XXXXXXX,geographic,
+VG,1,1284344XXXX,mobile,Digicel (BVI) Ltd
+VG,1,1284229XXXX,geographic,Cable & Wireless (West Indies) Ltd
+VG,3,1284493XXXX,geographic,Cable & Wireless (West Indies) Ltd
+VG,2,1284346XXXX,mobile,Digicel (BVI) Ltd
+VG,2,1284347XXXX,mobile,Digicel (BVI) Ltd
+VG,2,1284393XXXX,mobile,Digicel (BVI) Ltd
+VG,2,1284394XXXX,mobile,Digicel (BVI) Ltd
+VG,2,1284440XXXX,mobile,Caribbean Cellular Telephone Ltd (CCT)
+VG,2,1284441XXXX,mobile,Caribbean Cellular Telephone Ltd (CCT)
+VG,3,1284494XXXX,geographic,Cable & Wireless (West Indies) Ltd
+VG,2,1284442XXXX,mobile,Caribbean Cellular Telephone Ltd (CCT)
+VG,2,1284443XXXX,mobile,Caribbean Cellular Telephone Ltd (CCT)
+VG,2,1284444XXXX,mobile,Caribbean Cellular Telephone Ltd (CCT)
+VG,2,1284445XXXX,mobile,Caribbean Cellular Telephone Ltd (CCT)
+VG,3,1284468XXXX,mobile,Caribbean Cellular Telephone Ltd (CCT)
+VG,4,12844966XXX,mobile,Caribbean Cellular Telephone Ltd (CCT)
+VG,3,1284495XXXX,geographic,Cable & Wireless (West Indies) Ltd
+VG,4,12844967XXX,mobile,Caribbean Cellular Telephone Ltd (CCT)
+VG,4,12844968XXX,mobile,Caribbean Cellular Telephone Ltd (CCT)
+VG,4,12844969XXX,mobile,Caribbean Cellular Telephone Ltd (CCT)
+VG,4,1284499XXXX,mobile,Caribbean Cellular Telephone Ltd (CCT)
+VG,4,1284540XXXX,mobile,Cable & Wireless (West Indies) Ltd
+VG,4,1284541XXXX,mobile,Cable & Wireless (West Indies) Ltd
+VG,4,1284542XXXX,mobile,Cable & Wireless (West Indies) Ltd
+VG,4,1284543XXXX,mobile,Cable & Wireless (West Indies) Ltd (prepaid)
+VG,5,1284544XXXX,mobile,Cable & Wireless (West Indies) Ltd
+VG,3,12844960XXX,geographic,Cable & Wireless (West Indies) Ltd
+VG,5,1284545XXXX,mobile,Cable & Wireless (West Indies) Ltd
+VG,5,1284547XXXX,mobile,Cable & Wireless (West Indies) Ltd
+VG,5,1284596XXXX,mobile,Cable & Wireless (West Indies) Ltd
+VG,5,1284599XXXX,mobile,Cable & Wireless (West Indies) Ltd
+VG,3,12844961XXX,geographic,Cable & Wireless (West Indies) Ltd
+VG,3,12844962XXX,geographic,Cable & Wireless (West Indies) Ltd
+VG,5,1284852XXXX,VoIPtelephony,Cable & Wireless (West Indies) Ltd
+VG,5,1284864XXXX,geographic,Cable & Wireless (West Indies) Ltd
+VG,3,12844963XXX,geographic,Cable & Wireless (West Indies) Ltd
+VG,3,12844964XXX,geographic,Cable & Wireless (West Indies) Ltd
+VG,5,1284865XXXX,geographic,Cable & Wireless (West Indies) Ltd
+VG,5,1284869XXXX,geographic,Cable & Wireless (West Indies) Ltd

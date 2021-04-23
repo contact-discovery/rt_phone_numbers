@@ -1,47 +1,47 @@
 ﻿Country,Page,Range,Type,Provider
-TL,5,+670800XXXX,freephone,
-TL,5,+67090XXXXX,premiumrate,
-TL,3,+67044XXXXX,geographic,
+TL,5,670800XXXX,freephone,
+TL,5,67090XXXXX,premiumrate,
+TL,3,67044XXXXX,geographic,
 TL,1,670,proper,
-TL,5,+670900XXXX,premiumrate,
-TL,1,+67021XXXXX,geographic,
+TL,5,670900XXXX,premiumrate,
+TL,1,67021XXXXX,geographic,
 TL,5,6709001100,premiumrate,
-TL,2,+67031XXXXX,geographic,
-TL,3,+67070XXXXX,universalaccess,
+TL,2,67031XXXXX,geographic,
+TL,3,67070XXXXX,universalaccess,
 TL,5,6709001122,premiumrate,
-TL,1,+67021XXXXX,geographic,
-TL,2,+67032XXXXX,geographic,
-TL,1,+67022XXXXX,geographic,
+TL,1,67021XXXXX,geographic,
+TL,2,67032XXXXX,geographic,
+TL,1,67022XXXXX,geographic,
 TL,5,6709001144,premiumrate,
-TL,1,+67022XXXXX,geographic,
-TL,3,+67071XXXXX,voicemail(mobile),Timor Telecom
-TL,2,+67033XXXXX,geographic,
-TL,1,+67023XXXXX,geographic,
-TL,2,+67036XXXXX,geographic,
-TL,3,+67073XXXXXX,mobile,Telkomcel (Telin)
-TL,2,+67037XXXXX,geographic,
-TL,4,+670779XXXXX,pager,Timor Telecom
-TL,1,+67023XXXXX,geographic,
-TL,3,+67074XXXXXX,mobile,Telkomcel (Telin)
-TL,3,+67075XXXXXX,mobile,Viettel (Telmor)
-TL,3,+67076XXXXXX,mobile,Viettel (Telmor)
-TL,3,+670772XXXXX,mobile,Timor Telecom
-TL,2,+67038XXXXX,geographic,
-TL,4,+670773XXXXX,mobile,Timor Telecom
-TL,1,+67024XXXXX,geographic,
-TL,4,+670774XXXXX,mobile,Timor Telecom
-TL,4,+670775XXXXX,mobile,Timor Telecom
-TL,4,+670776XXXXX,mobile,Timor Telecom
-TL,4,+670777XXXXX,mobile,Timor Telecom
-TL,4,+670778XXXXX,mobile,Timor Telecom
-TL,4,+67078XXXXXX,mobile,Timor Telecom
-TL,1,+67025XXXXX,geographic,
-TL,2,+67041XXXXX,geographic,
-TL,4,+67079XXXXX,pager,Timor Telecom
-TL,1,+67030XXXXX,geographic,
-TL,2,+67042XXXXX,geographic,
-TL,4,+67080XXXXX,freephone,
-TL,2,+67043XXXXX,geographic,
-TL,3,+670770XXXXX,universalaccess,
-TL,3,+670771XXXXX,voicemail(mobile),Timor Telecom
-TL,2,+67044XXXXX,geographic,
+TL,1,67022XXXXX,geographic,
+TL,3,67071XXXXX,voicemail(mobile),Timor Telecom
+TL,2,67033XXXXX,geographic,
+TL,1,67023XXXXX,geographic,
+TL,2,67036XXXXX,geographic,
+TL,3,67073XXXXXX,mobile,Telkomcel (Telin)
+TL,2,67037XXXXX,geographic,
+TL,4,670779XXXXX,pager,Timor Telecom
+TL,1,67023XXXXX,geographic,
+TL,3,67074XXXXXX,mobile,Telkomcel (Telin)
+TL,3,67075XXXXXX,mobile,Viettel (Telmor)
+TL,3,67076XXXXXX,mobile,Viettel (Telmor)
+TL,3,670772XXXXX,mobile,Timor Telecom
+TL,2,67038XXXXX,geographic,
+TL,4,670773XXXXX,mobile,Timor Telecom
+TL,1,67024XXXXX,geographic,
+TL,4,670774XXXXX,mobile,Timor Telecom
+TL,4,670775XXXXX,mobile,Timor Telecom
+TL,4,670776XXXXX,mobile,Timor Telecom
+TL,4,670777XXXXX,mobile,Timor Telecom
+TL,4,670778XXXXX,mobile,Timor Telecom
+TL,4,67078XXXXXX,mobile,Timor Telecom
+TL,1,67025XXXXX,geographic,
+TL,2,67041XXXXX,geographic,
+TL,4,67079XXXXX,pager,Timor Telecom
+TL,1,67030XXXXX,geographic,
+TL,2,67042XXXXX,geographic,
+TL,4,67080XXXXX,freephone,
+TL,2,67043XXXXX,geographic,
+TL,3,670770XXXXX,universalaccess,
+TL,3,670771XXXXX,voicemail(mobile),Timor Telecom
+TL,2,67044XXXXX,geographic,

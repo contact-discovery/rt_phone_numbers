@@ -1,101 +1,101 @@
 ﻿Country,Page,Range,Type,Provider
-TO,3,+67636XXX,geographic,Tonga Communications Corporation
-TO,3,+67637XXX,geographic,Tonga Communications Corporation
+TO,3,67636XXX,geographic,Tonga Communications Corporation
+TO,3,67637XXX,geographic,Tonga Communications Corporation
 TO,1,676,proper,
-TO,3,+67638XXX,geographic,Tonga Communications Corporation
-TO,1,+67611XXX,wirelessgeographic,Tonga Communications Corporation (prepaid)
-TO,2,+67626XXX,geographic,Tonga Communications Corporation
-TO,3,+67641XXX,geographic,Tonga Communications Corporation
-TO,6,+67669XXX,geographic,Tonga Communications Corporation
-TO,2,+67627XXX,geographic,Tonga Communications Corporation
-TO,6,+67670XXX,geographic,Tonga Communications Corporation
-TO,1,+67620XXX,geographic,Tonga Communications Corporation (ISDN)
-TO,6,+67671XXX,geographic,Tonga Communications Corporation
-TO,2,+67628XXX,geographic,Tonga Communications Corporation
-TO,5,+676679XX,wirelessgeographic,Tonga Communications Corporation (prepaid)
-TO,3,+67642XXX,geographic,Tonga Communications Corporation
-TO,1,+67621XXX,geographic,Tonga Communications Corporation
-TO,1,+67622XXX,geographic,Tonga Communications Corporation
-TO,4,+676675XX,wirelessgeographic,Tonga Communications Corporation (prepaid)
-TO,2,+67629XXX,geographic,Tonga Communications Corporation (ISDN)
-TO,1,+67623XXX,geographic,Tonga Communications Corporation
-TO,1,+67612XXX,mobile,U-Call (prepaid)
-TO,1,+67613XXX,mobile,U-Call (prepaid)
-TO,3,+67659XXX,mobile,U-Call (prepaid)
-TO,4,+676676XX,wirelessgeographic,Tonga Communications Corporation (prepaid)
-TO,4,+67663XXX,mobile,U-Call
-TO,4,+676670XX,mobile,U-Call
-TO,4,+676671XX,mobile,U-Call
-TO,4,+676672XX,mobile,U-Call
-TO,4,+676673XX,mobile,U-Call
-TO,3,+67643XXX,geographic,Tonga Communications Corporation
-TO,4,+676674XX,mobile,U-Call
-TO,5,+676681XX,mobile,U-Call
-TO,10,+67679XXX,geographic,Tonga Communications Corporation
-TO,2,+67630XXX,geographic,Tonga Communications Corporation
-TO,5,+676682XX,mobile,U-Call
-TO,5,+676683XX,mobile,U-Call
-TO,5,+676684XX,mobile,U-Call
-TO,6,+67674XXX,mobile,U-Call (prepaid)
-TO,4,+676677XX,wirelessgeographic,Tonga Communications Corporation (prepaid)
-TO,1,+67624XXX,geographic,Tonga Communications Corporation
-TO,6,+6767714XXX,mobile,U-Call (prepaid)
-TO,6,+6767715XXX,mobile,U-Call (prepaid)
-TO,6,+6767716XXX,mobile,U-Call (prepaid)
-TO,6,+6767717XXX,mobile,U-Call (prepaid)
-TO,3,+67644XXX,geographic,Tonga Communications Corporation
-TO,6,+6767718XXX,mobile,U-Call (prepaid)
-TO,6,+67677XXXXX,mobile,U-Call (prepaid)
-TO,7,+67677191XX,mobile,U-Call (prepaid)
-TO,7,+67677192XX,mobile,U-Call (prepaid)
-TO,7,+67677193XX,mobile,U-Call (prepaid)
-TO,7,+67677194XX,mobile,U-Call (prepaid)
-TO,7,+67677195XX,mobile,U-Call (prepaid)
-TO,7,+67677196XX,mobile,U-Call (prepaid)
-TO,4,+676678XX,wirelessgeographic,Tonga Communications Corporation (prepaid)
-TO,7,+67677197XX,mobile,U-Call (prepaid)
-TO,7,+6767745XXX,mobile,U-Call (prepaid)
-TO,7,+6767746XXX,mobile,U-Call (prepaid)
-TO,1,+67625XXX,geographic,Tonga Communications Corporation
-TO,7,+6767747XXX,mobile,U-Call (prepaid)
-TO,10,+67680XXX,geographic,Tonga Communications Corporation
-TO,3,+67650XXX,geographic,Tonga Communications Corporation
-TO,2,+67631XXX,geographic,Tonga Communications Corporation
-TO,8,+6767748XXX,mobile,U-Call (prepaid)
-TO,8,+6767749XXX,mobile,U-Call (prepaid)
-TO,8,+6767753XXX,mobile,U-Call (prepaid)
-TO,8,+6767754XXX,mobile,U-Call (prepaid)
-TO,8,+6767755XXX,mobile,U-Call (prepaid)
-TO,8,+6767756XXX,mobile,U-Call (prepaid)
-TO,8,+6767757XXX,mobile,U-Call (prepaid)
-TO,8,+6767758XXX,mobile,U-Call (prepaid)
-TO,8,+6767761XXX,mobile,U-Call (prepaid)
-TO,8,+6767762XXX,mobile,U-Call (prepaid)
-TO,9,+6767764XXX,mobile,U-Call (prepaid)
-TO,9,+6767765XXX,mobile,U-Call (prepaid)
-TO,9,+6767766XXX,mobile,U-Call (prepaid)
-TO,2,+67632XXX,geographic,Tonga Communications Corporation
-TO,9,+6767772XXX,mobile,U-Call (prepaid)
-TO,9,+6767773XXX,mobile,U-Call (prepaid)
-TO,9,+6767775XXX,mobile,U-Call (prepaid)
-TO,9,+6767776XXX,mobile,U-Call (prepaid)
-TO,9,+6767777XXX,mobile,U-Call (prepaid)
-TO,3,+67660XXX,geographic,Tonga Communications Corporation
-TO,9,+6767778XXX,mobile,U-Call (prepaid)
-TO,9,+6767781XXX,mobile,U-Call (prepaid)
-TO,10,+6767782XXX,mobile,U-Call (prepaid)
-TO,10,+6767783XXX,mobile,U-Call (prepaid)
-TO,10,+67678XXXXX,mobile,U-Call
-TO,10,+67684XXX,mobile,U-Call (prepaid)
-TO,10,+67687XXXXX,mobile,Digicel (Tonga) Ltd
-TO,2,+67633XXX,geographic,Tonga Communications Corporation
-TO,10,+67688XXXXX,mobile,Digicel (Tonga) Ltd
-TO,10,+67689XXXXX,mobile,Digicel (Tonga) Ltd
-TO,10,+67685XXX,geographic,Tonga Communications Corporation
-TO,5,+676685XX,wirelessgeographic,Tonga Communications Corporation (prepaid)
-TO,2,+67634XXX,geographic,Tonga Communications Corporation
-TO,5,+676686XX,wirelessgeographic,Tonga Communications Corporation (prepaid)
-TO,2,+67635XXX,geographic,Tonga Communications Corporation
-TO,5,+676687XX,wirelessgeographic,Tonga Communications Corporation (prepaid)
-TO,5,+676688XX,wirelessgeographic,Tonga Communications Corporation (prepaid)
-TO,5,+676689XX,wirelessgeographic,Tonga Communications Corporation (prepaid)
+TO,3,67638XXX,geographic,Tonga Communications Corporation
+TO,1,67611XXX,wirelessgeographic,Tonga Communications Corporation (prepaid)
+TO,2,67626XXX,geographic,Tonga Communications Corporation
+TO,3,67641XXX,geographic,Tonga Communications Corporation
+TO,6,67669XXX,geographic,Tonga Communications Corporation
+TO,2,67627XXX,geographic,Tonga Communications Corporation
+TO,6,67670XXX,geographic,Tonga Communications Corporation
+TO,1,67620XXX,geographic,Tonga Communications Corporation (ISDN)
+TO,6,67671XXX,geographic,Tonga Communications Corporation
+TO,2,67628XXX,geographic,Tonga Communications Corporation
+TO,5,676679XX,wirelessgeographic,Tonga Communications Corporation (prepaid)
+TO,3,67642XXX,geographic,Tonga Communications Corporation
+TO,1,67621XXX,geographic,Tonga Communications Corporation
+TO,1,67622XXX,geographic,Tonga Communications Corporation
+TO,4,676675XX,wirelessgeographic,Tonga Communications Corporation (prepaid)
+TO,2,67629XXX,geographic,Tonga Communications Corporation (ISDN)
+TO,1,67623XXX,geographic,Tonga Communications Corporation
+TO,1,67612XXX,mobile,U-Call (prepaid)
+TO,1,67613XXX,mobile,U-Call (prepaid)
+TO,3,67659XXX,mobile,U-Call (prepaid)
+TO,4,676676XX,wirelessgeographic,Tonga Communications Corporation (prepaid)
+TO,4,67663XXX,mobile,U-Call
+TO,4,676670XX,mobile,U-Call
+TO,4,676671XX,mobile,U-Call
+TO,4,676672XX,mobile,U-Call
+TO,4,676673XX,mobile,U-Call
+TO,3,67643XXX,geographic,Tonga Communications Corporation
+TO,4,676674XX,mobile,U-Call
+TO,5,676681XX,mobile,U-Call
+TO,10,67679XXX,geographic,Tonga Communications Corporation
+TO,2,67630XXX,geographic,Tonga Communications Corporation
+TO,5,676682XX,mobile,U-Call
+TO,5,676683XX,mobile,U-Call
+TO,5,676684XX,mobile,U-Call
+TO,6,67674XXX,mobile,U-Call (prepaid)
+TO,4,676677XX,wirelessgeographic,Tonga Communications Corporation (prepaid)
+TO,1,67624XXX,geographic,Tonga Communications Corporation
+TO,6,6767714XXX,mobile,U-Call (prepaid)
+TO,6,6767715XXX,mobile,U-Call (prepaid)
+TO,6,6767716XXX,mobile,U-Call (prepaid)
+TO,6,6767717XXX,mobile,U-Call (prepaid)
+TO,3,67644XXX,geographic,Tonga Communications Corporation
+TO,6,6767718XXX,mobile,U-Call (prepaid)
+TO,6,67677XXXXX,mobile,U-Call (prepaid)
+TO,7,67677191XX,mobile,U-Call (prepaid)
+TO,7,67677192XX,mobile,U-Call (prepaid)
+TO,7,67677193XX,mobile,U-Call (prepaid)
+TO,7,67677194XX,mobile,U-Call (prepaid)
+TO,7,67677195XX,mobile,U-Call (prepaid)
+TO,7,67677196XX,mobile,U-Call (prepaid)
+TO,4,676678XX,wirelessgeographic,Tonga Communications Corporation (prepaid)
+TO,7,67677197XX,mobile,U-Call (prepaid)
+TO,7,6767745XXX,mobile,U-Call (prepaid)
+TO,7,6767746XXX,mobile,U-Call (prepaid)
+TO,1,67625XXX,geographic,Tonga Communications Corporation
+TO,7,6767747XXX,mobile,U-Call (prepaid)
+TO,10,67680XXX,geographic,Tonga Communications Corporation
+TO,3,67650XXX,geographic,Tonga Communications Corporation
+TO,2,67631XXX,geographic,Tonga Communications Corporation
+TO,8,6767748XXX,mobile,U-Call (prepaid)
+TO,8,6767749XXX,mobile,U-Call (prepaid)
+TO,8,6767753XXX,mobile,U-Call (prepaid)
+TO,8,6767754XXX,mobile,U-Call (prepaid)
+TO,8,6767755XXX,mobile,U-Call (prepaid)
+TO,8,6767756XXX,mobile,U-Call (prepaid)
+TO,8,6767757XXX,mobile,U-Call (prepaid)
+TO,8,6767758XXX,mobile,U-Call (prepaid)
+TO,8,6767761XXX,mobile,U-Call (prepaid)
+TO,8,6767762XXX,mobile,U-Call (prepaid)
+TO,9,6767764XXX,mobile,U-Call (prepaid)
+TO,9,6767765XXX,mobile,U-Call (prepaid)
+TO,9,6767766XXX,mobile,U-Call (prepaid)
+TO,2,67632XXX,geographic,Tonga Communications Corporation
+TO,9,6767772XXX,mobile,U-Call (prepaid)
+TO,9,6767773XXX,mobile,U-Call (prepaid)
+TO,9,6767775XXX,mobile,U-Call (prepaid)
+TO,9,6767776XXX,mobile,U-Call (prepaid)
+TO,9,6767777XXX,mobile,U-Call (prepaid)
+TO,3,67660XXX,geographic,Tonga Communications Corporation
+TO,9,6767778XXX,mobile,U-Call (prepaid)
+TO,9,6767781XXX,mobile,U-Call (prepaid)
+TO,10,6767782XXX,mobile,U-Call (prepaid)
+TO,10,6767783XXX,mobile,U-Call (prepaid)
+TO,10,67678XXXXX,mobile,U-Call
+TO,10,67684XXX,mobile,U-Call (prepaid)
+TO,10,67687XXXXX,mobile,Digicel (Tonga) Ltd
+TO,2,67633XXX,geographic,Tonga Communications Corporation
+TO,10,67688XXXXX,mobile,Digicel (Tonga) Ltd
+TO,10,67689XXXXX,mobile,Digicel (Tonga) Ltd
+TO,10,67685XXX,geographic,Tonga Communications Corporation
+TO,5,676685XX,wirelessgeographic,Tonga Communications Corporation (prepaid)
+TO,2,67634XXX,geographic,Tonga Communications Corporation
+TO,5,676686XX,wirelessgeographic,Tonga Communications Corporation (prepaid)
+TO,2,67635XXX,geographic,Tonga Communications Corporation
+TO,5,676687XX,wirelessgeographic,Tonga Communications Corporation (prepaid)
+TO,5,676688XX,wirelessgeographic,Tonga Communications Corporation (prepaid)
+TO,5,676689XX,wirelessgeographic,Tonga Communications Corporation (prepaid)

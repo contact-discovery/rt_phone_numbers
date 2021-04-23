@@ -1,54 +1,54 @@
 ﻿Country,Page,Range,Type,Provider
-FJ,2,+67960XXXXX,geographic,
-FJ,2,+67965XXXXX,geographic,
-FJ,2,+67965XXXXX,geographic,
+FJ,2,67960XXXXX,geographic,
+FJ,2,67965XXXXX,geographic,
+FJ,2,67965XXXXX,geographic,
 FJ,1,679,proper,
-FJ,1,+67932XXXXX,geographic,
-FJ,2,+67965XXXXX,geographic,
-FJ,2,+67965XXXXX,geographic,
-FJ,3,+67970XXXXX,mobile,Digicel (Fiji) Ltd
-FJ,3,+67971XXXXX,mobile,Digicel (Fiji) Ltd
-FJ,1,+67932XXXXX,geographic,
-FJ,1,+67932XXXXX,geographic,
-FJ,3,+67972XXXXX,mobile,Digicel (Fiji) Ltd
-FJ,3,+67973XXXXX,mobile,Digicel (Fiji) Ltd
-FJ,2,+67965XXXXX,geographic,
-FJ,3,+67966XXXXX,geographic,
-FJ,4,+67974XXXXX,mobile,Digicel (Fiji) Ltd
-FJ,4,+67980XXXXX,mobile,Vodafone (Fiji) Ltd
-FJ,3,+67967XXXXX,geographic,
-FJ,5,+67988XXXXX,geographic,
-FJ,1,+67933XXXXX,geographic,
-FJ,3,+67967XXXXX,geographic,
-FJ,4,+67981XXXXX,mobile,Vodafone (Fiji) Ltd
-FJ,4,+67982XXXXX,mobile,Vodafone (Fiji) Ltd
-FJ,4,+67983XXXXX,mobile,Vodafone (Fiji) Ltd
-FJ,5,+67988XXXXX,geographic,
-FJ,4,+67984XXXXX,mobile,Inkk Mobile (MVNO)
-FJ,2,+67966XXXXX,geographic,
-FJ,1,+67933XXXXX,geographic,
-FJ,4,+67985XXXXX,mobile,Vodafone (Fiji) Ltd
-FJ,4,+67986XXXXX,mobile,Vodafone (Fiji) Ltd
-FJ,4,+67987XXXXX,mobile,Inkk Mobile (MVNO)
-FJ,5,+67989XXXXX,mobile,Vodafone (Fiji) Ltd
-FJ,1,+67933XXXXX,geographic,
-FJ,5,+67990XXXXX,mobile,Vodafone (Fiji) Ltd
-FJ,2,+67966XXXXX,geographic,
-FJ,5,+67991XXXXX,mobile,Vodafone (Fiji) Ltd
-FJ,5,+67992XXXXX,mobile,Vodafone (Fiji) Ltd
-FJ,5,+67993XXXXX,mobile,Vodafone (Fiji) Ltd
-FJ,1,+67934XXXXX,geographic,
-FJ,3,+67967XXXXX,geographic,
-FJ,5,+67994XXXXX,mobile,Vodafone (Fiji) Ltd
-FJ,5,+67995XXXXX,mobile,Inkk Mobile (MVNO)
-FJ,5,+67996XXXXX,mobile,Inkk Mobile (MVNO)
-FJ,6,+67997XXXXX,mobile,Vodafone (Fiji) Ltd
-FJ,1,+67934XXXXX,geographic,
-FJ,6,+67998XXXXX,mobile,Inkk Mobile (MVNO)
-FJ,6,+67999XXXXX,mobile,Vodafone (Fiji) Ltd
-FJ,3,+67967XXXXX,geographic,
-FJ,3,+67967XXXXX,geographic,
-FJ,2,+67966XXXXX,geographic,
-FJ,1,+67934XXXXX,geographic,
-FJ,2,+67966XXXXX,geographic,
-FJ,4,+67988XXXXX,geographic,
+FJ,1,67932XXXXX,geographic,
+FJ,2,67965XXXXX,geographic,
+FJ,2,67965XXXXX,geographic,
+FJ,3,67970XXXXX,mobile,Digicel (Fiji) Ltd
+FJ,3,67971XXXXX,mobile,Digicel (Fiji) Ltd
+FJ,1,67932XXXXX,geographic,
+FJ,1,67932XXXXX,geographic,
+FJ,3,67972XXXXX,mobile,Digicel (Fiji) Ltd
+FJ,3,67973XXXXX,mobile,Digicel (Fiji) Ltd
+FJ,2,67965XXXXX,geographic,
+FJ,3,67966XXXXX,geographic,
+FJ,4,67974XXXXX,mobile,Digicel (Fiji) Ltd
+FJ,4,67980XXXXX,mobile,Vodafone (Fiji) Ltd
+FJ,3,67967XXXXX,geographic,
+FJ,5,67988XXXXX,geographic,
+FJ,1,67933XXXXX,geographic,
+FJ,3,67967XXXXX,geographic,
+FJ,4,67981XXXXX,mobile,Vodafone (Fiji) Ltd
+FJ,4,67982XXXXX,mobile,Vodafone (Fiji) Ltd
+FJ,4,67983XXXXX,mobile,Vodafone (Fiji) Ltd
+FJ,5,67988XXXXX,geographic,
+FJ,4,67984XXXXX,mobile,Inkk Mobile (MVNO)
+FJ,2,67966XXXXX,geographic,
+FJ,1,67933XXXXX,geographic,
+FJ,4,67985XXXXX,mobile,Vodafone (Fiji) Ltd
+FJ,4,67986XXXXX,mobile,Vodafone (Fiji) Ltd
+FJ,4,67987XXXXX,mobile,Inkk Mobile (MVNO)
+FJ,5,67989XXXXX,mobile,Vodafone (Fiji) Ltd
+FJ,1,67933XXXXX,geographic,
+FJ,5,67990XXXXX,mobile,Vodafone (Fiji) Ltd
+FJ,2,67966XXXXX,geographic,
+FJ,5,67991XXXXX,mobile,Vodafone (Fiji) Ltd
+FJ,5,67992XXXXX,mobile,Vodafone (Fiji) Ltd
+FJ,5,67993XXXXX,mobile,Vodafone (Fiji) Ltd
+FJ,1,67934XXXXX,geographic,
+FJ,3,67967XXXXX,geographic,
+FJ,5,67994XXXXX,mobile,Vodafone (Fiji) Ltd
+FJ,5,67995XXXXX,mobile,Inkk Mobile (MVNO)
+FJ,5,67996XXXXX,mobile,Inkk Mobile (MVNO)
+FJ,6,67997XXXXX,mobile,Vodafone (Fiji) Ltd
+FJ,1,67934XXXXX,geographic,
+FJ,6,67998XXXXX,mobile,Inkk Mobile (MVNO)
+FJ,6,67999XXXXX,mobile,Vodafone (Fiji) Ltd
+FJ,3,67967XXXXX,geographic,
+FJ,3,67967XXXXX,geographic,
+FJ,2,67966XXXXX,geographic,
+FJ,1,67934XXXXX,geographic,
+FJ,2,67966XXXXX,geographic,
+FJ,4,67988XXXXX,geographic,

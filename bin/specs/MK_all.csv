@@ -1,175 +1,175 @@
 ﻿Country,Page,Range,Type,Provider
-MK,15,+3894757XXXX,geographic,T-Mobile Makedonija AD
-MK,10,+3894351XXXX,geographic,One AD
-MK,11,+389443XXXXX,geographic,Makedonski Telekom AD
-MK,15,+38947609XXX,geographic,Aikol
-MK,10,+3894352XXXX,geographic,One AD
+MK,15,3894757XXXX,geographic,T-Mobile Makedonija AD
+MK,10,3894351XXXX,geographic,One AD
+MK,11,389443XXXXX,geographic,Makedonski Telekom AD
+MK,15,38947609XXX,geographic,Aikol
+MK,10,3894352XXXX,geographic,One AD
 MK,1,389,proper,
-MK,1,+3892XXXXXXX,geographic,
-MK,11,+389444XXXXX,geographic,Makedonski Telekom AD
-MK,2,+3892611XXXX,geographic,Infel Netplus
-MK,1,+38922XXXXXX,geographic,Makedonski Telekom AD
-MK,10,+3894354XXXX,geographic,One AD
-MK,1,+38923XXXXXX,geographic,Makedonski Telekom AD
-MK,2,+3892612XXXX,geographic,Aikol
-MK,1,+389251XXXXX,geographic,One AD
-MK,10,+3894355XXXX,geographic,Neotel
-MK,2,+3892613XXXX,geographic,Cabletel (Blizoo)
-MK,1,+389252XXXXX,geographic,One AD
-MK,11,+3894451XXXX,geographic,One AD
-MK,10,+3894357XXXX,geographic,T-Mobile Makedonija AD
-MK,15,+38947610XXX,geographic,Aikol
-MK,14,+389468XXXXX,geographic,Makedonski Telekom AD
-MK,2,+3892614XXXX,geographic,Cabletel (Blizoo)
-MK,3,+3893152XXXX,geographic,One AD
-MK,8,+3893457XXXX,geographic,T-Mobile Makedonija AD
-MK,14,+38947XXXXXX,geographic,
-MK,18,+3898XXXXXXX,freephone,
-MK,3,+3893154XXXX,geographic,One AD
-MK,16,+3894854XXXX,geographic,One AD
-MK,11,+3894452XXXX,geographic,One AD
-MK,4,+389322XXXXX,geographic,Makedonski Telekom AD
-MK,15,+38947612XXX,geographic,Aikol
-MK,10,+38943609XXX,geographic,Aikol
-MK,1,+389254XXXXX,geographic,One AD
-MK,2,+38931XXXXXX,geographic,
-MK,18,+3898XXXXXXX,sharedcost,
-MK,9,+3894254XXXX,geographic,One AD
-MK,14,+38947XXXXXX,geographic,
-MK,15,+38947616XXX,geographic,Infel Netplus
-MK,4,+389323XXXXX,geographic,Makedonski Telekom AD
-MK,10,+38943612XXX,geographic,Aikol
-MK,11,+3894454XXXX,geographic,One AD
-MK,3,+3893155XXXX,geographic,Neotel
-MK,8,+38934609XXX,geographic,Aikol
-MK,11,+3894455XXXX,geographic,Neotel
-MK,4,+389324XXXXX,geographic,Makedonski Telekom AD
-MK,12,+38945XXXXXX,geographic,
-MK,15,+38948XXXXXX,geographic,
-MK,2,+38931XXXXXX,geographic,
-MK,16,+3894855XXXX,geographic,Neotel
-MK,13,+38946XXXXXX,geographic,
-MK,3,+3893157XXXX,geographic,T-Mobile Makedonija AD
-MK,8,+38934611XXX,geographic,Infel Netplus
-MK,11,+3894457XXXX,geographic,T-Mobile Makedonija AD
-MK,2,+38931XXXXXX,geographic,
-MK,12,+389452XXXXX,geographic,Makedonski Telekom AD
-MK,1,+389255XXXXX,geographic,Neotel
-MK,13,+389462XXXXX,geographic,Makedonski Telekom AD
-MK,3,+38931613XXX,geographic,Cabletel (Blizoo)
-MK,7,+38934XXXXXX,geographic,
-MK,4,+3893251XXXX,geographic,One AD
-MK,9,+3894255XXXX,geographic,Neotel
-MK,15,+38948XXXXXX,geographic,
-MK,16,+3894857XXXX,geographic,T-Mobile Makedonija AD
-MK,18,+389800XXXXX,freephone,
-MK,16,+38970XXXXXX,mobile,T-Mobile Makedonija AD
-MK,8,+38934612XXX,geographic,Aikol
-MK,16,+38971XXXXXX,mobile,T-Mobile Makedonija AD
-MK,14,+38947XXXXXX,geographic,
-MK,2,+389313XXXXX,geographic,Makedonski Telekom AD
-MK,11,+38944611XXX,geographic,Infel Netplus
-MK,17,+38972XXXXXX,mobile,T-Mobile Makedonija AD
-MK,18,+3898009XXXX,freephone,
-MK,4,+3893252XXXX,geographic,One AD
-MK,13,+3894651XXXX,geographic,One AD
-MK,6,+38933XXXXXX,geographic,
-MK,17,+389732XXXXX,mobile,Albafone
-MK,17,+3897421XXXX,mobile,Mobik Telekomunikacii
-MK,10,+38943613XXX,geographic,Cabletel (Blizoo)
-MK,17,+38975XXXXXX,mobile,One AD
-MK,14,+389472XXXXX,geographic,Makedonski Telekom AD
-MK,16,+38948616XXX,geographic,Infel Netplus
-MK,12,+3894551XXXX,geographic,One AD
-MK,9,+3894257XXXX,geographic,T-Mobile Makedonija AD
-MK,8,+38942XXXXXX,geographic,
-MK,2,+389314XXXXX,geographic,Makedonski Telekom AD
-MK,1,+389257XXXXX,geographic,T-Mobile Makedonija AD
-MK,3,+38931614XXX,geographic,Cabletel (Blizoo)
-MK,15,+389484XXXXX,geographic,Makedonski Telekom AD
-MK,10,+38943616XXX,geographic,Cabletel (Blizoo)
-MK,13,+3894652XXXX,geographic,One AD
-MK,17,+38976XXXXXX,mobile,One AD
-MK,2,+3893151XXXX,geographic,One AD
-MK,7,+38934XXXXXX,geographic,
-MK,17,+38977420XXX,mobile,Mobile Konekt Telekom
-MK,14,+389474XXXXX,geographic,Makedonski Telekom AD
-MK,6,+389332XXXXX,geographic,Makedonski Telekom AD
-MK,1,+3892609XXXX,geographic,Aikol
-MK,11,+38944613XXX,geographic,Cabletel (Blizoo)
-MK,9,+38942611XXX,geographic,Infel Netplus
-MK,17,+38977421XXX,mobile,Mobile Konekt Telekom
-MK,12,+3894552XXXX,geographic,One AD
-MK,4,+3893254XXXX,geographic,One AD
-MK,17,+38977422XXX,mobile,Mobile Konekt Telekom
-MK,16,+3895XXXXXXX,premiumrate,
-MK,13,+3894654XXXX,geographic,One AD
-MK,17,+38977XXXXXX,mobile,VIP Operator d.o.o.
-MK,17,+38978XXXXXX,mobile,VIP Operator d.o.o.
-MK,3,+38932XXXXXX,geographic,
-MK,10,+38944XXXXXX,geographic,
-MK,11,+38945XXXXXX,geographic,
-MK,15,+3894851XXXX,geographic,One AD
-MK,9,+38943XXXXXX,geographic,
-MK,8,+389422XXXXX,geographic,Makedonski Telekom AD
-MK,16,+389500XXXXX,premiumrate,
-MK,4,+3893255XXXX,geographic,Neotel
-MK,12,+3894554XXXX,geographic,One AD
-MK,8,+389423XXXXX,geographic,Makedonski Telekom AD
-MK,4,+3893257XXXX,geographic,T-Mobile Makedonija AD
-MK,16,+38951XX,pager,
-MK,9,+38943XXXXXX,geographic,
-MK,14,+3894751XXXX,geographic,One AD
-MK,6,+389333XXXXX,geographic,Makedonski Telekom AD
-MK,15,+3894852XXXX,geographic,One AD
-MK,3,+38932XXXXXX,geographic,
-MK,12,+3894555XXXX,geographic,Neotel
-MK,13,+3894655XXXX,geographic,Neotel
-MK,16,+38955XXX,internetserviceprovider,
-MK,7,+38934XXXXXX,geographic,
-MK,8,+389424XXXXX,geographic,Makedonski Telekom AD
-MK,4,+3893260XXXX,geographic,Aikol
-MK,9,+38943XXXXXX,geographic,
-MK,14,+3894752XXXX,geographic,One AD
-MK,6,+389334XXXXX,geographic,Makedonski Telekom AD
-MK,12,+3894557XXXX,geographic,T-Mobile Makedonija AD
-MK,4,+38932610XXX,geographic,Aikol
-MK,13,+3894657XXXX,geographic,T-Mobile Makedonija AD
-MK,9,+389432XXXXX,geographic,Makedonski Telekom AD
-MK,7,+38934XXXXXX,geographic,
-MK,14,+3894754XXXX,geographic,One AD
-MK,3,+38932XXXXXX,geographic,
-MK,8,+3894251XXXX,geographic,One AD
-MK,6,+3893351XXXX,geographic,One AD
-MK,9,+389433XXXXX,geographic,Makedonski Telekom AD
-MK,12,+38945611XXX,geographic,Cabletel (Blizoo)
-MK,5,+38932611XXX,geographic,Infel Netplus
-MK,14,+3894755XXXX,geographic,Neotel
-MK,6,+3893352XXXX,geographic,One AD
-MK,13,+38946611XXX,geographic,Infel Netplus
-MK,7,+389342XXXXX,geographic,Makedonski Telekom AD
-MK,5,+38932612XXX,geographic,Aikol
-MK,13,+38946612XXX,geographic,Infel Netplus
-MK,7,+389343XXXXX,geographic,Makedonski Telekom AD
-MK,3,+38932XXXXXX,geographic,
-MK,8,+3894252XXXX,geographic,One AD
-MK,12,+38946XXXXXX,geographic,
-MK,9,+389434XXXXX,geographic,Makedonski Telekom AD
-MK,12,+38946XXXXXX,geographic,
-MK,7,+3893451XXXX,geographic,One AD One AD
-MK,5,+38932613XXX,geographic,Cabletel (Blizoo)
-MK,13,+389467XXXXX,geographic,Makedonski Telekom AD
-MK,6,+3893354XXXX,geographic,One AD
-MK,7,+3893452XXXX,geographic,Neotel
-MK,6,+3893355XXXX,geographic,Neotel
-MK,5,+38932616XXX,geographic,Aikol
-MK,6,+3893357XXXX,geographic,T-Mobile Makedonija AD
-MK,5,+3893263XXXX,geographic,Makedonski Telekom AD
-MK,7,+3893454XXXX,geographic,One AD
-MK,5,+3893264XXXX,geographic,Makedonski Telekom AD
-MK,6,+38933612XXX,geographic,Aikol
-MK,7,+3893455XXXX,geographic,Neotel
-MK,5,+38933XXXXXX,geographic,
-MK,5,+38933XXXXXX,geographic,
-MK,5,+38933XXXXXX,geographic,
-MK,5,+38933XXXXXX,geographic,
+MK,1,3892XXXXXXX,geographic,
+MK,11,389444XXXXX,geographic,Makedonski Telekom AD
+MK,2,3892611XXXX,geographic,Infel Netplus
+MK,1,38922XXXXXX,geographic,Makedonski Telekom AD
+MK,10,3894354XXXX,geographic,One AD
+MK,1,38923XXXXXX,geographic,Makedonski Telekom AD
+MK,2,3892612XXXX,geographic,Aikol
+MK,1,389251XXXXX,geographic,One AD
+MK,10,3894355XXXX,geographic,Neotel
+MK,2,3892613XXXX,geographic,Cabletel (Blizoo)
+MK,1,389252XXXXX,geographic,One AD
+MK,11,3894451XXXX,geographic,One AD
+MK,10,3894357XXXX,geographic,T-Mobile Makedonija AD
+MK,15,38947610XXX,geographic,Aikol
+MK,14,389468XXXXX,geographic,Makedonski Telekom AD
+MK,2,3892614XXXX,geographic,Cabletel (Blizoo)
+MK,3,3893152XXXX,geographic,One AD
+MK,8,3893457XXXX,geographic,T-Mobile Makedonija AD
+MK,14,38947XXXXXX,geographic,
+MK,18,3898XXXXXXX,freephone,
+MK,3,3893154XXXX,geographic,One AD
+MK,16,3894854XXXX,geographic,One AD
+MK,11,3894452XXXX,geographic,One AD
+MK,4,389322XXXXX,geographic,Makedonski Telekom AD
+MK,15,38947612XXX,geographic,Aikol
+MK,10,38943609XXX,geographic,Aikol
+MK,1,389254XXXXX,geographic,One AD
+MK,2,38931XXXXXX,geographic,
+MK,18,3898XXXXXXX,sharedcost,
+MK,9,3894254XXXX,geographic,One AD
+MK,14,38947XXXXXX,geographic,
+MK,15,38947616XXX,geographic,Infel Netplus
+MK,4,389323XXXXX,geographic,Makedonski Telekom AD
+MK,10,38943612XXX,geographic,Aikol
+MK,11,3894454XXXX,geographic,One AD
+MK,3,3893155XXXX,geographic,Neotel
+MK,8,38934609XXX,geographic,Aikol
+MK,11,3894455XXXX,geographic,Neotel
+MK,4,389324XXXXX,geographic,Makedonski Telekom AD
+MK,12,38945XXXXXX,geographic,
+MK,15,38948XXXXXX,geographic,
+MK,2,38931XXXXXX,geographic,
+MK,16,3894855XXXX,geographic,Neotel
+MK,13,38946XXXXXX,geographic,
+MK,3,3893157XXXX,geographic,T-Mobile Makedonija AD
+MK,8,38934611XXX,geographic,Infel Netplus
+MK,11,3894457XXXX,geographic,T-Mobile Makedonija AD
+MK,2,38931XXXXXX,geographic,
+MK,12,389452XXXXX,geographic,Makedonski Telekom AD
+MK,1,389255XXXXX,geographic,Neotel
+MK,13,389462XXXXX,geographic,Makedonski Telekom AD
+MK,3,38931613XXX,geographic,Cabletel (Blizoo)
+MK,7,38934XXXXXX,geographic,
+MK,4,3893251XXXX,geographic,One AD
+MK,9,3894255XXXX,geographic,Neotel
+MK,15,38948XXXXXX,geographic,
+MK,16,3894857XXXX,geographic,T-Mobile Makedonija AD
+MK,18,389800XXXXX,freephone,
+MK,16,38970XXXXXX,mobile,T-Mobile Makedonija AD
+MK,8,38934612XXX,geographic,Aikol
+MK,16,38971XXXXXX,mobile,T-Mobile Makedonija AD
+MK,14,38947XXXXXX,geographic,
+MK,2,389313XXXXX,geographic,Makedonski Telekom AD
+MK,11,38944611XXX,geographic,Infel Netplus
+MK,17,38972XXXXXX,mobile,T-Mobile Makedonija AD
+MK,18,3898009XXXX,freephone,
+MK,4,3893252XXXX,geographic,One AD
+MK,13,3894651XXXX,geographic,One AD
+MK,6,38933XXXXXX,geographic,
+MK,17,389732XXXXX,mobile,Albafone
+MK,17,3897421XXXX,mobile,Mobik Telekomunikacii
+MK,10,38943613XXX,geographic,Cabletel (Blizoo)
+MK,17,38975XXXXXX,mobile,One AD
+MK,14,389472XXXXX,geographic,Makedonski Telekom AD
+MK,16,38948616XXX,geographic,Infel Netplus
+MK,12,3894551XXXX,geographic,One AD
+MK,9,3894257XXXX,geographic,T-Mobile Makedonija AD
+MK,8,38942XXXXXX,geographic,
+MK,2,389314XXXXX,geographic,Makedonski Telekom AD
+MK,1,389257XXXXX,geographic,T-Mobile Makedonija AD
+MK,3,38931614XXX,geographic,Cabletel (Blizoo)
+MK,15,389484XXXXX,geographic,Makedonski Telekom AD
+MK,10,38943616XXX,geographic,Cabletel (Blizoo)
+MK,13,3894652XXXX,geographic,One AD
+MK,17,38976XXXXXX,mobile,One AD
+MK,2,3893151XXXX,geographic,One AD
+MK,7,38934XXXXXX,geographic,
+MK,17,38977420XXX,mobile,Mobile Konekt Telekom
+MK,14,389474XXXXX,geographic,Makedonski Telekom AD
+MK,6,389332XXXXX,geographic,Makedonski Telekom AD
+MK,1,3892609XXXX,geographic,Aikol
+MK,11,38944613XXX,geographic,Cabletel (Blizoo)
+MK,9,38942611XXX,geographic,Infel Netplus
+MK,17,38977421XXX,mobile,Mobile Konekt Telekom
+MK,12,3894552XXXX,geographic,One AD
+MK,4,3893254XXXX,geographic,One AD
+MK,17,38977422XXX,mobile,Mobile Konekt Telekom
+MK,16,3895XXXXXXX,premiumrate,
+MK,13,3894654XXXX,geographic,One AD
+MK,17,38977XXXXXX,mobile,VIP Operator d.o.o.
+MK,17,38978XXXXXX,mobile,VIP Operator d.o.o.
+MK,3,38932XXXXXX,geographic,
+MK,10,38944XXXXXX,geographic,
+MK,11,38945XXXXXX,geographic,
+MK,15,3894851XXXX,geographic,One AD
+MK,9,38943XXXXXX,geographic,
+MK,8,389422XXXXX,geographic,Makedonski Telekom AD
+MK,16,389500XXXXX,premiumrate,
+MK,4,3893255XXXX,geographic,Neotel
+MK,12,3894554XXXX,geographic,One AD
+MK,8,389423XXXXX,geographic,Makedonski Telekom AD
+MK,4,3893257XXXX,geographic,T-Mobile Makedonija AD
+MK,16,38951XX,pager,
+MK,9,38943XXXXXX,geographic,
+MK,14,3894751XXXX,geographic,One AD
+MK,6,389333XXXXX,geographic,Makedonski Telekom AD
+MK,15,3894852XXXX,geographic,One AD
+MK,3,38932XXXXXX,geographic,
+MK,12,3894555XXXX,geographic,Neotel
+MK,13,3894655XXXX,geographic,Neotel
+MK,16,38955XXX,internetserviceprovider,
+MK,7,38934XXXXXX,geographic,
+MK,8,389424XXXXX,geographic,Makedonski Telekom AD
+MK,4,3893260XXXX,geographic,Aikol
+MK,9,38943XXXXXX,geographic,
+MK,14,3894752XXXX,geographic,One AD
+MK,6,389334XXXXX,geographic,Makedonski Telekom AD
+MK,12,3894557XXXX,geographic,T-Mobile Makedonija AD
+MK,4,38932610XXX,geographic,Aikol
+MK,13,3894657XXXX,geographic,T-Mobile Makedonija AD
+MK,9,389432XXXXX,geographic,Makedonski Telekom AD
+MK,7,38934XXXXXX,geographic,
+MK,14,3894754XXXX,geographic,One AD
+MK,3,38932XXXXXX,geographic,
+MK,8,3894251XXXX,geographic,One AD
+MK,6,3893351XXXX,geographic,One AD
+MK,9,389433XXXXX,geographic,Makedonski Telekom AD
+MK,12,38945611XXX,geographic,Cabletel (Blizoo)
+MK,5,38932611XXX,geographic,Infel Netplus
+MK,14,3894755XXXX,geographic,Neotel
+MK,6,3893352XXXX,geographic,One AD
+MK,13,38946611XXX,geographic,Infel Netplus
+MK,7,389342XXXXX,geographic,Makedonski Telekom AD
+MK,5,38932612XXX,geographic,Aikol
+MK,13,38946612XXX,geographic,Infel Netplus
+MK,7,389343XXXXX,geographic,Makedonski Telekom AD
+MK,3,38932XXXXXX,geographic,
+MK,8,3894252XXXX,geographic,One AD
+MK,12,38946XXXXXX,geographic,
+MK,9,389434XXXXX,geographic,Makedonski Telekom AD
+MK,12,38946XXXXXX,geographic,
+MK,7,3893451XXXX,geographic,One AD One AD
+MK,5,38932613XXX,geographic,Cabletel (Blizoo)
+MK,13,389467XXXXX,geographic,Makedonski Telekom AD
+MK,6,3893354XXXX,geographic,One AD
+MK,7,3893452XXXX,geographic,Neotel
+MK,6,3893355XXXX,geographic,Neotel
+MK,5,38932616XXX,geographic,Aikol
+MK,6,3893357XXXX,geographic,T-Mobile Makedonija AD
+MK,5,3893263XXXX,geographic,Makedonski Telekom AD
+MK,7,3893454XXXX,geographic,One AD
+MK,5,3893264XXXX,geographic,Makedonski Telekom AD
+MK,6,38933612XXX,geographic,Aikol
+MK,7,3893455XXXX,geographic,Neotel
+MK,5,38933XXXXXX,geographic,
+MK,5,38933XXXXXX,geographic,
+MK,5,38933XXXXXX,geographic,
+MK,5,38933XXXXXX,geographic,

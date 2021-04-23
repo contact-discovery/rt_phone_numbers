@@ -1,57 +1,57 @@
 ﻿Country,Page,Range,Type,Provider
 CF,1,236,proper,
-CF,1,+23621XXXXXX,geographic,Orange
-CF,2,+2362221XXXX,geographic,Orange
-CF,1,+2362161XXXX,geographic,Orange
-CF,2,+2362231XXXX,geographic,Orange
-CF,1,+2362162XXXX,geographic,Orange
-CF,2,+2362241XXXX,geographic,Orange
-CF,2,+2362251XXXX,geographic,Orange
-CF,2,+2362281XXXX,geographic,Orange
-CF,2,+2362291XXXX,geographic,Orange
-CF,1,+2362165XXXX,geographic,Orange
-CF,2,+2367001XXXX,mobile,Centrafrique Telecom Plus (CTP)
-CF,2,+2367002XXXX,mobile,Centrafrique Telecom Plus (CTP)
-CF,2,+2367040XXXX,mobile,Centrafrique Telecom Plus (CTP)
-CF,2,+23670XXXXXX,mobile,Centrafrique Telecom Plus (CTP)
-CF,3,+2367045XXXX,mobile,Centrafrique Telecom Plus (CTP)
-CF,3,+2367046XXXX,mobile,Centrafrique Telecom Plus (CTP)
-CF,1,+2362165XXXX,geographic,Orange
-CF,3,+2367080XXXX,mobile,Centrafrique Telecom Plus (CTP)
-CF,3,+2367085XXXX,mobile,Centrafrique Telecom Plus (CTP)
-CF,3,+2367090XXXX,mobile,Centrafrique Telecom Plus (CTP)
-CF,3,+2367095XXXX,mobile,Centrafrique Telecom Plus (CTP)
-CF,3,+2367096XXXX,mobile,Centrafrique Telecom Plus (CTP)
-CF,3,+2367097XXXX,mobile,Centrafrique Telecom Plus (CTP)
-CF,3,+2367098XXXX,mobile,Centrafrique Telecom Plus (CTP)
-CF,3,+2367099XXXX,mobile,Centrafrique Telecom Plus (CTP)
-CF,4,+23672XXXXXX,mobile,Orange
-CF,1,+2362165XXXX,geographic,Orange
-CF,4,+2367503XXXX,mobile,Telecel Centrafrique
-CF,4,+2367504XXXX,mobile,Telecel Centrafrique
-CF,4,+2367505XXXX,mobile,Telecel Centrafrique
-CF,4,+2367520XXXX,mobile,Telecel Centrafrique
-CF,4,+2367550XXXX,mobile,Telecel Centrafrique
-CF,4,+2367554XXXX,mobile,Telecel Centrafrique
-CF,4,+2367555XXXX,mobile,Telecel Centrafrique
-CF,4,+2367556XXXX,mobile,Telecel Centrafrique
-CF,4,+23675XXXXXX,mobile,Telecel Centrafrique
-CF,5,+2367557XXXX,mobile,Telecel Centrafrique
-CF,5,+2367558XXXX,mobile,Telecel Centrafrique
-CF,1,+2362165XXXX,geographic,Orange
-CF,5,+2367560XXXX,mobile,Telecel Centrafrique
-CF,5,+2367706XXXX,mobile,NationLink Telecom
-CF,5,+2367708XXXX,mobile,NationLink Telecom
-CF,5,+2367709XXXX,mobile,NationLink Telecom
-CF,5,+2367744XXXX,mobile,NationLink Telecom
-CF,5,+2367748XXXX,mobile,NationLink Telecom
-CF,5,+2367749XXXX,mobile,NationLink Telecom
-CF,5,+23677XXXXXX,mobile,NationLink Telecom
-CF,1,+2362165XXXX,geographic,Orange
-CF,6,+2367759XXXX,mobile,NationLink Telecom
-CF,6,+2367788XXXX,mobile,NationLink Telecom
-CF,6,+2367789XXXX,mobile,NationLink Telecom
-CF,6,+2368776XXXX,mobile,INVIVENT
-CF,1,+23622XXXXXX,geographic,Orange
-CF,6,+2368522XXXX,internetserviceprovider,Orange
+CF,1,23621XXXXXX,geographic,Orange
+CF,2,2362221XXXX,geographic,Orange
+CF,1,2362161XXXX,geographic,Orange
+CF,2,2362231XXXX,geographic,Orange
+CF,1,2362162XXXX,geographic,Orange
+CF,2,2362241XXXX,geographic,Orange
+CF,2,2362251XXXX,geographic,Orange
+CF,2,2362281XXXX,geographic,Orange
+CF,2,2362291XXXX,geographic,Orange
+CF,1,2362165XXXX,geographic,Orange
+CF,2,2367001XXXX,mobile,Centrafrique Telecom Plus (CTP)
+CF,2,2367002XXXX,mobile,Centrafrique Telecom Plus (CTP)
+CF,2,2367040XXXX,mobile,Centrafrique Telecom Plus (CTP)
+CF,2,23670XXXXXX,mobile,Centrafrique Telecom Plus (CTP)
+CF,3,2367045XXXX,mobile,Centrafrique Telecom Plus (CTP)
+CF,3,2367046XXXX,mobile,Centrafrique Telecom Plus (CTP)
+CF,1,2362165XXXX,geographic,Orange
+CF,3,2367080XXXX,mobile,Centrafrique Telecom Plus (CTP)
+CF,3,2367085XXXX,mobile,Centrafrique Telecom Plus (CTP)
+CF,3,2367090XXXX,mobile,Centrafrique Telecom Plus (CTP)
+CF,3,2367095XXXX,mobile,Centrafrique Telecom Plus (CTP)
+CF,3,2367096XXXX,mobile,Centrafrique Telecom Plus (CTP)
+CF,3,2367097XXXX,mobile,Centrafrique Telecom Plus (CTP)
+CF,3,2367098XXXX,mobile,Centrafrique Telecom Plus (CTP)
+CF,3,2367099XXXX,mobile,Centrafrique Telecom Plus (CTP)
+CF,4,23672XXXXXX,mobile,Orange
+CF,1,2362165XXXX,geographic,Orange
+CF,4,2367503XXXX,mobile,Telecel Centrafrique
+CF,4,2367504XXXX,mobile,Telecel Centrafrique
+CF,4,2367505XXXX,mobile,Telecel Centrafrique
+CF,4,2367520XXXX,mobile,Telecel Centrafrique
+CF,4,2367550XXXX,mobile,Telecel Centrafrique
+CF,4,2367554XXXX,mobile,Telecel Centrafrique
+CF,4,2367555XXXX,mobile,Telecel Centrafrique
+CF,4,2367556XXXX,mobile,Telecel Centrafrique
+CF,4,23675XXXXXX,mobile,Telecel Centrafrique
+CF,5,2367557XXXX,mobile,Telecel Centrafrique
+CF,5,2367558XXXX,mobile,Telecel Centrafrique
+CF,1,2362165XXXX,geographic,Orange
+CF,5,2367560XXXX,mobile,Telecel Centrafrique
+CF,5,2367706XXXX,mobile,NationLink Telecom
+CF,5,2367708XXXX,mobile,NationLink Telecom
+CF,5,2367709XXXX,mobile,NationLink Telecom
+CF,5,2367744XXXX,mobile,NationLink Telecom
+CF,5,2367748XXXX,mobile,NationLink Telecom
+CF,5,2367749XXXX,mobile,NationLink Telecom
+CF,5,23677XXXXXX,mobile,NationLink Telecom
+CF,1,2362165XXXX,geographic,Orange
+CF,6,2367759XXXX,mobile,NationLink Telecom
+CF,6,2367788XXXX,mobile,NationLink Telecom
+CF,6,2367789XXXX,mobile,NationLink Telecom
+CF,6,2368776XXXX,mobile,INVIVENT
+CF,1,23622XXXXXX,geographic,Orange
+CF,6,2368522XXXX,internetserviceprovider,Orange
 CF,6,23685221212,internetserviceprovider,Orange

@@ -1,6 +1,6 @@
 ﻿Country,Page,Range,Type,Provider
 QR,1,979,proper,
-QR,1,+9791XXXXXXXX,premiumrate,
-QR,1,+9793XXXXXXXX,premiumrate,Medium band
-QR,1,+9795XXXXXXXX,premiumrate,Low band
-QR,1,+9799XXXXXXXX,premiumrate,Special band
+QR,1,9791XXXXXXXX,premiumrate,
+QR,1,9793XXXXXXXX,premiumrate,Medium band
+QR,1,9795XXXXXXXX,premiumrate,Low band
+QR,1,9799XXXXXXXX,premiumrate,Special band

@@ -1,83 +1,83 @@
 ﻿Country,Page,Range,Type,Provider
-GN,2,+2243042XXXX,geographic,
-GN,4,+2243071XXXX,geographic,
-GN,2,+2243042XXXX,geographic,
-GN,4,+2243071XXXX,geographic,
+GN,2,2243042XXXX,geographic,
+GN,4,2243071XXXX,geographic,
+GN,2,2243042XXXX,geographic,
+GN,4,2243071XXXX,geographic,
 GN,1,224,proper,
-GN,2,+2243042XXXX,geographic,
-GN,3,+2243051XXXX,geographic,
-GN,2,+2243042XXXX,geographic,
-GN,4,+2243071XXXX,geographic,
-GN,2,+2243042XXXX,geographic,
-GN,1,+22430XXXXXX,geographic,
-GN,3,+2243051XXXX,geographic,
-GN,4,+2243071XXXX,geographic,
-GN,1,+2243024XXXX,geographic,
-GN,3,+2243051XXXX,geographic,
-GN,4,+2243081XXXX,geographic,
-GN,2,+2243043XXXX,geographic,
-GN,1,+2243031XXXX,geographic,
-GN,3,+2243051XXXX,geographic,
-GN,5,+2243097XXXX,geographic,
-GN,4,+2243081XXXX,geographic,
-GN,2,+2243045XXXX,geographic,
-GN,5,+2243098XXXX,geographic,
-GN,2,+2243046XXXX,geographic,
-GN,4,+2243081XXXX,geographic,
-GN,3,+2243053XXXX,geographic,
-GN,1,+2243031XXXX,geographic,
-GN,2,+2243047XXXX,geographic,
-GN,9,+22478XXXXXX,VoIPtelephony,Gamma Concept S.A.
-GN,1,+2243032XXXX,geographic,
-GN,2,+2243051XXXX,geographic,
-GN,3,+2243061XXXX,geographic,
-GN,9,+22479XXXXXX,wirelessgeographic,Mai Telecom (WiMAX)
-GN,5,+22455XXXXXX,mobile,Gamma Concept - Guinée
-GN,5,+22460120XXXX,mobile,Sotelgui
-GN,5,+22460121XXXX,mobile,Sotelgui
-GN,1,+2243032XXXX,geographic,
-GN,3,+22430613XXX,geographic,
-GN,5,+22460122XXXX,mobile,Sotelgui
-GN,5,+22460123XXXX,mobile,Sotelgui
-GN,5,+22460125XXXX,mobile,Sotelgui
-GN,5,+22460126XXXX,mobile,Sotelgui
-GN,5,+224601XXXXXX,mobile,Sotelgui
-GN,6,+22460127XXXX,mobile,Sotelgui
-GN,6,+22460128XXXX,mobile,Sotelgui
-GN,3,+2243068XXXX,geographic,
-GN,4,+2243091XXXX,geographic,
-GN,6,+22460129XXXX,mobile,Sotelgui
-GN,6,+22460133XXXX,mobile,Sotelgui
-GN,6,+22460134XXXX,mobile,Sotelgui
-GN,6,+22460136XXXX,mobile,Sotelgui
-GN,6,+22460137XXXX,mobile,Sotelgui
-GN,6,+22460152XXXX,mobile,Sotelgui
-GN,1,+2243032XXXX,geographic,
-GN,6,+22460154XXXX,mobile,Sotelgui
-GN,6,+22460155XXXX,mobile,Sotelgui
-GN,7,+22460157XXXX,mobile,Sotelgui
-GN,7,+22460158XXXX,mobile,Sotelgui
-GN,7,+22460159XXXX,mobile,Sotelgui
-GN,7,+224621XXXXXX,mobile,Orange Guinée S.A.
-GN,7,+22462266XXXX,mobile,Orange Guinée S.A.
-GN,3,+2243069XXXX,geographic,
-GN,7,+22462267XXXX,mobile,Orange Guinée S.A.
-GN,7,+22462269XXXX,mobile,Orange Guinée S.A.
-GN,4,+2243091XXXX,geographic,
-GN,7,+224622XXXXXX,mobile,Orange Guinée S.A.
-GN,7,+224628XXXXXX,mobile,Orange Guinée S.A.
-GN,7,+224631XXXXXX,mobile,INTERCEL Guinée (Telecel)
-GN,8,+22463110XXXX,mobile,INTERCEL Guinée (Telecel)
-GN,8,+22463135XXXX,mobile,INTERCEL Guinée (Telecel)
-GN,8,+22463140XXXX,mobile,INTERCEL Guinée (Telecel)
-GN,1,+2243032XXXX,geographic,
-GN,8,+224655XXXXXX,mobile,Cellcom Guinée S.A
-GN,8,+224657XXXXXX,mobile,Cellcom Guinée S.A
-GN,8,+224662XXXXXX,mobile,Areeba Guinée (MTN)
-GN,8,+224664XXXXXX,mobile,Areeba Guinée (MTN)
-GN,8,+224666XXXXXX,mobile,Areeba Guinée (MTN)
-GN,8,+224669XXXXXX,mobile,Areeba Guinée (MTN)
-GN,4,+2243094XXXX,geographic,
-GN,1,+2243041XXXX,geographic,
-GN,3,+2243071XXXX,geographic,
-GN,8,+224722XXXXXX,VoIPtelephony,Gamma Concept Network
+GN,2,2243042XXXX,geographic,
+GN,3,2243051XXXX,geographic,
+GN,2,2243042XXXX,geographic,
+GN,4,2243071XXXX,geographic,
+GN,2,2243042XXXX,geographic,
+GN,1,22430XXXXXX,geographic,
+GN,3,2243051XXXX,geographic,
+GN,4,2243071XXXX,geographic,
+GN,1,2243024XXXX,geographic,
+GN,3,2243051XXXX,geographic,
+GN,4,2243081XXXX,geographic,
+GN,2,2243043XXXX,geographic,
+GN,1,2243031XXXX,geographic,
+GN,3,2243051XXXX,geographic,
+GN,5,2243097XXXX,geographic,
+GN,4,2243081XXXX,geographic,
+GN,2,2243045XXXX,geographic,
+GN,5,2243098XXXX,geographic,
+GN,2,2243046XXXX,geographic,
+GN,4,2243081XXXX,geographic,
+GN,3,2243053XXXX,geographic,
+GN,1,2243031XXXX,geographic,
+GN,2,2243047XXXX,geographic,
+GN,9,22478XXXXXX,VoIPtelephony,Gamma Concept S.A.
+GN,1,2243032XXXX,geographic,
+GN,2,2243051XXXX,geographic,
+GN,3,2243061XXXX,geographic,
+GN,9,22479XXXXXX,wirelessgeographic,Mai Telecom (WiMAX)
+GN,5,22455XXXXXX,mobile,Gamma Concept - Guinée
+GN,5,22460120XXXX,mobile,Sotelgui
+GN,5,22460121XXXX,mobile,Sotelgui
+GN,1,2243032XXXX,geographic,
+GN,3,22430613XXX,geographic,
+GN,5,22460122XXXX,mobile,Sotelgui
+GN,5,22460123XXXX,mobile,Sotelgui
+GN,5,22460125XXXX,mobile,Sotelgui
+GN,5,22460126XXXX,mobile,Sotelgui
+GN,5,224601XXXXXX,mobile,Sotelgui
+GN,6,22460127XXXX,mobile,Sotelgui
+GN,6,22460128XXXX,mobile,Sotelgui
+GN,3,2243068XXXX,geographic,
+GN,4,2243091XXXX,geographic,
+GN,6,22460129XXXX,mobile,Sotelgui
+GN,6,22460133XXXX,mobile,Sotelgui
+GN,6,22460134XXXX,mobile,Sotelgui
+GN,6,22460136XXXX,mobile,Sotelgui
+GN,6,22460137XXXX,mobile,Sotelgui
+GN,6,22460152XXXX,mobile,Sotelgui
+GN,1,2243032XXXX,geographic,
+GN,6,22460154XXXX,mobile,Sotelgui
+GN,6,22460155XXXX,mobile,Sotelgui
+GN,7,22460157XXXX,mobile,Sotelgui
+GN,7,22460158XXXX,mobile,Sotelgui
+GN,7,22460159XXXX,mobile,Sotelgui
+GN,7,224621XXXXXX,mobile,Orange Guinée S.A.
+GN,7,22462266XXXX,mobile,Orange Guinée S.A.
+GN,3,2243069XXXX,geographic,
+GN,7,22462267XXXX,mobile,Orange Guinée S.A.
+GN,7,22462269XXXX,mobile,Orange Guinée S.A.
+GN,4,2243091XXXX,geographic,
+GN,7,224622XXXXXX,mobile,Orange Guinée S.A.
+GN,7,224628XXXXXX,mobile,Orange Guinée S.A.
+GN,7,224631XXXXXX,mobile,INTERCEL Guinée (Telecel)
+GN,8,22463110XXXX,mobile,INTERCEL Guinée (Telecel)
+GN,8,22463135XXXX,mobile,INTERCEL Guinée (Telecel)
+GN,8,22463140XXXX,mobile,INTERCEL Guinée (Telecel)
+GN,1,2243032XXXX,geographic,
+GN,8,224655XXXXXX,mobile,Cellcom Guinée S.A
+GN,8,224657XXXXXX,mobile,Cellcom Guinée S.A
+GN,8,224662XXXXXX,mobile,Areeba Guinée (MTN)
+GN,8,224664XXXXXX,mobile,Areeba Guinée (MTN)
+GN,8,224666XXXXXX,mobile,Areeba Guinée (MTN)
+GN,8,224669XXXXXX,mobile,Areeba Guinée (MTN)
+GN,4,2243094XXXX,geographic,
+GN,1,2243041XXXX,geographic,
+GN,3,2243071XXXX,geographic,
+GN,8,224722XXXXXX,VoIPtelephony,Gamma Concept Network

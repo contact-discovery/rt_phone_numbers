@@ -1,126 +1,126 @@
 ﻿Country,Page,Range,Type,Provider
 ZA,1,27,proper,
-ZA,13,+27861XXXXXX,nationalrate,
-ZA,1,+2710XXXXXXX,geographic,
-ZA,13,+2787XXXXXXX,VoIPtelephony,
-ZA,2,+2714XXXXXXX,geographic,
-ZA,1,+2711XXXXXXX,geographic,
-ZA,4,+27277XXXXXX,geographic,
-ZA,2,+27145XXXXXX,geographic,
-ZA,3,+2722XXXXXXX,geographic,
-ZA,4,+27278XXXXXX,geographic,
-ZA,2,+27147XXXXXX,geographic,
-ZA,3,+2723XXXXXXX,geographic,
-ZA,13,+2788XXXXXXX,pager,Telkom
-ZA,5,+2740XXXXXXX,geographic,
-ZA,2,+2715XXXXXXX,geographic,
-ZA,1,+2712XXXXXXX,geographic,
-ZA,3,+2723XXXXXXX,geographic,
-ZA,4,+2728XXXXXXX,geographic,
-ZA,13,+27881XXXXXX,voicemail(mobile),
-ZA,2,+2716XXXXXXX,geographic,
-ZA,1,+2712XXXXXXX,geographic,
-ZA,2,+2716XXXXXXX,geographic,
-ZA,5,+2741XXXXXXX,geographic,
-ZA,13,+2789XXXXXXX,premiumrate,Maxinet
-ZA,4,+2731XXXXXXX,geographic,
-ZA,3,+2723XXXXXXX,geographic,
-ZA,6,+27449XXXXXX,geographic,
-ZA,2,+2716XXXXXXX,geographic,
-ZA,7,+2757XXXXXXX,geographic,
-ZA,1,+2713XXXXXXX,geographic,
-ZA,4,+2732XXXXXXX,geographic,
-ZA,5,+2742XXXXXXX,geographic,
-ZA,2,+2717XXXXXXX,geographic,
-ZA,7,+2758XXXXXXX,geographic,
-ZA,7,+27603XX(XXXXXXX),mobile,MTN
-ZA,7,+27604XX(XXXXXXX),mobile,MTN
-ZA,3,+2727XXXXXXX,geographic,
-ZA,2,+2718XXXXXXX,geographic,
-ZA,7,+27605XX(XXXXXXX),mobile,MTN
-ZA,1,+27132XXXXXX,geographic,
-ZA,7,+27606XX(XXXXXXX),mobile,Vodacom
-ZA,7,+27607XX(XXXXXXX),mobile,Vodacom
-ZA,6,+2745XXXXXXX,geographic,
-ZA,5,+2743XXXXXXX,geographic,
-ZA,7,+27608XX(XXXXXXX),mobile,Vodacom
-ZA,3,+27272XXXXXX,geographic,
-ZA,7,+27609XX(XXXXXXX),mobile,Vodacom
-ZA,7,+27610XX(XXXXXXX),mobile,CELL C
-ZA,8,+27611XX(XXXXXXX),mobile,CELL C
-ZA,8,+27612XX(XXXXXXX),mobile,CELL C
-ZA,3,+27273XXXXXX,geographic,
-ZA,8,+27613XX(XXXXXXX),mobile,CELL C
-ZA,8,+27614XX(XXXXXXX),mobile,8ta (Telkom)
-ZA,8,+27615XX(XXXXXXX),mobile,CELL C
-ZA,2,+2721XXXXXXX,geographic,
-ZA,4,+2733XXXXXXX,geographic,
-ZA,8,+27618XX(XXXXXXX),mobile,CELL C
-ZA,8,+27619XX(XXXXXXX),mobile,CELL C
-ZA,8,+27620XX(XXXXXXX),mobile,CELL C
-ZA,5,+2744XXXXXXX,geographic,
-ZA,8,+27621XX(XXXXXXX),mobile,CELL C
-ZA,8,+27622XX(XXXXXXX),mobile,CELL C
-ZA,1,+27136XXXXXX,geographic,
-ZA,9,+27623XX(XXXXXXX),mobile,CELL C
-ZA,9,+27624XX(XXXXXXX),mobile,CELL C
-ZA,9,+27625XX(XXXXXXX),mobile,Vodacom
-ZA,9,+27626XX(XXXXXXX),mobile,Vodacom
-ZA,5,+27442XXXXXX,geographic,
-ZA,9,+27627XX(XXXXXXX),mobile,Vodacom
-ZA,6,+2746XXXXXXX,geographic,
-ZA,9,+27628XX(XXXXXXX),mobile,Vodacom
-ZA,9,+27629XX(XXXXXXX),mobile,Vodacom
-ZA,9,+2763XXX(XXXXXXX),mobile,MTN
-ZA,9,+27710XX(XXXXXXX),mobile,MTN
-ZA,3,+27274XXXXXX,geographic,
-ZA,4,+2734XXXXXXX,geographic,
-ZA,9,+27711XX(XXXXXXX),mobile,Vodacom
-ZA,10,+27712XX(XXXXXXX),mobile,Vodacom
-ZA,10,+27713XX(XXXXXXX),mobile,Vodacom
-ZA,10,+27714XX(XXXXXXX),mobile,Vodacom
-ZA,1,+27137XXXXXX,geographic,
-ZA,10,+27715XX(XXXXXXX),mobile,Vodacom
-ZA,3,+27275XXXXXX,geographic,
-ZA,10,+27716XX(XXXXXXX),mobile,Vodacom
-ZA,3,+27276XXXXXX,geographic,
-ZA,10,+27717XX(XXXXXXX),mobile,MTN
-ZA,6,+2747XXXXXXX,geographic,
-ZA,10,+27718XX(XXXXXXX),mobile,MTN
-ZA,10,+27719XX(XXXXXXX),mobile,MTN
-ZA,10,+2772XXX(XXXXXXX),mobile,Vodacom
-ZA,4,+2735XXXXXXX,geographic,
-ZA,10,+2773XXX(XXXXXXX),mobile,MTN
-ZA,11,+27741XX(XXXXXXX),mobile,Virgin Mobile
-ZA,12,+2786XXXXXXX,premiumrate,
-ZA,6,+2748XXXXXXX,geographic,
-ZA,5,+27443XXXXXX,geographic,
-ZA,11,+2774XXX(XXXXXXX),mobile,CELL C
-ZA,11,+2780XXXXXXX,freephone,
-ZA,11,+2776XXX(XXXXXXX),mobile,Vodacom
-ZA,11,+2778XXX(XXXXXXX),mobile,MTN
-ZA,1,+27139XXXXXX,geographic,
-ZA,4,+2736XXXXXXX,geographic,
-ZA,11,+2779XXX(XXXXXXX),mobile,Vodacom
-ZA,11,+27810XX(XXXXXXX),mobile,MTN
-ZA,6,+2749XXXXXXX,geographic,
-ZA,11,+27811XX(XXXXXXX),mobile,8ta (Telkom)
-ZA,11,+27812XX(XXXXXXX),mobile,8ta (Telkom)
-ZA,4,+2739XXXXXXX,geographic,
-ZA,11,+27813XX(XXXXXXX),mobile,8ta (Telkom)
-ZA,5,+27445XXXXXX,geographic,
-ZA,12,+27814XX(XXXXXXX),mobile,8ta (Telkom)
-ZA,6,+2751XXXXXXX,geographic,
-ZA,12,+27815XX(XXXXXXX),mobile,8ta (Telkom)
-ZA,5,+27447XXXXXX,geographic,
-ZA,6,+2753XXXXXXX,geographic,
-ZA,12,+27816XX(XXXXXXX),mobile,WBS Mobile
-ZA,12,+27817XX(XXXXXXX),mobile,8ta (Telkom)
-ZA,12,+27818XX(XXXXXXX),mobile,Vodacom
-ZA,5,+27448XXXXXX,geographic,
-ZA,12,+2782XXX(XXXXXXX),mobile,Vodacom
-ZA,6,+2754XXXXXXX,geographic,
-ZA,12,+2783XXX(XXXXXXX),mobile,MTN
-ZA,12,+2784XXX(XXXXXXX),mobile,CELL C
-ZA,6,+2756XXXXXXX,geographic,
-ZA,12,+2785XXX(XXXXXXX),mobile,USAL licence holders
+ZA,13,27861XXXXXX,nationalrate,
+ZA,1,2710XXXXXXX,geographic,
+ZA,13,2787XXXXXXX,VoIPtelephony,
+ZA,2,2714XXXXXXX,geographic,
+ZA,1,2711XXXXXXX,geographic,
+ZA,4,27277XXXXXX,geographic,
+ZA,2,27145XXXXXX,geographic,
+ZA,3,2722XXXXXXX,geographic,
+ZA,4,27278XXXXXX,geographic,
+ZA,2,27147XXXXXX,geographic,
+ZA,3,2723XXXXXXX,geographic,
+ZA,13,2788XXXXXXX,pager,Telkom
+ZA,5,2740XXXXXXX,geographic,
+ZA,2,2715XXXXXXX,geographic,
+ZA,1,2712XXXXXXX,geographic,
+ZA,3,2723XXXXXXX,geographic,
+ZA,4,2728XXXXXXX,geographic,
+ZA,13,27881XXXXXX,voicemail(mobile),
+ZA,2,2716XXXXXXX,geographic,
+ZA,1,2712XXXXXXX,geographic,
+ZA,2,2716XXXXXXX,geographic,
+ZA,5,2741XXXXXXX,geographic,
+ZA,13,2789XXXXXXX,premiumrate,Maxinet
+ZA,4,2731XXXXXXX,geographic,
+ZA,3,2723XXXXXXX,geographic,
+ZA,6,27449XXXXXX,geographic,
+ZA,2,2716XXXXXXX,geographic,
+ZA,7,2757XXXXXXX,geographic,
+ZA,1,2713XXXXXXX,geographic,
+ZA,4,2732XXXXXXX,geographic,
+ZA,5,2742XXXXXXX,geographic,
+ZA,2,2717XXXXXXX,geographic,
+ZA,7,2758XXXXXXX,geographic,
+ZA,7,27603XX(XXXXXXX),mobile,MTN
+ZA,7,27604XX(XXXXXXX),mobile,MTN
+ZA,3,2727XXXXXXX,geographic,
+ZA,2,2718XXXXXXX,geographic,
+ZA,7,27605XX(XXXXXXX),mobile,MTN
+ZA,1,27132XXXXXX,geographic,
+ZA,7,27606XX(XXXXXXX),mobile,Vodacom
+ZA,7,27607XX(XXXXXXX),mobile,Vodacom
+ZA,6,2745XXXXXXX,geographic,
+ZA,5,2743XXXXXXX,geographic,
+ZA,7,27608XX(XXXXXXX),mobile,Vodacom
+ZA,3,27272XXXXXX,geographic,
+ZA,7,27609XX(XXXXXXX),mobile,Vodacom
+ZA,7,27610XX(XXXXXXX),mobile,CELL C
+ZA,8,27611XX(XXXXXXX),mobile,CELL C
+ZA,8,27612XX(XXXXXXX),mobile,CELL C
+ZA,3,27273XXXXXX,geographic,
+ZA,8,27613XX(XXXXXXX),mobile,CELL C
+ZA,8,27614XX(XXXXXXX),mobile,8ta (Telkom)
+ZA,8,27615XX(XXXXXXX),mobile,CELL C
+ZA,2,2721XXXXXXX,geographic,
+ZA,4,2733XXXXXXX,geographic,
+ZA,8,27618XX(XXXXXXX),mobile,CELL C
+ZA,8,27619XX(XXXXXXX),mobile,CELL C
+ZA,8,27620XX(XXXXXXX),mobile,CELL C
+ZA,5,2744XXXXXXX,geographic,
+ZA,8,27621XX(XXXXXXX),mobile,CELL C
+ZA,8,27622XX(XXXXXXX),mobile,CELL C
+ZA,1,27136XXXXXX,geographic,
+ZA,9,27623XX(XXXXXXX),mobile,CELL C
+ZA,9,27624XX(XXXXXXX),mobile,CELL C
+ZA,9,27625XX(XXXXXXX),mobile,Vodacom
+ZA,9,27626XX(XXXXXXX),mobile,Vodacom
+ZA,5,27442XXXXXX,geographic,
+ZA,9,27627XX(XXXXXXX),mobile,Vodacom
+ZA,6,2746XXXXXXX,geographic,
+ZA,9,27628XX(XXXXXXX),mobile,Vodacom
+ZA,9,27629XX(XXXXXXX),mobile,Vodacom
+ZA,9,2763XXX(XXXXXXX),mobile,MTN
+ZA,9,27710XX(XXXXXXX),mobile,MTN
+ZA,3,27274XXXXXX,geographic,
+ZA,4,2734XXXXXXX,geographic,
+ZA,9,27711XX(XXXXXXX),mobile,Vodacom
+ZA,10,27712XX(XXXXXXX),mobile,Vodacom
+ZA,10,27713XX(XXXXXXX),mobile,Vodacom
+ZA,10,27714XX(XXXXXXX),mobile,Vodacom
+ZA,1,27137XXXXXX,geographic,
+ZA,10,27715XX(XXXXXXX),mobile,Vodacom
+ZA,3,27275XXXXXX,geographic,
+ZA,10,27716XX(XXXXXXX),mobile,Vodacom
+ZA,3,27276XXXXXX,geographic,
+ZA,10,27717XX(XXXXXXX),mobile,MTN
+ZA,6,2747XXXXXXX,geographic,
+ZA,10,27718XX(XXXXXXX),mobile,MTN
+ZA,10,27719XX(XXXXXXX),mobile,MTN
+ZA,10,2772XXX(XXXXXXX),mobile,Vodacom
+ZA,4,2735XXXXXXX,geographic,
+ZA,10,2773XXX(XXXXXXX),mobile,MTN
+ZA,11,27741XX(XXXXXXX),mobile,Virgin Mobile
+ZA,12,2786XXXXXXX,premiumrate,
+ZA,6,2748XXXXXXX,geographic,
+ZA,5,27443XXXXXX,geographic,
+ZA,11,2774XXX(XXXXXXX),mobile,CELL C
+ZA,11,2780XXXXXXX,freephone,
+ZA,11,2776XXX(XXXXXXX),mobile,Vodacom
+ZA,11,2778XXX(XXXXXXX),mobile,MTN
+ZA,1,27139XXXXXX,geographic,
+ZA,4,2736XXXXXXX,geographic,
+ZA,11,2779XXX(XXXXXXX),mobile,Vodacom
+ZA,11,27810XX(XXXXXXX),mobile,MTN
+ZA,6,2749XXXXXXX,geographic,
+ZA,11,27811XX(XXXXXXX),mobile,8ta (Telkom)
+ZA,11,27812XX(XXXXXXX),mobile,8ta (Telkom)
+ZA,4,2739XXXXXXX,geographic,
+ZA,11,27813XX(XXXXXXX),mobile,8ta (Telkom)
+ZA,5,27445XXXXXX,geographic,
+ZA,12,27814XX(XXXXXXX),mobile,8ta (Telkom)
+ZA,6,2751XXXXXXX,geographic,
+ZA,12,27815XX(XXXXXXX),mobile,8ta (Telkom)
+ZA,5,27447XXXXXX,geographic,
+ZA,6,2753XXXXXXX,geographic,
+ZA,12,27816XX(XXXXXXX),mobile,WBS Mobile
+ZA,12,27817XX(XXXXXXX),mobile,8ta (Telkom)
+ZA,12,27818XX(XXXXXXX),mobile,Vodacom
+ZA,5,27448XXXXXX,geographic,
+ZA,12,2782XXX(XXXXXXX),mobile,Vodacom
+ZA,6,2754XXXXXXX,geographic,
+ZA,12,2783XXX(XXXXXXX),mobile,MTN
+ZA,12,2784XXX(XXXXXXX),mobile,CELL C
+ZA,6,2756XXXXXXX,geographic,
+ZA,12,2785XXX(XXXXXXX),mobile,USAL licence holders

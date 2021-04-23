@@ -1,6 +1,6 @@
 ﻿Country,Page,Range,Type,Provider
-CX,1,+61891XXXXXX,geographic,
-CX,1,+61891006XXX,geographic,Iptel Pty Ltd
-CX,1,+61891007XXX,geographic,Iptel Pty Ltd
-CX,1,+61891008XXX,geographic,Iptel Pty Ltd
-CX,1,+6189164XXXX,geographic,Telstra Corporation Ltd
+CX,1,61891XXXXXX,geographic,
+CX,1,61891006XXX,geographic,Iptel Pty Ltd
+CX,1,61891007XXX,geographic,Iptel Pty Ltd
+CX,1,61891008XXX,geographic,Iptel Pty Ltd
+CX,1,6189164XXXX,geographic,Telstra Corporation Ltd

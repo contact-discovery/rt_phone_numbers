@@ -1,77 +1,77 @@
 ﻿Country,Page,Range,Type,Provider
 DE,1,49,proper,
-DE,6,+49183XXXXXXXX,virtualprivatenetwork,
-DE,6,+49184XXXXXXXX,virtualprivatenetwork,
-DE,1,+4915020XXXXXX,mobile,Interactive Digital Media GmbH
-DE,1,+4915050XXXXXX,mobile,NAKA GmbH
-DE,1,+491505XXXXXXX,mobile,Group 3G UMTS Holding GmbH
-DE,1,+4915080XXXXXX,mobile,Easy World Call GmbH
-DE,1,+491511XXXXXXX,mobile,Telekom Deutschland GmbH (T-Mobile)
-DE,7,+49194XXX,internetserviceprovider,
-DE,1,+491512XXXXXXX,mobile,Telekom Deutschland GmbH (T-Mobile)
-DE,2,+491514XXXXXXX,mobile,Telekom Deutschland GmbH (T-Mobile)
-DE,2,+491515XXXXXXX,mobile,Telekom Deutschland GmbH (T-Mobile)
-DE,2,+491516XXXXXXX,mobile,Telekom Deutschland GmbH (T-Mobile)
-DE,2,+491517XXXXXXX,mobile,Telekom Deutschland GmbH (T-Mobile)
-DE,2,+491520XXXXXXX,mobile,Vodafone GmbH
-DE,2,+491521XXXXXXX,mobile,Vodafone GmbH / MVNO Lycamobile Germany
-DE,1,+4912XXXXXXXXX,nationalgeographic,Innovative services
-DE,2,+491522XXXXXXX,mobile,Vodafone GmbH
-DE,2,+491523XXXXXXX,mobile,Vodafone GmbH
-DE,2,+491525XXXXXXX,mobile,Vodafone GmbH
-DE,2,+491526XXXXXXX,mobile,Vodafone GmbH
-DE,3,+491529XXXXXXX,mobile,Vodafone GmbH / MVNO Truphone GmbH
-DE,3,+4915555XXXXXX,mobile,Tismi BV
-DE,3,+4915678XXXXXX,mobile,Argon Networks UG
-DE,3,+491570XXXXXXX,mobile,E-Plus Mobilfunk GmbH & Co. KG / MVNO Telogic Germany GmbH
-DE,3,+491573XXXXXXX,mobile,E-Plus Mobilfunk GmbH & Co. KG
-DE,3,+491575XXXXXXX,mobile,E-Plus Mobilfunk GmbH & Co. KG 
-DE,3,+491577XXXXXXX,mobile,E-Plus Mobilfunk GmbH & Co. KG
-DE,3,+491578XXXXXXX,mobile,E-Plus Mobilfunk GmbH & Co. KG
-DE,3,+491579XXXXXXX,mobile,E-Plus Mobilfunk GmbH & Co. KG / MVNO Sipgate Wireless GmbH
-DE,3,+4915888XXXXXX,mobile,TelcoVillage GmbH
-DE,6,+49185XXXXXXXX,virtualprivatenetwork,
-DE,8,+492011024(XXXX),geographic,DTAG
-DE,4,+491590XXXXXXX,mobile,TelefÃ³nica Germany GmbH & Co. OHG
-DE,4,+49160XXXXXXX(X),mobile,Telekom Deutschland GmbH (T-Mobile)
-DE,4,+49162XXXXXXX,mobile,Vodafone GmbH
-DE,4,+49163XXXXXXX,mobile,E-Plus Mobilfunk GmbH & Co. KG
-DE,4,+49170XXXXXXX,mobile,Telekom Deutschland GmbH (T-Mobile)
-DE,4,+49171XXXXXXX,mobile,Telekom Deutschland GmbH (T-Mobile)
-DE,1,+49137XXXXXX(X),premiumrate,Mass traffic
-DE,4,+49172XXXXXXX,mobile,Vodafone GmbH
-DE,5,+49173XXXXXXX,mobile,Vodafone GmbH
-DE,5,+49174XXXXXXX,mobile,Vodafone GmbH
-DE,5,+49175XXXXXXX,mobile,Telekom Deutschland GmbH (T-Mobile)
-DE,5,+49176XXXXXXXX,mobile,TelefÃ³nica Germany GmbH & Co. OHG
-DE,5,+49177XXXXXXX,mobile,E-Plus Mobilfunk GmbH & Co. KG
-DE,6,+49186XXXXXXXX,virtualprivatenetwork,
-DE,5,+49178XXXXXXX,mobile,E-Plus Mobilfunk GmbH & Co. KG
-DE,5,+49179XXXXXXX,mobile,TelefÃ³nica Germany GmbH & Co. OHG
-DE,7,+491987XXXXXX,routingcode,
-DE,6,+49187XXXXXXXX,virtualprivatenetwork,
-DE,1,+49138XXXX,premiumrate,Mass traffic
-DE,7,+491988XXXXXX,routingcode,
-DE,8,+492011025(XXXX),geographic,DTAG
-DE,7,+491989XXXXXX,routingcode,
-DE,6,+49188XXXXXXXX,virtualprivatenetwork,
-DE,6,+49189XXXXXXXX,virtualprivatenetwork,
-DE,7,+49199XXXXXXX,routingcode,
-DE,8,+492011026(XXXX),geographic,DTAG
-DE,6,+49191X(XX),internetserviceprovider,
-DE,7,+49201XXX(XXXXX),geographic,
-DE,6,+49192X(XX),internetserviceprovider,
-DE,8,+492011027(XXXX),geographic,DTAG
-DE,6,+49193X(XX),internetserviceprovider,
-DE,8,+492011028(XXXX),geographic,DTAG
-DE,7,+492011020(XXXX),geographic,DTAG
-DE,5,+49180XXXXXXX,sharedcost,
-DE,7,+492011021(XXXX),geographic,DTAG
-DE,7,+492011022(XXXX),geographic,DTAG
-DE,8,+492011029(XXXX),geographic,DTAG
-DE,7,+492011023(XXXX),geographic,DTAG
-DE,5,+49182XXXXXXXX,virtualprivatenetwork,
-DE,8,+492011053(XXXX),geographic,DTAG
-DE,8,+492011054(XXXX),geographic,DTAG
-DE,8,+492011055(XXXX),geographic,DTAG
-DE,8,+492011098(XXXX),geographic,DTAG
+DE,6,49183XXXXXXXX,virtualprivatenetwork,
+DE,6,49184XXXXXXXX,virtualprivatenetwork,
+DE,1,4915020XXXXXX,mobile,Interactive Digital Media GmbH
+DE,1,4915050XXXXXX,mobile,NAKA GmbH
+DE,1,491505XXXXXXX,mobile,Group 3G UMTS Holding GmbH
+DE,1,4915080XXXXXX,mobile,Easy World Call GmbH
+DE,1,491511XXXXXXX,mobile,Telekom Deutschland GmbH (T-Mobile)
+DE,7,49194XXX,internetserviceprovider,
+DE,1,491512XXXXXXX,mobile,Telekom Deutschland GmbH (T-Mobile)
+DE,2,491514XXXXXXX,mobile,Telekom Deutschland GmbH (T-Mobile)
+DE,2,491515XXXXXXX,mobile,Telekom Deutschland GmbH (T-Mobile)
+DE,2,491516XXXXXXX,mobile,Telekom Deutschland GmbH (T-Mobile)
+DE,2,491517XXXXXXX,mobile,Telekom Deutschland GmbH (T-Mobile)
+DE,2,491520XXXXXXX,mobile,Vodafone GmbH
+DE,2,491521XXXXXXX,mobile,Vodafone GmbH / MVNO Lycamobile Germany
+DE,1,4912XXXXXXXXX,nationalgeographic,Innovative services
+DE,2,491522XXXXXXX,mobile,Vodafone GmbH
+DE,2,491523XXXXXXX,mobile,Vodafone GmbH
+DE,2,491525XXXXXXX,mobile,Vodafone GmbH
+DE,2,491526XXXXXXX,mobile,Vodafone GmbH
+DE,3,491529XXXXXXX,mobile,Vodafone GmbH / MVNO Truphone GmbH
+DE,3,4915555XXXXXX,mobile,Tismi BV
+DE,3,4915678XXXXXX,mobile,Argon Networks UG
+DE,3,491570XXXXXXX,mobile,E-Plus Mobilfunk GmbH & Co. KG / MVNO Telogic Germany GmbH
+DE,3,491573XXXXXXX,mobile,E-Plus Mobilfunk GmbH & Co. KG
+DE,3,491575XXXXXXX,mobile,E-Plus Mobilfunk GmbH & Co. KG 
+DE,3,491577XXXXXXX,mobile,E-Plus Mobilfunk GmbH & Co. KG
+DE,3,491578XXXXXXX,mobile,E-Plus Mobilfunk GmbH & Co. KG
+DE,3,491579XXXXXXX,mobile,E-Plus Mobilfunk GmbH & Co. KG / MVNO Sipgate Wireless GmbH
+DE,3,4915888XXXXXX,mobile,TelcoVillage GmbH
+DE,6,49185XXXXXXXX,virtualprivatenetwork,
+DE,8,492011024(XXXX),geographic,DTAG
+DE,4,491590XXXXXXX,mobile,TelefÃ³nica Germany GmbH & Co. OHG
+DE,4,49160XXXXXXX(X),mobile,Telekom Deutschland GmbH (T-Mobile)
+DE,4,49162XXXXXXX,mobile,Vodafone GmbH
+DE,4,49163XXXXXXX,mobile,E-Plus Mobilfunk GmbH & Co. KG
+DE,4,49170XXXXXXX,mobile,Telekom Deutschland GmbH (T-Mobile)
+DE,4,49171XXXXXXX,mobile,Telekom Deutschland GmbH (T-Mobile)
+DE,1,49137XXXXXX(X),premiumrate,Mass traffic
+DE,4,49172XXXXXXX,mobile,Vodafone GmbH
+DE,5,49173XXXXXXX,mobile,Vodafone GmbH
+DE,5,49174XXXXXXX,mobile,Vodafone GmbH
+DE,5,49175XXXXXXX,mobile,Telekom Deutschland GmbH (T-Mobile)
+DE,5,49176XXXXXXXX,mobile,TelefÃ³nica Germany GmbH & Co. OHG
+DE,5,49177XXXXXXX,mobile,E-Plus Mobilfunk GmbH & Co. KG
+DE,6,49186XXXXXXXX,virtualprivatenetwork,
+DE,5,49178XXXXXXX,mobile,E-Plus Mobilfunk GmbH & Co. KG
+DE,5,49179XXXXXXX,mobile,TelefÃ³nica Germany GmbH & Co. OHG
+DE,7,491987XXXXXX,routingcode,
+DE,6,49187XXXXXXXX,virtualprivatenetwork,
+DE,1,49138XXXX,premiumrate,Mass traffic
+DE,7,491988XXXXXX,routingcode,
+DE,8,492011025(XXXX),geographic,DTAG
+DE,7,491989XXXXXX,routingcode,
+DE,6,49188XXXXXXXX,virtualprivatenetwork,
+DE,6,49189XXXXXXXX,virtualprivatenetwork,
+DE,7,49199XXXXXXX,routingcode,
+DE,8,492011026(XXXX),geographic,DTAG
+DE,6,49191X(XX),internetserviceprovider,
+DE,7,49201XXX(XXXXX),geographic,
+DE,6,49192X(XX),internetserviceprovider,
+DE,8,492011027(XXXX),geographic,DTAG
+DE,6,49193X(XX),internetserviceprovider,
+DE,8,492011028(XXXX),geographic,DTAG
+DE,7,492011020(XXXX),geographic,DTAG
+DE,5,49180XXXXXXX,sharedcost,
+DE,7,492011021(XXXX),geographic,DTAG
+DE,7,492011022(XXXX),geographic,DTAG
+DE,8,492011029(XXXX),geographic,DTAG
+DE,7,492011023(XXXX),geographic,DTAG
+DE,5,49182XXXXXXXX,virtualprivatenetwork,
+DE,8,492011053(XXXX),geographic,DTAG
+DE,8,492011054(XXXX),geographic,DTAG
+DE,8,492011055(XXXX),geographic,DTAG
+DE,8,492011098(XXXX),geographic,DTAG

@@ -1,9 +1,9 @@
 ﻿Country,Page,Range,Type,Provider
-SJ,1,+4779XXXXXX,geographic,
-SJ,1,+4779000XXX,geographic,TDC Song AS
-SJ,1,+4779001XXX,geographic,TDC Song AS
-SJ,1,+4779002XXX,geographic,TDC Song AS
-SJ,1,+4779003XXX,geographic,TDC Song AS
-SJ,1,+4779004XXX,geographic,TDC Song AS
-SJ,1,+477901XXXX,geographic,Telenor Telecom Solutions AS
-SJ,1,+477902XXXX,geographic,Telenor Telecom Solutions AS
+SJ,1,4779XXXXXX,geographic,
+SJ,1,4779000XXX,geographic,TDC Song AS
+SJ,1,4779001XXX,geographic,TDC Song AS
+SJ,1,4779002XXX,geographic,TDC Song AS
+SJ,1,4779003XXX,geographic,TDC Song AS
+SJ,1,4779004XXX,geographic,TDC Song AS
+SJ,1,477901XXXX,geographic,Telenor Telecom Solutions AS
+SJ,1,477902XXXX,geographic,Telenor Telecom Solutions AS

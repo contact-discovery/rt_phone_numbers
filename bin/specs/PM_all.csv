@@ -1,9 +1,9 @@
 ﻿Country,Page,Range,Type,Provider
 PM,1,508,proper,
-PM,1,+50844XXXX,mobile,Globaltel
-PM,1,+50855XXXX,mobile,SAS SPM Telecom
-PM,1,+50840XXXX,geographic,Globaltel
-PM,1,+50841XXXX,geographic,SAS SPM Telecom
-PM,1,+50842XXXX,geographic,Equant France
-PM,1,+50843XXXX,geographic,Diabolocom SAS
-PM,1,+50850XXXX,geographic,Keyyo
+PM,1,50844XXXX,mobile,Globaltel
+PM,1,50855XXXX,mobile,SAS SPM Telecom
+PM,1,50840XXXX,geographic,Globaltel
+PM,1,50841XXXX,geographic,SAS SPM Telecom
+PM,1,50842XXXX,geographic,Equant France
+PM,1,50843XXXX,geographic,Diabolocom SAS
+PM,1,50850XXXX,geographic,Keyyo

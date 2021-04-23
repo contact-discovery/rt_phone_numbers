@@ -1,154 +1,154 @@
 ﻿Country,Page,Range,Type,Provider
-TW,6,+88647XXXXXX,geographic,
-TW,16,+88698XXXXXX(X),mobile,
-TW,3,+88633XXXXXX,geographic,
-TW,4,+88639XXXXXX,geographic,
-TW,6,+88648XXXXXX,geographic,
-TW,1,+8866XXXXXXXXX,geographic,
-TW,11,+88692XXXXXX(X),mobile,
-TW,14,+886944XXXXX,pager,
-TW,5,+88644XXXXXX,geographic,
-TW,16,+88699XXXXXX,universalaccess,
-TW,3,+88634XXXXXX,geographic,
-TW,6,+88648XXXXXX,geographic,
-TW,14,+886945XXXXX,pager,
-TW,2,+8862XXXXXXXX,geographic,
-TW,3,+88635XXXXXX,geographic,
+TW,6,88647XXXXXX,geographic,
+TW,16,88698XXXXXX(X),mobile,
+TW,3,88633XXXXXX,geographic,
+TW,4,88639XXXXXX,geographic,
+TW,6,88648XXXXXX,geographic,
+TW,1,8866XXXXXXXXX,geographic,
+TW,11,88692XXXXXX(X),mobile,
+TW,14,886944XXXXX,pager,
+TW,5,88644XXXXXX,geographic,
+TW,16,88699XXXXXX,universalaccess,
+TW,3,88634XXXXXX,geographic,
+TW,6,88648XXXXXX,geographic,
+TW,14,886945XXXXX,pager,
+TW,2,8862XXXXXXXX,geographic,
+TW,3,88635XXXXXX,geographic,
 TW,1,886,proper,
-TW,4,+88639XXXXXX,geographic,
-TW,2,+88622XXXXXXX,geographic,
-TW,7,+8865XXXXXXX,geographic,
-TW,10,+886827XXXXX,geographic,
-TW,14,+886946XXXXX,pager,
-TW,5,+88645XXXXXX,geographic,
-TW,13,+88694XXXXXX,pager,
-TW,4,+88639XXXXXX,geographic,
-TW,3,+88635XXXXXX,geographic,
-TW,6,+88648XXXXXX,geographic,
-TW,10,+886827XXXXX,geographic,
-TW,1,+8861XXXXXXXX,geographic,
-TW,8,+8866XXXXXXX,geographic,
-TW,9,+8867XXXXXXX,geographic,
-TW,3,+88636XXXXXX,geographic,
-TW,10,+88688XXXXXX,geographic,
-TW,2,+88622XXXXXXX,geographic,
-TW,1,+88618XXXXXX,freephone,
-TW,5,+88645XXXXXX,geographic,
-TW,6,+88648XXXXXX,geographic,
-TW,12,+88693XXXXXX(X),mobile,
-TW,14,+886947XXXXX,pager,
-TW,3,+88636XXXXXX,geographic,
-TW,6,+88649XXXXXX,geographic,
-TW,5,+88645XXXXXX,geographic,
-TW,7,+8865XXXXXXX,geographic,
-TW,2,+88622XXXXXXX,geographic,
-TW,1,+8862XXXXXXXX,geographic,
-TW,4,+8864XXXXXXX,geographic,
-TW,8,+88660XXXXXX,pager,
-TW,9,+8867XXXXXXX,geographic,
-TW,6,+88649XXXXXX,geographic,
-TW,13,+886940XXXXX,pager,
-TW,3,+88636XXXXXX,geographic,
-TW,10,+886910XXXXX(X),mobile,Chunghwa Telecom LDM
-TW,4,+8864XXXXXXX,geographic,
-TW,2,+88622XXXXXXX,geographic,
-TW,10,+886911XXXXX(X),mobile,Chunghwa Telecom LDM (AMP)
-TW,10,+886912XXXXX(X),mobile,Chunghwa Telecom LDM
-TW,10,+886913XXXXX(X),mobile,KG Telecom
-TW,7,+8865XXXXXXX,geographic,
-TW,8,+88662XXXXXX,geographic,
-TW,1,+8862XXXXXXXX,geographic,
-TW,11,+886915XXXXX(X),mobile,KG Telecom
-TW,14,+886948XXXXX,pager,
-TW,9,+8867XXXXXXX,geographic,
-TW,6,+88649XXXXXX,geographic,
-TW,13,+886941XXXXX,pager,
-TW,11,+886916XXXXX(X),mobile,Far EasTone
-TW,2,+88622XXXXXXX,geographic,
-TW,11,+886917XXXXX(X),mobile,Far EasTone
-TW,11,+886918XXXXX(X),mobile,Taiwan Cellular Corporation
-TW,8,+88666XXXXXX,geographic,
-TW,1,+8862XXXXXXXX,geographic,
-TW,3,+88637XXXXXX,geographic,
-TW,11,+886919XXXXX(X),mobile,Chunghwa Telecom LDM
-TW,11,+886920XXXXX(X),mobile,Taiwan Cellular Corporation
-TW,11,+886921XXXXX(X),mobile,Chunghwa Telecom LDM
-TW,5,+886458XXXXX,geographic,
-TW,14,+886949XXXXX,pager,
-TW,6,+88649XXXXXX,geographic,
-TW,7,+8865XXXXXXX,geographic,
-TW,11,+886922XXXXX(X),mobile,Taiwan Cellular Corporation
-TW,11,+886923XXXXX(X),mobile,Mobitai
-TW,13,+886942XXXXX,pager,
-TW,12,+886925XXXXX(X),mobile,KG Telecom
-TW,12,+886926XXXXX(X),mobile,Far EasTone
-TW,6,+88649XXXXXX,geographic,
-TW,2,+88622XXXXXXX,geographic,
-TW,9,+8867XXXXXXX,geographic,
-TW,1,+8862XXXXXXXX,geographic,
-TW,10,+88689XXXXXX,geographic,
-TW,14,+88695XXXXXX(X),mobile,
-TW,4,+8864XXXXXXX,geographic,
-TW,7,+8865XXXXXXX,geographic,
-TW,12,+886927XXXXX(X),mobile,KG Telecom
-TW,12,+886928XXXXX(X),mobile,Chunghwa Telecom LDM
-TW,13,+886943XXXXX,pager,
-TW,8,+88667XXXXXX,geographic,
-TW,12,+886929XXXXX(X),mobile,TransAsia
-TW,12,+886930XXXXX(X),mobile,Far EasTone
-TW,3,+88638XXXXXX,geographic,
-TW,14,+886951XXXXX,pager,
-TW,5,+88646XXXXXX,geographic,
-TW,15,+88696XXXXXX(X),mobile,
-TW,9,+8867XXXXXXX,geographic,
-TW,12,+886931XXXXX(X),mobile,Far EasTone
-TW,4,+8864XXXXXXX,geographic,
-TW,12,+886932XXXXX(X),mobile,Chunghwa Telecom LDM
-TW,2,+88622XXXXXXX,geographic,
-TW,12,+886933XXXXX(X),mobile,Chunghwa Telecom LDM
-TW,13,+886935XXXXX(X),mobile,Taiwan Cellular Corporation
-TW,10,+88690XXXXXX(X),mobile,
-TW,7,+88655XXXXXX,geographic,
-TW,1,+8862XXXXXXXX,geographic,
-TW,13,+886936XXXXX(X),mobile,Far EasTone
-TW,8,+88669XXXXXX,geographic,
-TW,3,+88639XXXXXX,geographic,
-TW,5,+88646XXXXXX,geographic,
-TW,2,+8863XXXXXXX,geographic,
-TW,13,+886937XXXXX(X),mobile,Chunghwa Telecom LDM
-TW,4,+886412XXXX,VoIPtelephony,
-TW,10,+88691XXXXXX(X),mobile,
-TW,1,+8862XXXXXXXX,geographic,
-TW,13,+886938XXXXX(X),mobile,KG Telecom
-TW,13,+886939XXXXX(X),mobile,Taiwan Cellular Corporation
-TW,9,+88670XXXXXX,pager,
-TW,14,+886952XXXXX(X),mobile,Taiwan Cellular Corporation
-TW,2,+8863XXXXXXX,geographic,
-TW,8,+8867XXXXXXX,geographic,
-TW,4,+88642XXXXXX,geographic,
-TW,14,+886953XXXXX(X),mobile,Taiwan Cellular Corporation
-TW,7,+88656XXXXXX,geographic,
-TW,5,+88646XXXXXX,geographic,
-TW,15,+886955XXXXX(X),mobile,Far EasTone
-TW,15,+886956XXXXX(X),mobile,TransAsia
-TW,15,+886958XXXXX(X),mobile,Taiwan Cellular Corporation
-TW,8,+8867XXXXXXX,geographic,
-TW,15,+886962XXXXX(X),mobile,CT2
-TW,15,+886965XXXXX(X),mobile,CT2
-TW,5,+88646XXXXXX,geographic,
-TW,4,+88643XXXXXX,geographic,
-TW,7,+8866XXXXXXX,geographic,
-TW,9,+8868XXXXXXX,geographic,
-TW,8,+8867XXXXXXX,geographic,
-TW,5,+88647XXXXXX,geographic,
-TW,15,+886967XXXXX(X),mobile,CT2
-TW,15,+886968XXXXX(X),mobile,CT2
-TW,8,+8867XXXXXXX,geographic,
-TW,7,+8866XXXXXXX,geographic,
-TW,9,+8868XXXXXXX,geographic,
-TW,15,+886969XXXXX(X),mobile,CT2
-TW,9,+886823XXXXX,geographic,
-TW,7,+8866XXXXXXX,geographic,
-TW,16,+886970XXXXX(X),mobile,Taiwan Mobile Co. Ltd
-TW,9,+886826XXXXX,geographic,
-TW,15,+88697XXXXXX(X),mobile,
+TW,4,88639XXXXXX,geographic,
+TW,2,88622XXXXXXX,geographic,
+TW,7,8865XXXXXXX,geographic,
+TW,10,886827XXXXX,geographic,
+TW,14,886946XXXXX,pager,
+TW,5,88645XXXXXX,geographic,
+TW,13,88694XXXXXX,pager,
+TW,4,88639XXXXXX,geographic,
+TW,3,88635XXXXXX,geographic,
+TW,6,88648XXXXXX,geographic,
+TW,10,886827XXXXX,geographic,
+TW,1,8861XXXXXXXX,geographic,
+TW,8,8866XXXXXXX,geographic,
+TW,9,8867XXXXXXX,geographic,
+TW,3,88636XXXXXX,geographic,
+TW,10,88688XXXXXX,geographic,
+TW,2,88622XXXXXXX,geographic,
+TW,1,88618XXXXXX,freephone,
+TW,5,88645XXXXXX,geographic,
+TW,6,88648XXXXXX,geographic,
+TW,12,88693XXXXXX(X),mobile,
+TW,14,886947XXXXX,pager,
+TW,3,88636XXXXXX,geographic,
+TW,6,88649XXXXXX,geographic,
+TW,5,88645XXXXXX,geographic,
+TW,7,8865XXXXXXX,geographic,
+TW,2,88622XXXXXXX,geographic,
+TW,1,8862XXXXXXXX,geographic,
+TW,4,8864XXXXXXX,geographic,
+TW,8,88660XXXXXX,pager,
+TW,9,8867XXXXXXX,geographic,
+TW,6,88649XXXXXX,geographic,
+TW,13,886940XXXXX,pager,
+TW,3,88636XXXXXX,geographic,
+TW,10,886910XXXXX(X),mobile,Chunghwa Telecom LDM
+TW,4,8864XXXXXXX,geographic,
+TW,2,88622XXXXXXX,geographic,
+TW,10,886911XXXXX(X),mobile,Chunghwa Telecom LDM (AMP)
+TW,10,886912XXXXX(X),mobile,Chunghwa Telecom LDM
+TW,10,886913XXXXX(X),mobile,KG Telecom
+TW,7,8865XXXXXXX,geographic,
+TW,8,88662XXXXXX,geographic,
+TW,1,8862XXXXXXXX,geographic,
+TW,11,886915XXXXX(X),mobile,KG Telecom
+TW,14,886948XXXXX,pager,
+TW,9,8867XXXXXXX,geographic,
+TW,6,88649XXXXXX,geographic,
+TW,13,886941XXXXX,pager,
+TW,11,886916XXXXX(X),mobile,Far EasTone
+TW,2,88622XXXXXXX,geographic,
+TW,11,886917XXXXX(X),mobile,Far EasTone
+TW,11,886918XXXXX(X),mobile,Taiwan Cellular Corporation
+TW,8,88666XXXXXX,geographic,
+TW,1,8862XXXXXXXX,geographic,
+TW,3,88637XXXXXX,geographic,
+TW,11,886919XXXXX(X),mobile,Chunghwa Telecom LDM
+TW,11,886920XXXXX(X),mobile,Taiwan Cellular Corporation
+TW,11,886921XXXXX(X),mobile,Chunghwa Telecom LDM
+TW,5,886458XXXXX,geographic,
+TW,14,886949XXXXX,pager,
+TW,6,88649XXXXXX,geographic,
+TW,7,8865XXXXXXX,geographic,
+TW,11,886922XXXXX(X),mobile,Taiwan Cellular Corporation
+TW,11,886923XXXXX(X),mobile,Mobitai
+TW,13,886942XXXXX,pager,
+TW,12,886925XXXXX(X),mobile,KG Telecom
+TW,12,886926XXXXX(X),mobile,Far EasTone
+TW,6,88649XXXXXX,geographic,
+TW,2,88622XXXXXXX,geographic,
+TW,9,8867XXXXXXX,geographic,
+TW,1,8862XXXXXXXX,geographic,
+TW,10,88689XXXXXX,geographic,
+TW,14,88695XXXXXX(X),mobile,
+TW,4,8864XXXXXXX,geographic,
+TW,7,8865XXXXXXX,geographic,
+TW,12,886927XXXXX(X),mobile,KG Telecom
+TW,12,886928XXXXX(X),mobile,Chunghwa Telecom LDM
+TW,13,886943XXXXX,pager,
+TW,8,88667XXXXXX,geographic,
+TW,12,886929XXXXX(X),mobile,TransAsia
+TW,12,886930XXXXX(X),mobile,Far EasTone
+TW,3,88638XXXXXX,geographic,
+TW,14,886951XXXXX,pager,
+TW,5,88646XXXXXX,geographic,
+TW,15,88696XXXXXX(X),mobile,
+TW,9,8867XXXXXXX,geographic,
+TW,12,886931XXXXX(X),mobile,Far EasTone
+TW,4,8864XXXXXXX,geographic,
+TW,12,886932XXXXX(X),mobile,Chunghwa Telecom LDM
+TW,2,88622XXXXXXX,geographic,
+TW,12,886933XXXXX(X),mobile,Chunghwa Telecom LDM
+TW,13,886935XXXXX(X),mobile,Taiwan Cellular Corporation
+TW,10,88690XXXXXX(X),mobile,
+TW,7,88655XXXXXX,geographic,
+TW,1,8862XXXXXXXX,geographic,
+TW,13,886936XXXXX(X),mobile,Far EasTone
+TW,8,88669XXXXXX,geographic,
+TW,3,88639XXXXXX,geographic,
+TW,5,88646XXXXXX,geographic,
+TW,2,8863XXXXXXX,geographic,
+TW,13,886937XXXXX(X),mobile,Chunghwa Telecom LDM
+TW,4,886412XXXX,VoIPtelephony,
+TW,10,88691XXXXXX(X),mobile,
+TW,1,8862XXXXXXXX,geographic,
+TW,13,886938XXXXX(X),mobile,KG Telecom
+TW,13,886939XXXXX(X),mobile,Taiwan Cellular Corporation
+TW,9,88670XXXXXX,pager,
+TW,14,886952XXXXX(X),mobile,Taiwan Cellular Corporation
+TW,2,8863XXXXXXX,geographic,
+TW,8,8867XXXXXXX,geographic,
+TW,4,88642XXXXXX,geographic,
+TW,14,886953XXXXX(X),mobile,Taiwan Cellular Corporation
+TW,7,88656XXXXXX,geographic,
+TW,5,88646XXXXXX,geographic,
+TW,15,886955XXXXX(X),mobile,Far EasTone
+TW,15,886956XXXXX(X),mobile,TransAsia
+TW,15,886958XXXXX(X),mobile,Taiwan Cellular Corporation
+TW,8,8867XXXXXXX,geographic,
+TW,15,886962XXXXX(X),mobile,CT2
+TW,15,886965XXXXX(X),mobile,CT2
+TW,5,88646XXXXXX,geographic,
+TW,4,88643XXXXXX,geographic,
+TW,7,8866XXXXXXX,geographic,
+TW,9,8868XXXXXXX,geographic,
+TW,8,8867XXXXXXX,geographic,
+TW,5,88647XXXXXX,geographic,
+TW,15,886967XXXXX(X),mobile,CT2
+TW,15,886968XXXXX(X),mobile,CT2
+TW,8,8867XXXXXXX,geographic,
+TW,7,8866XXXXXXX,geographic,
+TW,9,8868XXXXXXX,geographic,
+TW,15,886969XXXXX(X),mobile,CT2
+TW,9,886823XXXXX,geographic,
+TW,7,8866XXXXXXX,geographic,
+TW,16,886970XXXXX(X),mobile,Taiwan Mobile Co. Ltd
+TW,9,886826XXXXX,geographic,
+TW,15,88697XXXXXX(X),mobile,

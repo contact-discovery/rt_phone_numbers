@@ -1,656 +1,656 @@
 ﻿Country,Page,Range,Type,Provider
-GY,11,+5922260XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,11,+5922261XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,10,+5922251XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,11,+5922262XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,10,+5922252XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,11,+5922263XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,13,+5922279XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
-GY,12,+592227XXXX,geographic,
-GY,11,+5922264XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,13,+592228XXXX,geographic,
-GY,11,+5922265XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,17,+592233XXXX,geographic,
-GY,13,+592228XXXX,geographic,
-GY,15,+592231XXXX,geographic,
-GY,10,+5922253XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,17,+592233XXXX,geographic,
-GY,14,+592229XXXX,geographic,
-GY,28,+5922653XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,29,+5922663XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,15,+5922310XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,17,+5922330XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,10,+5922254XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,28,+5922654XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,22,+5922589XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
-GY,14,+5922291XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,2,+592159XXXX,audiotext,
-GY,29,+5922664XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,24,+592261XXXX,geographic,
-GY,13,+5922280XXX,wirelessgeographic,Guyana Telephone & Telegraph Co. Ltd
-GY,19,+5922539XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
-GY,14,+5922292XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,10,+5922255XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,11,+5922266XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,17,+5922332XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,12,+5922270XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,22,+592259XXXX,geographic,
-GY,28,+5922655XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,24,+5922610XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,16,+5922319XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
-GY,15,+5922311XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,13,+5922281XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,14,+5922293XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,19,+592254XXXX,geographic,
-GY,30,+592268XXXX,geographic,
-GY,2,+59216XXX,audiotext,
-GY,10,+5922256XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,11,+5922267XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,17,+5922333XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,12,+5922271XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,24,+5922611XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,28,+5922656XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,22,+592259XXXX,geographic,
-GY,30,+5922680XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,21,+592257XXXX,geographic,
-GY,10,+5922257XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,15,+5922312XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,19,+5922540XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,29,+5922665XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,2,+59217XXX,audiotext,
-GY,14,+5922294XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,18,+5922339XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
-GY,20,+5922559XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
-GY,17,+5922335XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,13,+5922282XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,31,+5922692XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,16,+592232XXXX,geographic,
-GY,22,+5922590XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,11,+5922268XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,28,+5922659XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
-GY,10,+5922258XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,30,+5922681XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,14,+5922295XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,21,+5922570XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,12,+5922272XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,19,+5922541XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,15,+5922313XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,11,5922260XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,11,5922261XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,10,5922251XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,11,5922262XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,10,5922252XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,11,5922263XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,13,5922279XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
+GY,12,592227XXXX,geographic,
+GY,11,5922264XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,13,592228XXXX,geographic,
+GY,11,5922265XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,17,592233XXXX,geographic,
+GY,13,592228XXXX,geographic,
+GY,15,592231XXXX,geographic,
+GY,10,5922253XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,17,592233XXXX,geographic,
+GY,14,592229XXXX,geographic,
+GY,28,5922653XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,29,5922663XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,15,5922310XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,17,5922330XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,10,5922254XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,28,5922654XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,22,5922589XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
+GY,14,5922291XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,2,592159XXXX,audiotext,
+GY,29,5922664XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,24,592261XXXX,geographic,
+GY,13,5922280XXX,wirelessgeographic,Guyana Telephone & Telegraph Co. Ltd
+GY,19,5922539XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
+GY,14,5922292XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,10,5922255XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,11,5922266XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,17,5922332XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,12,5922270XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,22,592259XXXX,geographic,
+GY,28,5922655XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,24,5922610XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,16,5922319XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
+GY,15,5922311XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,13,5922281XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,14,5922293XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,19,592254XXXX,geographic,
+GY,30,592268XXXX,geographic,
+GY,2,59216XXX,audiotext,
+GY,10,5922256XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,11,5922267XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,17,5922333XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,12,5922271XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,24,5922611XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,28,5922656XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,22,592259XXXX,geographic,
+GY,30,5922680XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,21,592257XXXX,geographic,
+GY,10,5922257XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,15,5922312XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,19,5922540XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,29,5922665XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,2,59217XXX,audiotext,
+GY,14,5922294XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,18,5922339XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
+GY,20,5922559XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
+GY,17,5922335XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,13,5922282XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,31,5922692XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,16,592232XXXX,geographic,
+GY,22,5922590XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,11,5922268XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,28,5922659XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
+GY,10,5922258XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,30,5922681XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,14,5922295XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,21,5922570XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,12,5922272XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,19,5922541XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,15,5922313XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
 GY,1,592,proper,
-GY,24,+5922612XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,2,+59218XXX,audiotext,
-GY,23,+592260XXXX,geographic,
-GY,17,+5922336XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,29,+5922669XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
-GY,22,+5922591XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,32,+5922706XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,26,+5922630XXX,wirelessgeographic,Guyana Telephone & Telegraph Co. Ltd
-GY,20,+5922559XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
-GY,27,+5922640XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,30,+5922682XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,17,+5922337XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,15,+5922314XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,28,+592266XXXX,geographic,
-GY,31,+5922699XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
-GY,2,+59219XXX,audiotext,
-GY,13,+5922283XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,32,+5922707XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,23,+5922600XXX,wirelessgeographic,Guyana Telephone & Telegraph Co. Ltd
-GY,22,+5922592XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,20,+592256XXXX,geographic,
-GY,16,+592232XXXX,geographic,
-GY,29,+5922669XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
-GY,24,+5922613XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,2,+592216XXXX,geographic,
+GY,24,5922612XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,2,59218XXX,audiotext,
+GY,23,592260XXXX,geographic,
+GY,17,5922336XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,29,5922669XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
+GY,22,5922591XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,32,5922706XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,26,5922630XXX,wirelessgeographic,Guyana Telephone & Telegraph Co. Ltd
+GY,20,5922559XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
+GY,27,5922640XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,30,5922682XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,17,5922337XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,15,5922314XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,28,592266XXXX,geographic,
+GY,31,5922699XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
+GY,2,59219XXX,audiotext,
+GY,13,5922283XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,32,5922707XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,23,5922600XXX,wirelessgeographic,Guyana Telephone & Telegraph Co. Ltd
+GY,22,5922592XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,20,592256XXXX,geographic,
+GY,16,592232XXXX,geographic,
+GY,29,5922669XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
+GY,24,5922613XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,2,592216XXXX,geographic,
 GY,1,5920444,voicemail(mobile),Voicemail
-GY,10,+5922259XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
-GY,26,+5922634XXX,wirelessgeographic,Guyana Telephone & Telegraph Co. Ltd
-GY,41,+5923281XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,30,+5922683XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,15,+5922315XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,31,+592270XXXX,geographic,
-GY,22,+5922593XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,20,+592256XXXX,geographic,
-GY,27,+5922641XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,21,+5922573XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,16,+592232XXXX,geographic,
-GY,18,+592234XXXX,geographic,
-GY,2,+5922160XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,29,+592267XXXX,geographic,
-GY,11,+5922269XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
-GY,14,+5922296XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,13,+5922285XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,24,+5922614XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,19,+5922542XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,20,+5922560XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,32,+5922708XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,28,+592266XXXX,geographic,
-GY,17,+5922339XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
-GY,12,+5922273XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,25,+5922619XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
-GY,24,+5922615XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,22,+5922599XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
-GY,41,+5923284XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,15,+5922316XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,14,+5922297XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,38,+592325XXXX,geographic,
-GY,17,+5922339XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
+GY,10,5922259XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
+GY,26,5922634XXX,wirelessgeographic,Guyana Telephone & Telegraph Co. Ltd
+GY,41,5923281XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,30,5922683XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,15,5922315XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,31,592270XXXX,geographic,
+GY,22,5922593XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,20,592256XXXX,geographic,
+GY,27,5922641XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,21,5922573XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,16,592232XXXX,geographic,
+GY,18,592234XXXX,geographic,
+GY,2,5922160XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,29,592267XXXX,geographic,
+GY,11,5922269XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
+GY,14,5922296XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,13,5922285XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,24,5922614XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,19,5922542XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,20,5922560XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,32,5922708XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,28,592266XXXX,geographic,
+GY,17,5922339XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
+GY,12,5922273XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,25,5922619XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
+GY,24,5922615XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,22,5922599XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
+GY,41,5923284XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,15,5922316XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,14,5922297XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,38,592325XXXX,geographic,
+GY,17,5922339XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
 GY,1,5920767,voicemail(mobile),Voicemail
-GY,13,+5922289XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
-GY,32,+5922709XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
-GY,16,+5922320XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,33,+5922719XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
-GY,28,+5922660XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,34,+5922751XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,20,+5922563XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,26,+5922635XXX,wirelessgeographic,Guyana Telephone & Telegraph Co. Ltd
-GY,24,+5922616XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,38,+5923250XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,27,+5922642XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,30,+5922684XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,18,+5922340XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,15,+5922317XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,13,5922289XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
+GY,32,5922709XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
+GY,16,5922320XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,33,5922719XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
+GY,28,5922660XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,34,5922751XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,20,5922563XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,26,5922635XXX,wirelessgeographic,Guyana Telephone & Telegraph Co. Ltd
+GY,24,5922616XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,38,5923250XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,27,5922642XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,30,5922684XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,18,5922340XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,15,5922317XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
 GY,1,592079,voicemail(geographic),Voice Mail
-GY,16,+5922320XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,2,+5922161XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,12,+5922274XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,41,+5923287XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,32,+5922709XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
-GY,22,+5922599XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
-GY,10,+592226XXXX,geographic,
-GY,23,+5922601XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,35,+5922769XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
-GY,31,+592270XXXX,geographic,
-GY,36,+5922779XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
-GY,21,+5922579XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
-GY,47,+592337XXXX,geographic,
-GY,20,+5922565XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,34,+5922759XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
-GY,26,+5922636XXX,wirelessgeographic,Guyana Telephone & Telegraph Co. Ltd
-GY,25,+5922619XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
-GY,3,+5922164XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,19,+5922549XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
-GY,30,+5922689XXX,payphone,
-GY,29,+5922670XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,52,+5924443XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,14,+5922298XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,33,+592272XXXX,geographic,
-GY,28,+5922661XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,41,+5923289XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
+GY,16,5922320XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,2,5922161XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,12,5922274XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,41,5923287XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,32,5922709XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
+GY,22,5922599XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
+GY,10,592226XXXX,geographic,
+GY,23,5922601XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,35,5922769XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
+GY,31,592270XXXX,geographic,
+GY,36,5922779XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
+GY,21,5922579XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
+GY,47,592337XXXX,geographic,
+GY,20,5922565XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,34,5922759XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
+GY,26,5922636XXX,wirelessgeographic,Guyana Telephone & Telegraph Co. Ltd
+GY,25,5922619XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
+GY,3,5922164XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,19,5922549XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
+GY,30,5922689XXX,payphone,
+GY,29,5922670XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,52,5924443XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,14,5922298XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,33,592272XXXX,geographic,
+GY,28,5922661XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,41,5923289XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
 GY,1,5921048,audiotext,
-GY,12,+5922275XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,32,+592271XXXX,geographic,
-GY,25,+5922619XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
-GY,27,+5922643XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,23,+5922602XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,24,+5922617XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,15,+5922318XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,16,+5922323XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,36,+592279XXXX,geographic,
-GY,39,+5923260XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,44,+5923329XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
-GY,19,+592255XXXX,geographic,
-GY,13,+592229XXXX,geographic,
-GY,52,+5924444XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,18,+5922341XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,3,+5922165XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,40,+5923272XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
-GY,33,+5922720XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,47,+592337XXXX,geographic,
-GY,24,+5922618XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,22,+592260XXXX,geographic,
-GY,25,+592262XXXX,geographic,
-GY,28,+5922662XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,20,+5922569XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
-GY,38,+5923253XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,26,+5922637XXX,wirelessgeographic,Guyana Telephone & Telegraph Co. Ltd
-GY,14,+5922299XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
-GY,27,+5922644XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,23,+5922603XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,12,+5922276XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,2,+5922162XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,32,+592271XXXX,geographic,
-GY,31,+5922700XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,41,+5923289XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
-GY,46,+5923353XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,30,+592269XXXX,geographic,
-GY,29,+5922671XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,20,+5922569XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
-GY,35,+592277XXXX,geographic,
-GY,47,+592337XXXX,geographic,
-GY,34,+592276XXXX,geographic,
-GY,33,+5922729XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
-GY,36,+592279XXXX,geographic,
-GY,3,+5922166XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,42,+5923293XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,31,+5922701XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,12,5922275XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,32,592271XXXX,geographic,
+GY,25,5922619XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
+GY,27,5922643XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,23,5922602XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,24,5922617XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,15,5922318XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,16,5922323XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,36,592279XXXX,geographic,
+GY,39,5923260XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,44,5923329XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
+GY,19,592255XXXX,geographic,
+GY,13,592229XXXX,geographic,
+GY,52,5924444XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,18,5922341XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,3,5922165XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,40,5923272XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
+GY,33,5922720XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,47,592337XXXX,geographic,
+GY,24,5922618XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,22,592260XXXX,geographic,
+GY,25,592262XXXX,geographic,
+GY,28,5922662XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,20,5922569XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
+GY,38,5923253XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,26,5922637XXX,wirelessgeographic,Guyana Telephone & Telegraph Co. Ltd
+GY,14,5922299XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
+GY,27,5922644XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,23,5922603XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,12,5922276XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,2,5922162XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,32,592271XXXX,geographic,
+GY,31,5922700XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,41,5923289XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
+GY,46,5923353XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,30,592269XXXX,geographic,
+GY,29,5922671XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,20,5922569XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
+GY,35,592277XXXX,geographic,
+GY,47,592337XXXX,geographic,
+GY,34,592276XXXX,geographic,
+GY,33,5922729XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
+GY,36,592279XXXX,geographic,
+GY,3,5922166XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,42,5923293XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,31,5922701XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
 GY,1,5921049,audiotext,
-GY,21,+5922579XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
-GY,40,+5923275XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,23,+5922604XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,27,+5922649XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
-GY,16,+5922324XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,20,+592257XXXX,geographic,
-GY,12,+5922277XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,41,+5923289XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
-GY,38,+5923255XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,2,+5922163XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,39,+5923262XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,29,+5922672XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,26,+5922639XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
-GY,30,+5922690XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,35,+592277XXXX,geographic,
-GY,53,+592600XXXX,mobile,Digicel Guyana Inc
-GY,18,+5922349XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
-GY,43,+592331XXXX,geographic,
-GY,12,+5922278XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,36,+5922790XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,49,+592339XXXX,geographic,
-GY,21,+592258XXXX,geographic,
-GY,19,+592255XXXX,geographic,
-GY,42,+5923295XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,26,+5922639XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
-GY,52,+5924446XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,50,+5924401XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,35,+5922770XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,41,+592329XXXX,geographic,
-GY,53,+592601XXXX,mobile,Digicel Guyana Inc
-GY,39,+5923264XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,3,+5922167XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,34,+592276XXXX,geographic,
-GY,53,+592602XXXX,mobile,Digicel Guyana Inc
-GY,33,+5922731XXX,internetserviceprovider,
-GY,25,+5922620XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,38,+5923259XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
-GY,30,+5922691XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,37,+592322XXXX,geographic,
-GY,29,+5922679XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
-GY,32,+5922711XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,27,+592265XXXX,geographic,
-GY,42,+5923299XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
-GY,53,+592603XXXX,mobile,Digicel Guyana Inc
-GY,53,+5924559XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
-GY,3,+5922168XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,49,+5923390XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,46,+5923359XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
-GY,50,+5924402XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,23,+5922609XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
-GY,26,+5922639XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
-GY,18,+592253XXXX,geographic,
-GY,36,+5922793XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,1,+59211XXX,audiotext,
-GY,44,+5923329XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
-GY,47,+5923370XXX,wirelessgeographic,Guyana Telephone & Telegraph Co. Ltd
-GY,53,+592604XXXX,mobile,Digicel Guyana Inc
-GY,49,+5923391XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,37,+5923220XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,41,+592329XXXX,geographic,
-GY,43,+592331XXXX,geographic,
-GY,19,+5922550XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,32,+5922713XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,33,+592274XXXX,geographic,
-GY,34,+5922760XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,25,+5922629XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
-GY,3,+5922169XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
-GY,23,+5922609XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
-GY,52,+5924449XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
-GY,53,+592609XXXX,mobile,Guyana Telephone & Telegraph Co. Ltd (TDMA)
-GY,46,+5923359XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
-GY,51,+5924420XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,35,+5922771XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,54,+592610XXXX,mobile,Guyana Telephone & Telegraph Co. Ltd (TDMA)
-GY,40,+5923277XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,42,+5923299XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
-GY,21,+592258XXXX,geographic,
-GY,38,+5923259XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
-GY,31,+5922702XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,16,+5922329XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
-GY,50,+5924409XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
-GY,1,+592156XXXX,audiotext,
-GY,36,+5922799XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
-GY,33,+5922740XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,54,+592611XXXX,mobile,Guyana Telephone & Telegraph Co. Ltd (TDMA)
-GY,39,+5923269XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
-GY,18,+592253XXXX,geographic,
-GY,54,+592612XXXX,mobile,Guyana Telephone & Telegraph Co. Ltd (TDMA)
-GY,26,+5922639XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
-GY,25,+592263XXXX,geographic,
-GY,50,+592441XXXX,geographic,
-GY,16,+592233XXXX,geographic,
-GY,31,+5922703XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,36,+5922799XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
-GY,54,+592613XXXX,mobile,Guyana Telephone & Telegraph Co. Ltd (TDMA)
-GY,41,+592329XXXX,geographic,
-GY,33,+5922749XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
-GY,43,+5923310XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,49,+5923392XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,1,+592157XXXX,audiotext,
-GY,38,+5923259XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
-GY,51,+5924421XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,54,+592614XXXX,mobile,Guyana Telephone & Telegraph Co. Ltd (TDMA)
-GY,39,+5923269XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
-GY,54,+592615XXXX,mobile,Guyana Telephone & Telegraph Co. Ltd (TDMA)
-GY,50,+5924410XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,18,+5922530XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,25,+592263XXXX,geographic,
-GY,46,+592336XXXX,geographic,
-GY,36,+592289XXXX,freephone,International Freephone Service (IFS)
-GY,47,+5923371XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,43,+5923313XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,4,+5922180XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,54,+592616XXXX,mobile,Guyana Telephone & Telegraph Co. Ltd (TDMA)
-GY,51,+5924423XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,19,+5922553XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,53,+592456XXXX,geographic,
-GY,27,+5922650XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,49,+5923393XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,54,+592617XXXX,mobile,Guyana Telephone & Telegraph Co. Ltd (TDMA)
-GY,34,+5922761XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,3,+592217XXXX,geographic,
-GY,54,+592618XXXX,mobile,Guyana Telephone & Telegraph Co. Ltd (TDMA)
-GY,32,+5922719XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
-GY,37,+5923221XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,52,+5924449XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
-GY,39,+5923269XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
-GY,33,+592275XXXX,geographic,
-GY,54,+592619XXXX,mobile,Guyana Telephone & Telegraph Co. Ltd (TDMA)
-GY,40,+5923279XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
-GY,46,+592336XXXX,geographic,
-GY,38,+592326XXXX,geographic,
-GY,23,+592261XXXX,geographic,
-GY,35,+5922772XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,18,+5922533XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,45,+5923337XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,1,+592158XXXX,audiotext,
-GY,41,+5923290XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,53,+5924560XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,42,+5923299XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
-GY,18,+5922539XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
-GY,27,+5922651XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,50,+5924411XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,44,+592333XXXX,geographic,
-GY,34,+5922762XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,31,+5922704XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,51,+5924429XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
-GY,37,+5923223XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,27,+5922652XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,43,+5923319XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
-GY,39,+592327XXXX,geographic,
-GY,3,+5922170XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,52,+592455XXXX,geographic,
-GY,36,+592322XXXX,geographic,
-GY,55,+592620XXXX,mobile,Guyana Telephone & Telegraph Co. Ltd (TDMA)
-GY,35,+5922773XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,47,+5923372XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,49,+5923394XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,45,+5923338XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,55,+592621XXXX,mobile,Guyana Telephone & Telegraph Co. Ltd (TDMA)
-GY,4,+5922181XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,55,+592622XXXX,mobile,Guyana Telephone & Telegraph Co. Ltd (TDMA)
-GY,55,+592623XXXX,mobile,Guyana Telephone & Telegraph Co. Ltd (TDMA)
-GY,25,+592263XXXX,geographic,
-GY,53,+5924569XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
-GY,48,+5923379XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
-GY,26,+592264XXXX,geographic,
-GY,21,+5922580XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,34,+5922763XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,42,+592330XXXX,geographic,
-GY,37,+5923225XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,55,+592624XXXX,mobile,Guyana Telephone & Telegraph Co. Ltd (TDMA)
-GY,43,+5923319XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
-GY,39,+592327XXXX,geographic,
-GY,55,+592625XXXX,mobile,Guyana Telephone & Telegraph Co. Ltd (TDMA)
-GY,3,+5922171XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,34,+5922764XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,42,+5923300XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,55,+592626XXXX,mobile,Guyana Telephone & Telegraph Co. Ltd (TDMA)
-GY,44,+5923330XXX,wirelessgeographic,Guyana Telephone & Telegraph Co. Ltd
-GY,50,+5924412XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,55,+592627XXXX,mobile,Guyana Telephone & Telegraph Co. Ltd (TDMA)
-GY,51,+5924429XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
-GY,37,+5923229XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
-GY,33,+5922750XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,55,+592628XXXX,mobile,Guyana Telephone & Telegraph Co. Ltd (TDMA)
-GY,38,+592326XXXX,geographic,
-GY,35,+5922774XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,55,+592629XXXX,mobile,Guyana Telephone & Telegraph Co. Ltd (TDMA)
-GY,49,+5923399XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
-GY,23,+592261XXXX,geographic,
-GY,21,+5922583XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,56,+592638XXXX,mobile,Guyana Telephone & Telegraph Co. Ltd (GSM)
-GY,45,+5923339XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
-GY,39,+592327XXXX,geographic,
-GY,34,+5922769XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
-GY,25,+592263XXXX,geographic,
-GY,56,+592639XXXX,mobile,Guyana Telephone & Telegraph Co. Ltd (GSM)
-GY,47,+5923373XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,31,+5922705XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,56,+592640XXXX,mobile,Guyana Telephone & Telegraph Co. Ltd (GSM)
-GY,43,+592332XXXX,geographic,
-GY,56,+592641XXXX,mobile,Guyana Telephone & Telegraph Co. Ltd (GSM)
-GY,44,+5923331XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,40,+5923279XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
-GY,46,+5923365XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,56,+592642XXXX,mobile,Guyana Telephone & Telegraph Co. Ltd (GSM)
-GY,35,+5922775XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,56,+592643XXXX,mobile,Guyana Telephone & Telegraph Co. Ltd (GSM)
-GY,36,+592322XXXX,geographic,
-GY,21,+5922589XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
-GY,49,+5923399XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
-GY,3,+592218XXXX,geographic,
-GY,50,+5924419XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
-GY,37,+5923229XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
-GY,4,+5922182XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,47,+5923374XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,56,+592644XXXX,mobile,Guyana Telephone & Telegraph Co. Ltd (GSM)
-GY,45,+592334XXXX,geographic,
-GY,44,+5923332XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,56,+592645XXXX,mobile,Guyana Telephone & Telegraph Co. Ltd (GSM)
-GY,51,+592444XXXX,geographic,
-GY,49,+592440XXXX,geographic,
-GY,39,+5923270XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,56,+592646XXXX,mobile,Guyana Telephone & Telegraph Co. Ltd (GSM)
-GY,56,+592647XXXX,mobile,Guyana Telephone & Telegraph Co. Ltd (GSM)
-GY,57,+592648XXXX,mobile,Guyana Telephone & Telegraph Co. Ltd (GSM)
-GY,40,+5923279XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
-GY,57,+592649XXXX,mobile,Guyana Telephone & Telegraph Co. Ltd (GSM)
-GY,57,+592650XXXX,mobile,Guyana Telephone & Telegraph Co. Ltd (GSM)
-GY,57,+592651XXXX,mobile,Guyana Telephone & Telegraph Co. Ltd (GSM)
-GY,49,+5924400XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,47,+5923375XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,35,+5922779XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
-GY,45,+5923340XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,46,+5923366XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,37,+5923229XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
-GY,57,+592652XXXX,mobile,Guyana Telephone & Telegraph Co. Ltd (GSM)
-GY,57,+592653XXXX,mobile,Guyana Telephone & Telegraph Co. Ltd (GSM)
-GY,43,+592332XXXX,geographic,
-GY,50,+592442XXXX,geographic,
-GY,57,+592654XXXX,mobile,Guyana Telephone & Telegraph Co. Ltd (GSM)
-GY,63,+5927720XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,38,+592326XXXX,geographic,
-GY,44,+5923333XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,48,+5923379XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
-GY,57,+592655XXXX,mobile,Guyana Telephone & Telegraph Co. Ltd (GSM)
-GY,51,+592444XXXX,geographic,
-GY,57,+592656XXXX,mobile,Guyana Telephone & Telegraph Co. Ltd (GSM)
-GY,47,+5923379XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
-GY,57,+592657XXXX,mobile,Guyana Telephone & Telegraph Co. Ltd (GSM)
-GY,58,+592658XXXX,mobile,Guyana Telephone & Telegraph Co. Ltd (GSM)
-GY,40,+592328XXXX,geographic,
-GY,50,+592442XXXX,geographic,
-GY,5,+592219XXXX,geographic,
-GY,52,+5924550XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,58,+592659XXXX,mobile,Digicel Guyana Inc
-GY,45,+5923349XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
-GY,4,+5922183XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,58,+592660XXXX,mobile,Digicel Guyana Inc
-GY,63,+5927721XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,58,+592661XXXX,mobile,Digicel Guyana Inc
-GY,46,+5923367XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,43,+5923320XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,42,+5923301XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,58,+592662XXXX,mobile,Digicel Guyana Inc
-GY,58,+592663XXXX,mobile,Digicel Guyana Inc
-GY,44,+5923334XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,58,+592664XXXX,mobile,Digicel Guyana Inc
-GY,58,+592665XXXX,mobile,Digicel Guyana Inc
-GY,37,+592325XXXX,geographic,
-GY,40,+592328XXXX,geographic,
-GY,58,+592666XXXX,mobile,Digicel Guyana Inc
-GY,48,+592338XXXX,geographic,
-GY,51,+5924440XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,58,+592667XXXX,mobile,Digicel Guyana Inc
-GY,63,+5927722XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,59,+592668XXXX,mobile,Digicel Guyana Inc
-GY,59,+592669XXXX,mobile,Digicel Guyana Inc
-GY,5,+5922190XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,6,+5922199XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
-GY,44,+5923335XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,59,+592670XXXX,mobile,Digicel Guyana Inc
-GY,45,+592335XXXX,geographic,
-GY,65,+592777XXXX,geographic,
-GY,59,+592671XXXX,mobile,Digicel Guyana Inc
-GY,59,+592672XXXX,mobile,Digicel Guyana Inc
-GY,4,+5922184XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,59,+592673XXXX,mobile,Digicel Guyana Inc
-GY,42,+5923302XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,5,+5922191XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,64,+5927740XXX,wirelessgeographic,Guyana Telephone & Telegraph Co. Ltd
-GY,37,+592325XXXX,geographic,
-GY,51,+5924441XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,43,+5923323XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,59,+592674XXXX,mobile,Digicel Guyana Inc
-GY,42,+5923309XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
-GY,59,+592675XXXX,mobile,Digicel Guyana Inc
-GY,59,+592676XXXX,mobile,Digicel Guyana Inc
-GY,46,+5923369XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
-GY,48,+592338XXXX,geographic,
-GY,6,+592220XXXX,geographic,
-GY,52,+5924551XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,44,+5923336XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,59,+592677XXXX,mobile,Digicel Guyana Inc
-GY,60,+592678XXXX,mobile,Digicel Guyana Inc
-GY,5,+5922192XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,40,+592328XXXX,geographic,
-GY,60,+592679XXXX,mobile,Digicel Guyana Inc
-GY,63,+5927723XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,62,+592771XXXX,geographic,
-GY,64,+5927744XXX,wirelessgeographic,Guyana Telephone & Telegraph Co. Ltd
-GY,45,+592335XXXX,geographic,
-GY,60,+592680XXXX,mobile,Digicel Guyana Inc
-GY,60,+592681XXXX,mobile,Digicel Guyana Inc
-GY,60,+592682XXXX,mobile,Digicel Guyana Inc
-GY,60,+592683XXXX,mobile,Digicel Guyana Inc
-GY,46,+5923369XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
-GY,60,+592684XXXX,mobile,Digicel Guyana Inc
-GY,4,+5922185XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,7,+5922208XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,6,+5922200XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,64,+5927745XXX,wirelessgeographic,Guyana Telephone & Telegraph Co. Ltd
-GY,40,+5923280XXX,wirelessgeographic,Guyana Telephone & Telegraph Co. Ltd
-GY,66,+5927778XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,63,+5927729XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
-GY,5,+5922193XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,62,+592771XXXX,geographic,
-GY,60,+592685XXXX,mobile,Digicel Guyana Inc
-GY,60,+592686XXXX,mobile,Digicel Guyana Inc
-GY,4,+5922186XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,60,+592687XXXX,mobile,Digicel Guyana Inc
-GY,61,+592688XXXX,mobile,Digicel Guyana Inc
-GY,6,+5922201XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,7,+5922209XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
-GY,61,+592689XXXX,mobile,Digicel Guyana Inc
-GY,8,+5922223XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,64,+5927749XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
-GY,66,+5927779XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
-GY,52,+5924552XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,45,+5923350XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,65,+592777XXXX,geographic,
-GY,61,+592690XXXX,mobile,Digicel Guyana Inc
-GY,62,+5927710XXX,wirelessgeographic,Guyana Telephone & Telegraph Co. Ltd
-GY,61,+592691XXXX,mobile,Digicel Guyana Inc
-GY,63,+592773XXXX,geographic,
-GY,51,+5924442XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,61,+592692XXXX,mobile,Digicel Guyana Inc
-GY,5,+5922194XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,48,+5923381XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,66,+5928621XXX,freephone,International Freephone Service (IFS)
-GY,4,+5922187XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,8,+5922224XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,64,+5927749XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
-GY,52,+5924553XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,7,+592221XXXX,geographic,
-GY,4,+5922188XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,6,+5922202XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,61,+592693XXXX,mobile,Digicel Guyana Inc
-GY,61,+592694XXXX,mobile,Digicel Guyana Inc
-GY,45,+5923351XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,48,+5923382XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,62,+5927714XXX,wirelessgeographic,Guyana Telephone & Telegraph Co. Ltd
-GY,66,+592868XXXX,internetserviceprovider,
-GY,65,+5927770XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,7,+5922212XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,63,+5927730XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,8,+5922225XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,4,+5922189XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
-GY,6,+5922203XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,5,+5922195XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,6,+5922204XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,8,+5922226XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,61,+592695XXXX,mobile,Digicel Guyana Inc
-GY,65,+5927771XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,63,+5927739XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
-GY,7,+5922213XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,61,+592696XXXX,mobile,Digicel Guyana Inc
-GY,65,+5927772XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,48,+5923384XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,63,+592774XXXX,geographic,
-GY,5,+5922196XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,62,+5927715XXX,wirelessgeographic,Guyana Telephone & Telegraph Co. Ltd
-GY,6,+5922205XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,8,+5922227XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,65,+5927773XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,7,+5922219XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
-GY,61,+592697XXXX,mobile,Digicel Guyana Inc
-GY,66,+5929008XXX,premiumrate,
-GY,63,+592774XXXX,geographic,
-GY,64,+592775XXXX,geographic,
-GY,62,+5927719XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
-GY,6,+5922206XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,48,+5923389XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
-GY,65,+5927774XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,8,+5922228XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,5,+5922197XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,62,+5927719XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
-GY,7,+592222XXXX,geographic,
-GY,64,+5927750XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,62,+592772XXXX,geographic,
-GY,62,+592698XXXX,mobile,Digicel Guyana Inc
-GY,5,+5922198XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,48,+5923389XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
-GY,8,+5922229XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
-GY,7,+5922220XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,6,+5922207XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,65,+5927775XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,64,+5927751XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,62,+592699XXXX,mobile,Digicel Guyana Inc
-GY,48,+592339XXXX,geographic,
-GY,64,+5927752XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,7,+5922221XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,9,+5922232XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,8,+592223XXXX,geographic,
-GY,65,+5927776XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,9,+5922233XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,65,+5927777XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,8,+5922230XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,7,+5922222XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,64,+5927759XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
-GY,9,+5922234XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,8,+5922231XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,9,+5922235XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,9,+5922236XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,9,+5922237XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,9,+5922238XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
-GY,9,+5922239XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
-GY,9,+592225XXXX,geographic,
-GY,9,+5922250XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,21,5922579XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
+GY,40,5923275XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,23,5922604XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,27,5922649XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
+GY,16,5922324XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,20,592257XXXX,geographic,
+GY,12,5922277XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,41,5923289XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
+GY,38,5923255XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,2,5922163XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,39,5923262XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,29,5922672XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,26,5922639XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
+GY,30,5922690XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,35,592277XXXX,geographic,
+GY,53,592600XXXX,mobile,Digicel Guyana Inc
+GY,18,5922349XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
+GY,43,592331XXXX,geographic,
+GY,12,5922278XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,36,5922790XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,49,592339XXXX,geographic,
+GY,21,592258XXXX,geographic,
+GY,19,592255XXXX,geographic,
+GY,42,5923295XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,26,5922639XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
+GY,52,5924446XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,50,5924401XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,35,5922770XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,41,592329XXXX,geographic,
+GY,53,592601XXXX,mobile,Digicel Guyana Inc
+GY,39,5923264XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,3,5922167XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,34,592276XXXX,geographic,
+GY,53,592602XXXX,mobile,Digicel Guyana Inc
+GY,33,5922731XXX,internetserviceprovider,
+GY,25,5922620XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,38,5923259XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
+GY,30,5922691XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,37,592322XXXX,geographic,
+GY,29,5922679XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
+GY,32,5922711XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,27,592265XXXX,geographic,
+GY,42,5923299XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
+GY,53,592603XXXX,mobile,Digicel Guyana Inc
+GY,53,5924559XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
+GY,3,5922168XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,49,5923390XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,46,5923359XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
+GY,50,5924402XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,23,5922609XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
+GY,26,5922639XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
+GY,18,592253XXXX,geographic,
+GY,36,5922793XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,1,59211XXX,audiotext,
+GY,44,5923329XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
+GY,47,5923370XXX,wirelessgeographic,Guyana Telephone & Telegraph Co. Ltd
+GY,53,592604XXXX,mobile,Digicel Guyana Inc
+GY,49,5923391XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,37,5923220XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,41,592329XXXX,geographic,
+GY,43,592331XXXX,geographic,
+GY,19,5922550XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,32,5922713XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,33,592274XXXX,geographic,
+GY,34,5922760XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,25,5922629XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
+GY,3,5922169XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
+GY,23,5922609XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
+GY,52,5924449XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
+GY,53,592609XXXX,mobile,Guyana Telephone & Telegraph Co. Ltd (TDMA)
+GY,46,5923359XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
+GY,51,5924420XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,35,5922771XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,54,592610XXXX,mobile,Guyana Telephone & Telegraph Co. Ltd (TDMA)
+GY,40,5923277XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,42,5923299XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
+GY,21,592258XXXX,geographic,
+GY,38,5923259XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
+GY,31,5922702XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,16,5922329XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
+GY,50,5924409XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
+GY,1,592156XXXX,audiotext,
+GY,36,5922799XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
+GY,33,5922740XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,54,592611XXXX,mobile,Guyana Telephone & Telegraph Co. Ltd (TDMA)
+GY,39,5923269XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
+GY,18,592253XXXX,geographic,
+GY,54,592612XXXX,mobile,Guyana Telephone & Telegraph Co. Ltd (TDMA)
+GY,26,5922639XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
+GY,25,592263XXXX,geographic,
+GY,50,592441XXXX,geographic,
+GY,16,592233XXXX,geographic,
+GY,31,5922703XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,36,5922799XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
+GY,54,592613XXXX,mobile,Guyana Telephone & Telegraph Co. Ltd (TDMA)
+GY,41,592329XXXX,geographic,
+GY,33,5922749XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
+GY,43,5923310XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,49,5923392XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,1,592157XXXX,audiotext,
+GY,38,5923259XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
+GY,51,5924421XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,54,592614XXXX,mobile,Guyana Telephone & Telegraph Co. Ltd (TDMA)
+GY,39,5923269XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
+GY,54,592615XXXX,mobile,Guyana Telephone & Telegraph Co. Ltd (TDMA)
+GY,50,5924410XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,18,5922530XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,25,592263XXXX,geographic,
+GY,46,592336XXXX,geographic,
+GY,36,592289XXXX,freephone,International Freephone Service (IFS)
+GY,47,5923371XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,43,5923313XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,4,5922180XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,54,592616XXXX,mobile,Guyana Telephone & Telegraph Co. Ltd (TDMA)
+GY,51,5924423XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,19,5922553XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,53,592456XXXX,geographic,
+GY,27,5922650XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,49,5923393XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,54,592617XXXX,mobile,Guyana Telephone & Telegraph Co. Ltd (TDMA)
+GY,34,5922761XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,3,592217XXXX,geographic,
+GY,54,592618XXXX,mobile,Guyana Telephone & Telegraph Co. Ltd (TDMA)
+GY,32,5922719XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
+GY,37,5923221XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,52,5924449XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
+GY,39,5923269XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
+GY,33,592275XXXX,geographic,
+GY,54,592619XXXX,mobile,Guyana Telephone & Telegraph Co. Ltd (TDMA)
+GY,40,5923279XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
+GY,46,592336XXXX,geographic,
+GY,38,592326XXXX,geographic,
+GY,23,592261XXXX,geographic,
+GY,35,5922772XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,18,5922533XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,45,5923337XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,1,592158XXXX,audiotext,
+GY,41,5923290XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,53,5924560XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,42,5923299XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
+GY,18,5922539XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
+GY,27,5922651XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,50,5924411XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,44,592333XXXX,geographic,
+GY,34,5922762XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,31,5922704XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,51,5924429XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
+GY,37,5923223XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,27,5922652XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,43,5923319XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
+GY,39,592327XXXX,geographic,
+GY,3,5922170XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,52,592455XXXX,geographic,
+GY,36,592322XXXX,geographic,
+GY,55,592620XXXX,mobile,Guyana Telephone & Telegraph Co. Ltd (TDMA)
+GY,35,5922773XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,47,5923372XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,49,5923394XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,45,5923338XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,55,592621XXXX,mobile,Guyana Telephone & Telegraph Co. Ltd (TDMA)
+GY,4,5922181XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,55,592622XXXX,mobile,Guyana Telephone & Telegraph Co. Ltd (TDMA)
+GY,55,592623XXXX,mobile,Guyana Telephone & Telegraph Co. Ltd (TDMA)
+GY,25,592263XXXX,geographic,
+GY,53,5924569XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
+GY,48,5923379XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
+GY,26,592264XXXX,geographic,
+GY,21,5922580XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,34,5922763XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,42,592330XXXX,geographic,
+GY,37,5923225XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,55,592624XXXX,mobile,Guyana Telephone & Telegraph Co. Ltd (TDMA)
+GY,43,5923319XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
+GY,39,592327XXXX,geographic,
+GY,55,592625XXXX,mobile,Guyana Telephone & Telegraph Co. Ltd (TDMA)
+GY,3,5922171XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,34,5922764XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,42,5923300XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,55,592626XXXX,mobile,Guyana Telephone & Telegraph Co. Ltd (TDMA)
+GY,44,5923330XXX,wirelessgeographic,Guyana Telephone & Telegraph Co. Ltd
+GY,50,5924412XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,55,592627XXXX,mobile,Guyana Telephone & Telegraph Co. Ltd (TDMA)
+GY,51,5924429XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
+GY,37,5923229XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
+GY,33,5922750XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,55,592628XXXX,mobile,Guyana Telephone & Telegraph Co. Ltd (TDMA)
+GY,38,592326XXXX,geographic,
+GY,35,5922774XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,55,592629XXXX,mobile,Guyana Telephone & Telegraph Co. Ltd (TDMA)
+GY,49,5923399XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
+GY,23,592261XXXX,geographic,
+GY,21,5922583XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,56,592638XXXX,mobile,Guyana Telephone & Telegraph Co. Ltd (GSM)
+GY,45,5923339XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
+GY,39,592327XXXX,geographic,
+GY,34,5922769XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
+GY,25,592263XXXX,geographic,
+GY,56,592639XXXX,mobile,Guyana Telephone & Telegraph Co. Ltd (GSM)
+GY,47,5923373XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,31,5922705XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,56,592640XXXX,mobile,Guyana Telephone & Telegraph Co. Ltd (GSM)
+GY,43,592332XXXX,geographic,
+GY,56,592641XXXX,mobile,Guyana Telephone & Telegraph Co. Ltd (GSM)
+GY,44,5923331XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,40,5923279XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
+GY,46,5923365XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,56,592642XXXX,mobile,Guyana Telephone & Telegraph Co. Ltd (GSM)
+GY,35,5922775XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,56,592643XXXX,mobile,Guyana Telephone & Telegraph Co. Ltd (GSM)
+GY,36,592322XXXX,geographic,
+GY,21,5922589XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
+GY,49,5923399XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
+GY,3,592218XXXX,geographic,
+GY,50,5924419XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
+GY,37,5923229XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
+GY,4,5922182XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,47,5923374XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,56,592644XXXX,mobile,Guyana Telephone & Telegraph Co. Ltd (GSM)
+GY,45,592334XXXX,geographic,
+GY,44,5923332XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,56,592645XXXX,mobile,Guyana Telephone & Telegraph Co. Ltd (GSM)
+GY,51,592444XXXX,geographic,
+GY,49,592440XXXX,geographic,
+GY,39,5923270XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,56,592646XXXX,mobile,Guyana Telephone & Telegraph Co. Ltd (GSM)
+GY,56,592647XXXX,mobile,Guyana Telephone & Telegraph Co. Ltd (GSM)
+GY,57,592648XXXX,mobile,Guyana Telephone & Telegraph Co. Ltd (GSM)
+GY,40,5923279XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
+GY,57,592649XXXX,mobile,Guyana Telephone & Telegraph Co. Ltd (GSM)
+GY,57,592650XXXX,mobile,Guyana Telephone & Telegraph Co. Ltd (GSM)
+GY,57,592651XXXX,mobile,Guyana Telephone & Telegraph Co. Ltd (GSM)
+GY,49,5924400XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,47,5923375XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,35,5922779XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
+GY,45,5923340XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,46,5923366XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,37,5923229XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
+GY,57,592652XXXX,mobile,Guyana Telephone & Telegraph Co. Ltd (GSM)
+GY,57,592653XXXX,mobile,Guyana Telephone & Telegraph Co. Ltd (GSM)
+GY,43,592332XXXX,geographic,
+GY,50,592442XXXX,geographic,
+GY,57,592654XXXX,mobile,Guyana Telephone & Telegraph Co. Ltd (GSM)
+GY,63,5927720XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,38,592326XXXX,geographic,
+GY,44,5923333XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,48,5923379XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
+GY,57,592655XXXX,mobile,Guyana Telephone & Telegraph Co. Ltd (GSM)
+GY,51,592444XXXX,geographic,
+GY,57,592656XXXX,mobile,Guyana Telephone & Telegraph Co. Ltd (GSM)
+GY,47,5923379XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
+GY,57,592657XXXX,mobile,Guyana Telephone & Telegraph Co. Ltd (GSM)
+GY,58,592658XXXX,mobile,Guyana Telephone & Telegraph Co. Ltd (GSM)
+GY,40,592328XXXX,geographic,
+GY,50,592442XXXX,geographic,
+GY,5,592219XXXX,geographic,
+GY,52,5924550XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,58,592659XXXX,mobile,Digicel Guyana Inc
+GY,45,5923349XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
+GY,4,5922183XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,58,592660XXXX,mobile,Digicel Guyana Inc
+GY,63,5927721XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,58,592661XXXX,mobile,Digicel Guyana Inc
+GY,46,5923367XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,43,5923320XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,42,5923301XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,58,592662XXXX,mobile,Digicel Guyana Inc
+GY,58,592663XXXX,mobile,Digicel Guyana Inc
+GY,44,5923334XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,58,592664XXXX,mobile,Digicel Guyana Inc
+GY,58,592665XXXX,mobile,Digicel Guyana Inc
+GY,37,592325XXXX,geographic,
+GY,40,592328XXXX,geographic,
+GY,58,592666XXXX,mobile,Digicel Guyana Inc
+GY,48,592338XXXX,geographic,
+GY,51,5924440XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,58,592667XXXX,mobile,Digicel Guyana Inc
+GY,63,5927722XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,59,592668XXXX,mobile,Digicel Guyana Inc
+GY,59,592669XXXX,mobile,Digicel Guyana Inc
+GY,5,5922190XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,6,5922199XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
+GY,44,5923335XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,59,592670XXXX,mobile,Digicel Guyana Inc
+GY,45,592335XXXX,geographic,
+GY,65,592777XXXX,geographic,
+GY,59,592671XXXX,mobile,Digicel Guyana Inc
+GY,59,592672XXXX,mobile,Digicel Guyana Inc
+GY,4,5922184XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,59,592673XXXX,mobile,Digicel Guyana Inc
+GY,42,5923302XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,5,5922191XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,64,5927740XXX,wirelessgeographic,Guyana Telephone & Telegraph Co. Ltd
+GY,37,592325XXXX,geographic,
+GY,51,5924441XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,43,5923323XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,59,592674XXXX,mobile,Digicel Guyana Inc
+GY,42,5923309XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
+GY,59,592675XXXX,mobile,Digicel Guyana Inc
+GY,59,592676XXXX,mobile,Digicel Guyana Inc
+GY,46,5923369XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
+GY,48,592338XXXX,geographic,
+GY,6,592220XXXX,geographic,
+GY,52,5924551XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,44,5923336XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,59,592677XXXX,mobile,Digicel Guyana Inc
+GY,60,592678XXXX,mobile,Digicel Guyana Inc
+GY,5,5922192XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,40,592328XXXX,geographic,
+GY,60,592679XXXX,mobile,Digicel Guyana Inc
+GY,63,5927723XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,62,592771XXXX,geographic,
+GY,64,5927744XXX,wirelessgeographic,Guyana Telephone & Telegraph Co. Ltd
+GY,45,592335XXXX,geographic,
+GY,60,592680XXXX,mobile,Digicel Guyana Inc
+GY,60,592681XXXX,mobile,Digicel Guyana Inc
+GY,60,592682XXXX,mobile,Digicel Guyana Inc
+GY,60,592683XXXX,mobile,Digicel Guyana Inc
+GY,46,5923369XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
+GY,60,592684XXXX,mobile,Digicel Guyana Inc
+GY,4,5922185XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,7,5922208XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,6,5922200XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,64,5927745XXX,wirelessgeographic,Guyana Telephone & Telegraph Co. Ltd
+GY,40,5923280XXX,wirelessgeographic,Guyana Telephone & Telegraph Co. Ltd
+GY,66,5927778XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,63,5927729XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
+GY,5,5922193XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,62,592771XXXX,geographic,
+GY,60,592685XXXX,mobile,Digicel Guyana Inc
+GY,60,592686XXXX,mobile,Digicel Guyana Inc
+GY,4,5922186XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,60,592687XXXX,mobile,Digicel Guyana Inc
+GY,61,592688XXXX,mobile,Digicel Guyana Inc
+GY,6,5922201XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,7,5922209XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
+GY,61,592689XXXX,mobile,Digicel Guyana Inc
+GY,8,5922223XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,64,5927749XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
+GY,66,5927779XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
+GY,52,5924552XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,45,5923350XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,65,592777XXXX,geographic,
+GY,61,592690XXXX,mobile,Digicel Guyana Inc
+GY,62,5927710XXX,wirelessgeographic,Guyana Telephone & Telegraph Co. Ltd
+GY,61,592691XXXX,mobile,Digicel Guyana Inc
+GY,63,592773XXXX,geographic,
+GY,51,5924442XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,61,592692XXXX,mobile,Digicel Guyana Inc
+GY,5,5922194XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,48,5923381XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,66,5928621XXX,freephone,International Freephone Service (IFS)
+GY,4,5922187XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,8,5922224XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,64,5927749XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
+GY,52,5924553XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,7,592221XXXX,geographic,
+GY,4,5922188XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,6,5922202XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,61,592693XXXX,mobile,Digicel Guyana Inc
+GY,61,592694XXXX,mobile,Digicel Guyana Inc
+GY,45,5923351XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,48,5923382XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,62,5927714XXX,wirelessgeographic,Guyana Telephone & Telegraph Co. Ltd
+GY,66,592868XXXX,internetserviceprovider,
+GY,65,5927770XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,7,5922212XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,63,5927730XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,8,5922225XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,4,5922189XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
+GY,6,5922203XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,5,5922195XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,6,5922204XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,8,5922226XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,61,592695XXXX,mobile,Digicel Guyana Inc
+GY,65,5927771XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,63,5927739XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
+GY,7,5922213XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,61,592696XXXX,mobile,Digicel Guyana Inc
+GY,65,5927772XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,48,5923384XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,63,592774XXXX,geographic,
+GY,5,5922196XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,62,5927715XXX,wirelessgeographic,Guyana Telephone & Telegraph Co. Ltd
+GY,6,5922205XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,8,5922227XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,65,5927773XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,7,5922219XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
+GY,61,592697XXXX,mobile,Digicel Guyana Inc
+GY,66,5929008XXX,premiumrate,
+GY,63,592774XXXX,geographic,
+GY,64,592775XXXX,geographic,
+GY,62,5927719XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
+GY,6,5922206XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,48,5923389XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
+GY,65,5927774XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,8,5922228XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,5,5922197XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,62,5927719XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
+GY,7,592222XXXX,geographic,
+GY,64,5927750XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,62,592772XXXX,geographic,
+GY,62,592698XXXX,mobile,Digicel Guyana Inc
+GY,5,5922198XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,48,5923389XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
+GY,8,5922229XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
+GY,7,5922220XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,6,5922207XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,65,5927775XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,64,5927751XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,62,592699XXXX,mobile,Digicel Guyana Inc
+GY,48,592339XXXX,geographic,
+GY,64,5927752XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,7,5922221XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,9,5922232XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,8,592223XXXX,geographic,
+GY,65,5927776XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,9,5922233XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,65,5927777XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,8,5922230XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,7,5922222XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,64,5927759XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
+GY,9,5922234XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,8,5922231XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,9,5922235XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,9,5922236XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,9,5922237XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,9,5922238XXX,geographic,Guyana Telephone & Telegraph Co. Ltd
+GY,9,5922239XXX,payphone,Guyana Telephone & Telegraph Co. Ltd
+GY,9,592225XXXX,geographic,
+GY,9,5922250XXX,geographic,Guyana Telephone & Telegraph Co. Ltd

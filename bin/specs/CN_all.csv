@@ -1,439 +1,439 @@
 ﻿Country,Page,Range,Type,Provider
-CN,17,+86453XXXXXXX,geographic,
-CN,16,+86433XXXXXXX,geographic,
-CN,14,+864007XXXXXX,premiumrate,China Mobile
-CN,17,+86454XXXXXXX,geographic,
-CN,20,+86517XXXXXXXX,geographic,
-CN,10,+86313XXXXXXX,geographic,
-CN,25,+86597XXXXXXX,geographic,
-CN,17,+86455XXXXXXX,geographic,
-CN,16,+86434XXXXXXX,geographic,
-CN,18,+86469XXXXXXX,geographic,
-CN,25,+86598XXXXXXX,geographic,
-CN,14,+864008XXXXXX,premiumrate,China Telecom Co Ltd
-CN,10,+86314XXXXXXX,geographic,
-CN,25,+86599XXXXXXX,geographic,
-CN,20,+86518XXXXXXXX,geographic,
-CN,11,+86351XXXXXXX,geographic,
-CN,16,+86435XXXXXXX,geographic,
-CN,12,+86371XXXXXXXX,geographic,
-CN,14,+864008XXXXXX,premiumrate,China Telecom Co Ltd
-CN,10,+86315XXXXXXX,geographic,
-CN,17,+86456XXXXXXX,geographic,
-CN,15,+86416XXXXXXX,geographic,
-CN,11,+86352XXXXXXX,geographic,
-CN,18,+86470XXXXXXX,geographic,
-CN,10,+86316XXXXXXX,geographic,
-CN,14,+864009XXXXXX,premiumrate,China Telecom Co Ltd
-CN,13,+86392XXXXXXX,geographic,
-CN,18,+86471XXXXXXX,geographic,
-CN,21,+86535XXXXXXX,geographic,
-CN,19,+86479XXXXXXX,geographic,
-CN,25,+86631XXXXXXX,geographic,
-CN,26,+86663XXXXXXX,geographic,
-CN,38,+86871XXXXXXXX,geographic,
-CN,24,+86577XXXXXXXX,geographic,
-CN,35,+868081XXXX,geographic,
-CN,15,+86417XXXXXXX,geographic,
-CN,17,+86457XXXXXXX,geographic,
-CN,11,+86353XXXXXXX,geographic,
-CN,10,+86317XXXXXXX,geographic,
-CN,20,+86519XXXXXXXX,geographic,
-CN,36,+86831XXXXXXX,geographic,
-CN,12,+86372XXXXXXX,geographic,
-CN,14,+86410XXXXXXX,geographic,
-CN,19,+86482XXXXXXX,geographic,
-CN,18,+86472XXXXXXX,geographic,
-CN,21,+86536XXXXXXX,geographic,
-CN,13,+86393XXXXXXX,geographic,
+CN,17,86453XXXXXXX,geographic,
+CN,16,86433XXXXXXX,geographic,
+CN,14,864007XXXXXX,premiumrate,China Mobile
+CN,17,86454XXXXXXX,geographic,
+CN,20,86517XXXXXXXX,geographic,
+CN,10,86313XXXXXXX,geographic,
+CN,25,86597XXXXXXX,geographic,
+CN,17,86455XXXXXXX,geographic,
+CN,16,86434XXXXXXX,geographic,
+CN,18,86469XXXXXXX,geographic,
+CN,25,86598XXXXXXX,geographic,
+CN,14,864008XXXXXX,premiumrate,China Telecom Co Ltd
+CN,10,86314XXXXXXX,geographic,
+CN,25,86599XXXXXXX,geographic,
+CN,20,86518XXXXXXXX,geographic,
+CN,11,86351XXXXXXX,geographic,
+CN,16,86435XXXXXXX,geographic,
+CN,12,86371XXXXXXXX,geographic,
+CN,14,864008XXXXXX,premiumrate,China Telecom Co Ltd
+CN,10,86315XXXXXXX,geographic,
+CN,17,86456XXXXXXX,geographic,
+CN,15,86416XXXXXXX,geographic,
+CN,11,86352XXXXXXX,geographic,
+CN,18,86470XXXXXXX,geographic,
+CN,10,86316XXXXXXX,geographic,
+CN,14,864009XXXXXX,premiumrate,China Telecom Co Ltd
+CN,13,86392XXXXXXX,geographic,
+CN,18,86471XXXXXXX,geographic,
+CN,21,86535XXXXXXX,geographic,
+CN,19,86479XXXXXXX,geographic,
+CN,25,86631XXXXXXX,geographic,
+CN,26,86663XXXXXXX,geographic,
+CN,38,86871XXXXXXXX,geographic,
+CN,24,86577XXXXXXXX,geographic,
+CN,35,868081XXXX,geographic,
+CN,15,86417XXXXXXX,geographic,
+CN,17,86457XXXXXXX,geographic,
+CN,11,86353XXXXXXX,geographic,
+CN,10,86317XXXXXXX,geographic,
+CN,20,86519XXXXXXXX,geographic,
+CN,36,86831XXXXXXX,geographic,
+CN,12,86372XXXXXXX,geographic,
+CN,14,86410XXXXXXX,geographic,
+CN,19,86482XXXXXXX,geographic,
+CN,18,86472XXXXXXX,geographic,
+CN,21,86536XXXXXXX,geographic,
+CN,13,86393XXXXXXX,geographic,
 CN,1,86,proper,
-CN,15,+86418XXXXXXX,geographic,
-CN,32,+86769XXXXXXXX,geographic,
-CN,25,+86632XXXXXXX,geographic,
-CN,35,+86812XXXXXXX,geographic,
-CN,24,+86578XXXXXXX,geographic,
-CN,26,+86668XXXXXXX,geographic,
-CN,20,+86523XXXXXXXX,geographic,
-CN,15,+86419XXXXXXX,geographic,
-CN,17,+86458XXXXXXX,geographic,
-CN,12,+86373XXXXXXX,geographic,
-CN,14,+86411XXXXXXXX,geographic,
-CN,38,+86872XXXXXXX,geographic,
-CN,19,+86483XXXXXXX,geographic,
-CN,13,+86394XXXXXXX,geographic,
-CN,11,+86354XXXXXXX,geographic,
-CN,23,+86564XXXXXXX,geographic,
-CN,34,+86799XXXXXXX,geographic,
-CN,21,+86537XXXXXXX,geographic,
-CN,32,+86770XXXXXXX,geographic,
-CN,20,+86527XXXXXXXX,geographic,
-CN,35,+86813XXXXXXX,geographic,
-CN,18,+86473XXXXXXX,geographic,
-CN,36,+86832XXXXXXX,geographic,
-CN,25,+86633XXXXXXX,geographic,
-CN,16,+86435XXXXXXX,geographic,
-CN,24,+86579XXXXXXXX,geographic,
-CN,1,+8610XXXXXXXX,geographic,
-CN,38,+86873XXXXXXX,geographic,
-CN,15,+86421XXXXXXX,geographic,
-CN,10,+86318XXXXXXX,geographic,
-CN,22,+86553XXXXXXX,geographic,
-CN,26,+86691XXXXXXX,geographic,
-CN,14,+86412XXXXXXX,geographic,
-CN,11,+86355XXXXXXX,geographic,
-CN,21,+86538XXXXXXX,geographic,
-CN,18,+86474XXXXXXX,geographic,
-CN,36,+86832XXXXXXX,geographic,
-CN,17,+86459XXXXXXX,geographic,
-CN,13,+86395XXXXXXX,geographic,
-CN,34,+868029XXXX,geographic,
-CN,12,+86374XXXXXXX,geographic,
-CN,15,+86427XXXXXXX,geographic,
-CN,25,+86634XXXXXXX,geographic,
-CN,10,+86319XXXXXXX,geographic,
-CN,31,+8676023XXXXXX,geographic,China Telecom Co Ltd
-CN,23,+86565XXXXXXX,geographic,
-CN,38,+86874XXXXXXX,geographic,
-CN,27,+86715XXXXXXX,geographic,
-CN,19,+86510XXXXXXXX,geographic,
-CN,1,+86130XXXXXXXX,mobile,China Unicom
-CN,35,+86816XXXXXXX,geographic,
-CN,20,+86530XXXXXXX,geographic,
-CN,22,+86554XXXXXXX,geographic,
-CN,13,+86396XXXXXXX,geographic,
-CN,24,+86580XXXXXXX,geographic,
-CN,26,+86692XXXXXXX,geographic,
-CN,32,+86771XXXXXXX,geographic,
-CN,14,+86413XXXXXXX,geographic,
-CN,10,+86335XXXXXXX,geographic,
-CN,11,+86356XXXXXXX,geographic,
-CN,17,+86464XXXXXXX,geographic,
-CN,29,+86745XXXXXXX,geographic,
-CN,27,+86716XXXXXXX,geographic,
-CN,38,+86875XXXXXXX,geographic,
-CN,18,+86475XXXXXXX,geographic,
-CN,30,+867548XXXXXXX,geographic,China Telecom Co Ltd
-CN,1,+86131XXXXXXXX,mobile,China Unicom
-CN,25,+86635XXXXXXX,geographic,
-CN,19,+86511XXXXXXXX,geographic,
-CN,24,+86591XXXXXXXX,geographic,
-CN,14,+86414XXXXXXX,geographic,
-CN,27,+86717XXXXXXX,geographic,
-CN,25,+86660XXXXXXX,geographic,
-CN,29,+86746XXXXXXX,geographic,
-CN,40,+86898XXXXXXXX,geographic,
-CN,23,+86566XXXXXXX,geographic,
-CN,15,+86429XXXXXXX,geographic,
-CN,16,+86436XXXXXXX,geographic,
-CN,13,+86398XXXXXXX,geographic,
-CN,35,+86817XXXXXXX,geographic,
-CN,34,+868060XXXX,geographic,
-CN,14,+86415XXXXXXX,geographic,
-CN,22,+86555XXXXXXX,geographic,
-CN,33,+86779XXXXXXX,geographic,
-CN,40,+86901XXXXXXX,geographic,
-CN,19,+86512XXXXXXXX,geographic,
-CN,20,+86531XXXXXXXX,geographic,
-CN,1,+86132XXXXXXXX,mobile,China Unicom
-CN,12,+86375XXXXXXX,geographic,
-CN,17,+86467XXXXXXX,geographic,
-CN,27,+86718XXXXXXX,geographic,
-CN,11,+86357XXXXXXX,geographic,
-CN,30,+867548XXXXXXX,geographic,China Telecom Co Ltd
-CN,25,+86662XXXXXXX,geographic,
-CN,16,+86437XXXXXXX,geographic,
-CN,31,+8676084XXXXXX,geographic,China Telecom Co Ltd
-CN,32,+86772XXXXXXX,geographic,
-CN,21,+86539XXXXXXX,geographic,
-CN,26,+86701XXXXXXX,geographic,
-CN,36,+86833XXXXXXX,geographic,
-CN,33,+86790XXXXXXX,geographic,
-CN,29,+86750XXXXXXX,geographic,
-CN,38,+86876XXXXXXX,geographic,
-CN,12,+86376XXXXXXXX,geographic,
-CN,24,+86592XXXXXXX,geographic,
-CN,19,+86513XXXXXXXX,geographic,
-CN,15,+86431XXXXXXXX,geographic,
-CN,27,+86719XXXXXXX,geographic,
-CN,32,+86773XXXXXXX,geographic,
-CN,23,+86570XXXXXXX,geographic,
-CN,18,+86476XXXXXXX,geographic,
-CN,1,+86133XXXXXXXX,mobile,China Telecom Co Ltd (CDMA)
-CN,24,+86593XXXXXXX,geographic,
-CN,13,+86400XXXXXXX,premiumrate,
-CN,20,+86532XXXXXXXX,geographic,
-CN,32,+86774XXXXXXX,geographic,
-CN,10,+86349XXXXXXX,geographic,
-CN,17,+86468XXXXXXX,geographic,
-CN,19,+86514XXXXXXXX,geographic,
-CN,27,+86722XXXXXXX,geographic,
-CN,18,+86477XXXXXXX,geographic,
-CN,22,+86556XXXXXXX,geographic,
-CN,29,+86751XXXXXXX,geographic,
-CN,24,+86594XXXXXXX,geographic,
-CN,23,+86571XXXXXXXX,geographic,
-CN,1,+861340XXXXXXX,mobile,China Mobile
-CN,36,+86834XXXXXXX,geographic,
-CN,20,+86533XXXXXXX,geographic,
-CN,16,+86438XXXXXXX,geographic,
-CN,1,+861341XXXXXXX,mobile,China Mobile
-CN,34,+868063XXXX,geographic,
-CN,13,+864000XXXXXX,premiumrate,China Unicom
-CN,35,+86818XXXXXXX,geographic,
-CN,30,+86755XXXXXXXX,geographic,
-CN,32,+86775XXXXXXX,geographic,
-CN,1,+861342XXXXXXX,mobile,China Mobile
-CN,39,+86886XXXXXXX,geographic,
-CN,31,+8676085XXXXXX,geographic,China Telecom Co Ltd
-CN,11,+86358XXXXXXX,geographic,
-CN,24,+86595XXXXXXXX,geographic,
-CN,19,+86515XXXXXXXX,geographic,
-CN,29,+86752XXXXXXX,geographic,
-CN,2,+861343XXXXXXX,mobile,China Mobile
-CN,23,+86572XXXXXXX,geographic,
-CN,10,+86350XXXXXXX,geographic,
-CN,26,+86710XXXXXXX,geographic,
-CN,20,+86534XXXXXXX,geographic,
-CN,16,+86439XXXXXXX,geographic,
-CN,40,+86902XXXXXXX,geographic,
-CN,18,+86478XXXXXXX,geographic,
-CN,15,+86432XXXXXXXX,geographic,
-CN,35,+86825XXXXXXX,geographic,
-CN,22,+86557XXXXXXX,geographic,
-CN,27,+86724XXXXXXX,geographic,
-CN,38,+86877XXXXXXX,geographic,
-CN,31,+8676086XXXXXX,geographic,China Telecom Co Ltd
-CN,11,+86359XXXXXXX,geographic,
-CN,33,+86791XXXXXXXX,geographic,
-CN,2,+861344XXXXXXX,mobile,China Mobile
-CN,24,+86596XXXXXXX,geographic,
-CN,29,+86753XXXXXXX,geographic,
-CN,43,+86953XXXXXXX,geographic,
-CN,35,+86826XXXXXXX,geographic,
-CN,19,+86516XXXXXXXX,geographic,
-CN,39,+86887XXXXXXX,geographic,
-CN,2,+861345XXXXXXX,mobile,China Mobile
-CN,32,+86776XXXXXXX,geographic,
-CN,2,+861346XXXXXXX,mobile,China Mobile
-CN,27,+86728XXXXXXX,geographic,
-CN,36,+86835XXXXXXX,geographic,
-CN,29,+86754XXXXXXXX,geographic,
-CN,40,+86903XXXXXXX,geographic,
-CN,34,+868065XXXX,geographic,
-CN,2,+861347XXXXXXX,mobile,China Mobile
-CN,31,+8676087XXXXXX,geographic,China Telecom Co Ltd
-CN,33,+86792XXXXXXX,geographic,
-CN,41,+86914XXXXXXX,geographic,
-CN,22,+86558XXXXXXX,geographic,
-CN,2,+861348XXXXXXX,mobile,China Mobile
-CN,21,+86543XXXXXXX,geographic,
-CN,43,+86954XXXXXXX,geographic,
-CN,2,+86135XXXXXXXX,mobile,China Mobile
-CN,23,+86573XXXXXXXX,geographic,
-CN,38,+86878XXXXXXX,geographic,
-CN,28,+86731XXXXXXXX,geographic,
-CN,13,+864001XXXXXX,premiumrate,China Mobile
-CN,2,+86136XXXXXXXX,mobile,China Mobile
-CN,39,+86888XXXXXXX,geographic,
-CN,26,+86711XXXXXXX,geographic,
-CN,40,+86906XXXXXXX,geographic,
-CN,44,+86977XXXXXXX,geographic,
-CN,29,+86754XXXXXXXX,geographic,
-CN,30,+86756XXXXXXX,geographic,
-CN,22,+86559XXXXXXX,geographic,
-CN,37,+86851XXXXXXXX,geographic,
-CN,27,+86730XXXXXXX,geographic,
-CN,36,+86836XXXXXXX,geographic,
-CN,32,+86777XXXXXXX,geographic,
-CN,16,+86451XXXXXXXX,geographic,
-CN,41,+86915XXXXXXX,geographic,
-CN,35,+86827XXXXXXX,geographic,
-CN,23,+86574XXXXXXXX,geographic,
-CN,34,+868067XXXX,geographic,
-CN,2,+861349XXXXXXX,satellite,Chinasat
-CN,31,+8676088XXXXXX,geographic,China Telecom Co Ltd
-CN,42,+86935XXXXXXX,geographic,
-CN,33,+86793XXXXXXX,geographic,
-CN,28,+86731XXXXXXXX,geographic,
-CN,6,+86172XXXXXXXX,mobile,
-CN,43,+86955XXXXXXX,geographic,
-CN,15,+86433XXXXXXX,geographic,
-CN,32,+86778XXXXXXX,geographic,
-CN,38,+86879XXXXXXX,geographic,
-CN,13,+864006XXXXXX,premiumrate,China Unicom
-CN,37,+86852XXXXXXXX,geographic,
-CN,40,+86908XXXXXXX,geographic,
-CN,2,+86137XXXXXXXX,mobile,China Mobile
-CN,26,+86712XXXXXXX,geographic,
-CN,27,+86731XXXXXXXX,geographic,
-CN,21,+86546XXXXXXX,geographic,
-CN,34,+868068XXXX,geographic,
-CN,44,+86979XXXXXXX,geographic,
-CN,16,+86452XXXXXXX,geographic,
-CN,12,+86377XXXXXXXX,geographic,
-CN,3,+86138XXXXXXXX,mobile,China Mobile
-CN,36,+86837XXXXXXX,geographic,
-CN,28,+86734XXXXXXX,geographic,
-CN,3,+86139XXXXXXXX,mobile,China Mobile
-CN,30,+86757XXXXXXXX,geographic,
-CN,22,+86561XXXXXXX,geographic,
-CN,11,+86370XXXXXXX,geographic,
-CN,35,+86830XXXXXXX,geographic,
-CN,34,+868070XXXX,geographic,
-CN,29,+867548XXXXXXX,geographic,China Telecom Co Ltd
-CN,3,+86145XXXXXXXX,mobile,China Unicom
-CN,44,+86990XXXXXXX,geographic,
-CN,31,+86762XXXXXXXX,geographic,
-CN,40,+86909XXXXXXX,geographic,
-CN,23,+86575XXXXXXXX,geographic,
-CN,43,+86970XXXXXXX,geographic,
-CN,3,+86146XXXXXXXX,mobile,China United Network Communications Group Co Ltd
-CN,39,+86891XXXXXXX,geographic,
-CN,33,+86794XXXXXXX,geographic,
-CN,42,+86936XXXXXXX,geographic,
-CN,3,+86147XXXXXXXX,mobile,China Mobile
-CN,3,+86148XXXXXXXX,mobile,Internet of Things (IoT)
-CN,3,+86150XXXXXXXX,mobile,China Mobile
-CN,41,+86916XXXXXXX,geographic,
-CN,34,+868071XXXX,geographic,
-CN,30,+86757XXXXXXXX,geographic,
-CN,36,+86838XXXXXXX,geographic,
-CN,37,+86853XXXXXXXX,geographic,
-CN,38,+86883XXXXXXX,geographic,
-CN,9,+8623XXXXXXXX,geographic,
-CN,26,+86713XXXXXXX,geographic,
-CN,3,+86151XXXXXXXX,mobile,China Mobile
-CN,22,+86562XXXXXXX,geographic,
-CN,31,+86763XXXXXXX,geographic,
-CN,3,+86152XXXXXXXX,mobile,China Mobile
-CN,4,+86153XXXXXXXX,mobile,China Telecom Co Ltd (CDMA)
-CN,40,+86911XXXXXXX,geographic,
-CN,4,+86155XXXXXXXX,mobile,China Unicom
-CN,4,+86156XXXXXXXX,mobile,China Unicom
-CN,28,+86735XXXXXXX,geographic,
-CN,4,+86157XXXXXXXX,mobile,China Mobile
-CN,26,+86714XXXXXXX,geographic,
-CN,4,+86158XXXXXXXX,mobile,China Mobile
-CN,9,+8624XXXXXXXX,geographic,
-CN,21,+86550XXXXXXX,geographic,
-CN,36,+86839XXXXXXX,geographic,
-CN,44,+86991XXXXXXX,geographic,
-CN,34,+868078XXXX,geographic,
-CN,33,+86795XXXXXXX,geographic,
-CN,39,+86892XXXXXXX,geographic,
-CN,23,+86576XXXXXXXX,geographic,
-CN,12,+86378XXXXXXX,geographic,
-CN,43,+86971XXXXXXX,geographic,
-CN,28,+86736XXXXXXX,geographic,
-CN,44,+86992XXXXXXX,geographic,
-CN,4,+86159XXXXXXXX,mobile,China Mobile
-CN,4,+86162XXXXXXXX,mobile,China Telecom Co Ltd
-CN,31,+86766XXXXXXX,geographic,
-CN,4,+86165XXXXXXXX,mobile,MVNO
-CN,30,+86758XXXXXXX,geographic,
-CN,37,+86854XXXXXXX,geographic,
-CN,42,+86937XXXXXXX,geographic,
-CN,43,+86972XXXXXXX,geographic,
-CN,4,+86166XXXXXXXX,mobile,China United Network Communications Group Co Ltd
-CN,29,+867548XXXXXXX,geographic,China Telecom Co Ltd
-CN,41,+86917XXXXXXX,geographic,
-CN,4,+86167XXXXXXXX,mobile,China United Network Communications Group Co Ltd
-CN,33,+86796XXXXXXX,geographic,
-CN,40,+86912XXXXXXX,geographic,
-CN,9,+8625XXXXXXXX,geographic,
-CN,5,+861700XXXXXXX,mobile,China Telecom Co Ltd (MVNO)
-CN,22,+86563XXXXXXX,geographic,
-CN,5,+861701XXXXXXX,mobile,China Telecom Co Ltd (MVNO)
-CN,5,+861702XXXXXXX,mobile,China Telecom Co Ltd (MVNO)
-CN,41,+86919XXXXXXX,geographic,
-CN,30,+86759XXXXXXX,geographic,
-CN,21,+86551XXXXXXXX,geographic,
-CN,12,+86379XXXXXXXX,geographic,
-CN,5,+861703XXXXXXX,mobile,China Mobile (MVNO)
-CN,28,+86737XXXXXXX,geographic,
-CN,39,+86893XXXXXXX,geographic,
-CN,40,+86913XXXXXXX,geographic,
-CN,37,+86855XXXXXXX,geographic,
-CN,5,+861704XXXXXXX,mobile,China Unicom (MVNO)
-CN,43,+86973XXXXXXX,geographic,
-CN,31,+86768XXXXXXX,geographic,
-CN,5,+861705XXXXXXX,mobile,China Mobile (MVNO)
-CN,33,+86797XXXXXXX,geographic,
-CN,5,+861706XXXXXXX,mobile,China Mobile (MVNO)
-CN,5,+861707XXXXXXX,mobile,China Unicom (MVNO)
-CN,5,+861708XXXXXXX,mobile,China Unicom (MVNO)
-CN,44,+86993XXXXXXX,geographic,
-CN,42,+86938XXXXXXX,geographic,
-CN,9,+8627XXXXXXXX,geographic,
-CN,39,+86894XXXXXXX,geographic,
-CN,37,+86856XXXXXXX,geographic,
-CN,33,+86798XXXXXXX,geographic,
-CN,30,+86760XXXXXXXX,geographic,
-CN,12,+86391XXXXXXX,geographic,
-CN,41,+86930XXXXXXX,geographic,
-CN,5,+861709XXXXXXX,mobile,China Unicom (MVNO)
-CN,6,+86171XXXXXXXX,mobile,China United Network Communications Group Co Ltd
-CN,6,+86173XXXXXXXX,mobile,China Telecom Co Ltd (CDMA)
-CN,6,+8617400XXXXXX,mobile,China Telecom Co Ltd
-CN,44,+86994XXXXXXX,geographic,
-CN,43,+86974XXXXXXX,geographic,
-CN,28,+86738XXXXXXX,geographic,
-CN,6,+8617401XXXXXX,mobile,China Telecom Co Ltd
-CN,21,+86552XXXXXXX,geographic,
-CN,9,+8628XXXXXXXX,geographic,
-CN,6,+8617402XXXXXX,mobile,China Telecom Co Ltd
-CN,6,+8617403XXXXXX,mobile,China Telecom Co Ltd
-CN,39,+86895XXXXXXX,geographic,
-CN,6,+8617404XXXXXX,mobile,China Telecom Co Ltd
-CN,6,+8617405XXXXXX,mobile,China Telecom Co Ltd
-CN,7,+86175XXXXXXXX,mobile,China United Network Communications Group Co Ltd
-CN,41,+86931XXXXXXX,geographic,
-CN,44,+86995XXXXXXX,geographic,
-CN,37,+86857XXXXXXX,geographic,
-CN,42,+86939XXXXXXX,geographic,
-CN,28,+86739XXXXXXX,geographic,
-CN,7,+86176XXXXXXXX,mobile,China Unicom
-CN,30,+8676022XXXXXX,geographic,China Telecom Co Ltd
-CN,9,+8629XXXXXXXX,geographic,
-CN,44,+86996XXXXXXX,geographic,
-CN,7,+86177XXXXXXXX,mobile,China Telecom Co Ltd (CDMA)
-CN,39,+86896XXXXXXX,geographic,
-CN,7,+86178XXXXXXXX,mobile,China Mobile
-CN,43,+86975XXXXXXX,geographic,
-CN,7,+86180XXXXXXXX,mobile,China Telecom Co Ltd (CDMA)
-CN,9,+8629XXXXXXXX,geographic,
-CN,7,+86181XXXXXXXX,mobile,China Telecom Co Ltd (CDMA)
-CN,8,+8620XXXXXXXX,geographic,
-CN,7,+86182XXXXXXXX,mobile,China Mobile
-CN,6,+861749XXXXXXX,satellite,China Transport Telecommunication & Information Center (Inmarsat)
-CN,7,+86183XXXXXXXX,mobile,China Mobile
-CN,37,+86858XXXXXXX,geographic,
-CN,7,+86184XXXXXXXX,mobile,China Mobile
-CN,39,+86897XXXXXXX,geographic,
-CN,44,+86997XXXXXXX,geographic,
-CN,42,+86941XXXXXXX,geographic,
-CN,9,+86310XXXXXXX,geographic,
-CN,43,+86976XXXXXXX,geographic,
-CN,28,+86743XXXXXXX,geographic,
-CN,7,+86185XXXXXXXX,mobile,China Unicom
-CN,8,+86186XXXXXXXX,mobile,China Unicom
-CN,8,+86187XXXXXXXX,mobile,China Mobile
-CN,8,+8621XXXXXXXX(XX),geographic,
-CN,8,+86188XXXXXXXX,mobile,China Mobile
-CN,37,+86859XXXXXXX,geographic,
-CN,8,+86189XXXXXXXX,mobile,China Telecom Co Ltd (CDMA)
-CN,41,+86932XXXXXXX,geographic,
-CN,8,+86191XXXXXXXX,mobile,China Telecom Co Ltd
-CN,42,+86943XXXXXXX,geographic,
-CN,41,+86933XXXXXXX,geographic,
-CN,8,+86198XXXXXXXX,mobile,China Mobile
-CN,8,+86199XXXXXXXX,mobile,China Telecom Co Ltd
-CN,8,+8622XXXXXXXX,geographic,
-CN,9,+86311XXXXXXXX,geographic,
-CN,28,+86744XXXXXXX,geographic,
-CN,42,+8695XXX,premiumrate,
-CN,41,+86934XXXXXXX,geographic,
-CN,9,+86312XXXXXXX,geographic,
-CN,37,+86870XXXXXXX,geographic,
-CN,42,+86951XXXXXXX,geographic,
-CN,42,+86952XXXXXXX,geographic,
+CN,15,86418XXXXXXX,geographic,
+CN,32,86769XXXXXXXX,geographic,
+CN,25,86632XXXXXXX,geographic,
+CN,35,86812XXXXXXX,geographic,
+CN,24,86578XXXXXXX,geographic,
+CN,26,86668XXXXXXX,geographic,
+CN,20,86523XXXXXXXX,geographic,
+CN,15,86419XXXXXXX,geographic,
+CN,17,86458XXXXXXX,geographic,
+CN,12,86373XXXXXXX,geographic,
+CN,14,86411XXXXXXXX,geographic,
+CN,38,86872XXXXXXX,geographic,
+CN,19,86483XXXXXXX,geographic,
+CN,13,86394XXXXXXX,geographic,
+CN,11,86354XXXXXXX,geographic,
+CN,23,86564XXXXXXX,geographic,
+CN,34,86799XXXXXXX,geographic,
+CN,21,86537XXXXXXX,geographic,
+CN,32,86770XXXXXXX,geographic,
+CN,20,86527XXXXXXXX,geographic,
+CN,35,86813XXXXXXX,geographic,
+CN,18,86473XXXXXXX,geographic,
+CN,36,86832XXXXXXX,geographic,
+CN,25,86633XXXXXXX,geographic,
+CN,16,86435XXXXXXX,geographic,
+CN,24,86579XXXXXXXX,geographic,
+CN,1,8610XXXXXXXX,geographic,
+CN,38,86873XXXXXXX,geographic,
+CN,15,86421XXXXXXX,geographic,
+CN,10,86318XXXXXXX,geographic,
+CN,22,86553XXXXXXX,geographic,
+CN,26,86691XXXXXXX,geographic,
+CN,14,86412XXXXXXX,geographic,
+CN,11,86355XXXXXXX,geographic,
+CN,21,86538XXXXXXX,geographic,
+CN,18,86474XXXXXXX,geographic,
+CN,36,86832XXXXXXX,geographic,
+CN,17,86459XXXXXXX,geographic,
+CN,13,86395XXXXXXX,geographic,
+CN,34,868029XXXX,geographic,
+CN,12,86374XXXXXXX,geographic,
+CN,15,86427XXXXXXX,geographic,
+CN,25,86634XXXXXXX,geographic,
+CN,10,86319XXXXXXX,geographic,
+CN,31,8676023XXXXXX,geographic,China Telecom Co Ltd
+CN,23,86565XXXXXXX,geographic,
+CN,38,86874XXXXXXX,geographic,
+CN,27,86715XXXXXXX,geographic,
+CN,19,86510XXXXXXXX,geographic,
+CN,1,86130XXXXXXXX,mobile,China Unicom
+CN,35,86816XXXXXXX,geographic,
+CN,20,86530XXXXXXX,geographic,
+CN,22,86554XXXXXXX,geographic,
+CN,13,86396XXXXXXX,geographic,
+CN,24,86580XXXXXXX,geographic,
+CN,26,86692XXXXXXX,geographic,
+CN,32,86771XXXXXXX,geographic,
+CN,14,86413XXXXXXX,geographic,
+CN,10,86335XXXXXXX,geographic,
+CN,11,86356XXXXXXX,geographic,
+CN,17,86464XXXXXXX,geographic,
+CN,29,86745XXXXXXX,geographic,
+CN,27,86716XXXXXXX,geographic,
+CN,38,86875XXXXXXX,geographic,
+CN,18,86475XXXXXXX,geographic,
+CN,30,867548XXXXXXX,geographic,China Telecom Co Ltd
+CN,1,86131XXXXXXXX,mobile,China Unicom
+CN,25,86635XXXXXXX,geographic,
+CN,19,86511XXXXXXXX,geographic,
+CN,24,86591XXXXXXXX,geographic,
+CN,14,86414XXXXXXX,geographic,
+CN,27,86717XXXXXXX,geographic,
+CN,25,86660XXXXXXX,geographic,
+CN,29,86746XXXXXXX,geographic,
+CN,40,86898XXXXXXXX,geographic,
+CN,23,86566XXXXXXX,geographic,
+CN,15,86429XXXXXXX,geographic,
+CN,16,86436XXXXXXX,geographic,
+CN,13,86398XXXXXXX,geographic,
+CN,35,86817XXXXXXX,geographic,
+CN,34,868060XXXX,geographic,
+CN,14,86415XXXXXXX,geographic,
+CN,22,86555XXXXXXX,geographic,
+CN,33,86779XXXXXXX,geographic,
+CN,40,86901XXXXXXX,geographic,
+CN,19,86512XXXXXXXX,geographic,
+CN,20,86531XXXXXXXX,geographic,
+CN,1,86132XXXXXXXX,mobile,China Unicom
+CN,12,86375XXXXXXX,geographic,
+CN,17,86467XXXXXXX,geographic,
+CN,27,86718XXXXXXX,geographic,
+CN,11,86357XXXXXXX,geographic,
+CN,30,867548XXXXXXX,geographic,China Telecom Co Ltd
+CN,25,86662XXXXXXX,geographic,
+CN,16,86437XXXXXXX,geographic,
+CN,31,8676084XXXXXX,geographic,China Telecom Co Ltd
+CN,32,86772XXXXXXX,geographic,
+CN,21,86539XXXXXXX,geographic,
+CN,26,86701XXXXXXX,geographic,
+CN,36,86833XXXXXXX,geographic,
+CN,33,86790XXXXXXX,geographic,
+CN,29,86750XXXXXXX,geographic,
+CN,38,86876XXXXXXX,geographic,
+CN,12,86376XXXXXXXX,geographic,
+CN,24,86592XXXXXXX,geographic,
+CN,19,86513XXXXXXXX,geographic,
+CN,15,86431XXXXXXXX,geographic,
+CN,27,86719XXXXXXX,geographic,
+CN,32,86773XXXXXXX,geographic,
+CN,23,86570XXXXXXX,geographic,
+CN,18,86476XXXXXXX,geographic,
+CN,1,86133XXXXXXXX,mobile,China Telecom Co Ltd (CDMA)
+CN,24,86593XXXXXXX,geographic,
+CN,13,86400XXXXXXX,premiumrate,
+CN,20,86532XXXXXXXX,geographic,
+CN,32,86774XXXXXXX,geographic,
+CN,10,86349XXXXXXX,geographic,
+CN,17,86468XXXXXXX,geographic,
+CN,19,86514XXXXXXXX,geographic,
+CN,27,86722XXXXXXX,geographic,
+CN,18,86477XXXXXXX,geographic,
+CN,22,86556XXXXXXX,geographic,
+CN,29,86751XXXXXXX,geographic,
+CN,24,86594XXXXXXX,geographic,
+CN,23,86571XXXXXXXX,geographic,
+CN,1,861340XXXXXXX,mobile,China Mobile
+CN,36,86834XXXXXXX,geographic,
+CN,20,86533XXXXXXX,geographic,
+CN,16,86438XXXXXXX,geographic,
+CN,1,861341XXXXXXX,mobile,China Mobile
+CN,34,868063XXXX,geographic,
+CN,13,864000XXXXXX,premiumrate,China Unicom
+CN,35,86818XXXXXXX,geographic,
+CN,30,86755XXXXXXXX,geographic,
+CN,32,86775XXXXXXX,geographic,
+CN,1,861342XXXXXXX,mobile,China Mobile
+CN,39,86886XXXXXXX,geographic,
+CN,31,8676085XXXXXX,geographic,China Telecom Co Ltd
+CN,11,86358XXXXXXX,geographic,
+CN,24,86595XXXXXXXX,geographic,
+CN,19,86515XXXXXXXX,geographic,
+CN,29,86752XXXXXXX,geographic,
+CN,2,861343XXXXXXX,mobile,China Mobile
+CN,23,86572XXXXXXX,geographic,
+CN,10,86350XXXXXXX,geographic,
+CN,26,86710XXXXXXX,geographic,
+CN,20,86534XXXXXXX,geographic,
+CN,16,86439XXXXXXX,geographic,
+CN,40,86902XXXXXXX,geographic,
+CN,18,86478XXXXXXX,geographic,
+CN,15,86432XXXXXXXX,geographic,
+CN,35,86825XXXXXXX,geographic,
+CN,22,86557XXXXXXX,geographic,
+CN,27,86724XXXXXXX,geographic,
+CN,38,86877XXXXXXX,geographic,
+CN,31,8676086XXXXXX,geographic,China Telecom Co Ltd
+CN,11,86359XXXXXXX,geographic,
+CN,33,86791XXXXXXXX,geographic,
+CN,2,861344XXXXXXX,mobile,China Mobile
+CN,24,86596XXXXXXX,geographic,
+CN,29,86753XXXXXXX,geographic,
+CN,43,86953XXXXXXX,geographic,
+CN,35,86826XXXXXXX,geographic,
+CN,19,86516XXXXXXXX,geographic,
+CN,39,86887XXXXXXX,geographic,
+CN,2,861345XXXXXXX,mobile,China Mobile
+CN,32,86776XXXXXXX,geographic,
+CN,2,861346XXXXXXX,mobile,China Mobile
+CN,27,86728XXXXXXX,geographic,
+CN,36,86835XXXXXXX,geographic,
+CN,29,86754XXXXXXXX,geographic,
+CN,40,86903XXXXXXX,geographic,
+CN,34,868065XXXX,geographic,
+CN,2,861347XXXXXXX,mobile,China Mobile
+CN,31,8676087XXXXXX,geographic,China Telecom Co Ltd
+CN,33,86792XXXXXXX,geographic,
+CN,41,86914XXXXXXX,geographic,
+CN,22,86558XXXXXXX,geographic,
+CN,2,861348XXXXXXX,mobile,China Mobile
+CN,21,86543XXXXXXX,geographic,
+CN,43,86954XXXXXXX,geographic,
+CN,2,86135XXXXXXXX,mobile,China Mobile
+CN,23,86573XXXXXXXX,geographic,
+CN,38,86878XXXXXXX,geographic,
+CN,28,86731XXXXXXXX,geographic,
+CN,13,864001XXXXXX,premiumrate,China Mobile
+CN,2,86136XXXXXXXX,mobile,China Mobile
+CN,39,86888XXXXXXX,geographic,
+CN,26,86711XXXXXXX,geographic,
+CN,40,86906XXXXXXX,geographic,
+CN,44,86977XXXXXXX,geographic,
+CN,29,86754XXXXXXXX,geographic,
+CN,30,86756XXXXXXX,geographic,
+CN,22,86559XXXXXXX,geographic,
+CN,37,86851XXXXXXXX,geographic,
+CN,27,86730XXXXXXX,geographic,
+CN,36,86836XXXXXXX,geographic,
+CN,32,86777XXXXXXX,geographic,
+CN,16,86451XXXXXXXX,geographic,
+CN,41,86915XXXXXXX,geographic,
+CN,35,86827XXXXXXX,geographic,
+CN,23,86574XXXXXXXX,geographic,
+CN,34,868067XXXX,geographic,
+CN,2,861349XXXXXXX,satellite,Chinasat
+CN,31,8676088XXXXXX,geographic,China Telecom Co Ltd
+CN,42,86935XXXXXXX,geographic,
+CN,33,86793XXXXXXX,geographic,
+CN,28,86731XXXXXXXX,geographic,
+CN,6,86172XXXXXXXX,mobile,
+CN,43,86955XXXXXXX,geographic,
+CN,15,86433XXXXXXX,geographic,
+CN,32,86778XXXXXXX,geographic,
+CN,38,86879XXXXXXX,geographic,
+CN,13,864006XXXXXX,premiumrate,China Unicom
+CN,37,86852XXXXXXXX,geographic,
+CN,40,86908XXXXXXX,geographic,
+CN,2,86137XXXXXXXX,mobile,China Mobile
+CN,26,86712XXXXXXX,geographic,
+CN,27,86731XXXXXXXX,geographic,
+CN,21,86546XXXXXXX,geographic,
+CN,34,868068XXXX,geographic,
+CN,44,86979XXXXXXX,geographic,
+CN,16,86452XXXXXXX,geographic,
+CN,12,86377XXXXXXXX,geographic,
+CN,3,86138XXXXXXXX,mobile,China Mobile
+CN,36,86837XXXXXXX,geographic,
+CN,28,86734XXXXXXX,geographic,
+CN,3,86139XXXXXXXX,mobile,China Mobile
+CN,30,86757XXXXXXXX,geographic,
+CN,22,86561XXXXXXX,geographic,
+CN,11,86370XXXXXXX,geographic,
+CN,35,86830XXXXXXX,geographic,
+CN,34,868070XXXX,geographic,
+CN,29,867548XXXXXXX,geographic,China Telecom Co Ltd
+CN,3,86145XXXXXXXX,mobile,China Unicom
+CN,44,86990XXXXXXX,geographic,
+CN,31,86762XXXXXXXX,geographic,
+CN,40,86909XXXXXXX,geographic,
+CN,23,86575XXXXXXXX,geographic,
+CN,43,86970XXXXXXX,geographic,
+CN,3,86146XXXXXXXX,mobile,China United Network Communications Group Co Ltd
+CN,39,86891XXXXXXX,geographic,
+CN,33,86794XXXXXXX,geographic,
+CN,42,86936XXXXXXX,geographic,
+CN,3,86147XXXXXXXX,mobile,China Mobile
+CN,3,86148XXXXXXXX,mobile,Internet of Things (IoT)
+CN,3,86150XXXXXXXX,mobile,China Mobile
+CN,41,86916XXXXXXX,geographic,
+CN,34,868071XXXX,geographic,
+CN,30,86757XXXXXXXX,geographic,
+CN,36,86838XXXXXXX,geographic,
+CN,37,86853XXXXXXXX,geographic,
+CN,38,86883XXXXXXX,geographic,
+CN,9,8623XXXXXXXX,geographic,
+CN,26,86713XXXXXXX,geographic,
+CN,3,86151XXXXXXXX,mobile,China Mobile
+CN,22,86562XXXXXXX,geographic,
+CN,31,86763XXXXXXX,geographic,
+CN,3,86152XXXXXXXX,mobile,China Mobile
+CN,4,86153XXXXXXXX,mobile,China Telecom Co Ltd (CDMA)
+CN,40,86911XXXXXXX,geographic,
+CN,4,86155XXXXXXXX,mobile,China Unicom
+CN,4,86156XXXXXXXX,mobile,China Unicom
+CN,28,86735XXXXXXX,geographic,
+CN,4,86157XXXXXXXX,mobile,China Mobile
+CN,26,86714XXXXXXX,geographic,
+CN,4,86158XXXXXXXX,mobile,China Mobile
+CN,9,8624XXXXXXXX,geographic,
+CN,21,86550XXXXXXX,geographic,
+CN,36,86839XXXXXXX,geographic,
+CN,44,86991XXXXXXX,geographic,
+CN,34,868078XXXX,geographic,
+CN,33,86795XXXXXXX,geographic,
+CN,39,86892XXXXXXX,geographic,
+CN,23,86576XXXXXXXX,geographic,
+CN,12,86378XXXXXXX,geographic,
+CN,43,86971XXXXXXX,geographic,
+CN,28,86736XXXXXXX,geographic,
+CN,44,86992XXXXXXX,geographic,
+CN,4,86159XXXXXXXX,mobile,China Mobile
+CN,4,86162XXXXXXXX,mobile,China Telecom Co Ltd
+CN,31,86766XXXXXXX,geographic,
+CN,4,86165XXXXXXXX,mobile,MVNO
+CN,30,86758XXXXXXX,geographic,
+CN,37,86854XXXXXXX,geographic,
+CN,42,86937XXXXXXX,geographic,
+CN,43,86972XXXXXXX,geographic,
+CN,4,86166XXXXXXXX,mobile,China United Network Communications Group Co Ltd
+CN,29,867548XXXXXXX,geographic,China Telecom Co Ltd
+CN,41,86917XXXXXXX,geographic,
+CN,4,86167XXXXXXXX,mobile,China United Network Communications Group Co Ltd
+CN,33,86796XXXXXXX,geographic,
+CN,40,86912XXXXXXX,geographic,
+CN,9,8625XXXXXXXX,geographic,
+CN,5,861700XXXXXXX,mobile,China Telecom Co Ltd (MVNO)
+CN,22,86563XXXXXXX,geographic,
+CN,5,861701XXXXXXX,mobile,China Telecom Co Ltd (MVNO)
+CN,5,861702XXXXXXX,mobile,China Telecom Co Ltd (MVNO)
+CN,41,86919XXXXXXX,geographic,
+CN,30,86759XXXXXXX,geographic,
+CN,21,86551XXXXXXXX,geographic,
+CN,12,86379XXXXXXXX,geographic,
+CN,5,861703XXXXXXX,mobile,China Mobile (MVNO)
+CN,28,86737XXXXXXX,geographic,
+CN,39,86893XXXXXXX,geographic,
+CN,40,86913XXXXXXX,geographic,
+CN,37,86855XXXXXXX,geographic,
+CN,5,861704XXXXXXX,mobile,China Unicom (MVNO)
+CN,43,86973XXXXXXX,geographic,
+CN,31,86768XXXXXXX,geographic,
+CN,5,861705XXXXXXX,mobile,China Mobile (MVNO)
+CN,33,86797XXXXXXX,geographic,
+CN,5,861706XXXXXXX,mobile,China Mobile (MVNO)
+CN,5,861707XXXXXXX,mobile,China Unicom (MVNO)
+CN,5,861708XXXXXXX,mobile,China Unicom (MVNO)
+CN,44,86993XXXXXXX,geographic,
+CN,42,86938XXXXXXX,geographic,
+CN,9,8627XXXXXXXX,geographic,
+CN,39,86894XXXXXXX,geographic,
+CN,37,86856XXXXXXX,geographic,
+CN,33,86798XXXXXXX,geographic,
+CN,30,86760XXXXXXXX,geographic,
+CN,12,86391XXXXXXX,geographic,
+CN,41,86930XXXXXXX,geographic,
+CN,5,861709XXXXXXX,mobile,China Unicom (MVNO)
+CN,6,86171XXXXXXXX,mobile,China United Network Communications Group Co Ltd
+CN,6,86173XXXXXXXX,mobile,China Telecom Co Ltd (CDMA)
+CN,6,8617400XXXXXX,mobile,China Telecom Co Ltd
+CN,44,86994XXXXXXX,geographic,
+CN,43,86974XXXXXXX,geographic,
+CN,28,86738XXXXXXX,geographic,
+CN,6,8617401XXXXXX,mobile,China Telecom Co Ltd
+CN,21,86552XXXXXXX,geographic,
+CN,9,8628XXXXXXXX,geographic,
+CN,6,8617402XXXXXX,mobile,China Telecom Co Ltd
+CN,6,8617403XXXXXX,mobile,China Telecom Co Ltd
+CN,39,86895XXXXXXX,geographic,
+CN,6,8617404XXXXXX,mobile,China Telecom Co Ltd
+CN,6,8617405XXXXXX,mobile,China Telecom Co Ltd
+CN,7,86175XXXXXXXX,mobile,China United Network Communications Group Co Ltd
+CN,41,86931XXXXXXX,geographic,
+CN,44,86995XXXXXXX,geographic,
+CN,37,86857XXXXXXX,geographic,
+CN,42,86939XXXXXXX,geographic,
+CN,28,86739XXXXXXX,geographic,
+CN,7,86176XXXXXXXX,mobile,China Unicom
+CN,30,8676022XXXXXX,geographic,China Telecom Co Ltd
+CN,9,8629XXXXXXXX,geographic,
+CN,44,86996XXXXXXX,geographic,
+CN,7,86177XXXXXXXX,mobile,China Telecom Co Ltd (CDMA)
+CN,39,86896XXXXXXX,geographic,
+CN,7,86178XXXXXXXX,mobile,China Mobile
+CN,43,86975XXXXXXX,geographic,
+CN,7,86180XXXXXXXX,mobile,China Telecom Co Ltd (CDMA)
+CN,9,8629XXXXXXXX,geographic,
+CN,7,86181XXXXXXXX,mobile,China Telecom Co Ltd (CDMA)
+CN,8,8620XXXXXXXX,geographic,
+CN,7,86182XXXXXXXX,mobile,China Mobile
+CN,6,861749XXXXXXX,satellite,China Transport Telecommunication & Information Center (Inmarsat)
+CN,7,86183XXXXXXXX,mobile,China Mobile
+CN,37,86858XXXXXXX,geographic,
+CN,7,86184XXXXXXXX,mobile,China Mobile
+CN,39,86897XXXXXXX,geographic,
+CN,44,86997XXXXXXX,geographic,
+CN,42,86941XXXXXXX,geographic,
+CN,9,86310XXXXXXX,geographic,
+CN,43,86976XXXXXXX,geographic,
+CN,28,86743XXXXXXX,geographic,
+CN,7,86185XXXXXXXX,mobile,China Unicom
+CN,8,86186XXXXXXXX,mobile,China Unicom
+CN,8,86187XXXXXXXX,mobile,China Mobile
+CN,8,8621XXXXXXXX(XX),geographic,
+CN,8,86188XXXXXXXX,mobile,China Mobile
+CN,37,86859XXXXXXX,geographic,
+CN,8,86189XXXXXXXX,mobile,China Telecom Co Ltd (CDMA)
+CN,41,86932XXXXXXX,geographic,
+CN,8,86191XXXXXXXX,mobile,China Telecom Co Ltd
+CN,42,86943XXXXXXX,geographic,
+CN,41,86933XXXXXXX,geographic,
+CN,8,86198XXXXXXXX,mobile,China Mobile
+CN,8,86199XXXXXXXX,mobile,China Telecom Co Ltd
+CN,8,8622XXXXXXXX,geographic,
+CN,9,86311XXXXXXXX,geographic,
+CN,28,86744XXXXXXX,geographic,
+CN,42,8695XXX,premiumrate,
+CN,41,86934XXXXXXX,geographic,
+CN,9,86312XXXXXXX,geographic,
+CN,37,86870XXXXXXX,geographic,
+CN,42,86951XXXXXXX,geographic,
+CN,42,86952XXXXXXX,geographic,

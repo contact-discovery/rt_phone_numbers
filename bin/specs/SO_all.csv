@@ -1,135 +1,135 @@
 ﻿Country,Page,Range,Type,Provider
-SO,10,+252595XXXX,geographic,NationLink Telecom
-SO,12,+25267XXXXX,geographic,Golis Telecom Somalia
-SO,2,+252162XXXX,geographic,Hormuud Telecom Somalia Inc (Hortel)
-SO,10,+252596XXXX,geographic,NationLink Telecom
-SO,13,+252766XXXX,geographic,Somtel International Ltd
+SO,10,252595XXXX,geographic,NationLink Telecom
+SO,12,25267XXXXX,geographic,Golis Telecom Somalia
+SO,2,252162XXXX,geographic,Hormuud Telecom Somalia Inc (Hortel)
+SO,10,252596XXXX,geographic,NationLink Telecom
+SO,13,252766XXXX,geographic,Somtel International Ltd
 SO,12,2526742010,geographic,Golis Telecom Somalia
-SO,13,+252766XXXX,geographic,Somtel International Ltd
-SO,10,+252597XXXX,geographic,NationLink Telecom
-SO,8,+252545XXXX,geographic,Puntel
-SO,12,+25268XXXXX,geographic,Golis Telecom Somalia
-SO,8,+252546XXXX,geographic,Somali Telecommunications Company (STC)
-SO,10,+2525971XXX,geographic,NationLink Telecom
-SO,2,+252163XXXX,geographic,Hormuud Telecom Somalia Inc (Hortel)
-SO,9,+2525655XXX,geographic,NationLink Telecom
-SO,7,+2525137XXX,geographic,NationLink Telecom
-SO,3,+252203XXX,geographic,Telcom Somalia
-SO,14,+25287XXXX,satellite,Emir Set
+SO,13,252766XXXX,geographic,Somtel International Ltd
+SO,10,252597XXXX,geographic,NationLink Telecom
+SO,8,252545XXXX,geographic,Puntel
+SO,12,25268XXXXX,geographic,Golis Telecom Somalia
+SO,8,252546XXXX,geographic,Somali Telecommunications Company (STC)
+SO,10,2525971XXX,geographic,NationLink Telecom
+SO,2,252163XXXX,geographic,Hormuud Telecom Somalia Inc (Hortel)
+SO,9,2525655XXX,geographic,NationLink Telecom
+SO,7,2525137XXX,geographic,NationLink Telecom
+SO,3,252203XXX,geographic,Telcom Somalia
+SO,14,25287XXXX,satellite,Emir Set
 SO,12,2526852010,geographic,Golis Telecom Somalia
-SO,10,+2525972XXX,geographic,NationLink Telecom
-SO,2,+252164XXXX,geographic,Hormuud Telecom Somalia Inc (Hortel)
-SO,13,+252767XXXX,geographic,Somtel International Ltd
-SO,4,+2523XXXXX,geographic,Somtel International Telecommunications
-SO,8,+252547XXXX,geographic,Somali Telecommunications Company (STC)
-SO,7,+2525151XXX,geographic,NationLink Telecom
-SO,9,+2525657XXX,geographic,NationLink Telecom
-SO,3,+252204XXXX,geographic,Telcom Somalia
-SO,14,+25288XXXXX,geographic,Golis Telecom Somalia
+SO,10,2525972XXX,geographic,NationLink Telecom
+SO,2,252164XXXX,geographic,Hormuud Telecom Somalia Inc (Hortel)
+SO,13,252767XXXX,geographic,Somtel International Ltd
+SO,4,2523XXXXX,geographic,Somtel International Telecommunications
+SO,8,252547XXXX,geographic,Somali Telecommunications Company (STC)
+SO,7,2525151XXX,geographic,NationLink Telecom
+SO,9,2525657XXX,geographic,NationLink Telecom
+SO,3,252204XXXX,geographic,Telcom Somalia
+SO,14,25288XXXXX,geographic,Golis Telecom Somalia
 SO,1,252,proper,
-SO,2,+252165XXXX,geographic,Hormuud Telecom Somalia Inc (Hortel)
-SO,9,+2525670XXX,geographic,NationLink Telecom
-SO,3,+252208XXXX,geographic,Telcom Somalia
-SO,8,+2525632XXX,geographic,NationLink Telecom
-SO,7,+2525152XXX,geographic,NationLink Telecom
-SO,10,+2525973XXX,geographic,NationLink Telecom
-SO,3,+252210XXXX,geographic,Telcom Somalia
-SO,1,+2521XXXXX,geographic,Somtel International Telecommunications
-SO,2,+252166XXXX,geographic,Hormuud Telecom Somalia Inc (Hortel)
-SO,13,+252781XXXX,geographic,Somtel International Ltd
-SO,8,+2525633XXX,geographic,NationLink Telecom
-SO,4,+252313XXX,geographic,Telcom Somalia
-SO,10,+2525973XXX,geographic,NationLink Telecom
-SO,3,+252211XXX,geographic,Telcom Somalia
-SO,7,+2525153XXX,geographic,NationLink Telecom
-SO,9,+2525671XXX,geographic,NationLink Telecom
-SO,1,+25215XXXXXX,mobile,Hormuud Telecom Somalia Inc (Hortel)
-SO,3,+25227XXXX,mobile,Telcom Somalia
-SO,12,+25271XXXXX,geographic,
-SO,14,+25288216XXX,satellite,Thuraya Satellite Telecommunications Company
-SO,4,+25228XXXX,mobile,Telcom Somalia
-SO,4,+25229XXXX,mobile,Telcom Somalia
-SO,4,+25233XXXXX,geographic,Telcom Somalia
-SO,4,+25235XXXXXX,mobile,AirSom Communications
-SO,4,+25239XXXXXX,mobile,AirSom Communications
-SO,2,+252168XXXX,geographic,Hormuud Telecom Somalia Inc (Hortel)
-SO,9,+2525672XXX,geographic,NationLink Telecom
-SO,4,+25240XXXXXX,mobile,Montysom Ltd
-SO,8,+2525634XXX,geographic,NationLink Telecom
-SO,12,+252762XXXX,geographic,Somtel International Ltd
-SO,10,+2525973XXX,geographic,NationLink Telecom
-SO,1,+2521XXXXX(X),geographic,
-SO,4,+25242XXXXXX,mobile,Golis Telecom Somalia
-SO,5,+25245XXXXXX,mobile,Golis Telecom Somalia
-SO,7,+2525154XXX,geographic,NationLink Telecom
-SO,8,+2525635XXX,geographic,NationLink Telecom
-SO,5,+25246XXXXXX,mobile,Golis Telecom Somalia
-SO,5,+25248XXXXXX,mobile,AirSom Communications
-SO,5,+25249XXXXXX,mobile,AirSom Communications
-SO,13,+252793XXXX,geographic,Somtel International Ltd
-SO,5,+252500XXXXX,mobile,NationLink Telecom
-SO,3,+252212XXX,geographic,Telcom Somalia
-SO,5,+252501XXXXX,mobile,NationLink Telecom
-SO,7,+2525169XXX,geographic,NationLink Telecom
-SO,5,+252502XXXXX,mobile,NationLink Telecom
-SO,5,+252503XXXXX,mobile,NationLink Telecom
-SO,5,+252504XXXXX,mobile,NationLink Telecom
-SO,9,+2525673XXX,geographic,NationLink Telecom
-SO,5,+252505XXXXX,mobile,NationLink Telecom
-SO,6,+252506XXXXX,mobile,NationLink Telecom
-SO,6,+252507XXXXX,mobile,NationLink Telecom
-SO,10,+2525975XXX,geographic,NationLink Telecom
-SO,6,+252508XXXXX,mobile,NationLink Telecom
-SO,6,+252509XXXXX,mobile,NationLink Telecom
-SO,7,+252523XXXX,mobile,North Eastern Telecommunications Company Ltd (Netco)
-SO,3,+252213XXX,geographic,Telcom Somalia
-SO,9,+2525674XXX,geographic,NationLink Telecom
-SO,7,+252525XXXX,mobile,North Eastern Telecommunications Company Ltd (Netco)
-SO,7,+252526XXXX,mobile,North Eastern Telecommunications Company Ltd (Netco)
-SO,1,+2521034XXXXX,geographic,Hormuud Telecom Somalia Inc (Hortel)
-SO,10,+25260XXXXXX,mobile,Somafone Telecommunications Service Company
-SO,11,+25261XXXXXX,mobile,Hormuud Telecom Somalia Inc (Hortel)
-SO,8,+2525652XXX,geographic,NationLink Telecom
-SO,2,+25218XXXXX,geographic,Hormuud Telecom Somalia Inc (Hortel)
-SO,11,+25262XXXXXXX,mobile,Somtel International Telecommunications
-SO,11,+25263XXXX,mobile,Telcom Puntland
-SO,3,+2522135XX,geographic,Telcom Somalia
-SO,11,+252642XXXX,mobile,Galcom
-SO,11,+252643XXXX,mobile,Galcom
-SO,8,+2525653XXX,geographic,NationLink Telecom
-SO,4,+2524XXXXX,geographic,Somtel International Telecommunications
-SO,9,+252592XXXX,geographic,NationLink Telecom
-SO,11,+252644XXXX,mobile,Galcom
-SO,11,+2526484XXX,mobile,Galcom
-SO,1,+2521043XXXXX,geographic,Hormuud Telecom Somalia Inc (Hortel)
-SO,11,+252649XXXX,mobile,Galcom
-SO,13,+25281XXXX,geographic,AirSom Communications
-SO,2,+252200XXX,geographic,Telcom Somalia
-SO,11,+25264XXXXXXX,mobile,Somali Network Telecom
-SO,11,+25265XXXXXXX,mobile,Somtel International Telecommunications
-SO,9,+252593XXXX,geographic,NationLink Telecom
-SO,12,+25266XXXXXXX,mobile,Somtel International Telecommunications
-SO,12,+25267XXXXXXX,mobile,NationLink Telecom
-SO,12,+25269XXXXXXX,mobile,NationLink Telecom
-SO,12,+252707XXXXXX,mobile,Golis Telecom Somalia
-SO,1,+2521313XXX,geographic,Telcom Somalia
-SO,13,+25279XXXXXXX,mobile,Somtel International Telecommunications
-SO,9,+252594XXXX,geographic,NationLink Telecom
-SO,2,+2522005XX,geographic,Telcom Somalia
-SO,13,+25280XXXXXXX,mobile,Somali Network Telecom
-SO,13,+25282XXXX,geographic,AirSom Communications
-SO,8,+2525654XXX,geographic,NationLink Telecom
-SO,14,+25288XXXXXXX,mobile,Somali Network Telecom
-SO,3,+252214XXXX,geographic,Telcom Somalia
-SO,2,+252201XXXX,geographic,Telcom Somalia
-SO,13,+25285XXXX,geographic,Somali Network Telecom
-SO,1,+252160XXXX,geographic,Hormuud Telecom Somalia Inc (Hortel)
-SO,1,+252161XXXX,geographic,Hormuud Telecom Somalia Inc (Hortel)
-SO,1,+2521611XXX,geographic,Hormuud Telecom Somalia Inc (Hortel)
-SO,7,+252543XXXX,geographic,Galcom
-SO,6,+25251XXXXX,geographic,
-SO,6,+252513XXXX,geographic,NationLink Telecom
-SO,6,+2525130XXX,geographic,NationLink Telecom
-SO,6,+2525132XXX,geographic,NationLink Telecom
-SO,6,+2525133XXX,geographic,NationLink Telecom
-SO,6,+2525134XXX,geographic,NationLink Telecom
+SO,2,252165XXXX,geographic,Hormuud Telecom Somalia Inc (Hortel)
+SO,9,2525670XXX,geographic,NationLink Telecom
+SO,3,252208XXXX,geographic,Telcom Somalia
+SO,8,2525632XXX,geographic,NationLink Telecom
+SO,7,2525152XXX,geographic,NationLink Telecom
+SO,10,2525973XXX,geographic,NationLink Telecom
+SO,3,252210XXXX,geographic,Telcom Somalia
+SO,1,2521XXXXX,geographic,Somtel International Telecommunications
+SO,2,252166XXXX,geographic,Hormuud Telecom Somalia Inc (Hortel)
+SO,13,252781XXXX,geographic,Somtel International Ltd
+SO,8,2525633XXX,geographic,NationLink Telecom
+SO,4,252313XXX,geographic,Telcom Somalia
+SO,10,2525973XXX,geographic,NationLink Telecom
+SO,3,252211XXX,geographic,Telcom Somalia
+SO,7,2525153XXX,geographic,NationLink Telecom
+SO,9,2525671XXX,geographic,NationLink Telecom
+SO,1,25215XXXXXX,mobile,Hormuud Telecom Somalia Inc (Hortel)
+SO,3,25227XXXX,mobile,Telcom Somalia
+SO,12,25271XXXXX,geographic,
+SO,14,25288216XXX,satellite,Thuraya Satellite Telecommunications Company
+SO,4,25228XXXX,mobile,Telcom Somalia
+SO,4,25229XXXX,mobile,Telcom Somalia
+SO,4,25233XXXXX,geographic,Telcom Somalia
+SO,4,25235XXXXXX,mobile,AirSom Communications
+SO,4,25239XXXXXX,mobile,AirSom Communications
+SO,2,252168XXXX,geographic,Hormuud Telecom Somalia Inc (Hortel)
+SO,9,2525672XXX,geographic,NationLink Telecom
+SO,4,25240XXXXXX,mobile,Montysom Ltd
+SO,8,2525634XXX,geographic,NationLink Telecom
+SO,12,252762XXXX,geographic,Somtel International Ltd
+SO,10,2525973XXX,geographic,NationLink Telecom
+SO,1,2521XXXXX(X),geographic,
+SO,4,25242XXXXXX,mobile,Golis Telecom Somalia
+SO,5,25245XXXXXX,mobile,Golis Telecom Somalia
+SO,7,2525154XXX,geographic,NationLink Telecom
+SO,8,2525635XXX,geographic,NationLink Telecom
+SO,5,25246XXXXXX,mobile,Golis Telecom Somalia
+SO,5,25248XXXXXX,mobile,AirSom Communications
+SO,5,25249XXXXXX,mobile,AirSom Communications
+SO,13,252793XXXX,geographic,Somtel International Ltd
+SO,5,252500XXXXX,mobile,NationLink Telecom
+SO,3,252212XXX,geographic,Telcom Somalia
+SO,5,252501XXXXX,mobile,NationLink Telecom
+SO,7,2525169XXX,geographic,NationLink Telecom
+SO,5,252502XXXXX,mobile,NationLink Telecom
+SO,5,252503XXXXX,mobile,NationLink Telecom
+SO,5,252504XXXXX,mobile,NationLink Telecom
+SO,9,2525673XXX,geographic,NationLink Telecom
+SO,5,252505XXXXX,mobile,NationLink Telecom
+SO,6,252506XXXXX,mobile,NationLink Telecom
+SO,6,252507XXXXX,mobile,NationLink Telecom
+SO,10,2525975XXX,geographic,NationLink Telecom
+SO,6,252508XXXXX,mobile,NationLink Telecom
+SO,6,252509XXXXX,mobile,NationLink Telecom
+SO,7,252523XXXX,mobile,North Eastern Telecommunications Company Ltd (Netco)
+SO,3,252213XXX,geographic,Telcom Somalia
+SO,9,2525674XXX,geographic,NationLink Telecom
+SO,7,252525XXXX,mobile,North Eastern Telecommunications Company Ltd (Netco)
+SO,7,252526XXXX,mobile,North Eastern Telecommunications Company Ltd (Netco)
+SO,1,2521034XXXXX,geographic,Hormuud Telecom Somalia Inc (Hortel)
+SO,10,25260XXXXXX,mobile,Somafone Telecommunications Service Company
+SO,11,25261XXXXXX,mobile,Hormuud Telecom Somalia Inc (Hortel)
+SO,8,2525652XXX,geographic,NationLink Telecom
+SO,2,25218XXXXX,geographic,Hormuud Telecom Somalia Inc (Hortel)
+SO,11,25262XXXXXXX,mobile,Somtel International Telecommunications
+SO,11,25263XXXX,mobile,Telcom Puntland
+SO,3,2522135XX,geographic,Telcom Somalia
+SO,11,252642XXXX,mobile,Galcom
+SO,11,252643XXXX,mobile,Galcom
+SO,8,2525653XXX,geographic,NationLink Telecom
+SO,4,2524XXXXX,geographic,Somtel International Telecommunications
+SO,9,252592XXXX,geographic,NationLink Telecom
+SO,11,252644XXXX,mobile,Galcom
+SO,11,2526484XXX,mobile,Galcom
+SO,1,2521043XXXXX,geographic,Hormuud Telecom Somalia Inc (Hortel)
+SO,11,252649XXXX,mobile,Galcom
+SO,13,25281XXXX,geographic,AirSom Communications
+SO,2,252200XXX,geographic,Telcom Somalia
+SO,11,25264XXXXXXX,mobile,Somali Network Telecom
+SO,11,25265XXXXXXX,mobile,Somtel International Telecommunications
+SO,9,252593XXXX,geographic,NationLink Telecom
+SO,12,25266XXXXXXX,mobile,Somtel International Telecommunications
+SO,12,25267XXXXXXX,mobile,NationLink Telecom
+SO,12,25269XXXXXXX,mobile,NationLink Telecom
+SO,12,252707XXXXXX,mobile,Golis Telecom Somalia
+SO,1,2521313XXX,geographic,Telcom Somalia
+SO,13,25279XXXXXXX,mobile,Somtel International Telecommunications
+SO,9,252594XXXX,geographic,NationLink Telecom
+SO,2,2522005XX,geographic,Telcom Somalia
+SO,13,25280XXXXXXX,mobile,Somali Network Telecom
+SO,13,25282XXXX,geographic,AirSom Communications
+SO,8,2525654XXX,geographic,NationLink Telecom
+SO,14,25288XXXXXXX,mobile,Somali Network Telecom
+SO,3,252214XXXX,geographic,Telcom Somalia
+SO,2,252201XXXX,geographic,Telcom Somalia
+SO,13,25285XXXX,geographic,Somali Network Telecom
+SO,1,252160XXXX,geographic,Hormuud Telecom Somalia Inc (Hortel)
+SO,1,252161XXXX,geographic,Hormuud Telecom Somalia Inc (Hortel)
+SO,1,2521611XXX,geographic,Hormuud Telecom Somalia Inc (Hortel)
+SO,7,252543XXXX,geographic,Galcom
+SO,6,25251XXXXX,geographic,
+SO,6,252513XXXX,geographic,NationLink Telecom
+SO,6,2525130XXX,geographic,NationLink Telecom
+SO,6,2525132XXX,geographic,NationLink Telecom
+SO,6,2525133XXX,geographic,NationLink Telecom
+SO,6,2525134XXX,geographic,NationLink Telecom

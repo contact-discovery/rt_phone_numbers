@@ -1,111 +1,111 @@
 ﻿Country,Page,Range,Type,Provider
-AZ,11,+99446XXXXXXX,geographic,Delta Telecom Ltd LLC
-AZ,4,+99422XXXXXXX,geographic,
-AZ,4,+994222XXXXXX,geographic,Azertel A.S.
-AZ,10,+99436544XXXX,geographic,Azertel A.S.
-AZ,10,+99436546XXXX,geographic,Azertel A.S.
-AZ,10,+99436547XXXX,geographic,Azertel A.S.
-AZ,4,+9942220XXXXX,geographic,Azertel A.S.
-AZ,4,+9942221XXXXX,geographic,Azertel A.S.
-AZ,10,+99436548XXXX,geographic,Azertel A.S.
-AZ,10,+99436549XXXX,geographic,Azertel A.S.
-AZ,10,+99436550XXXX,geographic,Azertel A.S.
-AZ,8,+9942529XXXXX,geographic,Azertel A.S.
-AZ,8,+99426XXXXXXX,geographic,
-AZ,5,+9942231XXXXX,geographic,Azertel A.S.
-AZ,2,+9942021XXXXX,geographic,Azertel A.S.
-AZ,11,+99460XXXXXXX,mobile,
+AZ,11,99446XXXXXXX,geographic,Delta Telecom Ltd LLC
+AZ,4,99422XXXXXXX,geographic,
+AZ,4,994222XXXXXX,geographic,Azertel A.S.
+AZ,10,99436544XXXX,geographic,Azertel A.S.
+AZ,10,99436546XXXX,geographic,Azertel A.S.
+AZ,10,99436547XXXX,geographic,Azertel A.S.
+AZ,4,9942220XXXXX,geographic,Azertel A.S.
+AZ,4,9942221XXXXX,geographic,Azertel A.S.
+AZ,10,99436548XXXX,geographic,Azertel A.S.
+AZ,10,99436549XXXX,geographic,Azertel A.S.
+AZ,10,99436550XXXX,geographic,Azertel A.S.
+AZ,8,9942529XXXXX,geographic,Azertel A.S.
+AZ,8,99426XXXXXXX,geographic,
+AZ,5,9942231XXXXX,geographic,Azertel A.S.
+AZ,2,9942021XXXXX,geographic,Azertel A.S.
+AZ,11,99460XXXXXXX,mobile,
 AZ,1,994,proper,
-AZ,10,+99436552XXXX,geographic,Azertel A.S.
-AZ,1,+99412XXXXXXX,geographic,
-AZ,10,+99436554XXXX,geographic,Nakhtel Ltd
-AZ,1,+994123XXXXXX,geographic,Azertel A.S.
-AZ,3,+9942120XXXXX,geographic,Azertel A.S.
-AZ,1,+9941234XXXXX,geographic,Azertel A.S.
-AZ,8,+9942620XXXXX,geographic,
-AZ,2,+9942022XXXXX,geographic,Azertel A.S.
-AZ,1,+994124XXXXXX,geographic,Azertel A.S.
-AZ,5,+9942232XXXXX,geographic,Azertel A.S.
-AZ,1,+994125XXXXXX,geographic,Azertel A.S.
-AZ,1,+99418XXXXXXX,geographic,
-AZ,6,+9942332XXXXX,geographic,Azertel A.S.
-AZ,5,+9942233XXXXX,geographic,Azertel A.S.
-AZ,10,+99444XXXXXXX,wirelessgeographic,Aztelekom PU (CDMA-800)
-AZ,10,+99440XXXXXXX,mobile,Aztelekom
-AZ,11,+99450XXXXXXX,mobile,Azercell Telecom Ltd
-AZ,11,+99451XXXXXXX,mobile,Azercell Telecom Ltd
-AZ,8,+9942621XXXXX,geographic,
-AZ,3,+9942121XXXXX,geographic,Azertel A.S.
-AZ,11,+99455XXXXXXX,mobile,Bakcell Ltd
-AZ,11,+99460540XXXX,mobile,Nakhtel Ltd
-AZ,11,+99470XXXXXXX,mobile,Azerfon Ltd
-AZ,11,+99477XXXXXXX,mobile,Azerfon Ltd
-AZ,8,+9942622XXXXX,geographic,
-AZ,2,+9942023XXXXX,geographic,Azertel A.S.
-AZ,3,+9942122XXXXX,geographic,Azertel A.S.
-AZ,8,+9942623XXXXX,geographic,
-AZ,2,+9942024XXXXX,geographic,Azertel A.S.
-AZ,3,+9942123XXXXX,geographic,Azertel A.S.
-AZ,2,+9942025XXXXX,geographic,Azertel A.S.
-AZ,3,+9942124XXXXX,geographic,Azertel A.S.
-AZ,4,+9942222XXXXX,geographic,Azertel A.S.
-AZ,7,+9942427XXXXX,geographic,Azertel A.S.
-AZ,7,+9942429XXXXX,geographic,Azertel A.S.
-AZ,1,+994196XXXXX,geographic,
-AZ,4,+9942223XXXXX,geographic,Azertel A.S.
-AZ,8,+9942624XXXXX,geographic,
-AZ,7,+994248XXXXX,geographic,
-AZ,9,+9942628XXXXX,geographic,
-AZ,1,+99420XXXXXXX,geographic,
-AZ,9,+9942629XXXXX,geographic,
-AZ,6,+9942333XXXXX,geographic,Azertel A.S.
-AZ,9,+9942630XXXXX,geographic,
-AZ,3,+9942125XXXXX,geographic,Azertel A.S.
-AZ,5,+9942235XXXXX,geographic,Azertel A.S.
-AZ,3,+9942126XXXXX,geographic,Azertel A.S.
-AZ,8,+9942625XXXXX,geographic,
-AZ,1,+9942020XXXXX,geographic,Azertel A.S.
-AZ,5,+99422428XXXX,geographic,Azertel A.S.
-AZ,3,+9942127XXXXX,geographic,Azertel A.S.
-AZ,4,+9942224XXXXX,geographic,Azertel A.S.
-AZ,4,+9942227XXXXX,geographic,Azertel A.S.
-AZ,2,+9942026XXXXX,geographic,Azertel A.S.
-AZ,6,+9942335XXXXX,geographic,Azertel A.S.
-AZ,6,+9942338XXXXX,geographic,Azertel A.S.
-AZ,9,+9942631XXXXX,geographic,Azertel A.S.
-AZ,9,+9942632XXXXX,geographic,Azertel A.S.
-AZ,7,+99425XXXXXXX,geographic,
-AZ,8,+9942626XXXXX,geographic,
-AZ,3,+9942128XXXXX,geographic,Azertel A.S.
-AZ,3,+99421428XXXX,geographic,Azertel A.S.
-AZ,4,+9942229XXXXX,geographic,Azertel A.S.
-AZ,4,+9942230XXXXX,geographic,Azertel A.S.
-AZ,7,+9942520XXXXX,geographic,Azertel A.S.
-AZ,2,+9942027XXXXX,geographic,Azertel A.S.
-AZ,6,+99424XXXXXXX,geographic,
-AZ,5,+99422428XXXX,geographic,Azertel A.S.
-AZ,11,+99488XXXXXXX,geographic,Avirtel LLC
-AZ,6,+9942420XXXXX,geographic,Azertel A.S.
-AZ,8,+9942627XXXXX,geographic,
-AZ,9,+9942638XXXXX,geographic,Azertel A.S.
-AZ,11,+994900XXXXXX,premiumrate,
-AZ,2,+9942028XXXXX,geographic,Azertel A.S.
-AZ,2,+9942029XXXXX,geographic,Azertel A.S.
-AZ,5,+99422428XXXX,geographic,Azertel A.S.
-AZ,7,+9942521XXXXX,geographic,Azertel A.S.
-AZ,2,+99421XXXXXXX,geographic,
-AZ,7,+9942522XXXXX,geographic,Azertel A.S.
-AZ,6,+9942421XXXXX,geographic,Azertel A.S.
-AZ,6,+9942422XXXXX,geographic,Azertel A.S.
-AZ,9,+99436XXXXXXX,geographic,
-AZ,5,+99423XXXXXXX,geographic,
-AZ,7,+9942524XXXXX,geographic,Azertel A.S.
-AZ,9,+99436541XXXX,geographic,Azertel A.S.
-AZ,6,+9942424XXXXX,geographic,Azertel A.S.
-AZ,5,+9942330XXXXX,geographic,Azertel A.S.
-AZ,9,+99436542XXXX,geographic,Azertel A.S.
-AZ,9,+99436543XXXX,geographic,Azertel A.S.
-AZ,7,+9942525XXXXX,geographic,Azertel A.S.
-AZ,6,+9942425XXXXX,geographic,Azertel A.S.
-AZ,7,+9942527XXXXX,geographic,Azertel A.S.
-AZ,5,+9942331XXXXX,geographic,Azertel A.S.
+AZ,10,99436552XXXX,geographic,Azertel A.S.
+AZ,1,99412XXXXXXX,geographic,
+AZ,10,99436554XXXX,geographic,Nakhtel Ltd
+AZ,1,994123XXXXXX,geographic,Azertel A.S.
+AZ,3,9942120XXXXX,geographic,Azertel A.S.
+AZ,1,9941234XXXXX,geographic,Azertel A.S.
+AZ,8,9942620XXXXX,geographic,
+AZ,2,9942022XXXXX,geographic,Azertel A.S.
+AZ,1,994124XXXXXX,geographic,Azertel A.S.
+AZ,5,9942232XXXXX,geographic,Azertel A.S.
+AZ,1,994125XXXXXX,geographic,Azertel A.S.
+AZ,1,99418XXXXXXX,geographic,
+AZ,6,9942332XXXXX,geographic,Azertel A.S.
+AZ,5,9942233XXXXX,geographic,Azertel A.S.
+AZ,10,99444XXXXXXX,wirelessgeographic,Aztelekom PU (CDMA-800)
+AZ,10,99440XXXXXXX,mobile,Aztelekom
+AZ,11,99450XXXXXXX,mobile,Azercell Telecom Ltd
+AZ,11,99451XXXXXXX,mobile,Azercell Telecom Ltd
+AZ,8,9942621XXXXX,geographic,
+AZ,3,9942121XXXXX,geographic,Azertel A.S.
+AZ,11,99455XXXXXXX,mobile,Bakcell Ltd
+AZ,11,99460540XXXX,mobile,Nakhtel Ltd
+AZ,11,99470XXXXXXX,mobile,Azerfon Ltd
+AZ,11,99477XXXXXXX,mobile,Azerfon Ltd
+AZ,8,9942622XXXXX,geographic,
+AZ,2,9942023XXXXX,geographic,Azertel A.S.
+AZ,3,9942122XXXXX,geographic,Azertel A.S.
+AZ,8,9942623XXXXX,geographic,
+AZ,2,9942024XXXXX,geographic,Azertel A.S.
+AZ,3,9942123XXXXX,geographic,Azertel A.S.
+AZ,2,9942025XXXXX,geographic,Azertel A.S.
+AZ,3,9942124XXXXX,geographic,Azertel A.S.
+AZ,4,9942222XXXXX,geographic,Azertel A.S.
+AZ,7,9942427XXXXX,geographic,Azertel A.S.
+AZ,7,9942429XXXXX,geographic,Azertel A.S.
+AZ,1,994196XXXXX,geographic,
+AZ,4,9942223XXXXX,geographic,Azertel A.S.
+AZ,8,9942624XXXXX,geographic,
+AZ,7,994248XXXXX,geographic,
+AZ,9,9942628XXXXX,geographic,
+AZ,1,99420XXXXXXX,geographic,
+AZ,9,9942629XXXXX,geographic,
+AZ,6,9942333XXXXX,geographic,Azertel A.S.
+AZ,9,9942630XXXXX,geographic,
+AZ,3,9942125XXXXX,geographic,Azertel A.S.
+AZ,5,9942235XXXXX,geographic,Azertel A.S.
+AZ,3,9942126XXXXX,geographic,Azertel A.S.
+AZ,8,9942625XXXXX,geographic,
+AZ,1,9942020XXXXX,geographic,Azertel A.S.
+AZ,5,99422428XXXX,geographic,Azertel A.S.
+AZ,3,9942127XXXXX,geographic,Azertel A.S.
+AZ,4,9942224XXXXX,geographic,Azertel A.S.
+AZ,4,9942227XXXXX,geographic,Azertel A.S.
+AZ,2,9942026XXXXX,geographic,Azertel A.S.
+AZ,6,9942335XXXXX,geographic,Azertel A.S.
+AZ,6,9942338XXXXX,geographic,Azertel A.S.
+AZ,9,9942631XXXXX,geographic,Azertel A.S.
+AZ,9,9942632XXXXX,geographic,Azertel A.S.
+AZ,7,99425XXXXXXX,geographic,
+AZ,8,9942626XXXXX,geographic,
+AZ,3,9942128XXXXX,geographic,Azertel A.S.
+AZ,3,99421428XXXX,geographic,Azertel A.S.
+AZ,4,9942229XXXXX,geographic,Azertel A.S.
+AZ,4,9942230XXXXX,geographic,Azertel A.S.
+AZ,7,9942520XXXXX,geographic,Azertel A.S.
+AZ,2,9942027XXXXX,geographic,Azertel A.S.
+AZ,6,99424XXXXXXX,geographic,
+AZ,5,99422428XXXX,geographic,Azertel A.S.
+AZ,11,99488XXXXXXX,geographic,Avirtel LLC
+AZ,6,9942420XXXXX,geographic,Azertel A.S.
+AZ,8,9942627XXXXX,geographic,
+AZ,9,9942638XXXXX,geographic,Azertel A.S.
+AZ,11,994900XXXXXX,premiumrate,
+AZ,2,9942028XXXXX,geographic,Azertel A.S.
+AZ,2,9942029XXXXX,geographic,Azertel A.S.
+AZ,5,99422428XXXX,geographic,Azertel A.S.
+AZ,7,9942521XXXXX,geographic,Azertel A.S.
+AZ,2,99421XXXXXXX,geographic,
+AZ,7,9942522XXXXX,geographic,Azertel A.S.
+AZ,6,9942421XXXXX,geographic,Azertel A.S.
+AZ,6,9942422XXXXX,geographic,Azertel A.S.
+AZ,9,99436XXXXXXX,geographic,
+AZ,5,99423XXXXXXX,geographic,
+AZ,7,9942524XXXXX,geographic,Azertel A.S.
+AZ,9,99436541XXXX,geographic,Azertel A.S.
+AZ,6,9942424XXXXX,geographic,Azertel A.S.
+AZ,5,9942330XXXXX,geographic,Azertel A.S.
+AZ,9,99436542XXXX,geographic,Azertel A.S.
+AZ,9,99436543XXXX,geographic,Azertel A.S.
+AZ,7,9942525XXXXX,geographic,Azertel A.S.
+AZ,6,9942425XXXXX,geographic,Azertel A.S.
+AZ,7,9942527XXXXX,geographic,Azertel A.S.
+AZ,5,9942331XXXXX,geographic,Azertel A.S.

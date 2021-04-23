@@ -1,832 +1,832 @@
 ﻿Country,Page,Range,Type,Provider
-VN,11,+842113XXXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,11,+8421135XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,10,+8421035XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,11,+8421136XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,10,+8421036XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,12,+842122XXXXXX,geographic,EVNTelecom
-VN,20,+84221XXXXXXX,geographic,
-VN,14,+842143XXXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,12,+842123XXXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,18,+842192XXXXXX,geographic,EVNTelecom
-VN,20,+842212XXXXXX,geographic,EVNTelecom
-VN,15,+842152XXXXXX,geographic,EVNTelecom
-VN,14,+8421435XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,11,+8421137XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,12,+8421235XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,13,+84213XXXXXXX,geographic,
-VN,10,+8421037XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,20,+842213XXXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,16,+8421635XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,18,+842193XXXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,15,+842153XXXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,14,+8421436XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,11,+8421138XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,13,+842132XXXXXX,geographic,EVNTelecom
-VN,15,+842155XXXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,20,+8422135XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,14,+8421437XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,16,+8421636XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,10,+8421038XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,22,+842226XXXXXX,geographic,Viettel Telecom
-VN,13,+842133XXXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,18,+8421935XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,20,+8422136XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,15,+842156XXXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,11,+8421139XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,10,+8421039XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,16,+8421637XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,22,+8422262XXXXX,geographic,Viettel Telecom
-VN,18,+8421936XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,17,+842183XXXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,10,+842104XXXXXX,geographic,Vietnam Multimedia Corporation (VTC)
-VN,14,+8421438XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,20,+8422137XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,12,+8421236XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,11,+842114XXXXXX,geographic,Vietnam Multimedia Corporation (VTC)
-VN,16,+8421638XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,15,+842157XXXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,13,+842135XXXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,19,+842202XXXXXX,geographic,EVNTelecom
-VN,17,+8421835XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,20,+8422138XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,11,+842116XXXXXX,geographic,Viettel Telecom
-VN,14,+8421439XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,10,+842106XXXXXX,geographic,Viettel Telecom
-VN,26,+8422837XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,16,+8421639XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,12,+8421237XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,22,+84225XXXXXXXX,geographic,
-VN,18,+8421937XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,17,+8421836XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,13,+842136XXXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,15,+842158XXXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,14,+842144XXXXXX,geographic,Vietnam Multimedia Corporation (VTC)
-VN,20,+8422139XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,19,+842203XXXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,26,+8422838XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,23,+842254XXXXXXX,geographic,Vietnam Multimedia Corporation (VTC)
-VN,22,+842252XXXXXXX,geographic,EVNTelecom
+VN,11,842113XXXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,11,8421135XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,10,8421035XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,11,8421136XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,10,8421036XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,12,842122XXXXXX,geographic,EVNTelecom
+VN,20,84221XXXXXXX,geographic,
+VN,14,842143XXXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,12,842123XXXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,18,842192XXXXXX,geographic,EVNTelecom
+VN,20,842212XXXXXX,geographic,EVNTelecom
+VN,15,842152XXXXXX,geographic,EVNTelecom
+VN,14,8421435XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,11,8421137XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,12,8421235XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,13,84213XXXXXXX,geographic,
+VN,10,8421037XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,20,842213XXXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,16,8421635XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,18,842193XXXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,15,842153XXXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,14,8421436XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,11,8421138XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,13,842132XXXXXX,geographic,EVNTelecom
+VN,15,842155XXXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,20,8422135XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,14,8421437XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,16,8421636XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,10,8421038XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,22,842226XXXXXX,geographic,Viettel Telecom
+VN,13,842133XXXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,18,8421935XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,20,8422136XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,15,842156XXXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,11,8421139XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,10,8421039XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,16,8421637XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,22,8422262XXXXX,geographic,Viettel Telecom
+VN,18,8421936XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,17,842183XXXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,10,842104XXXXXX,geographic,Vietnam Multimedia Corporation (VTC)
+VN,14,8421438XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,20,8422137XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,12,8421236XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,11,842114XXXXXX,geographic,Vietnam Multimedia Corporation (VTC)
+VN,16,8421638XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,15,842157XXXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,13,842135XXXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,19,842202XXXXXX,geographic,EVNTelecom
+VN,17,8421835XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,20,8422138XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,11,842116XXXXXX,geographic,Viettel Telecom
+VN,14,8421439XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,10,842106XXXXXX,geographic,Viettel Telecom
+VN,26,8422837XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,16,8421639XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,12,8421237XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,22,84225XXXXXXXX,geographic,
+VN,18,8421937XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,17,8421836XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,13,842136XXXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,15,842158XXXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,14,842144XXXXXX,geographic,Vietnam Multimedia Corporation (VTC)
+VN,20,8422139XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,19,842203XXXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,26,8422838XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,23,842254XXXXXXX,geographic,Vietnam Multimedia Corporation (VTC)
+VN,22,842252XXXXXXX,geographic,EVNTelecom
 VN,1,84,proper,
-VN,18,+8421938XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,11,+8421162XXXXX,geographic,Viettel Telecom
-VN,17,+8421837XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,12,+8421238XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,10,+8421062XXXXX,geographic,Viettel Telecom
-VN,20,+842214XXXXXX,geographic,Vietnam Multimedia Corporation (VTC)
-VN,16,+842164XXXXXX,geographic,Vietnam Multimedia Corporation (VTC)
-VN,14,+842146XXXXXX,geographic,Viettel Telecom
-VN,19,+8422035XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,13,+842137XXXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,18,+842194XXXXXX,geographic,Vietnam Multimedia Corporation (VTC)
-VN,23,+842256XXXXXXX,geographic,Viettel Telecom
+VN,18,8421938XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,11,8421162XXXXX,geographic,Viettel Telecom
+VN,17,8421837XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,12,8421238XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,10,8421062XXXXX,geographic,Viettel Telecom
+VN,20,842214XXXXXX,geographic,Vietnam Multimedia Corporation (VTC)
+VN,16,842164XXXXXX,geographic,Vietnam Multimedia Corporation (VTC)
+VN,14,842146XXXXXX,geographic,Viettel Telecom
+VN,19,8422035XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,13,842137XXXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,18,842194XXXXXX,geographic,Vietnam Multimedia Corporation (VTC)
+VN,23,842256XXXXXXX,geographic,Viettel Telecom
 VN,1,841251,internetserviceprovider,
-VN,17,+8421838XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,11,+84212XXXXXXX,geographic,
-VN,15,+842159XXXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,12,+8421239XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,14,+8421462XXXXX,geographic,Viettel Telecom
-VN,16,+842166XXXXXX,geographic,Viettel Telecom
-VN,21,+8422162XXXXX,geographic,Viettel Telecom
-VN,28,+8423235XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,19,+8422036XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,25,+8422738XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,10,+84211XXXXXXX,geographic,
-VN,26,+8422839XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,13,+842138XXXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,23,+84225632XXXXX,geographic,Viettel Telecom
+VN,17,8421838XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,11,84212XXXXXXX,geographic,
+VN,15,842159XXXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,12,8421239XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,14,8421462XXXXX,geographic,Viettel Telecom
+VN,16,842166XXXXXX,geographic,Viettel Telecom
+VN,21,8422162XXXXX,geographic,Viettel Telecom
+VN,28,8423235XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,19,8422036XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,25,8422738XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,10,84211XXXXXXX,geographic,
+VN,26,8422839XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,13,842138XXXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,23,84225632XXXXX,geographic,Viettel Telecom
 VN,1,841259,internetserviceprovider,
-VN,24,+8422639XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,17,+8421839XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,21,+84222XXXXXXX,geographic,
-VN,26,+842284XXXXXX,geographic,Vietnam Multimedia Corporation (VTC)
-VN,16,+8421662XXXXX,geographic,Viettel Telecom
-VN,25,+8422739XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,22,+842253XXXXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,27,+8422936XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,30,+842343XXXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,15,+84216XXXXXXX,geographic,
-VN,20,+842216XXXXXX,geographic,Viettel Telecom
-VN,10,+842112XXXXXX,geographic,EVNTelecom
-VN,18,+842196XXXXXX,geographic,Viettel Telecom
-VN,30,+8423435XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,24,+842264XXXXXX,geographic,Vietnam Multimedia Corporation (VTC)
+VN,24,8422639XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,17,8421839XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,21,84222XXXXXXX,geographic,
+VN,26,842284XXXXXX,geographic,Vietnam Multimedia Corporation (VTC)
+VN,16,8421662XXXXX,geographic,Viettel Telecom
+VN,25,8422739XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,22,842253XXXXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,27,8422936XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,30,842343XXXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,15,84216XXXXXXX,geographic,
+VN,20,842216XXXXXX,geographic,Viettel Telecom
+VN,10,842112XXXXXX,geographic,EVNTelecom
+VN,18,842196XXXXXX,geographic,Viettel Telecom
+VN,30,8423435XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,24,842264XXXXXX,geographic,Vietnam Multimedia Corporation (VTC)
 VN,1,841260,internetserviceprovider,
-VN,26,+842286XXXXXX,geographic,Viettel Telecom
-VN,19,+8422037XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,29,+8423336XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,28,+8423236XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,12,+842124XXXXXX,geographic,Vietnam Multimedia Corporation (VTC)
-VN,27,+8422937XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,14,+84215XXXXXXX,geographic,
-VN,13,+842139XXXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,15,+842162XXXXXX,geographic,EVNTelecom
-VN,22,+84225335XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,21,+842222XXXXXX,geographic,EVNTelecom
-VN,18,+8421962XXXXX,geographic,Viettel Telecom
-VN,17,+842184XXXXX,geographic,Vietnam Multimedia Corporation (VTC)
-VN,16,+84218XXXXXXX,geographic,
-VN,23,+84226XXXXXXX,geographic,
-VN,25,+842274XXXXXX,geographic,Vietnam Multimedia Corporation (VTC)
-VN,29,+8423337XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,19,+8422038XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,28,+8423237XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,26,+8422862XXXXX,geographic,Viettel Telecom
-VN,30,+8423436XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,26,842286XXXXXX,geographic,Viettel Telecom
+VN,19,8422037XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,29,8423336XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,28,8423236XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,12,842124XXXXXX,geographic,Vietnam Multimedia Corporation (VTC)
+VN,27,8422937XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,14,84215XXXXXXX,geographic,
+VN,13,842139XXXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,15,842162XXXXXX,geographic,EVNTelecom
+VN,22,84225335XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,21,842222XXXXXX,geographic,EVNTelecom
+VN,18,8421962XXXXX,geographic,Viettel Telecom
+VN,17,842184XXXXX,geographic,Vietnam Multimedia Corporation (VTC)
+VN,16,84218XXXXXXX,geographic,
+VN,23,84226XXXXXXX,geographic,
+VN,25,842274XXXXXX,geographic,Vietnam Multimedia Corporation (VTC)
+VN,29,8423337XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,19,8422038XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,28,8423237XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,26,8422862XXXXX,geographic,Viettel Telecom
+VN,30,8423436XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
 VN,1,841268,internetserviceprovider,
-VN,18,+84220XXXXXXX,geographic,
-VN,15,+842163XXXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,22,+84225336XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,16,+842182XXXXX,geographic,EVNTelecom
-VN,2,+84203XXXXXXX,geographic,
-VN,27,+8422938XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,32,+84236XXXXXXX,geographic,
-VN,19,+8422039XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,17,+842186XXXXX,geographic,Viettel Telecom
-VN,13,+84214XXXXXXX,geographic,
-VN,21,+842223XXXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,24,+842266XXXXXX,geographic,Viettel Telecom
-VN,23,+842262XXXXXX,geographic,EVNTelecom
-VN,12,+842126XXXXXX,geographic,Viettel Telecom
-VN,31,+842352XXXXXX,geographic,EVNTelecom
-VN,26,+84229XXXXXXX,geographic,
-VN,29,+8423338XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,25,+842276XXXXXX,geographic,Viettel Telecom
-VN,30,+8423437XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,28,+8423238XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,18,84220XXXXXXX,geographic,
+VN,15,842163XXXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,22,84225336XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,16,842182XXXXX,geographic,EVNTelecom
+VN,2,84203XXXXXXX,geographic,
+VN,27,8422938XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,32,84236XXXXXXX,geographic,
+VN,19,8422039XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,17,842186XXXXX,geographic,Viettel Telecom
+VN,13,84214XXXXXXX,geographic,
+VN,21,842223XXXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,24,842266XXXXXX,geographic,Viettel Telecom
+VN,23,842262XXXXXX,geographic,EVNTelecom
+VN,12,842126XXXXXX,geographic,Viettel Telecom
+VN,31,842352XXXXXX,geographic,EVNTelecom
+VN,26,84229XXXXXXX,geographic,
+VN,29,8423338XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,25,842276XXXXXX,geographic,Viettel Telecom
+VN,30,8423437XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,28,8423238XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
 VN,1,841269,internetserviceprovider,
-VN,21,+8422235XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,12,+8421262XXXXX,geographic,Viettel Telecom
-VN,24,+8422662XXXXX,geographic,Viettel Telecom
-VN,22,+84225337XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,32,+84236XXXXXXX,geographic,Viettel Telecom
-VN,2,+842032XXXXXX,geographic,EVNTelecom
-VN,31,+842353XXXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,13,+842142XXXXXX,geographic,EVNTelecom
-VN,27,+8422939XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,19,+842204XXXXXX,geographic,Vietnam Multimedia Corporation (VTC)
-VN,34,+8423739XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,23,+842263XXXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,26,+842292XXXXXX,geographic,EVNTelecom
-VN,30,+8423438XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,17,+8421862XXXX,geographic,Viettel Telecom
-VN,28,+8423239XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,21,8422235XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,12,8421262XXXXX,geographic,Viettel Telecom
+VN,24,8422662XXXXX,geographic,Viettel Telecom
+VN,22,84225337XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,32,84236XXXXXXX,geographic,Viettel Telecom
+VN,2,842032XXXXXX,geographic,EVNTelecom
+VN,31,842353XXXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,13,842142XXXXXX,geographic,EVNTelecom
+VN,27,8422939XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,19,842204XXXXXX,geographic,Vietnam Multimedia Corporation (VTC)
+VN,34,8423739XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,23,842263XXXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,26,842292XXXXXX,geographic,EVNTelecom
+VN,30,8423438XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,17,8421862XXXX,geographic,Viettel Telecom
+VN,28,8423239XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
 VN,1,84171,VoIPtelephony,
-VN,29,+8423339XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,31,+8423535XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,24,+84227XXXXXXX,geographic,
-VN,25,+8422762XXXXX,geographic,Viettel Telecom
-VN,38,+84251335XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,34,+842374XXXXXX,geographic,Vietnam Multimedia Corporation (VTC)
-VN,22,+84225338XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,2,+842033XXXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,26,+842293XXXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,21,+8422236XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,17,+84219XXXXXXX,geographic,
-VN,1,+841800XXXX(XX),freephone,
-VN,27,+842294XXXXXX,geographic,Vietnam Multimedia Corporation (VTC)
-VN,28,+842324XXXXXX,geographic,Vietnam Multimedia Corporation (VTC)
-VN,19,+842206XXXXXX,geographic,Viettel Telecom
-VN,26,+8422935XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,23,+8422635XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,30,+8423439XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,24,+842272XXXXXX,geographic,EVNTelecom
-VN,2,+8420335XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,25,+84228XXXXXXX,geographic,
-VN,32,+842362XXXXXX,geographic,EVNTelecom
-VN,29,+842334XXXXXX,geographic,Vietnam Multimedia Corporation (VTC)
-VN,38,+84251336XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,27,+842296XXXXXX,geographic,Viettel Telecom
-VN,22,+84225339XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,40,+842864XXXXXXX,geographic,Viettel Telecom
-VN,1,+841900XXXX(XX),premiumrate,
-VN,21,+8422237XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,34,+842376XXXXXX,geographic,Viettel Telecom
-VN,19,+8422062XXXXX,geographic,Viettel Telecom
-VN,24,+842273XXXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,23,+8422636XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,28,+84233XXXXXXX,geographic,
-VN,30,+842344XXXXXX,geographic,Vietnam Multimedia Corporation (VTC)
-VN,2,+8420336XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,38,+84251337XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,34,+8423762XXXXX,geographic,Viettel Telecom
-VN,29,+842336XXXXXX,geographic,Viettel Telecom
-VN,40,+84290XXXXXXX,geographic,
-VN,25,+842282XXXXXX,geographic,EVNTelecom
-VN,32,+842362XXXXXX,geographic,Viettel Telecom
-VN,33,+842364XXXXXX,geographic,Vietnam Multimedia Corporation (VTC)
-VN,31,+8423536XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,38,+84251338XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,21,+8422238XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,2,+8420337XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,29,+8423362XXXXX,geographic,Viettel Telecom
-VN,27,+8422962XXXXX,geographic,Viettel Telecom
-VN,37,+842436XXXXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,34,+84238XXXXXXX,geographic,
-VN,23,+8422637XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,24,+8422735XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,25,+842283XXXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,40,+842902XXXXXX,geographic,EVNTelecom
-VN,1,+84199XXXXXXX,mobile,Beeline NV / GTEL
-VN,31,+8423537XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,29,+84234XXXXXXX,geographic,Vietnam Multimedia Corporation (VTC)
-VN,33,+842366XXXXXX,geographic,Viettel Telecom
-VN,32,+842363XXXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,27,+84232XXXXXXX,geographic,
-VN,38,+84251339XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,24,+8422736XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,28,+842332XXXXXX,geographic,EVNTelecom
-VN,34,+84238XXXXXXXX,geographic,
-VN,37,+842437XXXXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,2,+8420338XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,46,+8429636XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,38,+842514XXXXXXX,geographic,Vietnam Multimedia Corporation (VTC)
-VN,31,+8423538XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,40,+842903XXXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,44,+8429338XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,3,+8420362XXXXX,geographic,Viettel Telecom
-VN,30,+842346XXXXXX,geographic,Viettel Telecom
-VN,41,+842906XXXXXX,geographic,Viettel Telecom
-VN,23,+8422638XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,27,+842322XXXXXX,geographic,EVNTelecom
-VN,33,+8423662XXXXX,geographic,Viettel Telecom
-VN,29,+84234XXXXXXX,geographic,
-VN,46,+8429637XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,2,+8420339XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,32,+8423635XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,39,+84283XXXXXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,3,+84204XXXXXXX,geographic,
-VN,28,+842333XXXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,45,+8429437XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,36,+842384XXXXXX,geographic,Vietnam Multimedia Corporation (VTC)
-VN,30,+8423462XXXXX,geographic,Viettel Telecom
-VN,32,+8423636XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,21,+8422239XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,29,+842342XXXXXX,geographic,EVNTelecom
-VN,31,+8423539XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,34,+842382XXXXXX,geographic,EVNTelecom
-VN,38,+842516XXXXXXX,geographic,Viettel Telecom
-VN,40,+8429035XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,25,+8422835XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,46,+8429638XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,37,+842438XXXXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,2,+842034XXXXXX,geographic,Vietnam Multimedia Corporation (VTC)
-VN,44,+8429339XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,30,+84235XXXXXXX,geographic,
-VN,24,+8422737XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,41,+8429062XXXXX,geographic,Viettel Telecom
-VN,42,+842914XXXXXX,geographic,Vietnam Multimedia Corporation (VTC)
-VN,45,+8429438XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,43,+8429239XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,4,+842046XXXXXX,geographic,Viettel Telecom
-VN,34,+842382XXXXXXX,geographic,EVNTelecom
-VN,31,+842354XXXXXX,geographic,Vietnam Multimedia Corporation (VTC)
-VN,32,+8423637XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,36,+842384XXXXXXX,geographic,Vietnam Multimedia Corporation (VTC)
-VN,3,+842042XXXXXX,geographic,EVNTelecom
-VN,40,+8429036XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,37,+842439XXXXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,28,+8423335XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,21,+842224XXXXXX,geographic,Vietnam Multimedia Corporation (VTC)
-VN,38,+84251632XXXXX,geographic,Viettel Telecom
-VN,2,+842036XXXXXX,geographic,Viettel Telecom
-VN,33,+84237XXXXXXX,geographic,
-VN,46,+8429639XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,39,+842835XXXXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,27,+842323XXXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,41,+84291XXXXXXX,geographic,
-VN,43,+842924XXXXXX,geographic,Vietnam Multimedia Corporation (VTC)
-VN,42,+842916XXXXXX,geographic,Viettel Telecom
-VN,25,+8422836XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,44,+842934XXXXXX,geographic,Vietnam Multimedia Corporation (VTC)
-VN,45,+8429439XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,39,+842836XXXXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,46,+842964XXXXXX,geographic,Vietnam Multimedia Corporation (VTC)
-VN,34,+842383XXXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,41,+842912XXXXXX,geographic,EVNTelecom
-VN,42,+8429162XXXXX,geographic,Viettel Telecom
-VN,35,+84238335XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,39,+842837XXXXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,44,+842936XXXXXX,geographic,Viettel Telecom
-VN,34,+842383XXXXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,45,+842944XXXXXX,geographic,Vietnam Multimedia Corporation (VTC)
-VN,43,+842926XXXXXX,geographic,Viettel Telecom
-VN,40,+8429037XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,47,+8429735XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,37,+84244XXXXXXXX,geographic,Vietnam Multimedia Corporation (VTC)
-VN,3,+842043XXXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,4,+8420462XXXXX,geographic,Viettel Telecom
-VN,54,+845638XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,36,+842386XXXXXX,geographic,Viettel Telecom
-VN,41,+842913XXXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,40,+8429038XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,46,+842966XXXXXX,geographic,Viettel Telecom
-VN,3,+8420435XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,32,+8423638XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,45,+842946XXXXXX,geographic,Viettel Telecom
-VN,4,+84205XXXXXXX,geographic,
-VN,39,+842838XXXXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,35,+84238336XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,47,+8429736XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,33,+842372XXXXXX,geographic,EVNTelecom
-VN,54,+845639XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,43,+8429262XXXXX,geographic,Viettel Telecom
-VN,50,+8450035XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,36,+842386XXXXXXX,geographic,Viettel Telecom
-VN,46,+8429662XXXXX,geographic,Viettel Telecom
-VN,56,+845835XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,43,+84293XXXXXXX,geographic,
-VN,39,+842839XXXXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,45,+8429462XXXXX,geographic,Viettel Telecom
-VN,4,+842052XXXXXX,geographic,EVNTelecom
-VN,41,+8429135XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,40,+8429039XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,3,+8420436XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,50,+8450036XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,33,+842373XXXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,54,+84564XXXXXX,geographic,Vietnam Multimedia Corporation (VTC)
-VN,47,+8429737XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,53,+84554XXXXXX,geographic,Vietnam Multimedia Corporation (VTC)
-VN,35,+84238337XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,42,+84292XXXXXXX,geographic,
-VN,56,+845836XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,36,+8423862XXXXX,geographic,Viettel Telecom
-VN,46,+84297XXXXXXX,geographic,
-VN,5,+842054XXXXXX,geographic,Vietnam Multimedia Corporation (VTC)
-VN,59,+846062XXXXX,geographic,Viettel Telecom
-VN,44,+8429362XXXXX,geographic,Viettel Telecom
-VN,50,+8450037XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,61,+84634XXXXXX,geographic,Vietnam Multimedia Corporation (VTC)
-VN,39,+84284XXXXXXXX,geographic,Vietnam Multimedia Corporation (VTC)
-VN,3,+8420437XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,45,+84296XXXXXXX,geographic,
-VN,60,+84626XXXXXX,geographic,Viettel Telecom
-VN,35,+84238338XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,54,+84566XXXXXX,geographic,Viettel Telecom
-VN,43,+842932XXXXXX,geographic,EVNTelecom
-VN,33,+8423735XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,53,+84556XXXXXX,geographic,Viettel Telecom
-VN,4,+842053XXXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,48,+842993XXXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,40,+842904XXXXXX,geographic,Vietnam Multimedia Corporation (VTC)
-VN,41,+8429136XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,38,+8428XXXXXXXXX,geographic,
-VN,37,+84246XXXXXXXX,geographic,Viettel Telecom
-VN,31,+842356XXXXXX,geographic,Viettel Telecom
-VN,56,+845837XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,32,+8423639XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,5,+842056XXXXXX,geographic,Viettel Telecom
-VN,46,+842972XXXXXX,geographic,EVNTelecom
-VN,42,+842922XXXXXX,geographic,EVNTelecom
-VN,55,+845737XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,50,+8450038XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,59,+8462XXXXXXX,geographic,
-VN,39,+84285XXXXXXXX,geographic,Saigon Postel Telecom (SPT)
-VN,61,+84636XXXXXX,geographic,Viettel Telecom
-VN,44,+84294XXXXXXX,geographic,
-VN,48,+8432XXXXXXX,mobile,Viettel Mobile
-VN,53,+845562XXXXX,geographic,Viettel Telecom
-VN,5,+8420562XXXXX,geographic,Viettel Telecom
-VN,54,+845662XXXXX,geographic,Viettel Telecom
-VN,36,+84238632XXXXX,geographic,Viettel Telecom
-VN,35,+84238339XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,49,+8433XXXXXXX,mobile,Viettel Mobile
-VN,47,+8429738XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,67,+84683XXXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,31,+8423562XXXXX,geographic,Viettel Telecom
-VN,46,+842973XXXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,44,+842942XXXXXX,geographic,EVNTelecom
-VN,54,+8457XXXXXXX,geographic,
-VN,55,+845738XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,49,+8434XXXXXXX,mobile,Viettel Mobile
-VN,60,+846262XXXXX,geographic,Viettel Telecom
-VN,48,+8429935XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,37,+842462XXXXXXX,geographic,Viettel Telecom
-VN,3,+8420438XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,43,+842933XXXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,36,+8424XXXXXXXXX,geographic,
-VN,4,+8420535XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,33,+8423736XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,42,+842923XXXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,45,+842962XXXXXX,geographic,EVNTelecom
-VN,38,+84282XXXXXXXX,geographic,EVNTelecom
-VN,50,+8450039XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,5,+84206XXXXXXX,geographic,
-VN,51,+845013XXXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,48,+8429936XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,58,+8460XXXXXXX,geographic,
-VN,53,+8456XXXXXXX,geographic,
-VN,41,+8429137XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,60,+8463XXXXXXX,geographic,
-VN,56,+845838XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,61,+846362XXXXX,geographic,Viettel Telecom
-VN,36,+84242XXXXXXXX,geographic,EVNTelecom
-VN,4,+8420536XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,50,+845004XXXXXX,geographic,Vietnam Multimedia Corporation (VTC)
-VN,42,+8429235XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,49,+8435XXXXXXX,mobile,Viettel Mobile
-VN,48,+8429937XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,47,+8429739XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,39,+842855XXXXXXX,geographic,Saigon Postel Telecom (SPT)
-VN,56,+845839XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,4,+8420537XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,3,+8420439XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,36,+84243XXXXXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,43,+8429335XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,54,+84572XXXXXX,geographic,EVNTelecom
-VN,51,+8450135XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,60,+84632XXXXXX,geographic,EVNTelecom
-VN,57,+84592XXXXXX,geographic,EVNTelecom
-VN,35,+8423835XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,47,+842974XXXXXX,geographic,Vietnam Multimedia Corporation (VTC)
-VN,36,+842435XXXXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,55,+845739XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,42,+8429236XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,37,+84251XXXXXXXX,geographic,
-VN,4,+8420538XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,5,+842062XXXXXX,geographic,EVNTelecom
-VN,41,+8429138XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,45,+842963XXXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,58,+84602XXXXXX,geographic,EVNTelecom
-VN,59,+84622XXXXXX,geographic,EVNTelecom
-VN,49,+8436XXXXXXX,mobile,Viettel Mobile
-VN,67,+846835XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,44,+842943XXXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,50,+845006XXXXXX,geographic,Viettel Telecom
-VN,57,+84593XXXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,61,+8464XXXXXXX,geographic,
-VN,53,+84562XXXXXX,geographic,EVNTelecom
-VN,51,+8450136XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,45,+8429635XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,43,+8429336XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,3,+842044XXXXXX,geographic,Vietnam Multimedia Corporation (VTC)
-VN,42,+8429237XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,64,+8465137XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,33,+8423737XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,5,+842063XXXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,66,+846735XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,67,+846836XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,71,+847339XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,61,+84642XXXXXX,geographic,EVNTelecom
-VN,48,+8429938XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,54,+84573XXXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,60,+84633XXXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,49,+8437XXXXXXX,mobile,Viettel Mobile
-VN,56,+84584XXXXXX,geographic,Vietnam Multimedia Corporation (VTC)
-VN,51,+8450137XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,53,+84563XXXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,44,+8429435XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,41,+8429139XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,43,+8429337XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,58,+84603XXXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,39,+84286XXXXXXXX,geographic,Viettel Telecom
-VN,5,+8420635XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,42,+8429238XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,56,+84586XXXXXX,geographic,Viettel Telecom
-VN,65,+846636XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,50,+8450062XXXXX,geographic,Viettel Telecom
-VN,67,+846837XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,54,+845735XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,61,+84643XXXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,57,+845935XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,51,+8450138XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,53,+845635XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,60,+846335XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,71,+84734XXXXXX,geographic,Vietnam Multimedia Corporation (VTC)
-VN,35,+8423836XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,64,+8465138XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,47,+842976XXXXXX,geographic,Viettel Telecom
-VN,37,+842512XXXXXXX,geographic,EVNTelecom
-VN,49,+8438XXXXXXX,mobile,Viettel Mobile
-VN,58,+846035XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,49,+8439XXXXXXX,mobile,Viettel Mobile
-VN,44,+8429436XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,66,+846736XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,64,+8465139XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,56,+845862XXXXX,geographic,Viettel Telecom
-VN,69,+84706XXXXXX,geographic,Viettel Telecom
-VN,54,+845736XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,50,+84501XXXXXXX,geographic,
-VN,51,+8450139XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,59,+84623XXXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,58,+846036XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,51,+8452XXXXXXX,mobile,Vietnamobile
-VN,35,+8423837XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,65,+846637XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,61,+846435XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,53,+8456XXXXXXX,mobile,Vietnamobile
-VN,55,+8458XXXXXXX,mobile,Vietnamobile
-VN,66,+846737XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,69,+847062XXXXX,geographic,Viettel Telecom
-VN,53,+845636XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,64,+846514XXXXXX,geographic,Vietnam Multimedia Corporation (VTC)
-VN,59,+846235XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,5,+8420636XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,55,+84574XXXXXX,geographic,Vietnam Multimedia Corporation (VTC)
-VN,37,+842513XXXXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,58,+846037XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,50,+845012XXXXXX,geographic,EVNTelecom
-VN,57,+845936XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,35,+8423838XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,60,+846336XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,63,+8465038XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,48,+8429939XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,52,+84526XXXXXX,geographic,Viettel Telecom
-VN,33,+8423738XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,59,+846236XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,62,+846439XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,61,+846436XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,5,+8420637XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,56,+8459XXXXXXX,geographic,
-VN,51,+845014XXXXXX,geographic,Vietnam Multimedia Corporation (VTC)
-VN,53,+845637XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,57,+845937XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,35,+8423839XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,71,+84736XXXXXX,geographic,Viettel Telecom
-VN,47,+8429762XXXXX,geographic,Viettel Telecom
-VN,63,+8465039XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,6,+8420639XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,4,+8420539XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,65,+846638XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,67,+846838XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,52,+845262XXXXX,geographic,Viettel Telecom
-VN,69,+8472XXXXXXX,geographic,
-VN,48,+842994XXXXXX,geographic,Vietnam Multimedia Corporation (VTC)
-VN,59,+846237XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,57,+845938XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,71,+847362XXXXX,geographic,Viettel Telecom
-VN,60,+846337XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,58,+846038XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,67,+846839XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,49,+84500XXXXXXX,geographic,
-VN,52,+8455XXXXXXX,geographic,
-VN,62,+84644XXXXXX,geographic,Vietnam Multimedia Corporation (VTC)
-VN,5,+8420638XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,56,+8459XXXXXXX,mobile,Gmobile
-VN,64,+846516XXXXXX,geographic,Viettel Telecom
-VN,6,+842064XXXXXX,geographic,Vietnam Multimedia Corporation (VTC)
-VN,47,+84299XXXXXXX,geographic,
-VN,63,+846504XXXXXX,geographic,Vietnam Multimedia Corporation (VTC)
-VN,48,+842996XXXXXX,geographic,Viettel Telecom
-VN,67,+84684XXXXXX,geographic,Vietnam Multimedia Corporation (VTC)
-VN,61,+846437XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,66,+846738XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,69,+84722XXXXXX,geographic,EVNTelecom
-VN,51,+845016XXXXXX,geographic,Viettel Telecom
-VN,55,+84576XXXXXX,geographic,Viettel Telecom
-VN,57,+845939XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,68,+8470XXXXXXX,mobile,Vietnam Mobile Telecom Services Company (MobiFone)
-VN,59,+846238XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,63,+846506XXXXXX,geographic,Viettel Telecom
-VN,49,+845002XXXXXX,geographic,EVNTelecom
-VN,48,+8429962XXXXX,geographic,Viettel Telecom
-VN,62,+84646XXXXXX,geographic,Viettel Telecom
-VN,67,+84686XXXXXX,geographic,Viettel Telecom
-VN,6,+842066XXXXXX,geographic,Viettel Telecom
-VN,72,+8476XXXXXXX,mobile,Vietnam Mobile Telecom Services Company (MobiFone)
-VN,66,+846739XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,69,+84723XXXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,52,+84552XXXXXX,geographic,EVNTelecom
-VN,47,+842992XXXXXX,geographic,EVNTelecom
-VN,58,+846039XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,65,+846639XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,61,+846438XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,57,+84594XXXXXX,geographic,Vietnam Multimedia Corporation (VTC)
-VN,64,+8465162XXXXX,geographic,Viettel Telecom
-VN,63,+8465062XXXXX,geographic,Viettel Telecom
-VN,72,+847538XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,55,+845762XXXXX,geographic,Viettel Telecom
-VN,69,+847235XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,6,+8420662XXXXX,geographic,Viettel Telecom
-VN,51,+8450162XXXXX,geographic,Viettel Telecom
-VN,72,+8477XXXXXXX,mobile,Vietnam Mobile Telecom Services Company (MobiFone)
-VN,52,+84553XXXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,59,+846239XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,68,+8470XXXXXXX,geographic,
-VN,66,+84674XXXXXX,geographic,Vietnam Multimedia Corporation (VTC)
-VN,72,+8478XXXXXXX,mobile,Vietnam Mobile Telecom Services Company (MobiFone)
-VN,70,+84724XXXXXX,geographic,Vietnam Multimedia Corporation (VTC)
-VN,72,+8479XXXXXXX,mobile,Vietnam Mobile Telecom Services Company (MobiFone)
-VN,71,+8475XXXXXXX,geographic,
-VN,73,+8481XXXXXXX,mobile,Vietnam Telecom Services Company (Vinaphone)
-VN,58,+84604XXXXXX,geographic,Vietnam Multimedia Corporation (VTC)
-VN,64,+8466XXXXXXX,geographic,
-VN,60,+846338XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,73,+8482XXXXXXX,mobile,Vietnam Telecom Services Company (Vinaphone)
-VN,71,+84752XXXXXX,geographic,EVNTelecom
-VN,73,+8483XXXXXXX,mobile,Vietnam Telecom Services Company (Vinaphone)
-VN,59,+84624XXXXXX,geographic,Vietnam Multimedia Corporation (VTC)
-VN,69,+847236XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,67,+846862XXXXX,geographic,Viettel Telecom
-VN,62,+846462XXXXX,geographic,Viettel Telecom
-VN,52,+845535XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,57,+84596XXXXXX,geographic,Viettel Telecom
-VN,73,+8484XXXXXXX,mobile,Vietnam Telecom Services Company (Vinaphone)
-VN,70,+84726XXXXXX,geographic,Viettel Telecom
-VN,9,+8420936XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,6,+84207XXXXXXX,geographic,
-VN,65,+84664XXXXXX,geographic,Vietnam Multimedia Corporation (VTC)
-VN,73,+8485XXXXXXX,mobile,Vietnam Telecom Services Company (Vinaphone)
-VN,73,+8486XXXXXXX,mobile,Viettel Mobile
-VN,68,+84702XXXXXX,geographic,EVNTelecom
-VN,73,+8488XXXXXXX,mobile,Vietnam Telecom Services Company (Vinaphone)
-VN,55,+8458XXXXXXX,geographic,
-VN,62,+84650XXXXXXX,geographic,
-VN,66,+84676XXXXXX,geographic,Viettel Telecom
-VN,9,+8420937XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,63,+84651XXXXXXX,geographic,
-VN,73,+8489XXXXXXX,mobile,Vietnam Mobile Telecom Services Company (MobiFone)
-VN,71,+84753XXXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,58,+84606XXXXXX,geographic,Viettel Telecom
-VN,70,+847262XXXXX,geographic,Viettel Telecom
-VN,69,+847237XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,57,+845962XXXXX,geographic,Viettel Telecom
-VN,52,+845536XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,60,+846339XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,73,+8490XXXXXXX,mobile,Vietnam Mobile Telecom Services Company (MobiFone)
-VN,74,+849030XXXXX,mobile,Vietnam Mobile Telecom Services Company (MobiFone)
-VN,67,+8469XXXXX(X),virtualprivatenetwork,Home Affairs and Defence Ministry
-VN,74,+849031XXXXX,mobile,Vietnam Mobile Telecom Services Company (MobiFone)
-VN,74,+849032XXXXX,mobile,Vietnam Mobile Telecom Services Company (MobiFone)
-VN,55,+84582XXXXXX,geographic,EVNTelecom
-VN,9,+8420938XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,74,+849033XXXXX,mobile,Vietnam Mobile Telecom Services Company (MobiFone)
-VN,69,+847238XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,68,+84703XXXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,71,+847535XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,72,+847539XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,6,+842072XXXXXX,geographic,EVNTelecom
-VN,64,+84662XXXXXX,geographic,EVNTelecom
-VN,73,+8480XXXXX,nationalgeographic,Central Post & Telecom Division
-VN,74,+849034XXXXX,mobile,Vietnam Mobile Telecom Services Company (MobiFone)
-VN,52,+845537XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,74,+849035XXXXX,mobile,Vietnam Mobile Telecom Services Company (MobiFone)
-VN,74,+849036XXXXX,mobile,Vietnam Mobile Telecom Services Company (MobiFone)
-VN,49,+845003XXXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,66,+846762XXXXX,geographic,Viettel Telecom
-VN,74,+849037XXXXX,mobile,Vietnam Mobile Telecom Services Company (MobiFone)
-VN,55,+84583XXXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,63,+846512XXXXXX,geographic,EVNTelecom
-VN,74,+849038XXXXX,mobile,Vietnam Mobile Telecom Services Company (MobiFone)
-VN,74,+849039XXXXX,mobile,Vietnam Mobile Telecom Services Company (MobiFone)
-VN,69,+847239XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,7,+8420738XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,6,+842073XXXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,75,+849040XXXXX,mobile,Vietnam Mobile Telecom Services Company (MobiFone)
-VN,70,+8473XXXXXXX,geographic,
-VN,75,+849041XXXXX,mobile,Vietnam Mobile Telecom Services Company (MobiFone)
-VN,72,+84754XXXXXX,geographic,Vietnam Multimedia Corporation (VTC)
-VN,52,+845538XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,65,+84666XXXXXX,geographic,Viettel Telecom
-VN,66,+8468XXXXXXX,geographic,
-VN,75,+849042XXXXX,mobile,Vietnam Mobile Telecom Services Company (MobiFone)
-VN,71,+847536XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,9,+8420939XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,75,+849043XXXXX,mobile,Vietnam Mobile Telecom Services Company (MobiFone)
-VN,75,+849044XXXXX,mobile,Vietnam Mobile Telecom Services Company (MobiFone)
-VN,75,+849050XXXXX,mobile,Vietnam Mobile Telecom Services Company (MobiFone)
-VN,62,+846502XXXXXX,geographic,EVNTelecom
-VN,68,+847035XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,64,+84663XXXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,75,+849051XXXXX,mobile,Vietnam Mobile Telecom Services Company (MobiFone)
-VN,6,+8420735XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,66,+84682XXXXXX,geographic,EVNTelecom
-VN,75,+849052XXXXX,mobile,Vietnam Mobile Telecom Services Company (MobiFone)
-VN,75,+849080XXXXX,mobile,Vietnam Mobile Telecom Services Company (MobiFone)
-VN,72,+84756XXXXXX,geographic,Viettel Telecom
-VN,75,+849081XXXXX,mobile,Vietnam Mobile Telecom Services Company (MobiFone)
-VN,64,+846635XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,70,+84732XXXXXX,geographic,EVNTelecom
-VN,62,+846503XXXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,68,+847036XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,8,+8420837XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,76,+849082XXXXX,mobile,Vietnam Mobile Telecom Services Company (MobiFone)
-VN,76,+849083XXXXX,mobile,Vietnam Mobile Telecom Services Company (MobiFone)
-VN,76,+849084XXXXX,mobile,Vietnam Mobile Telecom Services Company (MobiFone)
-VN,76,+849085XXXXX,mobile,Vietnam Mobile Telecom Services Company (MobiFone)
-VN,76,+849086XXXXX,mobile,Vietnam Mobile Telecom Services Company (MobiFone)
-VN,63,+846513XXXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,76,+849087XXXXX,mobile,Vietnam Mobile Telecom Services Company (MobiFone)
-VN,7,+8420739XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,6,+8420736XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,76,+849088XXXXX,mobile,Vietnam Mobile Telecom Services Company (MobiFone)
-VN,76,+849089XXXXX,mobile,Vietnam Mobile Telecom Services Company (MobiFone)
-VN,65,+846662XXXXX,geographic,Viettel Telecom
-VN,9,+842094XXXXXX,geographic,Vietnam Multimedia Corporation (VTC)
-VN,52,+845539XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,76,+849090XXXXX,mobile,Vietnam Mobile Telecom Services Company (MobiFone)
-VN,76,+849091XXXXX,mobile,Vietnam Mobile Telecom Services Company (MobiFone)
-VN,71,+847537XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,77,+849092XXXXX,mobile,Vietnam Mobile Telecom Services Company (MobiFone)
-VN,72,+847562XXXXX,geographic,Viettel Telecom
-VN,62,+8465035XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,77,+849093XXXXX,mobile,Vietnam Mobile Telecom Services Company (MobiFone)
-VN,77,+849094XXXXX,mobile,Vietnam Mobile Telecom Services Company (MobiFone)
-VN,77,+849095XXXXX,mobile,Vietnam Mobile Telecom Services Company (MobiFone)
-VN,77,+849096XXXXX,mobile,Vietnam Mobile Telecom Services Company (MobiFone)
-VN,77,+849097XXXXX,mobile,Vietnam Mobile Telecom Services Company (MobiFone)
-VN,77,+849098XXXXX,mobile,Vietnam Mobile Telecom Services Company (MobiFone)
-VN,63,+8465135XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,77,+849099XXXXX,mobile,Vietnam Mobile Telecom Services Company (MobiFone)
-VN,77,+849120XXXXX,mobile,Vietnam Telecom Services Company (Vinaphone)
-VN,77,+8491XXXXXXX,mobile,Vietnam Telecom Services Company (Vinaphone)
-VN,78,+849121XXXXX,mobile,Vietnam Telecom Services Company (Vinaphone)
-VN,7,+842074XXXXXX,geographic,Vietnam Multimedia Corporation (VTC)
-VN,62,+8465036XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,78,+849122XXXXX,mobile,Vietnam Telecom Services Company (Vinaphone)
-VN,78,+849123XXXXX,mobile,Vietnam Telecom Services Company (Vinaphone)
-VN,68,+847037XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,70,+84733XXXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,78,+849124XXXXX,mobile,Vietnam Telecom Services Company (Vinaphone)
-VN,63,+8465136XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,78,+849125XXXXX,mobile,Vietnam Telecom Services Company (Vinaphone)
-VN,78,+849126XXXXX,mobile,Vietnam Telecom Services Company (Vinaphone)
-VN,78,+849127XXXXX,mobile,Vietnam Telecom Services Company (Vinaphone)
-VN,78,+849128XXXXX,mobile,Vietnam Telecom Services Company (Vinaphone)
-VN,8,+8420838XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,78,+849129XXXXX,mobile,Vietnam Telecom Services Company (Vinaphone)
-VN,6,+8420737XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,7,+842076XXXXXX,geographic,Viettel Telecom
-VN,78,+849130XXXXX,mobile,Vietnam Telecom Services Company (Vinaphone)
-VN,70,+847335XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,79,+849131XXXXX,mobile,Vietnam Telecom Services Company (Vinaphone)
-VN,68,+847038XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,79,+849132XXXXX,mobile,Vietnam Telecom Services Company (Vinaphone)
-VN,79,+849133XXXXX,mobile,Vietnam Telecom Services Company (Vinaphone)
-VN,62,+8465037XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,65,+8467XXXXXXX,geographic,
-VN,79,+849134XXXXX,mobile,Vietnam Telecom Services Company (Vinaphone)
-VN,79,+849135XXXXX,mobile,Vietnam Telecom Services Company (Vinaphone)
-VN,79,+849136XXXXX,mobile,Vietnam Telecom Services Company (Vinaphone)
-VN,79,+849137XXXXX,mobile,Vietnam Telecom Services Company (Vinaphone)
-VN,79,+849138XXXXX,mobile,Vietnam Telecom Services Company (Vinaphone)
-VN,79,+849139XXXXX,mobile,Vietnam Telecom Services Company (Vinaphone)
-VN,79,+849140XXXXX,mobile,Vietnam Telecom Services Company (Vinaphone)
-VN,80,+849141XXXXX,mobile,Vietnam Telecom Services Company (Vinaphone)
-VN,80,+849142XXXXX,mobile,Vietnam Telecom Services Company (Vinaphone)
-VN,70,+847336XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,80,+849143XXXXX,mobile,Vietnam Telecom Services Company (Vinaphone)
-VN,80,+849150XXXXX,mobile,Vietnam Telecom Services Company (Vinaphone)
-VN,80,+849151XXXXX,mobile,Vietnam Telecom Services Company (Vinaphone)
-VN,7,+8420762XXXXX,geographic,Viettel Telecom
-VN,80,+849152XXXXX,mobile,Vietnam Telecom Services Company (Vinaphone)
-VN,80,+849153XXXXX,mobile,Vietnam Telecom Services Company (Vinaphone)
-VN,80,+849154XXXXX,mobile,Vietnam Telecom Services Company (Vinaphone)
-VN,65,+84672XXXXXX,geographic,EVNTelecom
-VN,80,+849180XXXXX,mobile,Vietnam Telecom Services Company (Vinaphone)
-VN,8,+8420839XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,80,+849181XXXXX,mobile,Vietnam Telecom Services Company (Vinaphone)
-VN,81,+849182XXXXX,mobile,Vietnam Telecom Services Company (Vinaphone)
-VN,68,+847039XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,81,+849183XXXXX,mobile,Vietnam Telecom Services Company (Vinaphone)
-VN,81,+849184XXXXX,mobile,Vietnam Telecom Services Company (Vinaphone)
-VN,81,+849185XXXXX,mobile,Vietnam Telecom Services Company (Vinaphone)
-VN,81,+849186XXXXX,mobile,Vietnam Telecom Services Company (Vinaphone)
-VN,81,+849187XXXXX,mobile,Vietnam Telecom Services Company (Vinaphone)
-VN,81,+849188XXXXX,mobile,Vietnam Telecom Services Company (Vinaphone)
-VN,81,+849189XXXXX,mobile,Vietnam Telecom Services Company (Vinaphone)
-VN,81,+849190XXXXX,mobile,Vietnam Telecom Services Company (Vinaphone)
-VN,81,+849191XXXXX,mobile,Vietnam Telecom Services Company (Vinaphone)
-VN,82,+849192XXXXX,mobile,Vietnam Telecom Services Company (Vinaphone)
-VN,82,+849193XXXXX,mobile,Vietnam Telecom Services Company (Vinaphone)
-VN,70,+847337XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,8,+842084XXXXXX,geographic,Vietnam Multimedia Corporation (VTC)
-VN,68,+84704XXXXXX,geographic,Vietnam Multimedia Corporation (VTC)
-VN,82,+849194XXXXX,mobile,Vietnam Telecom Services Company (Vinaphone)
-VN,82,+849195XXXXX,mobile,Vietnam Telecom Services Company (Vinaphone)
-VN,82,+849196XXXXX,mobile,Vietnam Telecom Services Company (Vinaphone)
-VN,82,+849197XXXXX,mobile,Vietnam Telecom Services Company (Vinaphone)
-VN,82,+849198XXXXX,mobile,Vietnam Telecom Services Company (Vinaphone)
-VN,82,+849199XXXXX,mobile,Vietnam Telecom Services Company (Vinaphone)
-VN,82,+8492XXXXXXX,mobile,Vietnamobile (CDMA)
-VN,82,+8493XXXXXXX,mobile,Vietnam Mobile Telecom Services Company (MobiFone)
-VN,9,+842096XXXXXX,geographic,Viettel Telecom
-VN,83,+8494XXXXXXX,mobile,Vietnam Telecom Services Company (Vinaphone)
-VN,83,+8495XXXXXXX,mobile,S-Fone (CDMA)
-VN,83,+8496XXXXXXX,mobile,Viettel Mobile
-VN,83,+8497XXXXXXX,mobile,Viettel Mobile
-VN,83,+8498XXXXXXX,mobile,Viettel Mobile
-VN,83,+84993XXXXXX,mobile,Gmobile
-VN,83,+84994XXXXXX,mobile,Gmobile
-VN,83,+84995XXXXXX,mobile,Gmobile
-VN,83,+84996XXXXXX,mobile,Gmobile
-VN,84,+84997XXXXXX,mobile,Gmobile
-VN,72,+84799XXXX,virtualprivatenetwork,Foreign Affairs Ministry (PABX)
-VN,70,+847338XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,65,+84673XXXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,8,+842086XXXXXX,geographic,Viettel Telecom
-VN,9,+8420962XXXXX,geographic,Viettel Telecom
-VN,83,+84992XXXXXX,satellite,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,8,+8420862XXXXX,geographic,Viettel Telecom
-VN,7,+84208XXXXXXX,geographic,
-VN,9,+84210XXXXXXX,geographic,
-VN,8,+84209XXXXXXX,geographic,
-VN,9,+842102XXXXXX,geographic,EVNTelecom
-VN,8,+842092XXXXXX,geographic,EVNTelecom
-VN,7,+842082XXXXXX,geographic,EVNTelecom
-VN,9,+842103XXXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,8,+842093XXXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,7,+842083XXXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,8,+8420935XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,7,+8420835XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
-VN,7,+8420836XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,29,8423339XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,31,8423535XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,24,84227XXXXXXX,geographic,
+VN,25,8422762XXXXX,geographic,Viettel Telecom
+VN,38,84251335XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,34,842374XXXXXX,geographic,Vietnam Multimedia Corporation (VTC)
+VN,22,84225338XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,2,842033XXXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,26,842293XXXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,21,8422236XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,17,84219XXXXXXX,geographic,
+VN,1,841800XXXX(XX),freephone,
+VN,27,842294XXXXXX,geographic,Vietnam Multimedia Corporation (VTC)
+VN,28,842324XXXXXX,geographic,Vietnam Multimedia Corporation (VTC)
+VN,19,842206XXXXXX,geographic,Viettel Telecom
+VN,26,8422935XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,23,8422635XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,30,8423439XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,24,842272XXXXXX,geographic,EVNTelecom
+VN,2,8420335XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,25,84228XXXXXXX,geographic,
+VN,32,842362XXXXXX,geographic,EVNTelecom
+VN,29,842334XXXXXX,geographic,Vietnam Multimedia Corporation (VTC)
+VN,38,84251336XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,27,842296XXXXXX,geographic,Viettel Telecom
+VN,22,84225339XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,40,842864XXXXXXX,geographic,Viettel Telecom
+VN,1,841900XXXX(XX),premiumrate,
+VN,21,8422237XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,34,842376XXXXXX,geographic,Viettel Telecom
+VN,19,8422062XXXXX,geographic,Viettel Telecom
+VN,24,842273XXXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,23,8422636XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,28,84233XXXXXXX,geographic,
+VN,30,842344XXXXXX,geographic,Vietnam Multimedia Corporation (VTC)
+VN,2,8420336XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,38,84251337XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,34,8423762XXXXX,geographic,Viettel Telecom
+VN,29,842336XXXXXX,geographic,Viettel Telecom
+VN,40,84290XXXXXXX,geographic,
+VN,25,842282XXXXXX,geographic,EVNTelecom
+VN,32,842362XXXXXX,geographic,Viettel Telecom
+VN,33,842364XXXXXX,geographic,Vietnam Multimedia Corporation (VTC)
+VN,31,8423536XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,38,84251338XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,21,8422238XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,2,8420337XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,29,8423362XXXXX,geographic,Viettel Telecom
+VN,27,8422962XXXXX,geographic,Viettel Telecom
+VN,37,842436XXXXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,34,84238XXXXXXX,geographic,
+VN,23,8422637XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,24,8422735XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,25,842283XXXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,40,842902XXXXXX,geographic,EVNTelecom
+VN,1,84199XXXXXXX,mobile,Beeline NV / GTEL
+VN,31,8423537XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,29,84234XXXXXXX,geographic,Vietnam Multimedia Corporation (VTC)
+VN,33,842366XXXXXX,geographic,Viettel Telecom
+VN,32,842363XXXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,27,84232XXXXXXX,geographic,
+VN,38,84251339XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,24,8422736XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,28,842332XXXXXX,geographic,EVNTelecom
+VN,34,84238XXXXXXXX,geographic,
+VN,37,842437XXXXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,2,8420338XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,46,8429636XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,38,842514XXXXXXX,geographic,Vietnam Multimedia Corporation (VTC)
+VN,31,8423538XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,40,842903XXXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,44,8429338XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,3,8420362XXXXX,geographic,Viettel Telecom
+VN,30,842346XXXXXX,geographic,Viettel Telecom
+VN,41,842906XXXXXX,geographic,Viettel Telecom
+VN,23,8422638XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,27,842322XXXXXX,geographic,EVNTelecom
+VN,33,8423662XXXXX,geographic,Viettel Telecom
+VN,29,84234XXXXXXX,geographic,
+VN,46,8429637XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,2,8420339XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,32,8423635XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,39,84283XXXXXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,3,84204XXXXXXX,geographic,
+VN,28,842333XXXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,45,8429437XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,36,842384XXXXXX,geographic,Vietnam Multimedia Corporation (VTC)
+VN,30,8423462XXXXX,geographic,Viettel Telecom
+VN,32,8423636XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,21,8422239XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,29,842342XXXXXX,geographic,EVNTelecom
+VN,31,8423539XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,34,842382XXXXXX,geographic,EVNTelecom
+VN,38,842516XXXXXXX,geographic,Viettel Telecom
+VN,40,8429035XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,25,8422835XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,46,8429638XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,37,842438XXXXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,2,842034XXXXXX,geographic,Vietnam Multimedia Corporation (VTC)
+VN,44,8429339XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,30,84235XXXXXXX,geographic,
+VN,24,8422737XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,41,8429062XXXXX,geographic,Viettel Telecom
+VN,42,842914XXXXXX,geographic,Vietnam Multimedia Corporation (VTC)
+VN,45,8429438XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,43,8429239XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,4,842046XXXXXX,geographic,Viettel Telecom
+VN,34,842382XXXXXXX,geographic,EVNTelecom
+VN,31,842354XXXXXX,geographic,Vietnam Multimedia Corporation (VTC)
+VN,32,8423637XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,36,842384XXXXXXX,geographic,Vietnam Multimedia Corporation (VTC)
+VN,3,842042XXXXXX,geographic,EVNTelecom
+VN,40,8429036XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,37,842439XXXXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,28,8423335XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,21,842224XXXXXX,geographic,Vietnam Multimedia Corporation (VTC)
+VN,38,84251632XXXXX,geographic,Viettel Telecom
+VN,2,842036XXXXXX,geographic,Viettel Telecom
+VN,33,84237XXXXXXX,geographic,
+VN,46,8429639XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,39,842835XXXXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,27,842323XXXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,41,84291XXXXXXX,geographic,
+VN,43,842924XXXXXX,geographic,Vietnam Multimedia Corporation (VTC)
+VN,42,842916XXXXXX,geographic,Viettel Telecom
+VN,25,8422836XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,44,842934XXXXXX,geographic,Vietnam Multimedia Corporation (VTC)
+VN,45,8429439XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,39,842836XXXXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,46,842964XXXXXX,geographic,Vietnam Multimedia Corporation (VTC)
+VN,34,842383XXXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,41,842912XXXXXX,geographic,EVNTelecom
+VN,42,8429162XXXXX,geographic,Viettel Telecom
+VN,35,84238335XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,39,842837XXXXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,44,842936XXXXXX,geographic,Viettel Telecom
+VN,34,842383XXXXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,45,842944XXXXXX,geographic,Vietnam Multimedia Corporation (VTC)
+VN,43,842926XXXXXX,geographic,Viettel Telecom
+VN,40,8429037XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,47,8429735XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,37,84244XXXXXXXX,geographic,Vietnam Multimedia Corporation (VTC)
+VN,3,842043XXXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,4,8420462XXXXX,geographic,Viettel Telecom
+VN,54,845638XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,36,842386XXXXXX,geographic,Viettel Telecom
+VN,41,842913XXXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,40,8429038XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,46,842966XXXXXX,geographic,Viettel Telecom
+VN,3,8420435XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,32,8423638XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,45,842946XXXXXX,geographic,Viettel Telecom
+VN,4,84205XXXXXXX,geographic,
+VN,39,842838XXXXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,35,84238336XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,47,8429736XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,33,842372XXXXXX,geographic,EVNTelecom
+VN,54,845639XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,43,8429262XXXXX,geographic,Viettel Telecom
+VN,50,8450035XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,36,842386XXXXXXX,geographic,Viettel Telecom
+VN,46,8429662XXXXX,geographic,Viettel Telecom
+VN,56,845835XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,43,84293XXXXXXX,geographic,
+VN,39,842839XXXXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,45,8429462XXXXX,geographic,Viettel Telecom
+VN,4,842052XXXXXX,geographic,EVNTelecom
+VN,41,8429135XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,40,8429039XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,3,8420436XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,50,8450036XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,33,842373XXXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,54,84564XXXXXX,geographic,Vietnam Multimedia Corporation (VTC)
+VN,47,8429737XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,53,84554XXXXXX,geographic,Vietnam Multimedia Corporation (VTC)
+VN,35,84238337XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,42,84292XXXXXXX,geographic,
+VN,56,845836XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,36,8423862XXXXX,geographic,Viettel Telecom
+VN,46,84297XXXXXXX,geographic,
+VN,5,842054XXXXXX,geographic,Vietnam Multimedia Corporation (VTC)
+VN,59,846062XXXXX,geographic,Viettel Telecom
+VN,44,8429362XXXXX,geographic,Viettel Telecom
+VN,50,8450037XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,61,84634XXXXXX,geographic,Vietnam Multimedia Corporation (VTC)
+VN,39,84284XXXXXXXX,geographic,Vietnam Multimedia Corporation (VTC)
+VN,3,8420437XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,45,84296XXXXXXX,geographic,
+VN,60,84626XXXXXX,geographic,Viettel Telecom
+VN,35,84238338XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,54,84566XXXXXX,geographic,Viettel Telecom
+VN,43,842932XXXXXX,geographic,EVNTelecom
+VN,33,8423735XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,53,84556XXXXXX,geographic,Viettel Telecom
+VN,4,842053XXXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,48,842993XXXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,40,842904XXXXXX,geographic,Vietnam Multimedia Corporation (VTC)
+VN,41,8429136XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,38,8428XXXXXXXXX,geographic,
+VN,37,84246XXXXXXXX,geographic,Viettel Telecom
+VN,31,842356XXXXXX,geographic,Viettel Telecom
+VN,56,845837XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,32,8423639XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,5,842056XXXXXX,geographic,Viettel Telecom
+VN,46,842972XXXXXX,geographic,EVNTelecom
+VN,42,842922XXXXXX,geographic,EVNTelecom
+VN,55,845737XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,50,8450038XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,59,8462XXXXXXX,geographic,
+VN,39,84285XXXXXXXX,geographic,Saigon Postel Telecom (SPT)
+VN,61,84636XXXXXX,geographic,Viettel Telecom
+VN,44,84294XXXXXXX,geographic,
+VN,48,8432XXXXXXX,mobile,Viettel Mobile
+VN,53,845562XXXXX,geographic,Viettel Telecom
+VN,5,8420562XXXXX,geographic,Viettel Telecom
+VN,54,845662XXXXX,geographic,Viettel Telecom
+VN,36,84238632XXXXX,geographic,Viettel Telecom
+VN,35,84238339XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,49,8433XXXXXXX,mobile,Viettel Mobile
+VN,47,8429738XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,67,84683XXXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,31,8423562XXXXX,geographic,Viettel Telecom
+VN,46,842973XXXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,44,842942XXXXXX,geographic,EVNTelecom
+VN,54,8457XXXXXXX,geographic,
+VN,55,845738XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,49,8434XXXXXXX,mobile,Viettel Mobile
+VN,60,846262XXXXX,geographic,Viettel Telecom
+VN,48,8429935XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,37,842462XXXXXXX,geographic,Viettel Telecom
+VN,3,8420438XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,43,842933XXXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,36,8424XXXXXXXXX,geographic,
+VN,4,8420535XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,33,8423736XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,42,842923XXXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,45,842962XXXXXX,geographic,EVNTelecom
+VN,38,84282XXXXXXXX,geographic,EVNTelecom
+VN,50,8450039XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,5,84206XXXXXXX,geographic,
+VN,51,845013XXXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,48,8429936XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,58,8460XXXXXXX,geographic,
+VN,53,8456XXXXXXX,geographic,
+VN,41,8429137XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,60,8463XXXXXXX,geographic,
+VN,56,845838XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,61,846362XXXXX,geographic,Viettel Telecom
+VN,36,84242XXXXXXXX,geographic,EVNTelecom
+VN,4,8420536XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,50,845004XXXXXX,geographic,Vietnam Multimedia Corporation (VTC)
+VN,42,8429235XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,49,8435XXXXXXX,mobile,Viettel Mobile
+VN,48,8429937XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,47,8429739XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,39,842855XXXXXXX,geographic,Saigon Postel Telecom (SPT)
+VN,56,845839XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,4,8420537XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,3,8420439XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,36,84243XXXXXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,43,8429335XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,54,84572XXXXXX,geographic,EVNTelecom
+VN,51,8450135XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,60,84632XXXXXX,geographic,EVNTelecom
+VN,57,84592XXXXXX,geographic,EVNTelecom
+VN,35,8423835XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,47,842974XXXXXX,geographic,Vietnam Multimedia Corporation (VTC)
+VN,36,842435XXXXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,55,845739XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,42,8429236XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,37,84251XXXXXXXX,geographic,
+VN,4,8420538XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,5,842062XXXXXX,geographic,EVNTelecom
+VN,41,8429138XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,45,842963XXXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,58,84602XXXXXX,geographic,EVNTelecom
+VN,59,84622XXXXXX,geographic,EVNTelecom
+VN,49,8436XXXXXXX,mobile,Viettel Mobile
+VN,67,846835XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,44,842943XXXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,50,845006XXXXXX,geographic,Viettel Telecom
+VN,57,84593XXXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,61,8464XXXXXXX,geographic,
+VN,53,84562XXXXXX,geographic,EVNTelecom
+VN,51,8450136XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,45,8429635XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,43,8429336XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,3,842044XXXXXX,geographic,Vietnam Multimedia Corporation (VTC)
+VN,42,8429237XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,64,8465137XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,33,8423737XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,5,842063XXXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,66,846735XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,67,846836XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,71,847339XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,61,84642XXXXXX,geographic,EVNTelecom
+VN,48,8429938XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,54,84573XXXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,60,84633XXXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,49,8437XXXXXXX,mobile,Viettel Mobile
+VN,56,84584XXXXXX,geographic,Vietnam Multimedia Corporation (VTC)
+VN,51,8450137XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,53,84563XXXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,44,8429435XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,41,8429139XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,43,8429337XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,58,84603XXXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,39,84286XXXXXXXX,geographic,Viettel Telecom
+VN,5,8420635XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,42,8429238XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,56,84586XXXXXX,geographic,Viettel Telecom
+VN,65,846636XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,50,8450062XXXXX,geographic,Viettel Telecom
+VN,67,846837XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,54,845735XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,61,84643XXXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,57,845935XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,51,8450138XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,53,845635XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,60,846335XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,71,84734XXXXXX,geographic,Vietnam Multimedia Corporation (VTC)
+VN,35,8423836XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,64,8465138XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,47,842976XXXXXX,geographic,Viettel Telecom
+VN,37,842512XXXXXXX,geographic,EVNTelecom
+VN,49,8438XXXXXXX,mobile,Viettel Mobile
+VN,58,846035XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,49,8439XXXXXXX,mobile,Viettel Mobile
+VN,44,8429436XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,66,846736XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,64,8465139XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,56,845862XXXXX,geographic,Viettel Telecom
+VN,69,84706XXXXXX,geographic,Viettel Telecom
+VN,54,845736XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,50,84501XXXXXXX,geographic,
+VN,51,8450139XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,59,84623XXXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,58,846036XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,51,8452XXXXXXX,mobile,Vietnamobile
+VN,35,8423837XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,65,846637XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,61,846435XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,53,8456XXXXXXX,mobile,Vietnamobile
+VN,55,8458XXXXXXX,mobile,Vietnamobile
+VN,66,846737XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,69,847062XXXXX,geographic,Viettel Telecom
+VN,53,845636XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,64,846514XXXXXX,geographic,Vietnam Multimedia Corporation (VTC)
+VN,59,846235XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,5,8420636XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,55,84574XXXXXX,geographic,Vietnam Multimedia Corporation (VTC)
+VN,37,842513XXXXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,58,846037XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,50,845012XXXXXX,geographic,EVNTelecom
+VN,57,845936XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,35,8423838XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,60,846336XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,63,8465038XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,48,8429939XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,52,84526XXXXXX,geographic,Viettel Telecom
+VN,33,8423738XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,59,846236XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,62,846439XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,61,846436XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,5,8420637XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,56,8459XXXXXXX,geographic,
+VN,51,845014XXXXXX,geographic,Vietnam Multimedia Corporation (VTC)
+VN,53,845637XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,57,845937XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,35,8423839XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,71,84736XXXXXX,geographic,Viettel Telecom
+VN,47,8429762XXXXX,geographic,Viettel Telecom
+VN,63,8465039XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,6,8420639XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,4,8420539XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,65,846638XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,67,846838XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,52,845262XXXXX,geographic,Viettel Telecom
+VN,69,8472XXXXXXX,geographic,
+VN,48,842994XXXXXX,geographic,Vietnam Multimedia Corporation (VTC)
+VN,59,846237XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,57,845938XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,71,847362XXXXX,geographic,Viettel Telecom
+VN,60,846337XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,58,846038XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,67,846839XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,49,84500XXXXXXX,geographic,
+VN,52,8455XXXXXXX,geographic,
+VN,62,84644XXXXXX,geographic,Vietnam Multimedia Corporation (VTC)
+VN,5,8420638XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,56,8459XXXXXXX,mobile,Gmobile
+VN,64,846516XXXXXX,geographic,Viettel Telecom
+VN,6,842064XXXXXX,geographic,Vietnam Multimedia Corporation (VTC)
+VN,47,84299XXXXXXX,geographic,
+VN,63,846504XXXXXX,geographic,Vietnam Multimedia Corporation (VTC)
+VN,48,842996XXXXXX,geographic,Viettel Telecom
+VN,67,84684XXXXXX,geographic,Vietnam Multimedia Corporation (VTC)
+VN,61,846437XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,66,846738XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,69,84722XXXXXX,geographic,EVNTelecom
+VN,51,845016XXXXXX,geographic,Viettel Telecom
+VN,55,84576XXXXXX,geographic,Viettel Telecom
+VN,57,845939XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,68,8470XXXXXXX,mobile,Vietnam Mobile Telecom Services Company (MobiFone)
+VN,59,846238XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,63,846506XXXXXX,geographic,Viettel Telecom
+VN,49,845002XXXXXX,geographic,EVNTelecom
+VN,48,8429962XXXXX,geographic,Viettel Telecom
+VN,62,84646XXXXXX,geographic,Viettel Telecom
+VN,67,84686XXXXXX,geographic,Viettel Telecom
+VN,6,842066XXXXXX,geographic,Viettel Telecom
+VN,72,8476XXXXXXX,mobile,Vietnam Mobile Telecom Services Company (MobiFone)
+VN,66,846739XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,69,84723XXXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,52,84552XXXXXX,geographic,EVNTelecom
+VN,47,842992XXXXXX,geographic,EVNTelecom
+VN,58,846039XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,65,846639XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,61,846438XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,57,84594XXXXXX,geographic,Vietnam Multimedia Corporation (VTC)
+VN,64,8465162XXXXX,geographic,Viettel Telecom
+VN,63,8465062XXXXX,geographic,Viettel Telecom
+VN,72,847538XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,55,845762XXXXX,geographic,Viettel Telecom
+VN,69,847235XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,6,8420662XXXXX,geographic,Viettel Telecom
+VN,51,8450162XXXXX,geographic,Viettel Telecom
+VN,72,8477XXXXXXX,mobile,Vietnam Mobile Telecom Services Company (MobiFone)
+VN,52,84553XXXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,59,846239XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,68,8470XXXXXXX,geographic,
+VN,66,84674XXXXXX,geographic,Vietnam Multimedia Corporation (VTC)
+VN,72,8478XXXXXXX,mobile,Vietnam Mobile Telecom Services Company (MobiFone)
+VN,70,84724XXXXXX,geographic,Vietnam Multimedia Corporation (VTC)
+VN,72,8479XXXXXXX,mobile,Vietnam Mobile Telecom Services Company (MobiFone)
+VN,71,8475XXXXXXX,geographic,
+VN,73,8481XXXXXXX,mobile,Vietnam Telecom Services Company (Vinaphone)
+VN,58,84604XXXXXX,geographic,Vietnam Multimedia Corporation (VTC)
+VN,64,8466XXXXXXX,geographic,
+VN,60,846338XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,73,8482XXXXXXX,mobile,Vietnam Telecom Services Company (Vinaphone)
+VN,71,84752XXXXXX,geographic,EVNTelecom
+VN,73,8483XXXXXXX,mobile,Vietnam Telecom Services Company (Vinaphone)
+VN,59,84624XXXXXX,geographic,Vietnam Multimedia Corporation (VTC)
+VN,69,847236XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,67,846862XXXXX,geographic,Viettel Telecom
+VN,62,846462XXXXX,geographic,Viettel Telecom
+VN,52,845535XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,57,84596XXXXXX,geographic,Viettel Telecom
+VN,73,8484XXXXXXX,mobile,Vietnam Telecom Services Company (Vinaphone)
+VN,70,84726XXXXXX,geographic,Viettel Telecom
+VN,9,8420936XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,6,84207XXXXXXX,geographic,
+VN,65,84664XXXXXX,geographic,Vietnam Multimedia Corporation (VTC)
+VN,73,8485XXXXXXX,mobile,Vietnam Telecom Services Company (Vinaphone)
+VN,73,8486XXXXXXX,mobile,Viettel Mobile
+VN,68,84702XXXXXX,geographic,EVNTelecom
+VN,73,8488XXXXXXX,mobile,Vietnam Telecom Services Company (Vinaphone)
+VN,55,8458XXXXXXX,geographic,
+VN,62,84650XXXXXXX,geographic,
+VN,66,84676XXXXXX,geographic,Viettel Telecom
+VN,9,8420937XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,63,84651XXXXXXX,geographic,
+VN,73,8489XXXXXXX,mobile,Vietnam Mobile Telecom Services Company (MobiFone)
+VN,71,84753XXXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,58,84606XXXXXX,geographic,Viettel Telecom
+VN,70,847262XXXXX,geographic,Viettel Telecom
+VN,69,847237XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,57,845962XXXXX,geographic,Viettel Telecom
+VN,52,845536XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,60,846339XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,73,8490XXXXXXX,mobile,Vietnam Mobile Telecom Services Company (MobiFone)
+VN,74,849030XXXXX,mobile,Vietnam Mobile Telecom Services Company (MobiFone)
+VN,67,8469XXXXX(X),virtualprivatenetwork,Home Affairs and Defence Ministry
+VN,74,849031XXXXX,mobile,Vietnam Mobile Telecom Services Company (MobiFone)
+VN,74,849032XXXXX,mobile,Vietnam Mobile Telecom Services Company (MobiFone)
+VN,55,84582XXXXXX,geographic,EVNTelecom
+VN,9,8420938XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,74,849033XXXXX,mobile,Vietnam Mobile Telecom Services Company (MobiFone)
+VN,69,847238XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,68,84703XXXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,71,847535XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,72,847539XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,6,842072XXXXXX,geographic,EVNTelecom
+VN,64,84662XXXXXX,geographic,EVNTelecom
+VN,73,8480XXXXX,nationalgeographic,Central Post & Telecom Division
+VN,74,849034XXXXX,mobile,Vietnam Mobile Telecom Services Company (MobiFone)
+VN,52,845537XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,74,849035XXXXX,mobile,Vietnam Mobile Telecom Services Company (MobiFone)
+VN,74,849036XXXXX,mobile,Vietnam Mobile Telecom Services Company (MobiFone)
+VN,49,845003XXXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,66,846762XXXXX,geographic,Viettel Telecom
+VN,74,849037XXXXX,mobile,Vietnam Mobile Telecom Services Company (MobiFone)
+VN,55,84583XXXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,63,846512XXXXXX,geographic,EVNTelecom
+VN,74,849038XXXXX,mobile,Vietnam Mobile Telecom Services Company (MobiFone)
+VN,74,849039XXXXX,mobile,Vietnam Mobile Telecom Services Company (MobiFone)
+VN,69,847239XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,7,8420738XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,6,842073XXXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,75,849040XXXXX,mobile,Vietnam Mobile Telecom Services Company (MobiFone)
+VN,70,8473XXXXXXX,geographic,
+VN,75,849041XXXXX,mobile,Vietnam Mobile Telecom Services Company (MobiFone)
+VN,72,84754XXXXXX,geographic,Vietnam Multimedia Corporation (VTC)
+VN,52,845538XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,65,84666XXXXXX,geographic,Viettel Telecom
+VN,66,8468XXXXXXX,geographic,
+VN,75,849042XXXXX,mobile,Vietnam Mobile Telecom Services Company (MobiFone)
+VN,71,847536XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,9,8420939XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,75,849043XXXXX,mobile,Vietnam Mobile Telecom Services Company (MobiFone)
+VN,75,849044XXXXX,mobile,Vietnam Mobile Telecom Services Company (MobiFone)
+VN,75,849050XXXXX,mobile,Vietnam Mobile Telecom Services Company (MobiFone)
+VN,62,846502XXXXXX,geographic,EVNTelecom
+VN,68,847035XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,64,84663XXXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,75,849051XXXXX,mobile,Vietnam Mobile Telecom Services Company (MobiFone)
+VN,6,8420735XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,66,84682XXXXXX,geographic,EVNTelecom
+VN,75,849052XXXXX,mobile,Vietnam Mobile Telecom Services Company (MobiFone)
+VN,75,849080XXXXX,mobile,Vietnam Mobile Telecom Services Company (MobiFone)
+VN,72,84756XXXXXX,geographic,Viettel Telecom
+VN,75,849081XXXXX,mobile,Vietnam Mobile Telecom Services Company (MobiFone)
+VN,64,846635XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,70,84732XXXXXX,geographic,EVNTelecom
+VN,62,846503XXXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,68,847036XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,8,8420837XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,76,849082XXXXX,mobile,Vietnam Mobile Telecom Services Company (MobiFone)
+VN,76,849083XXXXX,mobile,Vietnam Mobile Telecom Services Company (MobiFone)
+VN,76,849084XXXXX,mobile,Vietnam Mobile Telecom Services Company (MobiFone)
+VN,76,849085XXXXX,mobile,Vietnam Mobile Telecom Services Company (MobiFone)
+VN,76,849086XXXXX,mobile,Vietnam Mobile Telecom Services Company (MobiFone)
+VN,63,846513XXXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,76,849087XXXXX,mobile,Vietnam Mobile Telecom Services Company (MobiFone)
+VN,7,8420739XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,6,8420736XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,76,849088XXXXX,mobile,Vietnam Mobile Telecom Services Company (MobiFone)
+VN,76,849089XXXXX,mobile,Vietnam Mobile Telecom Services Company (MobiFone)
+VN,65,846662XXXXX,geographic,Viettel Telecom
+VN,9,842094XXXXXX,geographic,Vietnam Multimedia Corporation (VTC)
+VN,52,845539XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,76,849090XXXXX,mobile,Vietnam Mobile Telecom Services Company (MobiFone)
+VN,76,849091XXXXX,mobile,Vietnam Mobile Telecom Services Company (MobiFone)
+VN,71,847537XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,77,849092XXXXX,mobile,Vietnam Mobile Telecom Services Company (MobiFone)
+VN,72,847562XXXXX,geographic,Viettel Telecom
+VN,62,8465035XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,77,849093XXXXX,mobile,Vietnam Mobile Telecom Services Company (MobiFone)
+VN,77,849094XXXXX,mobile,Vietnam Mobile Telecom Services Company (MobiFone)
+VN,77,849095XXXXX,mobile,Vietnam Mobile Telecom Services Company (MobiFone)
+VN,77,849096XXXXX,mobile,Vietnam Mobile Telecom Services Company (MobiFone)
+VN,77,849097XXXXX,mobile,Vietnam Mobile Telecom Services Company (MobiFone)
+VN,77,849098XXXXX,mobile,Vietnam Mobile Telecom Services Company (MobiFone)
+VN,63,8465135XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,77,849099XXXXX,mobile,Vietnam Mobile Telecom Services Company (MobiFone)
+VN,77,849120XXXXX,mobile,Vietnam Telecom Services Company (Vinaphone)
+VN,77,8491XXXXXXX,mobile,Vietnam Telecom Services Company (Vinaphone)
+VN,78,849121XXXXX,mobile,Vietnam Telecom Services Company (Vinaphone)
+VN,7,842074XXXXXX,geographic,Vietnam Multimedia Corporation (VTC)
+VN,62,8465036XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,78,849122XXXXX,mobile,Vietnam Telecom Services Company (Vinaphone)
+VN,78,849123XXXXX,mobile,Vietnam Telecom Services Company (Vinaphone)
+VN,68,847037XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,70,84733XXXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,78,849124XXXXX,mobile,Vietnam Telecom Services Company (Vinaphone)
+VN,63,8465136XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,78,849125XXXXX,mobile,Vietnam Telecom Services Company (Vinaphone)
+VN,78,849126XXXXX,mobile,Vietnam Telecom Services Company (Vinaphone)
+VN,78,849127XXXXX,mobile,Vietnam Telecom Services Company (Vinaphone)
+VN,78,849128XXXXX,mobile,Vietnam Telecom Services Company (Vinaphone)
+VN,8,8420838XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,78,849129XXXXX,mobile,Vietnam Telecom Services Company (Vinaphone)
+VN,6,8420737XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,7,842076XXXXXX,geographic,Viettel Telecom
+VN,78,849130XXXXX,mobile,Vietnam Telecom Services Company (Vinaphone)
+VN,70,847335XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,79,849131XXXXX,mobile,Vietnam Telecom Services Company (Vinaphone)
+VN,68,847038XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,79,849132XXXXX,mobile,Vietnam Telecom Services Company (Vinaphone)
+VN,79,849133XXXXX,mobile,Vietnam Telecom Services Company (Vinaphone)
+VN,62,8465037XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,65,8467XXXXXXX,geographic,
+VN,79,849134XXXXX,mobile,Vietnam Telecom Services Company (Vinaphone)
+VN,79,849135XXXXX,mobile,Vietnam Telecom Services Company (Vinaphone)
+VN,79,849136XXXXX,mobile,Vietnam Telecom Services Company (Vinaphone)
+VN,79,849137XXXXX,mobile,Vietnam Telecom Services Company (Vinaphone)
+VN,79,849138XXXXX,mobile,Vietnam Telecom Services Company (Vinaphone)
+VN,79,849139XXXXX,mobile,Vietnam Telecom Services Company (Vinaphone)
+VN,79,849140XXXXX,mobile,Vietnam Telecom Services Company (Vinaphone)
+VN,80,849141XXXXX,mobile,Vietnam Telecom Services Company (Vinaphone)
+VN,80,849142XXXXX,mobile,Vietnam Telecom Services Company (Vinaphone)
+VN,70,847336XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,80,849143XXXXX,mobile,Vietnam Telecom Services Company (Vinaphone)
+VN,80,849150XXXXX,mobile,Vietnam Telecom Services Company (Vinaphone)
+VN,80,849151XXXXX,mobile,Vietnam Telecom Services Company (Vinaphone)
+VN,7,8420762XXXXX,geographic,Viettel Telecom
+VN,80,849152XXXXX,mobile,Vietnam Telecom Services Company (Vinaphone)
+VN,80,849153XXXXX,mobile,Vietnam Telecom Services Company (Vinaphone)
+VN,80,849154XXXXX,mobile,Vietnam Telecom Services Company (Vinaphone)
+VN,65,84672XXXXXX,geographic,EVNTelecom
+VN,80,849180XXXXX,mobile,Vietnam Telecom Services Company (Vinaphone)
+VN,8,8420839XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,80,849181XXXXX,mobile,Vietnam Telecom Services Company (Vinaphone)
+VN,81,849182XXXXX,mobile,Vietnam Telecom Services Company (Vinaphone)
+VN,68,847039XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,81,849183XXXXX,mobile,Vietnam Telecom Services Company (Vinaphone)
+VN,81,849184XXXXX,mobile,Vietnam Telecom Services Company (Vinaphone)
+VN,81,849185XXXXX,mobile,Vietnam Telecom Services Company (Vinaphone)
+VN,81,849186XXXXX,mobile,Vietnam Telecom Services Company (Vinaphone)
+VN,81,849187XXXXX,mobile,Vietnam Telecom Services Company (Vinaphone)
+VN,81,849188XXXXX,mobile,Vietnam Telecom Services Company (Vinaphone)
+VN,81,849189XXXXX,mobile,Vietnam Telecom Services Company (Vinaphone)
+VN,81,849190XXXXX,mobile,Vietnam Telecom Services Company (Vinaphone)
+VN,81,849191XXXXX,mobile,Vietnam Telecom Services Company (Vinaphone)
+VN,82,849192XXXXX,mobile,Vietnam Telecom Services Company (Vinaphone)
+VN,82,849193XXXXX,mobile,Vietnam Telecom Services Company (Vinaphone)
+VN,70,847337XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,8,842084XXXXXX,geographic,Vietnam Multimedia Corporation (VTC)
+VN,68,84704XXXXXX,geographic,Vietnam Multimedia Corporation (VTC)
+VN,82,849194XXXXX,mobile,Vietnam Telecom Services Company (Vinaphone)
+VN,82,849195XXXXX,mobile,Vietnam Telecom Services Company (Vinaphone)
+VN,82,849196XXXXX,mobile,Vietnam Telecom Services Company (Vinaphone)
+VN,82,849197XXXXX,mobile,Vietnam Telecom Services Company (Vinaphone)
+VN,82,849198XXXXX,mobile,Vietnam Telecom Services Company (Vinaphone)
+VN,82,849199XXXXX,mobile,Vietnam Telecom Services Company (Vinaphone)
+VN,82,8492XXXXXXX,mobile,Vietnamobile (CDMA)
+VN,82,8493XXXXXXX,mobile,Vietnam Mobile Telecom Services Company (MobiFone)
+VN,9,842096XXXXXX,geographic,Viettel Telecom
+VN,83,8494XXXXXXX,mobile,Vietnam Telecom Services Company (Vinaphone)
+VN,83,8495XXXXXXX,mobile,S-Fone (CDMA)
+VN,83,8496XXXXXXX,mobile,Viettel Mobile
+VN,83,8497XXXXXXX,mobile,Viettel Mobile
+VN,83,8498XXXXXXX,mobile,Viettel Mobile
+VN,83,84993XXXXXX,mobile,Gmobile
+VN,83,84994XXXXXX,mobile,Gmobile
+VN,83,84995XXXXXX,mobile,Gmobile
+VN,83,84996XXXXXX,mobile,Gmobile
+VN,84,84997XXXXXX,mobile,Gmobile
+VN,72,84799XXXX,virtualprivatenetwork,Foreign Affairs Ministry (PABX)
+VN,70,847338XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,65,84673XXXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,8,842086XXXXXX,geographic,Viettel Telecom
+VN,9,8420962XXXXX,geographic,Viettel Telecom
+VN,83,84992XXXXXX,satellite,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,8,8420862XXXXX,geographic,Viettel Telecom
+VN,7,84208XXXXXXX,geographic,
+VN,9,84210XXXXXXX,geographic,
+VN,8,84209XXXXXXX,geographic,
+VN,9,842102XXXXXX,geographic,EVNTelecom
+VN,8,842092XXXXXX,geographic,EVNTelecom
+VN,7,842082XXXXXX,geographic,EVNTelecom
+VN,9,842103XXXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,8,842093XXXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,7,842083XXXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,8,8420935XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,7,8420835XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)
+VN,7,8420836XXXXX,geographic,Vietnam Posts and Telecommunications Corporation (VNPT)

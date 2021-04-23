@@ -1,245 +1,245 @@
 ﻿Country,Page,Range,Type,Provider
-PE,14,+51956XXXXXX,mobile,
-PE,10,+519419XXXXX,mobile,Telefónica Moviles S.A (Movistar)
+PE,14,51956XXXXXX,mobile,
+PE,10,519419XXXXX,mobile,Telefónica Moviles S.A (Movistar)
 PE,1,51,proper,
-PE,10,+519426XXXXX,mobile,Telefónica Moviles S.A (Movistar)
-PE,10,+519427XXXXX,mobile,Claro Perú
-PE,10,+519429XXXXX,mobile,Telefónica Moviles S.A (Movistar)
-PE,10,+519433XXXXX,mobile,Claro Perú
-PE,10,+519XXXXXXXX,mobile,
-PE,10,+519434XXXXX,mobile,Telefónica Moviles S.A (Movistar)
-PE,11,+519435XXXXX,mobile,Claro Perú
-PE,11,+519436XXXXX,mobile,Telefónica Moviles S.A (Movistar)
-PE,1,+511XXXXXXX,geographic,
-PE,11,+5194391XXXX,mobile,Bell South
-PE,11,+5194395XXXX,mobile,Bell South
-PE,11,+519439XXXXX,mobile,Telefónica Moviles S.A (Movistar)
-PE,16,+51963XXXXXX,mobile,
-PE,11,+519493XXXXX,mobile,Claro Perú
-PE,11,+519494XXXXX,mobile,Telefónica Moviles S.A (Movistar)
-PE,10,+51941XXXXXX,mobile,
-PE,11,+519495XXXXX,mobile,Bell South
-PE,11,+519496XXXXX,mobile,Telefónica Moviles S.A (Movistar)
-PE,22,+5199XXXXXXX,mobile,
-PE,1,+51160XXXXX,geographic,Gilat To Home Perú SA
-PE,12,+5194990XXXX,mobile,Bell South
-PE,12,+5194992XXXX,mobile,Bell South
-PE,12,+5194993XXXX,mobile,Bell South
-PE,12,+5194994XXXX,mobile,Bell South
-PE,12,+519499XXXXX,mobile,Telefónica Moviles S.A (Movistar)
-PE,12,+519515XXXXX,mobile,Telefónica Moviles S.A (Movistar)
-PE,12,+519516XXXXX,mobile,Telefónica Moviles S.A (Movistar)
-PE,12,+519517XXXXX,mobile,Claro Perú
-PE,12,+519518XXXXX,mobile,Telefónica Moviles S.A (Movistar)
-PE,13,+5195192XXXX,mobile,Bell South
-PE,13,+519519XXXXX,mobile,Telefónica Moviles S.A (Movistar)
-PE,1,+51161XXXXX,geographic,USA AT&T
-PE,13,+519522XXXXX,mobile,Telefónica Moviles S.A (Movistar)
-PE,13,+519523XXXXX,mobile,Claro Perú
-PE,13,+519525XXXXX,mobile,Telefónica Moviles S.A (Movistar)
-PE,10,+51942XXXXXX,mobile,
-PE,17,+51965XXXXXX,mobile,
-PE,13,+519526XXXXX,mobile,Telefónica Moviles S.A (Movistar)
-PE,13,+519529XXXXX,mobile,Telefónica Moviles S.A (Movistar)
-PE,21,+51983XXXXXX,mobile,
-PE,13,+519535XXXXX,mobile,Telefónica Moviles S.A (Movistar)
-PE,16,+51964XXXXXX,mobile,
-PE,14,+5195350XXXX,mobile,Claro Perú
-PE,14,+519536XXXXX,mobile,Telefónica Moviles S.A (Movistar)
-PE,14,+519539XXXXX,mobile,Telefónica Moviles S.A (Movistar)
-PE,14,+519566XXXXX,mobile,Telefónica Moviles S.A (Movistar)
-PE,14,+519567XXXXX,mobile,Claro Perú
-PE,1,+51162XXXXX,geographic,USA AT&T
-PE,14,+51959XXXXXX,mobile,
-PE,14,+519569XXXXX,mobile,Telefónica Moviles S.A (Movistar)
-PE,14,+519592XXXXX,mobile,Telefónica Moviles S.A (Movistar)
-PE,14,+519593XXXXX,mobile,Claro Perú
-PE,15,+519595XXXXX,mobile,Telefónica Moviles S.A (Movistar)
-PE,15,+519596XXXXX,mobile,Telefónica Moviles S.A (Movistar)
-PE,15,+519597XXXXX,mobile,Claro Perú
-PE,15,+519598XXXXX,mobile,Telefónica Moviles S.A (Movistar)
-PE,12,+51951XXXXXX,mobile,
-PE,13,+51952XXXXXX,mobile,
-PE,2,+5118XXXXXX,wirelessgeographic,
-PE,15,+519599XXXXX,mobile,Bell South
-PE,15,+519616XXXXX,mobile,Telefónica Moviles S.A (Movistar)
-PE,1,+51165XXXXX,geographic,Americatel Peru
-PE,19,+51972XXXXXX,mobile,
-PE,15,+519618XXXXX,mobile,Claro Perú
-PE,15,+519619XXXXX,mobile,Telefónica Moviles S.A (Movistar)
-PE,16,+519626XXXXX,mobile,Telefónica Moviles S.A (Movistar)
-PE,16,+519629XXXXX,mobile,Telefónica Moviles S.A (Movistar)
-PE,16,+519636XXXXX,mobile,Telefónica Moviles S.A (Movistar)
-PE,16,+519639XXXXX,mobile,Telefónica Moviles S.A (Movistar)
-PE,16,+519643XXXXX,mobile,Claro Perú
-PE,16,+519646XXXXX,mobile,Telefónica Moviles S.A (Movistar)
-PE,16,+5196493XXXX,mobile,Bell South
-PE,1,+51166XXXXX,geographic,Millicom
-PE,16,+519649XXXXX,mobile,Telefónica Moviles S.A (Movistar)
-PE,3,+5143XXXXXX,geographic,
-PE,17,+5196494XXXX,mobile,Bell South
-PE,17,+5196495XXXX,mobile,Bell South
-PE,18,+51967XXXXXX,mobile,
-PE,21,+51984XXXXXX,mobile,
-PE,17,+519656XXXXX,mobile,Telefónica Moviles S.A (Movistar)
-PE,17,+519657XXXXX,mobile,Claro Perú
-PE,17,+5196593XXXX,mobile,Bell South
-PE,2,+51181XXXXX,wirelessgeographic,Telefónica Moviles S.A (Movistar)
-PE,17,+5196594XXXX,mobile,Bell South
-PE,17,+5196595XXXX,mobile,Bell South
-PE,17,+519659XXXXX,mobile,Telefónica Moviles S.A (Movistar)
-PE,1,+51167XXXXX,geographic,Telefonica Andina
-PE,18,+519666XXXXX,mobile,Telefónica Moviles S.A (Movistar)
-PE,18,+519669XXXXX,mobile,Telefónica Moviles S.A (Movistar)
-PE,18,+519676XXXXX,mobile,Telefónica Moviles S.A (Movistar)
-PE,6,+5164XXXXXX,geographic,
-PE,7,+51678XXXXX,wirelessgeographic,
-PE,18,+519679XXXXX,mobile,Telefónica Moviles S.A (Movistar)
-PE,18,+519692XXXXX,mobile,Telefónica Moviles S.A (Movistar)
-PE,18,+519696XXXXX,mobile,Telefónica Moviles S.A (Movistar)
-PE,18,+519697XXXXX,mobile,Claro Perú
-PE,18,+519699XXXXX,mobile,Telefónica Moviles S.A (Movistar)
-PE,19,+5196992XXXX,mobile,Bell South
-PE,19,+5196993XXXX,mobile,Bell South
-PE,19,+519726XXXXX,mobile,Telefónica Moviles S.A (Movistar)
-PE,19,+519729XXXXX,mobile,Telefónica Moviles S.A (Movistar)
-PE,4,+51528XXXXX,wirelessgeographic,
-PE,2,+51182XXXXX,wirelessgeographic,Telefónica Moviles S.A (Movistar)
-PE,19,+519763XXXXX,mobile,Claro Perú
-PE,19,+519764XXXXX,mobile,Telefónica Moviles S.A (Movistar)
-PE,15,+51961XXXXXX,mobile,
-PE,8,+517481XXXX,wirelessgeographic,Gilat To Home Perú SA
-PE,19,+519765XXXXX,mobile,Bell South
-PE,19,+519766XXXXX,mobile,Telefónica Moviles S.A (Movistar)
-PE,20,+519769XXXXX,mobile,Telefónica Moviles S.A (Movistar)
-PE,7,+516782XXXX,wirelessgeographic,Gilat To Home Perú SA
-PE,20,+519792XXXXX,mobile,Telefónica Moviles S.A (Movistar)
-PE,20,+519795XXXXX,mobile,Bell South
-PE,20,+519796XXXXX,mobile,Telefónica Moviles S.A (Movistar)
-PE,20,+519797XXXXX,mobile,Claro Perú
-PE,4,+515281XXXX,wirelessgeographic,Gilat To Home Perú SA
-PE,11,+51949XXXXXX,mobile,
-PE,20,+5197994XXXX,mobile,Bell South
-PE,20,+5197995XXXX,mobile,Bell South
-PE,20,+519799XXXXX,mobile,Telefónica Moviles S.A (Movistar)
-PE,21,+519826XXXXX,mobile,Telefónica Moviles S.A (Movistar)
-PE,10,+51943XXXXXX,mobile,
-PE,3,+51438XXXXX,wirelessgeographic,
-PE,19,+51976XXXXXX,mobile,
-PE,18,+51969XXXXXX,mobile,
-PE,21,+519829XXXXX,mobile,Telefónica Moviles S.A (Movistar)
-PE,21,+519836XXXXX,mobile,Telefónica Moviles S.A (Movistar)
-PE,6,+51648XXXXX,wirelessgeographic,
-PE,7,+5172XXXXXX,geographic,
-PE,8,+5176XXXXXX,geographic,
-PE,2,+51183XXXXX,wirelessgeographic,Telefónica Moviles S.A (Movistar)
-PE,21,+519839XXXXX,mobile,Telefónica Moviles S.A (Movistar)
-PE,21,+519846XXXXX,mobile,Telefónica Moviles S.A (Movistar)
-PE,21,+519847XXXXX,mobile,Claro Perú
-PE,4,+5153XXXXXX,geographic,
-PE,21,+5198498XXXX,mobile,Telefónica Moviles S.A (Movistar)
-PE,21,+519849XXXXX,mobile,Bell South
-PE,22,+519963XXXXX,mobile,Telefónica Moviles S.A (Movistar)
-PE,22,+519964XXXXX,mobile,Telefónica Moviles S.A (Movistar)
-PE,3,+514381XXXX,wirelessgeographic,Gilat To Home Perú SA
-PE,22,+519966XXXXX,mobile,Telefónica Moviles S.A (Movistar)
-PE,22,+519967XXXXX,mobile,Telefónica Moviles S.A (Movistar)
-PE,20,+51979XXXXXX,mobile,
-PE,9,+51809XXXXX,audiotext,
-PE,1,+51168XXXXX,geographic,C&G Telecom
-PE,22,+519970XXXXX,mobile,Claro Perú
-PE,22,+519971XXXXX,mobile,Claro Perú
-PE,22,+519972XXXXX,mobile,Claro Perú
-PE,22,+519973XXXXX,mobile,Claro Perú
-PE,22,+519974XXXXX,mobile,Claro Perú
-PE,23,+519975XXXXX,mobile,Claro Perú
-PE,4,+51538XXXXX,wirelessgeographic,
-PE,23,+519979XXXXX,mobile,Claro Perú
-PE,7,+51728XXXXX,wirelessgeographic,
-PE,8,+51768XXXXX,wirelessgeographic,
-PE,2,+5141XXXXXX,geographic,
-PE,5,+515681XXXX,wirelessgeographic,Gilat To Home Perú SA
-PE,6,+516482XXXX,wirelessgeographic,Gilat To Home Perú SA
-PE,1,+51169XXXXX,geographic,Bell South
-PE,23,+519980XXXXX,mobile,Telefónica Moviles S.A (Movistar)
-PE,3,+5144XXXXXX,geographic,
-PE,23,+519981XXXXX,mobile,Nextel del Perú S.A.
-PE,15,+51962XXXXXX,mobile,
-PE,23,+5199820XXXX,mobile,TE.SA.M. PERÚ S.A. (Globalstar)
-PE,23,+5199821XXXX,mobile,TE.SA.M. PERÚ S.A. (Globalstar)
-PE,23,+519982XXXXX,mobile,Nextel del Perú S.A.
-PE,23,+519983XXXXX,mobile,Nextel del Perú S.A.
-PE,23,+519984XXXXX,mobile,Telefónica Moviles S.A (Movistar)
-PE,23,+519985XXXXX,mobile,Bell South
-PE,8,+517681XXXX,wirelessgeographic,Gilat To Home Perú SA
-PE,7,+517281XXXX,wirelessgeographic,Gilat To Home Perú SA
-PE,4,+515381XXXX,wirelessgeographic,Gilat To Home Perú SA
-PE,24,+519986XXXXX,mobile,Telefónica Moviles S.A (Movistar)
-PE,24,+519987XXXXX,mobile,Telefónica Moviles S.A (Movistar)
-PE,24,+519988XXXXX,mobile,Telefónica Moviles S.A (Movistar)
-PE,24,+519989XXXXX,mobile,Telefónica Moviles S.A (Movistar)
-PE,7,+5173XXXXXX,geographic,
-PE,8,+51800XXXXX,freephone,
-PE,13,+51953XXXXXX,mobile,
-PE,9,+5182XXXXXX,geographic,
-PE,24,+519990XXXXX,mobile,Telefónica Moviles S.A (Movistar)
-PE,2,+51418XXXXX,wirelessgeographic,
-PE,24,+519991XXXXX,mobile,Bell South
-PE,24,+519992XXXXX,mobile,Bell South
-PE,3,+51448XXXXX,wirelessgeographic,
-PE,24,+519993XXXXX,mobile,Bell South
-PE,24,+519994XXXXX,mobile,Bell South
-PE,24,+519995XXXXX,mobile,Bell South
-PE,9,+51828XXXXX,wirelessgeographic,
-PE,25,+519996XXXXX,mobile,Telefónica Moviles S.A (Movistar)
-PE,25,+519997XXXXX,mobile,Telefónica Moviles S.A (Movistar)
-PE,25,+519998XXXXX,mobile,Telefónica Moviles S.A (Movistar)
-PE,8,+51801XXXXX,sharedcost,
-PE,25,+519999XXXXX,mobile,Telefónica Moviles S.A (Movistar)
-PE,3,+514481XXXX,wirelessgeographic,Gilat To Home Perú SA
-PE,5,+5161XXXXXX,geographic,
-PE,9,+518281XXXX,wirelessgeographic,Gilat To Home Perú SA
-PE,2,+514181XXXX,wirelessgeographic,Gilat To Home Perú SA
-PE,6,+5165XXXXXX,geographic,
-PE,4,+5154XXXXXX,geographic,
-PE,9,+5183XXXXXX,geographic,
-PE,2,+5142XXXXXX,geographic,
-PE,17,+51966XXXXXX,mobile,
-PE,8,+51802XXXXX,universalaccess,
-PE,9,+51838XXXXX,wirelessgeographic,
-PE,6,+51658XXXXX,wirelessgeographic,
-PE,2,+51428XXXXX,wirelessgeographic,
-PE,5,+51618XXXXX,wirelessgeographic,
-PE,3,+5151XXXXXX,geographic,
-PE,7,+51738XXXXX,wirelessgeographic,
-PE,4,+51548XXXXX,wirelessgeographic,
-PE,2,+514281XXXX,wirelessgeographic,Gilat To Home Perú SA
-PE,8,+51804XXXXX,universalaccess,
-PE,7,+517381XXXX,wirelessgeographic,Gilat To Home Perú SA
-PE,9,+518381XXXX,wirelessgeographic,Gilat To Home Perú SA
-PE,5,+516182XXXX,wirelessgeographic,Gilat To Home Perú SA
-PE,4,+515481XXXX,wirelessgeographic,Gilat To Home Perú SA
-PE,6,+516581XXXX,wirelessgeographic,Gilat To Home Perú SA
-PE,3,+51518XXXXX,wirelessgeographic,
-PE,7,+5174XXXXXX,geographic,
-PE,8,+51805XXXXX,premiumrate,
-PE,6,+5166XXXXXX,geographic,
-PE,3,+515181XXXX,wirelessgeographic,Gilat To Home Perú SA
-PE,7,+51748XXXXX,wirelessgeographic,
-PE,9,+5184XXXXXX,geographic,
-PE,8,+51806XXXXX,virtualprivatenetwork,
-PE,4,+5156XXXXXX,geographic,
-PE,5,+5162XXXXXX,geographic,
-PE,3,+5152XXXXXX,geographic,
-PE,9,+51848XXXXX,wirelessgeographic,
-PE,6,+51668XXXXX,wirelessgeographic,
-PE,9,+518481XXXX,wirelessgeographic,Gilat To Home Perú SA
-PE,6,+516682XXXX,wirelessgeographic,Gilat To Home Perú SA
-PE,4,+51568XXXXX,wirelessgeographic,
-PE,5,+51628XXXXX,wirelessgeographic,
-PE,5,+516282XXXX,wirelessgeographic,Gilat To Home Perú SA
-PE,6,+5167XXXXXX,geographic,
-PE,5,+5163XXXXXX,geographic,
-PE,5,+51638XXXXX,wirelessgeographic,
-PE,5,+516382XXXX,wirelessgeographic,Gilat To Home Perú SA
-PE,20,+51982XXXXXX,mobile,
+PE,10,519426XXXXX,mobile,Telefónica Moviles S.A (Movistar)
+PE,10,519427XXXXX,mobile,Claro Perú
+PE,10,519429XXXXX,mobile,Telefónica Moviles S.A (Movistar)
+PE,10,519433XXXXX,mobile,Claro Perú
+PE,10,519XXXXXXXX,mobile,
+PE,10,519434XXXXX,mobile,Telefónica Moviles S.A (Movistar)
+PE,11,519435XXXXX,mobile,Claro Perú
+PE,11,519436XXXXX,mobile,Telefónica Moviles S.A (Movistar)
+PE,1,511XXXXXXX,geographic,
+PE,11,5194391XXXX,mobile,Bell South
+PE,11,5194395XXXX,mobile,Bell South
+PE,11,519439XXXXX,mobile,Telefónica Moviles S.A (Movistar)
+PE,16,51963XXXXXX,mobile,
+PE,11,519493XXXXX,mobile,Claro Perú
+PE,11,519494XXXXX,mobile,Telefónica Moviles S.A (Movistar)
+PE,10,51941XXXXXX,mobile,
+PE,11,519495XXXXX,mobile,Bell South
+PE,11,519496XXXXX,mobile,Telefónica Moviles S.A (Movistar)
+PE,22,5199XXXXXXX,mobile,
+PE,1,51160XXXXX,geographic,Gilat To Home Perú SA
+PE,12,5194990XXXX,mobile,Bell South
+PE,12,5194992XXXX,mobile,Bell South
+PE,12,5194993XXXX,mobile,Bell South
+PE,12,5194994XXXX,mobile,Bell South
+PE,12,519499XXXXX,mobile,Telefónica Moviles S.A (Movistar)
+PE,12,519515XXXXX,mobile,Telefónica Moviles S.A (Movistar)
+PE,12,519516XXXXX,mobile,Telefónica Moviles S.A (Movistar)
+PE,12,519517XXXXX,mobile,Claro Perú
+PE,12,519518XXXXX,mobile,Telefónica Moviles S.A (Movistar)
+PE,13,5195192XXXX,mobile,Bell South
+PE,13,519519XXXXX,mobile,Telefónica Moviles S.A (Movistar)
+PE,1,51161XXXXX,geographic,USA AT&T
+PE,13,519522XXXXX,mobile,Telefónica Moviles S.A (Movistar)
+PE,13,519523XXXXX,mobile,Claro Perú
+PE,13,519525XXXXX,mobile,Telefónica Moviles S.A (Movistar)
+PE,10,51942XXXXXX,mobile,
+PE,17,51965XXXXXX,mobile,
+PE,13,519526XXXXX,mobile,Telefónica Moviles S.A (Movistar)
+PE,13,519529XXXXX,mobile,Telefónica Moviles S.A (Movistar)
+PE,21,51983XXXXXX,mobile,
+PE,13,519535XXXXX,mobile,Telefónica Moviles S.A (Movistar)
+PE,16,51964XXXXXX,mobile,
+PE,14,5195350XXXX,mobile,Claro Perú
+PE,14,519536XXXXX,mobile,Telefónica Moviles S.A (Movistar)
+PE,14,519539XXXXX,mobile,Telefónica Moviles S.A (Movistar)
+PE,14,519566XXXXX,mobile,Telefónica Moviles S.A (Movistar)
+PE,14,519567XXXXX,mobile,Claro Perú
+PE,1,51162XXXXX,geographic,USA AT&T
+PE,14,51959XXXXXX,mobile,
+PE,14,519569XXXXX,mobile,Telefónica Moviles S.A (Movistar)
+PE,14,519592XXXXX,mobile,Telefónica Moviles S.A (Movistar)
+PE,14,519593XXXXX,mobile,Claro Perú
+PE,15,519595XXXXX,mobile,Telefónica Moviles S.A (Movistar)
+PE,15,519596XXXXX,mobile,Telefónica Moviles S.A (Movistar)
+PE,15,519597XXXXX,mobile,Claro Perú
+PE,15,519598XXXXX,mobile,Telefónica Moviles S.A (Movistar)
+PE,12,51951XXXXXX,mobile,
+PE,13,51952XXXXXX,mobile,
+PE,2,5118XXXXXX,wirelessgeographic,
+PE,15,519599XXXXX,mobile,Bell South
+PE,15,519616XXXXX,mobile,Telefónica Moviles S.A (Movistar)
+PE,1,51165XXXXX,geographic,Americatel Peru
+PE,19,51972XXXXXX,mobile,
+PE,15,519618XXXXX,mobile,Claro Perú
+PE,15,519619XXXXX,mobile,Telefónica Moviles S.A (Movistar)
+PE,16,519626XXXXX,mobile,Telefónica Moviles S.A (Movistar)
+PE,16,519629XXXXX,mobile,Telefónica Moviles S.A (Movistar)
+PE,16,519636XXXXX,mobile,Telefónica Moviles S.A (Movistar)
+PE,16,519639XXXXX,mobile,Telefónica Moviles S.A (Movistar)
+PE,16,519643XXXXX,mobile,Claro Perú
+PE,16,519646XXXXX,mobile,Telefónica Moviles S.A (Movistar)
+PE,16,5196493XXXX,mobile,Bell South
+PE,1,51166XXXXX,geographic,Millicom
+PE,16,519649XXXXX,mobile,Telefónica Moviles S.A (Movistar)
+PE,3,5143XXXXXX,geographic,
+PE,17,5196494XXXX,mobile,Bell South
+PE,17,5196495XXXX,mobile,Bell South
+PE,18,51967XXXXXX,mobile,
+PE,21,51984XXXXXX,mobile,
+PE,17,519656XXXXX,mobile,Telefónica Moviles S.A (Movistar)
+PE,17,519657XXXXX,mobile,Claro Perú
+PE,17,5196593XXXX,mobile,Bell South
+PE,2,51181XXXXX,wirelessgeographic,Telefónica Moviles S.A (Movistar)
+PE,17,5196594XXXX,mobile,Bell South
+PE,17,5196595XXXX,mobile,Bell South
+PE,17,519659XXXXX,mobile,Telefónica Moviles S.A (Movistar)
+PE,1,51167XXXXX,geographic,Telefonica Andina
+PE,18,519666XXXXX,mobile,Telefónica Moviles S.A (Movistar)
+PE,18,519669XXXXX,mobile,Telefónica Moviles S.A (Movistar)
+PE,18,519676XXXXX,mobile,Telefónica Moviles S.A (Movistar)
+PE,6,5164XXXXXX,geographic,
+PE,7,51678XXXXX,wirelessgeographic,
+PE,18,519679XXXXX,mobile,Telefónica Moviles S.A (Movistar)
+PE,18,519692XXXXX,mobile,Telefónica Moviles S.A (Movistar)
+PE,18,519696XXXXX,mobile,Telefónica Moviles S.A (Movistar)
+PE,18,519697XXXXX,mobile,Claro Perú
+PE,18,519699XXXXX,mobile,Telefónica Moviles S.A (Movistar)
+PE,19,5196992XXXX,mobile,Bell South
+PE,19,5196993XXXX,mobile,Bell South
+PE,19,519726XXXXX,mobile,Telefónica Moviles S.A (Movistar)
+PE,19,519729XXXXX,mobile,Telefónica Moviles S.A (Movistar)
+PE,4,51528XXXXX,wirelessgeographic,
+PE,2,51182XXXXX,wirelessgeographic,Telefónica Moviles S.A (Movistar)
+PE,19,519763XXXXX,mobile,Claro Perú
+PE,19,519764XXXXX,mobile,Telefónica Moviles S.A (Movistar)
+PE,15,51961XXXXXX,mobile,
+PE,8,517481XXXX,wirelessgeographic,Gilat To Home Perú SA
+PE,19,519765XXXXX,mobile,Bell South
+PE,19,519766XXXXX,mobile,Telefónica Moviles S.A (Movistar)
+PE,20,519769XXXXX,mobile,Telefónica Moviles S.A (Movistar)
+PE,7,516782XXXX,wirelessgeographic,Gilat To Home Perú SA
+PE,20,519792XXXXX,mobile,Telefónica Moviles S.A (Movistar)
+PE,20,519795XXXXX,mobile,Bell South
+PE,20,519796XXXXX,mobile,Telefónica Moviles S.A (Movistar)
+PE,20,519797XXXXX,mobile,Claro Perú
+PE,4,515281XXXX,wirelessgeographic,Gilat To Home Perú SA
+PE,11,51949XXXXXX,mobile,
+PE,20,5197994XXXX,mobile,Bell South
+PE,20,5197995XXXX,mobile,Bell South
+PE,20,519799XXXXX,mobile,Telefónica Moviles S.A (Movistar)
+PE,21,519826XXXXX,mobile,Telefónica Moviles S.A (Movistar)
+PE,10,51943XXXXXX,mobile,
+PE,3,51438XXXXX,wirelessgeographic,
+PE,19,51976XXXXXX,mobile,
+PE,18,51969XXXXXX,mobile,
+PE,21,519829XXXXX,mobile,Telefónica Moviles S.A (Movistar)
+PE,21,519836XXXXX,mobile,Telefónica Moviles S.A (Movistar)
+PE,6,51648XXXXX,wirelessgeographic,
+PE,7,5172XXXXXX,geographic,
+PE,8,5176XXXXXX,geographic,
+PE,2,51183XXXXX,wirelessgeographic,Telefónica Moviles S.A (Movistar)
+PE,21,519839XXXXX,mobile,Telefónica Moviles S.A (Movistar)
+PE,21,519846XXXXX,mobile,Telefónica Moviles S.A (Movistar)
+PE,21,519847XXXXX,mobile,Claro Perú
+PE,4,5153XXXXXX,geographic,
+PE,21,5198498XXXX,mobile,Telefónica Moviles S.A (Movistar)
+PE,21,519849XXXXX,mobile,Bell South
+PE,22,519963XXXXX,mobile,Telefónica Moviles S.A (Movistar)
+PE,22,519964XXXXX,mobile,Telefónica Moviles S.A (Movistar)
+PE,3,514381XXXX,wirelessgeographic,Gilat To Home Perú SA
+PE,22,519966XXXXX,mobile,Telefónica Moviles S.A (Movistar)
+PE,22,519967XXXXX,mobile,Telefónica Moviles S.A (Movistar)
+PE,20,51979XXXXXX,mobile,
+PE,9,51809XXXXX,audiotext,
+PE,1,51168XXXXX,geographic,C&G Telecom
+PE,22,519970XXXXX,mobile,Claro Perú
+PE,22,519971XXXXX,mobile,Claro Perú
+PE,22,519972XXXXX,mobile,Claro Perú
+PE,22,519973XXXXX,mobile,Claro Perú
+PE,22,519974XXXXX,mobile,Claro Perú
+PE,23,519975XXXXX,mobile,Claro Perú
+PE,4,51538XXXXX,wirelessgeographic,
+PE,23,519979XXXXX,mobile,Claro Perú
+PE,7,51728XXXXX,wirelessgeographic,
+PE,8,51768XXXXX,wirelessgeographic,
+PE,2,5141XXXXXX,geographic,
+PE,5,515681XXXX,wirelessgeographic,Gilat To Home Perú SA
+PE,6,516482XXXX,wirelessgeographic,Gilat To Home Perú SA
+PE,1,51169XXXXX,geographic,Bell South
+PE,23,519980XXXXX,mobile,Telefónica Moviles S.A (Movistar)
+PE,3,5144XXXXXX,geographic,
+PE,23,519981XXXXX,mobile,Nextel del Perú S.A.
+PE,15,51962XXXXXX,mobile,
+PE,23,5199820XXXX,mobile,TE.SA.M. PERÚ S.A. (Globalstar)
+PE,23,5199821XXXX,mobile,TE.SA.M. PERÚ S.A. (Globalstar)
+PE,23,519982XXXXX,mobile,Nextel del Perú S.A.
+PE,23,519983XXXXX,mobile,Nextel del Perú S.A.
+PE,23,519984XXXXX,mobile,Telefónica Moviles S.A (Movistar)
+PE,23,519985XXXXX,mobile,Bell South
+PE,8,517681XXXX,wirelessgeographic,Gilat To Home Perú SA
+PE,7,517281XXXX,wirelessgeographic,Gilat To Home Perú SA
+PE,4,515381XXXX,wirelessgeographic,Gilat To Home Perú SA
+PE,24,519986XXXXX,mobile,Telefónica Moviles S.A (Movistar)
+PE,24,519987XXXXX,mobile,Telefónica Moviles S.A (Movistar)
+PE,24,519988XXXXX,mobile,Telefónica Moviles S.A (Movistar)
+PE,24,519989XXXXX,mobile,Telefónica Moviles S.A (Movistar)
+PE,7,5173XXXXXX,geographic,
+PE,8,51800XXXXX,freephone,
+PE,13,51953XXXXXX,mobile,
+PE,9,5182XXXXXX,geographic,
+PE,24,519990XXXXX,mobile,Telefónica Moviles S.A (Movistar)
+PE,2,51418XXXXX,wirelessgeographic,
+PE,24,519991XXXXX,mobile,Bell South
+PE,24,519992XXXXX,mobile,Bell South
+PE,3,51448XXXXX,wirelessgeographic,
+PE,24,519993XXXXX,mobile,Bell South
+PE,24,519994XXXXX,mobile,Bell South
+PE,24,519995XXXXX,mobile,Bell South
+PE,9,51828XXXXX,wirelessgeographic,
+PE,25,519996XXXXX,mobile,Telefónica Moviles S.A (Movistar)
+PE,25,519997XXXXX,mobile,Telefónica Moviles S.A (Movistar)
+PE,25,519998XXXXX,mobile,Telefónica Moviles S.A (Movistar)
+PE,8,51801XXXXX,sharedcost,
+PE,25,519999XXXXX,mobile,Telefónica Moviles S.A (Movistar)
+PE,3,514481XXXX,wirelessgeographic,Gilat To Home Perú SA
+PE,5,5161XXXXXX,geographic,
+PE,9,518281XXXX,wirelessgeographic,Gilat To Home Perú SA
+PE,2,514181XXXX,wirelessgeographic,Gilat To Home Perú SA
+PE,6,5165XXXXXX,geographic,
+PE,4,5154XXXXXX,geographic,
+PE,9,5183XXXXXX,geographic,
+PE,2,5142XXXXXX,geographic,
+PE,17,51966XXXXXX,mobile,
+PE,8,51802XXXXX,universalaccess,
+PE,9,51838XXXXX,wirelessgeographic,
+PE,6,51658XXXXX,wirelessgeographic,
+PE,2,51428XXXXX,wirelessgeographic,
+PE,5,51618XXXXX,wirelessgeographic,
+PE,3,5151XXXXXX,geographic,
+PE,7,51738XXXXX,wirelessgeographic,
+PE,4,51548XXXXX,wirelessgeographic,
+PE,2,514281XXXX,wirelessgeographic,Gilat To Home Perú SA
+PE,8,51804XXXXX,universalaccess,
+PE,7,517381XXXX,wirelessgeographic,Gilat To Home Perú SA
+PE,9,518381XXXX,wirelessgeographic,Gilat To Home Perú SA
+PE,5,516182XXXX,wirelessgeographic,Gilat To Home Perú SA
+PE,4,515481XXXX,wirelessgeographic,Gilat To Home Perú SA
+PE,6,516581XXXX,wirelessgeographic,Gilat To Home Perú SA
+PE,3,51518XXXXX,wirelessgeographic,
+PE,7,5174XXXXXX,geographic,
+PE,8,51805XXXXX,premiumrate,
+PE,6,5166XXXXXX,geographic,
+PE,3,515181XXXX,wirelessgeographic,Gilat To Home Perú SA
+PE,7,51748XXXXX,wirelessgeographic,
+PE,9,5184XXXXXX,geographic,
+PE,8,51806XXXXX,virtualprivatenetwork,
+PE,4,5156XXXXXX,geographic,
+PE,5,5162XXXXXX,geographic,
+PE,3,5152XXXXXX,geographic,
+PE,9,51848XXXXX,wirelessgeographic,
+PE,6,51668XXXXX,wirelessgeographic,
+PE,9,518481XXXX,wirelessgeographic,Gilat To Home Perú SA
+PE,6,516682XXXX,wirelessgeographic,Gilat To Home Perú SA
+PE,4,51568XXXXX,wirelessgeographic,
+PE,5,51628XXXXX,wirelessgeographic,
+PE,5,516282XXXX,wirelessgeographic,Gilat To Home Perú SA
+PE,6,5167XXXXXX,geographic,
+PE,5,5163XXXXXX,geographic,
+PE,5,51638XXXXX,wirelessgeographic,
+PE,5,516382XXXX,wirelessgeographic,Gilat To Home Perú SA
+PE,20,51982XXXXXX,mobile,

@@ -1,56 +1,56 @@
 ﻿Country,Page,Range,Type,Provider
-XS,2,+252235XXXX,geographic,Somtel International Ltd
-XS,2,+2522356XXX,geographic,Somtel International Ltd
-XS,3,+252271XXXX,geographic,Telesom Company
-XS,3,+252272XXXX,geographic,Telesom Company
-XS,3,+252273XXXX,geographic,Telesom Company
-XS,3,+252274XXXX,geographic,Somali Telecommunications Company (STC)
-XS,2,+2522385XXX,geographic,Somtel International Ltd
-XS,1,+252213XXXX,mobile,Somali Telecommunications Company (STC)
-XS,1,+252214XXXX,mobile,Somali Telecommunications Company (STC)
-XS,1,+252215XXXX,mobile,Somali Telecommunications Company (STC)
-XS,1,+252219XXXX,mobile,Somali Telecommunications Company (STC)
-XS,1,+2522220XXX,mobile,Somali Telecommunications Company (STC)
-XS,1,+2522XXXXXX,geographic,
-XS,1,+252223XXXX,mobile,Somali Telecommunications Company (STC)
-XS,2,+2522374XXX,mobile,Somtel International Ltd
-XS,3,+252275XXXX,geographic,Telesom Company
-XS,2,+2522376XXX,mobile,Somtel International Ltd
-XS,2,+2522376XXX,mobile,Somtel International Ltd
-XS,2,+252237XXXX,mobile,Somtel International Ltd
-XS,2,+25224XXXXX,mobile,Telesom Company
-XS,2,+25225XXXXX,mobile,Telesom Company
-XS,2,+252261XXXX,mobile,Telesom Company
-XS,3,+252262XXXX,mobile,Telesom Company
-XS,3,+252263XXXX,mobile,Telesom Company
-XS,3,+252264XXXX,mobile,Telesom Company
-XS,3,+25262XXXXX,mobile,Somtel International Ltd
-XS,3,+252276XXXX,geographic,Telesom Company
-XS,4,+252651XXXX,mobile,Somtel International Ltd
-XS,4,+252652XXXX,mobile,Somtel International Ltd
-XS,4,+252653XXXX,mobile,Somtel International Ltd
-XS,4,+252654XXXX,mobile,Somtel International Ltd
-XS,4,+2526555XXX,mobile,Somtel International Ltd
-XS,4,+2526557XXX,mobile,Somtel International Ltd
-XS,4,+252655XXXX,mobile,Somtel International Ltd
-XS,4,+2526565XXX,mobile,Somtel International Ltd
-XS,4,+252656XXXX,mobile,Somtel International Ltd
-XS,4,+25265XXXXX,mobile,Somtel International Ltd
-XS,5,+2526567XXX,mobile,Somtel International Ltd
-XS,5,+25266XXXXX,mobile,Somtel International Ltd
-XS,5,+25268XXXXXXX,mobile,NationLink Telecom
-XS,6,+25279XXXXX,mobile,Somtel International Ltd
-XS,6,+2528252XXX,mobile,Golis Telecom Somalia
-XS,6,+252825XXXX,mobile,Somali Telecommunications Company (STC)
-XS,6,+252828XXXX,mobile,Somali Telecommunications Company (STC)
-XS,6,+252829XXXX,mobile,Somali Telecommunications Company (STC)
-XS,5,+2527219XXX,geographic,Somtel International Ltd
-XS,5,+252731XXXX,geographic,Somtel International Ltd
-XS,5,+252732XXXX,geographic,Somtel International Ltd
-XS,5,+252733XXXX,geographic,Somtel International Ltd
-XS,1,+252225XXX,geographic,Somali Telecommunications Company (STC)
-XS,5,+252741XXXX,geographic,Somtel International Ltd
-XS,5,+252742XXXX,geographic,Somtel International Ltd
-XS,1,+252227XXXX,geographic,NationLink Telecom
-XS,5,+252751XXXX,geographic,Somtel International Ltd
-XS,1,+25223XXXXX,geographic,Somtel International Ltd
+XS,2,252235XXXX,geographic,Somtel International Ltd
+XS,2,2522356XXX,geographic,Somtel International Ltd
+XS,3,252271XXXX,geographic,Telesom Company
+XS,3,252272XXXX,geographic,Telesom Company
+XS,3,252273XXXX,geographic,Telesom Company
+XS,3,252274XXXX,geographic,Somali Telecommunications Company (STC)
+XS,2,2522385XXX,geographic,Somtel International Ltd
+XS,1,252213XXXX,mobile,Somali Telecommunications Company (STC)
+XS,1,252214XXXX,mobile,Somali Telecommunications Company (STC)
+XS,1,252215XXXX,mobile,Somali Telecommunications Company (STC)
+XS,1,252219XXXX,mobile,Somali Telecommunications Company (STC)
+XS,1,2522220XXX,mobile,Somali Telecommunications Company (STC)
+XS,1,2522XXXXXX,geographic,
+XS,1,252223XXXX,mobile,Somali Telecommunications Company (STC)
+XS,2,2522374XXX,mobile,Somtel International Ltd
+XS,3,252275XXXX,geographic,Telesom Company
+XS,2,2522376XXX,mobile,Somtel International Ltd
+XS,2,2522376XXX,mobile,Somtel International Ltd
+XS,2,252237XXXX,mobile,Somtel International Ltd
+XS,2,25224XXXXX,mobile,Telesom Company
+XS,2,25225XXXXX,mobile,Telesom Company
+XS,2,252261XXXX,mobile,Telesom Company
+XS,3,252262XXXX,mobile,Telesom Company
+XS,3,252263XXXX,mobile,Telesom Company
+XS,3,252264XXXX,mobile,Telesom Company
+XS,3,25262XXXXX,mobile,Somtel International Ltd
+XS,3,252276XXXX,geographic,Telesom Company
+XS,4,252651XXXX,mobile,Somtel International Ltd
+XS,4,252652XXXX,mobile,Somtel International Ltd
+XS,4,252653XXXX,mobile,Somtel International Ltd
+XS,4,252654XXXX,mobile,Somtel International Ltd
+XS,4,2526555XXX,mobile,Somtel International Ltd
+XS,4,2526557XXX,mobile,Somtel International Ltd
+XS,4,252655XXXX,mobile,Somtel International Ltd
+XS,4,2526565XXX,mobile,Somtel International Ltd
+XS,4,252656XXXX,mobile,Somtel International Ltd
+XS,4,25265XXXXX,mobile,Somtel International Ltd
+XS,5,2526567XXX,mobile,Somtel International Ltd
+XS,5,25266XXXXX,mobile,Somtel International Ltd
+XS,5,25268XXXXXXX,mobile,NationLink Telecom
+XS,6,25279XXXXX,mobile,Somtel International Ltd
+XS,6,2528252XXX,mobile,Golis Telecom Somalia
+XS,6,252825XXXX,mobile,Somali Telecommunications Company (STC)
+XS,6,252828XXXX,mobile,Somali Telecommunications Company (STC)
+XS,6,252829XXXX,mobile,Somali Telecommunications Company (STC)
+XS,5,2527219XXX,geographic,Somtel International Ltd
+XS,5,252731XXXX,geographic,Somtel International Ltd
+XS,5,252732XXXX,geographic,Somtel International Ltd
+XS,5,252733XXXX,geographic,Somtel International Ltd
+XS,1,252225XXX,geographic,Somali Telecommunications Company (STC)
+XS,5,252741XXXX,geographic,Somtel International Ltd
+XS,5,252742XXXX,geographic,Somtel International Ltd
+XS,1,252227XXXX,geographic,NationLink Telecom
+XS,5,252751XXXX,geographic,Somtel International Ltd
+XS,1,25223XXXXX,geographic,Somtel International Ltd

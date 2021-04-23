@@ -1,179 +1,179 @@
 ﻿Country,Page,Range,Type,Provider
-MQ,7,+59669600XXXX,mobile,Outremer Telecom
-MQ,7,+59669601XXXX,mobile,Outremer Telecom
-MQ,7,+59669602XXXX,mobile,Outremer Telecom
-MQ,7,+59669603XXXX,mobile,Outremer Telecom
-MQ,8,+59669604XXXX,mobile,Outremer Telecom
-MQ,8,+59669605XXXX,mobile,Outremer Telecom
-MQ,8,+59669606XXXX,mobile,Outremer Telecom
-MQ,8,+59669607XXXX,mobile,Outremer Telecom
-MQ,8,+59669608XXXX,mobile,Outremer Telecom
-MQ,8,+59669609XXXX,mobile,Outremer Telecom
-MQ,8,+59669610XXXX,mobile,Digicel Antilles Françaises Guyane
-MQ,17,+5967007XXXXX,internetserviceprovider,
-MQ,8,+59669611XXXX,mobile,Digicel Antilles Françaises Guyane
-MQ,8,+59669612XXXX,mobile,MARTINIQUE TELEPHONE MOBILE
-MQ,8,+59669613XXXX,mobile,MARTINIQUE TELEPHONE MOBILE
-MQ,9,+59669614XXXX,mobile,MARTINIQUE TELEPHONE MOBILE
-MQ,17,+5969766XXXXX,VoIPtelephony,
-MQ,7,+59659694XXXX,geographic,Keyyo
-MQ,9,+59669615XXXX,mobile,MARTINIQUE TELEPHONE MOBILE
+MQ,7,59669600XXXX,mobile,Outremer Telecom
+MQ,7,59669601XXXX,mobile,Outremer Telecom
+MQ,7,59669602XXXX,mobile,Outremer Telecom
+MQ,7,59669603XXXX,mobile,Outremer Telecom
+MQ,8,59669604XXXX,mobile,Outremer Telecom
+MQ,8,59669605XXXX,mobile,Outremer Telecom
+MQ,8,59669606XXXX,mobile,Outremer Telecom
+MQ,8,59669607XXXX,mobile,Outremer Telecom
+MQ,8,59669608XXXX,mobile,Outremer Telecom
+MQ,8,59669609XXXX,mobile,Outremer Telecom
+MQ,8,59669610XXXX,mobile,Digicel Antilles Françaises Guyane
+MQ,17,5967007XXXXX,internetserviceprovider,
+MQ,8,59669611XXXX,mobile,Digicel Antilles Françaises Guyane
+MQ,8,59669612XXXX,mobile,MARTINIQUE TELEPHONE MOBILE
+MQ,8,59669613XXXX,mobile,MARTINIQUE TELEPHONE MOBILE
+MQ,9,59669614XXXX,mobile,MARTINIQUE TELEPHONE MOBILE
+MQ,17,5969766XXXXX,VoIPtelephony,
+MQ,7,59659694XXXX,geographic,Keyyo
+MQ,9,59669615XXXX,mobile,MARTINIQUE TELEPHONE MOBILE
 MQ,1,596,proper,
-MQ,9,+59669616XXXX,mobile,Digicel Antilles Françaises Guyane
-MQ,9,+59669617XXXX,mobile,Digicel Antilles Françaises Guyane
-MQ,9,+59669618XXXX,mobile,Digicel Antilles Françaises Guyane
-MQ,17,+59697661XXXX,VoIPtelephony,Orange
-MQ,9,+59669619XXXX,mobile,Digicel Antilles Françaises Guyane
-MQ,1,+596596XXXXXX,geographic,
-MQ,9,+59669620XXXX,mobile,Orange Caraïbe
-MQ,7,+59659695XXXX,geographic,Outremer Telecom
-MQ,9,+59669621XXXX,mobile,Orange Caraïbe
-MQ,9,+59669622XXXX,mobile,Orange Caraïbe
-MQ,9,+59669623XXXX,mobile,Orange Caraïbe
-MQ,10,+59669624XXXX,mobile,Orange Caraïbe
-MQ,10,+59669625XXXX,mobile,Orange Caraïbe
-MQ,10,+59669626XXXX,mobile,Orange Caraïbe
-MQ,17,+59697662XXXX,VoIPtelephony,Orange
-MQ,10,+59669627XXXX,mobile,Orange Caraïbe
-MQ,10,+59669628XXXX,mobile,Orange Caraïbe
-MQ,1,+59659600XXXX,geographic,NC Numericable
-MQ,3,+59659640XXXX,geographic,Orange
-MQ,10,+59669629XXXX,mobile,Orange Caraïbe
-MQ,7,+59659696XXXX,geographic,Outremer Telecom
-MQ,5,+59659662XXXX,geographic,Orange
-MQ,10,+59669630XXXX,mobile,Orange Caraïbe
-MQ,10,+59669631XXXX,mobile,Orange Caraïbe
-MQ,3,+59659641XXXX,geographic,Alnilam
-MQ,10,+59669632XXXX,mobile,Orange Caraïbe
-MQ,10,+59669633XXXX,mobile,Orange Caraïbe
-MQ,11,+59669634XXXX,mobile,Orange Caraïbe
-MQ,11,+59669635XXXX,mobile,Orange Caraïbe
-MQ,2,+59659610XXXX,geographic,BJT Partners
-MQ,11,+59669636XXXX,mobile,Orange Caraïbe
-MQ,11,+59669637XXXX,mobile,Orange Caraïbe
-MQ,11,+59669638XXXX,mobile,Orange Caraïbe
-MQ,5,+59659663XXXX,geographic,Orange
-MQ,11,+59669639XXXX,mobile,Orange Caraïbe
-MQ,17,+59697663XXXX,VoIPtelephony,Orange
-MQ,11,+59669640XXXX,mobile,Orange Caraïbe
-MQ,1,+59659601XXXX,geographic,Digicel Antilles Françaises Guyane
-MQ,3,+59659642XXXX,geographic,Orange
-MQ,6,+59659672XXXX,geographic,Orange
-MQ,11,+59669641XXXX,mobile,Orange Caraïbe
-MQ,11,+59669642XXXX,mobile,Orange Caraïbe
-MQ,11,+59669643XXXX,mobile,Orange Caraïbe
-MQ,12,+59669644XXXX,mobile,Orange Caraïbe
-MQ,3,+59659643XXXX,geographic,Diabolocom SAS
-MQ,6,+59659673XXXX,geographic,Orange
-MQ,5,+59659664XXXX,geographic,Orange
-MQ,2,+59659627XXXX,geographic,Canal+ Telecom
-MQ,12,+59669645XXXX,mobile,Orange Caraïbe
-MQ,12,+59669646XXXX,mobile,Orange Caraïbe
-MQ,12,+59669647XXXX,mobile,Orange Caraïbe
-MQ,7,+59659697XXXX,geographic,Outremer Telecom
-MQ,12,+59669648XXXX,mobile,Orange Caraïbe
-MQ,5,+59659665XXXX,geographic,Orange
-MQ,16,+596697XXXXXX,mobile,
-MQ,4,+59659652XXXX,geographic,Orange
-MQ,12,+59669649XXXX,mobile,Orange Caraïbe
-MQ,1,+59659602XXXX,geographic,IP Directions
-MQ,3,+59659644XXXX,geographic,Dauphin telecom
-MQ,17,+59697664XXXX,VoIPtelephony,Orange
-MQ,12,+59669650XXXX,mobile,Digicel Antilles Françaises Guyane
-MQ,6,+59659674XXXX,geographic,Orange
-MQ,12,+59669651XXXX,mobile,Digicel Antilles Françaises Guyane
-MQ,12,+59669652XXXX,mobile,Digicel Antilles Françaises Guyane
-MQ,12,+59669653XXXX,mobile,Digicel Antilles Françaises Guyane
-MQ,13,+59669654XXXX,mobile,Digicel Antilles Françaises Guyane
-MQ,13,+59669655XXXX,mobile,Orange Caraïbe
-MQ,7,+59659698XXXX,geographic,Outremer Telecom
-MQ,13,+59669656XXXX,mobile,Orange Caraïbe
-MQ,13,+59669660XXXX,mobile,Outremer Telecom
-MQ,2,+59659628XXXX,geographic,Canal+ Telecom
-MQ,13,+59669661XXXX,mobile,Outremer Telecom
-MQ,3,+59659646XXXX,geographic,Orange
-MQ,1,+59659603XXXX,geographic,NC Numericable
-MQ,17,+59697665XXXX,VoIPtelephony,Orange
-MQ,18,+59697669XXXX,VoIPtelephony,Orange
-MQ,5,+59659666XXXX,geographic,Orange
-MQ,13,+59669662XXXX,mobile,Outremer Telecom
-MQ,6,+59659675XXXX,geographic,Orange
-MQ,13,+59669663XXXX,mobile,Outremer Telecom
-MQ,13,+59669664XXXX,mobile,Outremer Telecom
-MQ,13,+59669670XXXX,mobile,Digicel Antilles Françaises Guyane
-MQ,4,+59659653XXXX,geographic,Orange
-MQ,3,+59659647XXXX,geographic,Orange
-MQ,6,+59659676XXXX,geographic,Orange
-MQ,13,+59669671XXXX,mobile,Digicel Antilles Françaises Guyane
-MQ,17,+59697666XXXX,VoIPtelephony,Orange
-MQ,4,+59659654XXXX,geographic,Orange
-MQ,14,+59669672XXXX,mobile,Digicel Antilles Françaises Guyane
-MQ,14,+59669673XXXX,mobile,Digicel Antilles Françaises Guyane
-MQ,17,+59697667XXXX,VoIPtelephony,Orange
-MQ,14,+59669674XXXX,mobile,Digicel Antilles Françaises Guyane
-MQ,18,+5969767XXXXX,VoIPtelephony,
-MQ,5,+59659667XXXX,geographic,Orange
-MQ,14,+59669675XXXX,mobile,Digicel Antilles Françaises Guyane
-MQ,6,+59659677XXXX,geographic,Orange
-MQ,14,+59669676XXXX,mobile,Digicel Antilles Françaises Guyane
-MQ,7,+596696XXXXXX,mobile,
-MQ,2,+59659629XXXX,geographic,Veldissimo telecom
-MQ,14,+59669677XXXX,mobile,Digicel Antilles Françaises Guyane
-MQ,17,+59697668XXXX,VoIPtelephony,Orange
-MQ,14,+59669678XXXX,mobile,Digicel Antilles Françaises Guyane
-MQ,14,+59669679XXXX,mobile,Digicel Antilles Françaises Guyane
-MQ,18,+59697670XXXX,VoIPtelephony,Freedom network
-MQ,14,+59669680XXXX,mobile,Orange Caraïbe
-MQ,14,+59669681XXXX,mobile,Orange Caraïbe
-MQ,3,+59659648XXXX,geographic,Orange
-MQ,1,+59659604XXXX,geographic,NC Numericable
-MQ,15,+59669682XXXX,mobile,Orange Caraïbe
-MQ,4,+59659655XXXX,geographic,Orange
-MQ,15,+59669683XXXX,mobile,Orange Caraïbe
-MQ,2,+59659630XXXX,geographic,Orange
-MQ,15,+59669684XXXX,mobile,Orange Caraïbe
-MQ,15,+59669685XXXX,mobile,Orange Caraïbe
-MQ,6,+59659678XXXX,geographic,Orange
-MQ,15,+59669686XXXX,mobile,Orange Caraïbe
-MQ,4,+59659656XXXX,geographic,Orange
-MQ,15,+59669687XXXX,mobile,Outremer Telecom
-MQ,5,+59659668XXXX,geographic,Orange
-MQ,15,+59669688XXXX,mobile,Outremer Telecom
-MQ,15,+59669689XXXX,mobile,Outremer Telecom
-MQ,15,+59669690XXXX,mobile,Digicel Antilles Françaises Guyane
-MQ,1,+59659605XXXX,geographic,Prosodie
-MQ,15,+59669691XXXX,mobile,Digicel Antilles Françaises Guyane
-MQ,2,+59659635XXXX,geographic,Canal+ Telecom
-MQ,16,+59669692XXXX,mobile,Digicel Antilles Françaises Guyane
-MQ,16,+59669693XXXX,mobile,Digicel Antilles Françaises Guyane
-MQ,4,+59659657XXXX,geographic,Orange
-MQ,16,+59669694XXXX,mobile,Digicel Antilles Françaises Guyane
-MQ,16,+59669695XXXX,mobile,Digicel Antilles Françaises Guyane
-MQ,16,+59669696XXXX,mobile,Digicel Antilles Françaises Guyane
-MQ,16,+59669697XXXX,mobile,Digicel Antilles Françaises Guyane
-MQ,6,+59659679XXXX,geographic,Orange
-MQ,16,+59669698XXXX,mobile,Digicel Antilles Françaises Guyane
-MQ,16,+59669699XXXX,mobile,Orange Caraïbe
-MQ,18,+59697671XXXX,VoIPtelephony,NC Numericable
-MQ,16,+59669727XXXX,mobile,Digicel Antilles Françaises Guyane
-MQ,5,+59659669XXXX,geographic,Orange
-MQ,2,+59659636XXXX,geographic,Outremer Telecom
-MQ,1,+59659606XXXX,geographic,Legos
-MQ,3,+59659650XXXX,geographic,Orange
-MQ,4,+59659658XXXX,geographic,Orange
-MQ,6,+59659680XXXX,geographic,Idom technologies
-MQ,18,+59697672XXXX,VoIPtelephony,International télécommunication network France
-MQ,5,+59659670XXXX,geographic,Orange
-MQ,3,+59659651XXXX,geographic,Orange
-MQ,18,+59697673XXXX,VoIPtelephony,Orange
-MQ,2,+59659637XXXX,geographic,Canal+ Telecom
-MQ,6,+59659689XXXX,geographic,Outremer Telecom
-MQ,5,+59659671XXXX,geographic,Orange
-MQ,18,+59697676XXXX,VoIPtelephony,Wengo
-MQ,1,+59659607XXXX,geographic,Equant France
-MQ,2,+59659638XXXX,geographic,Orange
-MQ,18,+59697677XXXX,VoIPtelephony,Prosodie
-MQ,2,+59659639XXXX,geographic,Orange
-MQ,4,+59659659XXXX,geographic,Orange
-MQ,4,+59659660XXXX,geographic,Orange
-MQ,4,+59659661XXXX,geographic,Orange
+MQ,9,59669616XXXX,mobile,Digicel Antilles Françaises Guyane
+MQ,9,59669617XXXX,mobile,Digicel Antilles Françaises Guyane
+MQ,9,59669618XXXX,mobile,Digicel Antilles Françaises Guyane
+MQ,17,59697661XXXX,VoIPtelephony,Orange
+MQ,9,59669619XXXX,mobile,Digicel Antilles Françaises Guyane
+MQ,1,596596XXXXXX,geographic,
+MQ,9,59669620XXXX,mobile,Orange Caraïbe
+MQ,7,59659695XXXX,geographic,Outremer Telecom
+MQ,9,59669621XXXX,mobile,Orange Caraïbe
+MQ,9,59669622XXXX,mobile,Orange Caraïbe
+MQ,9,59669623XXXX,mobile,Orange Caraïbe
+MQ,10,59669624XXXX,mobile,Orange Caraïbe
+MQ,10,59669625XXXX,mobile,Orange Caraïbe
+MQ,10,59669626XXXX,mobile,Orange Caraïbe
+MQ,17,59697662XXXX,VoIPtelephony,Orange
+MQ,10,59669627XXXX,mobile,Orange Caraïbe
+MQ,10,59669628XXXX,mobile,Orange Caraïbe
+MQ,1,59659600XXXX,geographic,NC Numericable
+MQ,3,59659640XXXX,geographic,Orange
+MQ,10,59669629XXXX,mobile,Orange Caraïbe
+MQ,7,59659696XXXX,geographic,Outremer Telecom
+MQ,5,59659662XXXX,geographic,Orange
+MQ,10,59669630XXXX,mobile,Orange Caraïbe
+MQ,10,59669631XXXX,mobile,Orange Caraïbe
+MQ,3,59659641XXXX,geographic,Alnilam
+MQ,10,59669632XXXX,mobile,Orange Caraïbe
+MQ,10,59669633XXXX,mobile,Orange Caraïbe
+MQ,11,59669634XXXX,mobile,Orange Caraïbe
+MQ,11,59669635XXXX,mobile,Orange Caraïbe
+MQ,2,59659610XXXX,geographic,BJT Partners
+MQ,11,59669636XXXX,mobile,Orange Caraïbe
+MQ,11,59669637XXXX,mobile,Orange Caraïbe
+MQ,11,59669638XXXX,mobile,Orange Caraïbe
+MQ,5,59659663XXXX,geographic,Orange
+MQ,11,59669639XXXX,mobile,Orange Caraïbe
+MQ,17,59697663XXXX,VoIPtelephony,Orange
+MQ,11,59669640XXXX,mobile,Orange Caraïbe
+MQ,1,59659601XXXX,geographic,Digicel Antilles Françaises Guyane
+MQ,3,59659642XXXX,geographic,Orange
+MQ,6,59659672XXXX,geographic,Orange
+MQ,11,59669641XXXX,mobile,Orange Caraïbe
+MQ,11,59669642XXXX,mobile,Orange Caraïbe
+MQ,11,59669643XXXX,mobile,Orange Caraïbe
+MQ,12,59669644XXXX,mobile,Orange Caraïbe
+MQ,3,59659643XXXX,geographic,Diabolocom SAS
+MQ,6,59659673XXXX,geographic,Orange
+MQ,5,59659664XXXX,geographic,Orange
+MQ,2,59659627XXXX,geographic,Canal Telecom
+MQ,12,59669645XXXX,mobile,Orange Caraïbe
+MQ,12,59669646XXXX,mobile,Orange Caraïbe
+MQ,12,59669647XXXX,mobile,Orange Caraïbe
+MQ,7,59659697XXXX,geographic,Outremer Telecom
+MQ,12,59669648XXXX,mobile,Orange Caraïbe
+MQ,5,59659665XXXX,geographic,Orange
+MQ,16,596697XXXXXX,mobile,
+MQ,4,59659652XXXX,geographic,Orange
+MQ,12,59669649XXXX,mobile,Orange Caraïbe
+MQ,1,59659602XXXX,geographic,IP Directions
+MQ,3,59659644XXXX,geographic,Dauphin telecom
+MQ,17,59697664XXXX,VoIPtelephony,Orange
+MQ,12,59669650XXXX,mobile,Digicel Antilles Françaises Guyane
+MQ,6,59659674XXXX,geographic,Orange
+MQ,12,59669651XXXX,mobile,Digicel Antilles Françaises Guyane
+MQ,12,59669652XXXX,mobile,Digicel Antilles Françaises Guyane
+MQ,12,59669653XXXX,mobile,Digicel Antilles Françaises Guyane
+MQ,13,59669654XXXX,mobile,Digicel Antilles Françaises Guyane
+MQ,13,59669655XXXX,mobile,Orange Caraïbe
+MQ,7,59659698XXXX,geographic,Outremer Telecom
+MQ,13,59669656XXXX,mobile,Orange Caraïbe
+MQ,13,59669660XXXX,mobile,Outremer Telecom
+MQ,2,59659628XXXX,geographic,Canal Telecom
+MQ,13,59669661XXXX,mobile,Outremer Telecom
+MQ,3,59659646XXXX,geographic,Orange
+MQ,1,59659603XXXX,geographic,NC Numericable
+MQ,17,59697665XXXX,VoIPtelephony,Orange
+MQ,18,59697669XXXX,VoIPtelephony,Orange
+MQ,5,59659666XXXX,geographic,Orange
+MQ,13,59669662XXXX,mobile,Outremer Telecom
+MQ,6,59659675XXXX,geographic,Orange
+MQ,13,59669663XXXX,mobile,Outremer Telecom
+MQ,13,59669664XXXX,mobile,Outremer Telecom
+MQ,13,59669670XXXX,mobile,Digicel Antilles Françaises Guyane
+MQ,4,59659653XXXX,geographic,Orange
+MQ,3,59659647XXXX,geographic,Orange
+MQ,6,59659676XXXX,geographic,Orange
+MQ,13,59669671XXXX,mobile,Digicel Antilles Françaises Guyane
+MQ,17,59697666XXXX,VoIPtelephony,Orange
+MQ,4,59659654XXXX,geographic,Orange
+MQ,14,59669672XXXX,mobile,Digicel Antilles Françaises Guyane
+MQ,14,59669673XXXX,mobile,Digicel Antilles Françaises Guyane
+MQ,17,59697667XXXX,VoIPtelephony,Orange
+MQ,14,59669674XXXX,mobile,Digicel Antilles Françaises Guyane
+MQ,18,5969767XXXXX,VoIPtelephony,
+MQ,5,59659667XXXX,geographic,Orange
+MQ,14,59669675XXXX,mobile,Digicel Antilles Françaises Guyane
+MQ,6,59659677XXXX,geographic,Orange
+MQ,14,59669676XXXX,mobile,Digicel Antilles Françaises Guyane
+MQ,7,596696XXXXXX,mobile,
+MQ,2,59659629XXXX,geographic,Veldissimo telecom
+MQ,14,59669677XXXX,mobile,Digicel Antilles Françaises Guyane
+MQ,17,59697668XXXX,VoIPtelephony,Orange
+MQ,14,59669678XXXX,mobile,Digicel Antilles Françaises Guyane
+MQ,14,59669679XXXX,mobile,Digicel Antilles Françaises Guyane
+MQ,18,59697670XXXX,VoIPtelephony,Freedom network
+MQ,14,59669680XXXX,mobile,Orange Caraïbe
+MQ,14,59669681XXXX,mobile,Orange Caraïbe
+MQ,3,59659648XXXX,geographic,Orange
+MQ,1,59659604XXXX,geographic,NC Numericable
+MQ,15,59669682XXXX,mobile,Orange Caraïbe
+MQ,4,59659655XXXX,geographic,Orange
+MQ,15,59669683XXXX,mobile,Orange Caraïbe
+MQ,2,59659630XXXX,geographic,Orange
+MQ,15,59669684XXXX,mobile,Orange Caraïbe
+MQ,15,59669685XXXX,mobile,Orange Caraïbe
+MQ,6,59659678XXXX,geographic,Orange
+MQ,15,59669686XXXX,mobile,Orange Caraïbe
+MQ,4,59659656XXXX,geographic,Orange
+MQ,15,59669687XXXX,mobile,Outremer Telecom
+MQ,5,59659668XXXX,geographic,Orange
+MQ,15,59669688XXXX,mobile,Outremer Telecom
+MQ,15,59669689XXXX,mobile,Outremer Telecom
+MQ,15,59669690XXXX,mobile,Digicel Antilles Françaises Guyane
+MQ,1,59659605XXXX,geographic,Prosodie
+MQ,15,59669691XXXX,mobile,Digicel Antilles Françaises Guyane
+MQ,2,59659635XXXX,geographic,Canal Telecom
+MQ,16,59669692XXXX,mobile,Digicel Antilles Françaises Guyane
+MQ,16,59669693XXXX,mobile,Digicel Antilles Françaises Guyane
+MQ,4,59659657XXXX,geographic,Orange
+MQ,16,59669694XXXX,mobile,Digicel Antilles Françaises Guyane
+MQ,16,59669695XXXX,mobile,Digicel Antilles Françaises Guyane
+MQ,16,59669696XXXX,mobile,Digicel Antilles Françaises Guyane
+MQ,16,59669697XXXX,mobile,Digicel Antilles Françaises Guyane
+MQ,6,59659679XXXX,geographic,Orange
+MQ,16,59669698XXXX,mobile,Digicel Antilles Françaises Guyane
+MQ,16,59669699XXXX,mobile,Orange Caraïbe
+MQ,18,59697671XXXX,VoIPtelephony,NC Numericable
+MQ,16,59669727XXXX,mobile,Digicel Antilles Françaises Guyane
+MQ,5,59659669XXXX,geographic,Orange
+MQ,2,59659636XXXX,geographic,Outremer Telecom
+MQ,1,59659606XXXX,geographic,Legos
+MQ,3,59659650XXXX,geographic,Orange
+MQ,4,59659658XXXX,geographic,Orange
+MQ,6,59659680XXXX,geographic,Idom technologies
+MQ,18,59697672XXXX,VoIPtelephony,International télécommunication network France
+MQ,5,59659670XXXX,geographic,Orange
+MQ,3,59659651XXXX,geographic,Orange
+MQ,18,59697673XXXX,VoIPtelephony,Orange
+MQ,2,59659637XXXX,geographic,Canal Telecom
+MQ,6,59659689XXXX,geographic,Outremer Telecom
+MQ,5,59659671XXXX,geographic,Orange
+MQ,18,59697676XXXX,VoIPtelephony,Wengo
+MQ,1,59659607XXXX,geographic,Equant France
+MQ,2,59659638XXXX,geographic,Orange
+MQ,18,59697677XXXX,VoIPtelephony,Prosodie
+MQ,2,59659639XXXX,geographic,Orange
+MQ,4,59659659XXXX,geographic,Orange
+MQ,4,59659660XXXX,geographic,Orange
+MQ,4,59659661XXXX,geographic,Orange
