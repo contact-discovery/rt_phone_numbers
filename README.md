@@ -45,9 +45,21 @@ The file name of the resulting table is determined by the program and includes a
 Do not change it, the parameters are necessary to perform lookups and are not stored in the file
 itself.
 
-A typical call might look like this:
+Typical calls look like this (SHA1 tables for German mobile phone numbers with 99% success rate):
 ````bash
 ./rtgen sha1 1 1000 1000000 DE_mobile out
+./rtgen sha1 2 1000 1000000 DE_mobile out
+./rtgen sha1 3 1000 1000000 DE_mobile out
+./rtgen sha1 4 1000 1000000 DE_mobile out
+./rtgen sha1 5 1000 1000000 DE_mobile out
+````
+Another example (SHA256 tables for all US numbers with 99% success rate):
+````bash
+./rtgen sha256 1 1000 10000000 US_all out
+./rtgen sha256 2 1000 10000000 US_all out
+./rtgen sha256 3 1000 10000000 US_all out
+./rtgen sha256 4 1000 10000000 US_all out
+./rtgen sha256 5 1000 10000000 US_all out
 ````
 ### rtsort
 This program simply sorts a generated rainbow table. rcrack will reject unordered tables.
