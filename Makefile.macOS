@@ -3,7 +3,7 @@ OBJS = build/Public.o build/ChainWalkContext.o build/ChainWalkSet.o build/CrackE
 all: rtgen rtdump rtsort rcrack hashgen
 
 # Build hacks for DragonFlyBSD (run "pkg install openssl" first)
-LDFLAGS += -L/usr/local/lib -I/usr/local/opt/openssl/include -L/usr/local/opt/openssl/lib -lgmp -lomp
+LDFLAGS += -L/usr/local/lib -I/usr/local/opt/openssl@1.1/include -L/usr/local/opt/openssl@1.1/lib -lgmp -lomp
 CXXFLAGS += -std=c++11 -Xpreprocessor -fopenmp
 
 build/ChainWalkContext.o: src/ChainWalkContext.cpp

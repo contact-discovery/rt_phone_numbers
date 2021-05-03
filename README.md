@@ -12,7 +12,7 @@ Simply run "make"
 The binaries will be in the ./bin/ folder afterwards
 
 ### macOS
-Install OpenMP via `brew install libomp`.
+Install OpenMP and OpenSSL via `brew install libomp openssl@1.1`.
 Run `make -f Makefile.macOS`.
 The binaries will be in the ./bin/ folder afterwards
 
