@@ -9,16 +9,22 @@
 #include "Public.h"
 
 #include <openssl/des.h>
+#include <openssl/ripemd.h>
+#ifdef _WIN32
+	#pragma comment(lib, "libcrypto.lib")
+#endif
+
+#include <openssl/sha.h>
+
+#ifdef __APPLE__
+#include <CommonCrypto/CommonDigest.h>
+#else
 #define no_md2_h
 #ifndef no_md2_h
 #include <openssl/md2.h>
 #endif
 #include <openssl/md4.h>
 #include <openssl/md5.h>
-#include <openssl/sha.h>
-#include <openssl/ripemd.h>
-#ifdef _WIN32
-	#pragma comment(lib, "libcrypto.lib")
 #endif
 
 void setup_des_key(unsigned char key_56[], DES_key_schedule &ks)
@@ -66,34 +72,77 @@ void HashNTLM(unsigned char* pPlain, int nPlainLen, unsigned char* pHash)
 		UnicodePlain[i * 2 + 1] = 0x00;
 	}
 
+#ifdef __APPLE__
+	CC_MD4_CTX context;
+	CC_MD4_Init(&context);
+	CC_MD4_Update(&context, UnicodePlain, (CC_LONG) nPlainLen * 2);
+	CC_MD4_Final(pHash, &context);
+#else
 	MD4(UnicodePlain, nPlainLen * 2, pHash);
+#endif
+
 }
 
 #ifndef no_md2_h
 void HashMD2(unsigned char* pPlain, int nPlainLen, unsigned char* pHash)
 {
+#ifdef __APPLE__
+	CC_MD2_CTX context;
+	CC_MD2_Init(&context);
+	CC_MD2_Update(&context, pPlain, (CC_LONG) nPlainLen);
+	CC_MD2_Final(pHash, &context);
+#else
 	MD2(pPlain, nPlainLen, pHash);
+#endif
 }
 #endif
 
 void HashMD4(unsigned char* pPlain, int nPlainLen, unsigned char* pHash)
 {
+#ifdef __APPLE__
+	CC_MD4_CTX context;
+	CC_MD4_Init(&context);
+	CC_MD4_Update(&context, pPlain, (CC_LONG) nPlainLen);
+	CC_MD4_Final(pHash, &context);
+#else
 	MD4(pPlain, nPlainLen, pHash);
+#endif
 }
 
 void HashMD5(unsigned char* pPlain, int nPlainLen, unsigned char* pHash)
 {
+#ifdef __APPLE__
+	CC_MD5_CTX context;
+	CC_MD5_Init(&context);
+	CC_MD5_Update(&context, pPlain, (CC_LONG) nPlainLen);
+	CC_MD5_Final(pHash, &context);
+#else
 	MD5(pPlain, nPlainLen, pHash);
+#endif
 }
 
 void HashSHA1(unsigned char* pPlain, int nPlainLen, unsigned char* pHash)
 {
+#ifdef __APPLE__
+	CC_SHA1_CTX context;
+	CC_SHA1_Init(&context);
+	CC_SHA1_Update(&context, pPlain, (CC_LONG) nPlainLen);
+	CC_SHA1_Final(pHash, &context);
+#else
 	SHA1(pPlain, nPlainLen, pHash);
+#endif
 }
 
 void HashSHA256(unsigned char* pPlain, int nPlainLen, unsigned char* pHash)
 {
+#ifdef __APPLE__
+	CC_SHA256_CTX context;
+	CC_SHA256_Init(&context);
+	CC_SHA256_Update(&context, pPlain, (CC_LONG) nPlainLen);
+	CC_SHA256_Final(pHash, &context);
+#else
 	SHA256(pPlain, nPlainLen, pHash);
+#endif
 }
 
 void HashRIPEMD160(unsigned char* pPlain, int nPlainLen, unsigned char* pHash)
